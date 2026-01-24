@@ -1,0 +1,55 @@
+name: GitHub Trending Daily
+
+on:
+  # 每天 UTC 0:00 运行 = 北京时间 8:00
+  schedule:
+    - cron: '0 0 * * *'
+
+  # 手动触发（用于测试）
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: '获取项目数量'
+        required: false
+        default: '25'
+      language:
+        description: '语言筛选（留空=全部）'
+        required: false
+        default: ''
+
+jobs:
+  send-trending:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 检出代码
+        uses: actions/checkout@v4
+
+      - name: 🐍 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 安装依赖
+        run: |
+          pip install -r requirements.txt
+
+      - name: 🚀 获取趋势并发送邮件
+        env:
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          # 可选：使用 SMTP 替代 Resend
+          # SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          # SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          # SMTP_USER: ${{ secrets.SMTP_USER }}
+          # SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          REPO_LIMIT: ${{ github.event.inputs.limit || '25' }}
+          LANGUAGE_FILTER: ${{ github.event.inputs.language || '' }}
+        run: |
+          cd src
+          python main.py
+
+      - name: 📊 任务状态
+        if: always()
+        run: |
+          echo "任务完成时间: $(date '+%Y-%m-%d %H:%M:%S UTC')"
