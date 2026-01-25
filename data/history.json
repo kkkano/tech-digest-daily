@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T19:01:07.394562",
+  "last_updated": "2026-01-25T19:18:41.820486",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -385,6 +385,11 @@
     "d8324f9e75310cdb": {
       "date": "2026-01-25",
       "title": "World’s most powerful literary critic is on TikTok",
+      "source": "hackernews"
+    },
+    "b335422aee969077": {
+      "date": "2026-01-25",
+      "title": "Publishing on the ATmosphere",
       "source": "hackernews"
     }
   }
