@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T13:42:48.972385",
+  "last_updated": "2026-01-25T13:57:07.163934",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -310,6 +310,11 @@
     "6263547bcf28b051": {
       "date": "2026-01-25",
       "title": "Alarm overload is undermining safety at sea as crews face thousands of alerts",
+      "source": "hackernews"
+    },
+    "77e5a4fe1d53379d": {
+      "date": "2026-01-25",
+      "title": "ANN v3: 200ms p99 query latency over 100B vectors",
       "source": "hackernews"
     }
   }
