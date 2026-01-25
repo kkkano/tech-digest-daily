@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T09:56:02.959019",
+  "last_updated": "2026-01-25T10:13:05.721264",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -225,6 +225,16 @@
     "ca087b7cc91bf555": {
       "date": "2026-01-25",
       "title": "This paper has been cited more than 6k times. It's fatally flawed.",
+      "source": "hackernews"
+    },
+    "9f2d27c62bfdb86f": {
+      "date": "2026-01-25",
+      "title": "Humans in the Loop",
+      "source": "producthunt"
+    },
+    "eb11df0a69adb23f": {
+      "date": "2026-01-25",
+      "title": "German economists push for gold repatriation from U.S. vaults",
       "source": "hackernews"
     }
   }
