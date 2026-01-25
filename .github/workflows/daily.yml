@@ -1,29 +1,35 @@
-name: GitHub Trending Daily
+name: Tech Digest Daily
 
 on:
-  # 每天 UTC 0:00 运行 = 北京时间 8:00
+  # 每天 UTC 23:00 运行 = 北京时间 7:00
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 23 * * *'
 
   # 手动触发（用于测试）
   workflow_dispatch:
     inputs:
-      limit:
-        description: '获取项目数量'
+      enable_ai:
+        description: '启用 AI 总结'
         required: false
-        default: '25'
-      language:
-        description: '语言筛选（留空=全部）'
-        required: false
-        default: ''
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+# 需要写入权限来提交历史记录
+permissions:
+  contents: write
 
 jobs:
-  send-trending:
+  send-digest:
     runs-on: ubuntu-latest
 
     steps:
       - name: 📥 检出代码
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: 🐍 设置 Python
         uses: actions/setup-python@v5
@@ -34,22 +40,59 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: 🚀 获取趋势并发送邮件
+      - name: 🚀 获取资讯并发送邮件
         env:
+          # 必需配置
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+
+          # AI 总结配置
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          # 数据源开关 (true/false)
+          ENABLE_GITHUB: 'true'
+          ENABLE_HACKERNEWS: 'true'
+          ENABLE_PRODUCTHUNT: 'true'
+          ENABLE_DEVTO: 'true'
+
+          # 数量配置
+          GITHUB_LIMIT: '15'
+          HACKERNEWS_LIMIT: '10'
+          PRODUCTHUNT_LIMIT: '8'
+          DEVTO_LIMIT: '10'
+
+          # AI 总结开关
+          ENABLE_AI_SUMMARY: ${{ github.event.inputs.enable_ai || 'true' }}
+
+          # 历史去重开关
+          ENABLE_HISTORY_DEDUP: 'true'
+
           # 可选：使用 SMTP 替代 Resend
           # SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
           # SMTP_PORT: ${{ secrets.SMTP_PORT }}
           # SMTP_USER: ${{ secrets.SMTP_USER }}
           # SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-          REPO_LIMIT: ${{ github.event.inputs.limit || '25' }}
-          LANGUAGE_FILTER: ${{ github.event.inputs.language || '' }}
         run: |
           cd src
           python main.py
+
+      - name: 💾 提交历史记录
+        if: success()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # 检查是否有历史文件需要提交
+          if [ -f "data/history.json" ]; then
+            git add data/history.json
+            git diff --staged --quiet || git commit -m "chore: update dedup history [skip ci]"
+            git push || echo "No changes to push"
+          fi
 
       - name: 📊 任务状态
         if: always()
         run: |
           echo "任务完成时间: $(date '+%Y-%m-%d %H:%M:%S UTC')"
+          echo "北京时间: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
