@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T22:36:50.374743",
+  "last_updated": "2026-01-25T22:51:29.877564",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -446,6 +446,21 @@
       "date": "2026-01-25",
       "title": "Psiphon-Inc / conduit",
       "source": "github"
+    },
+    "8f36a1f6510d2104": {
+      "date": "2026-01-25",
+      "title": "The behavioral cost of personalized pricing",
+      "source": "hackernews"
+    },
+    "d61eedd56ed45e42": {
+      "date": "2026-01-25",
+      "title": "Bitwise conversion of doubles using only FP multiplication and addition (2020)",
+      "source": "hackernews"
+    },
+    "0fe3e1f21a92ca66": {
+      "date": "2026-01-25",
+      "title": "Show HN: An interactive map of US lighthouses and navigational aids",
+      "source": "hackernews"
     }
   }
 }
