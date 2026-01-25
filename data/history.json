@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T11:28:47.669936",
+  "last_updated": "2026-01-25T11:54:15.424066",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -280,6 +280,11 @@
     "db50c522bed471a0": {
       "date": "2026-01-25",
       "title": "Pingora Guide - How To Make A Programmable API Gateway",
+      "source": "devto"
+    },
+    "9c61a9218cc9e8ad": {
+      "date": "2026-01-25",
+      "title": "I Got Tired of PDF Tools Uploading My Files, So I Built One That Runs Entirely in the Browser",
       "source": "devto"
     }
   }
