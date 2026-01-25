@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T13:57:07.163934",
+  "last_updated": "2026-01-25T14:34:54.006991",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -315,6 +315,11 @@
     "77e5a4fe1d53379d": {
       "date": "2026-01-25",
       "title": "ANN v3: 200ms p99 query latency over 100B vectors",
+      "source": "hackernews"
+    },
+    "97505a0496b5816a": {
+      "date": "2026-01-25",
+      "title": "Bridging the Gap Between PLECS and SPICE",
       "source": "hackernews"
     }
   }
