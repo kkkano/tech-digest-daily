@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T15:12:17.775700",
+  "last_updated": "2026-01-25T15:33:43.755752",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -330,6 +330,16 @@
     "0343096007eb908e": {
       "date": "2026-01-25",
       "title": "Doom has been ported to an earbud",
+      "source": "hackernews"
+    },
+    "244a4a34280074f6": {
+      "date": "2026-01-25",
+      "title": "UN Declares That the World Has Entered an Era of 'Global Water Bankruptcy'",
+      "source": "hackernews"
+    },
+    "53b84441af3c46fc": {
+      "date": "2026-01-25",
+      "title": "Web-based image editor modeled after Deluxe Paint",
       "source": "hackernews"
     }
   }
