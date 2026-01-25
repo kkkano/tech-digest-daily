@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T09:49:47.047204",
+  "last_updated": "2026-01-25T09:56:02.959019",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -215,6 +215,16 @@
     "99403d9642dfb445": {
       "date": "2026-01-25",
       "title": "Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators",
+      "source": "hackernews"
+    },
+    "9fa65ffcff699ddc": {
+      "date": "2026-01-25",
+      "title": "Intrinsically stretchable 2D MoS2 transistors",
+      "source": "hackernews"
+    },
+    "ca087b7cc91bf555": {
+      "date": "2026-01-25",
+      "title": "This paper has been cited more than 6k times. It's fatally flawed.",
       "source": "hackernews"
     }
   }
