@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T13:08:55.519311",
+  "last_updated": "2026-01-25T13:42:48.972385",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -306,6 +306,11 @@
       "date": "2026-01-25",
       "title": "【GAS x Gemini】Prompt to Create an In-house Web App with UI/UX Awareness in 15 Minutes",
       "source": "devto"
+    },
+    "6263547bcf28b051": {
+      "date": "2026-01-25",
+      "title": "Alarm overload is undermining safety at sea as crews face thousands of alerts",
+      "source": "hackernews"
     }
   }
 }
