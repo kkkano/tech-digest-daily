@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "last_updated": "2026-01-25T08:09:43.923259",
+  "sent_items": {
+    "61226841096d4f3c": {
+      "date": "2026-01-25",
+      "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
+      "source": "hackernews"
+    },
+    "eb5009b11a7ee981": {
+      "date": "2026-01-25",
+      "title": "Claude Code's new hidden feature: Swarms",
+      "source": "hackernews"
+    },
+    "df403e38edb5949d": {
+      "date": "2026-01-25",
+      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+      "source": "hackernews"
+    },
+    "b3dbd7d8fa3e96a7": {
+      "date": "2026-01-25",
+      "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
+      "source": "hackernews"
+    },
+    "5c6f275d8ceac020": {
+      "date": "2026-01-25",
+      "title": "We X-Rayed a Suspicious FTDI USB Cable",
+      "source": "hackernews"
+    },
+    "c0824657a1000189": {
+      "date": "2026-01-25",
+      "title": "Second Win11 emergency out of band update to address disastrous Patch Tuesday",
+      "source": "hackernews"
+    },
+    "4d694482f94681ff": {
+      "date": "2026-01-25",
+      "title": "Two Weeks Until Tapeout",
+      "source": "hackernews"
+    },
+    "6ca91292247b981f": {
+      "date": "2026-01-25",
+      "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
+      "source": "hackernews"
+    },
+    "d34a546128ad7aef": {
+      "date": "2026-01-25",
+      "title": "A Lament for Aperture",
+      "source": "hackernews"
+    },
+    "002d286527d0cadb": {
+      "date": "2026-01-25",
+      "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
+      "source": "hackernews"
+    },
+    "918d6968ffa79514": {
+      "date": "2026-01-25",
+      "title": "remotion-dev / remotion",
+      "source": "github"
+    },
+    "9fea7d3b8ac2c89f": {
+      "date": "2026-01-25",
+      "title": "VectifyAI / PageIndex",
+      "source": "github"
+    },
+    "ee691152fbdfb453": {
+      "date": "2026-01-25",
+      "title": "OpenBMB / UltraRAG",
+      "source": "github"
+    },
+    "2f48be63fe82be5d": {
+      "date": "2026-01-25",
+      "title": "browser-use / browser-use",
+      "source": "github"
+    },
+    "72fa17aeb2856515": {
+      "date": "2026-01-25",
+      "title": "block / goose",
+      "source": "github"
+    },
+    "a0731e6055d53bca": {
+      "date": "2026-01-25",
+      "title": "Blaizzy / mlx-audio",
+      "source": "github"
+    },
+    "e0d0d399bd6a3f2b": {
+      "date": "2026-01-25",
+      "title": "simstudioai / sim",
+      "source": "github"
+    },
+    "104b57e9a4316877": {
+      "date": "2026-01-25",
+      "title": "microsoft / VibeVoice",
+      "source": "github"
+    },
+    "e14739f4d391ee42": {
+      "date": "2026-01-25",
+      "title": "putyy / res-downloader",
+      "source": "github"
+    },
+    "dc96a1b2d97c9396": {
+      "date": "2026-01-25",
+      "title": "AI4Finance-Foundation / FinRobot",
+      "source": "github"
+    },
+    "eb2062c89e898c6a": {
+      "date": "2026-01-25",
+      "title": "I Rewrote Google's Gemini CLI in Go - 68x Faster Startup",
+      "source": "devto"
+    },
+    "3fa220a97856d084": {
+      "date": "2026-01-25",
+      "title": "Boniface.dev — An AI Operator Portfolio Built with Gemini on Cloud Run",
+      "source": "devto"
+    },
+    "00f51b09ad6b7e75": {
+      "date": "2026-01-25",
+      "title": "I Vibe-Coded a Quantum Synthesizer: A Reality Check on the State of Qubits",
+      "source": "devto"
+    },
+    "d74153c36d1540f7": {
+      "date": "2026-01-25",
+      "title": "Don’t Learn DevOps Before Understanding Web Development",
+      "source": "devto"
+    },
+    "6ad195b3e5786c98": {
+      "date": "2026-01-25",
+      "title": "Why We Suddenly Have Developers Who Can't Think in Systems",
+      "source": "devto"
+    },
+    "4e1ad63a1f81671b": {
+      "date": "2026-01-25",
+      "title": "Mother CLAUDE: Automating Everything with Hooks",
+      "source": "devto"
+    },
+    "4ee5e3d3de21e3bb": {
+      "date": "2026-01-25",
+      "title": "React Render vs Commit: What Actually Happens (DOM vs React Native)",
+      "source": "devto"
+    },
+    "48fbea3ad62af39c": {
+      "date": "2026-01-25",
+      "title": "A Management Guide for Hands-On Leaders",
+      "source": "devto"
+    },
+    "7ec5eb0a97a142d2": {
+      "date": "2026-01-25",
+      "title": "Java Finally Gets TOON Support: json-io 4.85.0",
+      "source": "devto"
+    },
+    "01a48bfefbc252e6": {
+      "date": "2026-01-25",
+      "title": "I Lost 25% of a Form by Scrolling Up. Nobody Noticed.",
+      "source": "devto"
+    }
+  }
+}
