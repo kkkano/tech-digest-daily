@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T21:14:53.251440",
+  "last_updated": "2026-01-25T21:32:22.276036",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -410,6 +410,16 @@
     "38c401d6668f08bb": {
       "date": "2026-01-25",
       "title": "OnePlus update blocks downgrades and custom ROMs by blowing a fuse",
+      "source": "hackernews"
+    },
+    "89dd52b245d5ae40": {
+      "date": "2026-01-25",
+      "title": "I was right about ATProto key management",
+      "source": "hackernews"
+    },
+    "3b9655188bf659d2": {
+      "date": "2026-01-25",
+      "title": "AI Tribalism",
       "source": "hackernews"
     }
   }
