@@ -1,9 +1,9 @@
 name: Tech Digest Daily
 
 on:
-  # 每天 UTC 23:00 运行 = 北京时间 7:00
+  # 每天 UTC 22:37 运行 = 北京时间 6:37（避开整点减少延迟）
   schedule:
-    - cron: '0 23 * * *'
+    - cron: '37 22 * * *'
 
   # 手动触发（用于测试）
   workflow_dispatch:
@@ -104,3 +104,4 @@ jobs:
         run: |
           echo "任务完成时间: $(date '+%Y-%m-%d %H:%M:%S UTC')"
           echo "北京时间: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
+
