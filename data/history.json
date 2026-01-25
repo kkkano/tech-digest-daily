@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T08:09:43.923259",
+  "last_updated": "2026-01-25T08:59:21.064434",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -150,6 +150,11 @@
     "01a48bfefbc252e6": {
       "date": "2026-01-25",
       "title": "I Lost 25% of a Form by Scrolling Up. Nobody Noticed.",
+      "source": "devto"
+    },
+    "d28f2f8bdfff1eba": {
+      "date": "2026-01-25",
+      "title": "Wake: Give Claude Code visibility into your terminal history",
       "source": "devto"
     }
   }
