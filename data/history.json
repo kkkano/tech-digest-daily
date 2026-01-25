@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T11:10:55.412292",
+  "last_updated": "2026-01-25T11:28:47.669936",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -256,6 +256,31 @@
       "date": "2026-01-25",
       "title": "Jurassic Park - Tablet device on Nedry's desk? (2012)",
       "source": "hackernews"
+    },
+    "de6e324fae0ef40d": {
+      "date": "2026-01-25",
+      "title": "Introduction to PostgreSQL Indexes",
+      "source": "hackernews"
+    },
+    "8300e967204a2d88": {
+      "date": "2026-01-25",
+      "title": "BU-808: How to Prolong Lithium-based Batteries (2023)",
+      "source": "hackernews"
+    },
+    "02084588e5c1a585": {
+      "date": "2026-01-25",
+      "title": "vCPUs are a marketing scam",
+      "source": "devto"
+    },
+    "861194a408b8de11": {
+      "date": "2026-01-25",
+      "title": "Programming Tech That Ages Well Versus Tools That Rot Fast",
+      "source": "devto"
+    },
+    "db50c522bed471a0": {
+      "date": "2026-01-25",
+      "title": "Pingora Guide - How To Make A Programmable API Gateway",
+      "source": "devto"
     }
   }
 }
