@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T17:35:30.526463",
+  "last_updated": "2026-01-25T17:48:41.666626",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -371,6 +371,11 @@
       "date": "2026-01-25",
       "title": "Getting Brutal. A brutalist portfolio of who I am, what I do and the accomplishments I've done",
       "source": "devto"
+    },
+    "58d92413f76f907b": {
+      "date": "2026-01-25",
+      "title": "FAA institutes nationwide drone no-fly zones around ICE operations",
+      "source": "hackernews"
     }
   }
 }
