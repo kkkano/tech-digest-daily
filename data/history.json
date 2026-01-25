@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T11:54:15.424066",
+  "last_updated": "2026-01-25T13:08:55.519311",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -285,6 +285,26 @@
     "9c61a9218cc9e8ad": {
       "date": "2026-01-25",
       "title": "I Got Tired of PDF Tools Uploading My Files, So I Built One That Runs Entirely in the Browser",
+      "source": "devto"
+    },
+    "47692a2ab4407f45": {
+      "date": "2026-01-25",
+      "title": "Show HN: Bonsplit – tabs and splits for native macOS apps",
+      "source": "hackernews"
+    },
+    "33f18f79558a35f7": {
+      "date": "2026-01-25",
+      "title": "Show HN: TUI for managing XDG default applications",
+      "source": "hackernews"
+    },
+    "93d4f35ee7661219": {
+      "date": "2026-01-25",
+      "title": "LLMs Don't Hallucinate – They Drift",
+      "source": "hackernews"
+    },
+    "25cefde6272c6c57": {
+      "date": "2026-01-25",
+      "title": "【GAS x Gemini】Prompt to Create an In-house Web App with UI/UX Awareness in 15 Minutes",
       "source": "devto"
     }
   }
