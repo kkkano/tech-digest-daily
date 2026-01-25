@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T10:13:05.721264",
+  "last_updated": "2026-01-25T10:39:22.181902",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -236,6 +236,21 @@
       "date": "2026-01-25",
       "title": "German economists push for gold repatriation from U.S. vaults",
       "source": "hackernews"
+    },
+    "f1726815836f4c8a": {
+      "date": "2026-01-25",
+      "title": "qarmin / czkawka",
+      "source": "github"
+    },
+    "1a57528ba5a4a035": {
+      "date": "2026-01-25",
+      "title": "openai / codex",
+      "source": "github"
+    },
+    "c48c82e47f720318": {
+      "date": "2026-01-25",
+      "title": "supermemoryai / supermemory",
+      "source": "github"
     }
   }
 }
