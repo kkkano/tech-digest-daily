@@ -2,6 +2,7 @@
 邮件模板生成器
 按内容类型分类：开源项目 / 技术文章 / 新品发布
 支持 Markdown 渲染，兼容主流邮件客户端
+支持 Preheader 预览文本
 """
 
 from typing import Optional
@@ -116,7 +117,46 @@ class EmailTemplate:
         # 统计信息
         total_items = len(all_items)
 
-        return self._wrap_layout(ai_section, sections_html, date_str, total_items)
+        # 生成 preheader 摘要文本
+        preheader = self._generate_preheader(ai_summary, grouped, total_items)
+
+        return self._wrap_layout(ai_section, sections_html, date_str, total_items, preheader)
+
+    def _generate_preheader(
+        self,
+        ai_summary: Optional[AISummary],
+        grouped: dict,
+        total_items: int
+    ) -> str:
+        """
+        生成邮件预览文本 (preheader)
+
+        显示在邮件客户端的主题行下方，帮助用户快速了解邮件内容
+        """
+        parts = []
+
+        # 统计各类数量
+        project_count = len(grouped.get(ContentType.PROJECT, []))
+        article_count = len(grouped.get(ContentType.ARTICLE, []))
+        product_count = len(grouped.get(ContentType.PRODUCT, []))
+
+        parts.append(f"今日精选 {total_items} 条")
+
+        if project_count > 0:
+            parts.append(f"{project_count} 个开源项目")
+        if article_count > 0:
+            parts.append(f"{article_count} 篇技术文章")
+        if product_count > 0:
+            parts.append(f"{product_count} 个新品发布")
+
+        # 如果有 AI 推荐，显示 TOP1
+        if ai_summary and ai_summary.recommendations:
+            top1 = ai_summary.recommendations[0]
+            top1_title = top1.get("title", "")[:30]
+            if top1_title:
+                parts.append(f"TOP1: {top1_title}")
+
+        return " | ".join(parts)
 
     def _generate_ai_section(self, ai_summary: AISummary) -> str:
         """生成 AI 智能总结区块 - 支持 Markdown"""
@@ -366,10 +406,21 @@ class EmailTemplate:
         </div>
         '''
 
-    def _wrap_layout(self, ai_section: str, sections_html: str, date_str: str, total_items: int) -> str:
+    def _wrap_layout(self, ai_section: str, sections_html: str, date_str: str, total_items: int, preheader: str = "") -> str:
         """包装整体布局 - 兼容主流邮件客户端"""
-        return f'''
-<!DOCTYPE html>
+        # Preheader HTML - 隐藏的预览文本
+        preheader_html = ""
+        if preheader:
+            # 使用隐藏的 div + 空白填充，确保预览文本显示正确
+            preheader_html = f'''
+    <!-- Preheader 预览文本 -->
+    <div style="display:none;font-size:1px;color:#f0f2f5;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+        {preheader}
+        {"&nbsp;&zwnj;" * 50}
+    </div>
+'''
+
+        return f'''<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -415,6 +466,7 @@ class EmailTemplate:
     </style>
 </head>
 <body style="margin:0;padding:0;background-color:#f0f2f5;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans SC','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;">
+    {preheader_html}
     <!-- 外层容器 -->
     <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#f0f2f5;">
         <tr>

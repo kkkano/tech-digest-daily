@@ -75,6 +75,10 @@ class AISummarizer:
 - **常用编程语言**: {', '.join(interests['top_languages'][:5]) or '未知'}
 - **感兴趣的技术领域**: {', '.join(interests['top_topics'][:10]) or '未知'}
 - **Star 过的仓库数**: {interests['starred_count']}
+- **自己的仓库数**: {len(user_profile.own_repos)}
+
+### 用户自己的仓库（代表技术栈和专长）:
+{self._format_own_repos(user_profile.own_repos[:8])}
 
 ### 最近 Star 的仓库（代表兴趣方向）:
 {self._format_starred_repos(user_profile.starred_repos[:8])}
@@ -188,6 +192,22 @@ class AISummarizer:
             desc = repo.get("description", "")[:50] if repo.get("description") else ""
             lang = repo.get("language", "")
             lines.append(f"- {name} ({lang}): {desc}")
+
+        return "\n".join(lines)
+
+    def _format_own_repos(self, repos: list[dict]) -> str:
+        """格式化用户自己的仓库列表"""
+        if not repos:
+            return "暂无数据"
+
+        lines = []
+        for repo in repos[:8]:
+            name = repo.get("name", "")
+            desc = repo.get("description", "")[:50] if repo.get("description") else ""
+            lang = repo.get("language", "")
+            stars = repo.get("stars", 0)
+            star_str = f"⭐{stars}" if stars > 0 else ""
+            lines.append(f"- {name} ({lang}) {star_str}: {desc}")
 
         return "\n".join(lines)
 

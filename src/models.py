@@ -174,10 +174,17 @@ class UserProfile:
 
     def get_interests_summary(self) -> str:
         """生成兴趣摘要，用于 LLM Prompt"""
-        # 提取 Star 仓库的语言和主题
         languages = {}
         topics = []
 
+        # 从用户自己的仓库提取语言和主题（权重更高，代表技术专长）
+        for repo in self.own_repos[:20]:
+            lang = repo.get("language")
+            if lang:
+                languages[lang] = languages.get(lang, 0) + 3  # 自己的仓库权重 x3
+            topics.extend(repo.get("topics", []))
+
+        # 从 Star 仓库的语言和主题（代表兴趣方向）
         for repo in self.starred_repos[:30]:
             lang = repo.get("language")
             if lang:
