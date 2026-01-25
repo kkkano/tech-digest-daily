@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T15:33:43.755752",
+  "last_updated": "2026-01-25T16:43:14.769225",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -341,6 +341,21 @@
       "date": "2026-01-25",
       "title": "Web-based image editor modeled after Deluxe Paint",
       "source": "hackernews"
+    },
+    "f56a98dbb984e38b": {
+      "date": "2026-01-25",
+      "title": "Show HN: Netfence – Like Envoy for eBPF Filters",
+      "source": "hackernews"
+    },
+    "3b3258f1643510aa": {
+      "date": "2026-01-25",
+      "title": "I Was Mid-Setup When I Built the Skill That Finished Setting It Up",
+      "source": "devto"
+    },
+    "3ec903c82d1b835b": {
+      "date": "2026-01-25",
+      "title": "The #1 sentence I add to prompts that makes them better",
+      "source": "devto"
     }
   }
 }
