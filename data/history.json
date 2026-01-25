@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T16:43:14.769225",
+  "last_updated": "2026-01-25T16:58:54.804408",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -356,6 +356,16 @@
       "date": "2026-01-25",
       "title": "The #1 sentence I add to prompts that makes them better",
       "source": "devto"
+    },
+    "8d5c41bc278ce7ce": {
+      "date": "2026-01-25",
+      "title": "A macOS app that blurs your screen when you slouch",
+      "source": "hackernews"
+    },
+    "2f29fef041f5b334": {
+      "date": "2026-01-25",
+      "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
+      "source": "hackernews"
     }
   }
 }
