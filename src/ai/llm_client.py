@@ -60,7 +60,8 @@ class LLMClient:
         prompt: str,
         system_prompt: Optional[str] = None,
         temperature: float = 0.7,
-        max_tokens: int = 4096
+        max_tokens: int = 4096,
+        verbose: bool = True
     ) -> str:
         """
         发送聊天请求（带多模型重试）
@@ -70,10 +71,21 @@ class LLMClient:
             system_prompt: 系统提示
             temperature: 温度参数
             max_tokens: 最大 token 数
+            verbose: 是否打印详细日志
 
         Returns:
             模型响应文本
         """
+        # 打印完整 Prompt（用于调试）
+        if verbose:
+            print("\n" + "=" * 70)
+            print("🧠 AI 思考过程 - 发送给 LLM 的完整 Prompt")
+            print("=" * 70)
+            if system_prompt:
+                print(f"[System Prompt]\n{system_prompt}\n")
+            print(f"[User Prompt]\n{prompt}")
+            print("=" * 70 + "\n")
+
         messages = []
         if system_prompt:
             messages.append({"role": "system", "content": system_prompt})
@@ -111,6 +123,13 @@ class LLMClient:
                     content = result.get("choices", [{}])[0].get("message", {}).get("content", "")
                     if content:
                         print(f"  ✅ {current_model} 成功")
+                        # 打印完整 LLM 响应
+                        if verbose:
+                            print("\n" + "=" * 70)
+                            print("🎯 AI 思考过程 - LLM 完整响应")
+                            print("=" * 70)
+                            print(content)
+                            print("=" * 70 + "\n")
                         return content
 
                 # 记录错误

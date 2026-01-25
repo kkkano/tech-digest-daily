@@ -16,6 +16,14 @@ on:
         options:
           - 'true'
           - 'false'
+      enable_dedup:
+        description: '启用历史去重（测试时可关闭）'
+        required: false
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
 
 # 需要写入权限来提交历史记录
 permissions:
@@ -66,8 +74,8 @@ jobs:
           # AI 总结开关
           ENABLE_AI_SUMMARY: ${{ github.event.inputs.enable_ai || 'true' }}
 
-          # 历史去重开关
-          ENABLE_HISTORY_DEDUP: 'true'
+          # 历史去重开关（测试时可关闭）
+          ENABLE_HISTORY_DEDUP: ${{ github.event.inputs.enable_dedup || 'true' }}
 
           # 可选：使用 SMTP 替代 Resend
           # SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
