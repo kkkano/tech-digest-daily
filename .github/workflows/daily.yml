@@ -48,7 +48,7 @@ jobs:
 
           # AI 总结配置
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-          GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
+          GITHUB_USERNAME: ${{ secrets.GH_USERNAME }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
           # 数据源开关 (true/false)
