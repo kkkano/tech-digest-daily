@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T10:39:22.181902",
+  "last_updated": "2026-01-25T11:10:55.412292",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -251,6 +251,11 @@
       "date": "2026-01-25",
       "title": "supermemoryai / supermemory",
       "source": "github"
+    },
+    "42c706b7a06eb7f7": {
+      "date": "2026-01-25",
+      "title": "Jurassic Park - Tablet device on Nedry's desk? (2012)",
+      "source": "hackernews"
     }
   }
 }
