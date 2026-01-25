@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T21:32:22.276036",
+  "last_updated": "2026-01-25T21:45:50.878401",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -420,6 +420,11 @@
     "3b9655188bf659d2": {
       "date": "2026-01-25",
       "title": "AI Tribalism",
+      "source": "hackernews"
+    },
+    "ddef10be0562cdd9": {
+      "date": "2026-01-25",
+      "title": "Canada",
       "source": "hackernews"
     }
   }
