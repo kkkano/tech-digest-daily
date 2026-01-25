@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T14:34:54.006991",
+  "last_updated": "2026-01-25T14:49:56.794521",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -320,6 +320,11 @@
     "97505a0496b5816a": {
       "date": "2026-01-25",
       "title": "Bridging the Gap Between PLECS and SPICE",
+      "source": "hackernews"
+    },
+    "f87976d035ea886e": {
+      "date": "2026-01-25",
+      "title": "Iran Protest Death Toll Could Top 30k, According to Local Health Officials",
       "source": "hackernews"
     }
   }
