@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T19:30:22.427559",
+  "last_updated": "2026-01-25T20:38:05.724677",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -395,6 +395,16 @@
     "d69336e6b5f45bc3": {
       "date": "2026-01-25",
       "title": "The AI Revolution in Coding: Why I'm Ignoring the Prophets of Doom",
+      "source": "hackernews"
+    },
+    "1508c25f538f6f61": {
+      "date": "2026-01-25",
+      "title": "First, Make Me Care",
+      "source": "hackernews"
+    },
+    "b8c2eb9f1e593b16": {
+      "date": "2026-01-25",
+      "title": "Spanish track was fractured before high-speed train disaster, report finds",
       "source": "hackernews"
     }
   }
