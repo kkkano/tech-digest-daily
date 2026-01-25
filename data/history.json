@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T21:45:50.878401",
+  "last_updated": "2026-01-25T22:10:49.197633",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -426,6 +426,16 @@
       "date": "2026-01-25",
       "title": "Canada",
       "source": "hackernews"
+    },
+    "60ae1b3d04000745": {
+      "date": "2026-01-25",
+      "title": "The '3.5% rule': How a small minority can change the world",
+      "source": "hackernews"
+    },
+    "6be68c9d28029f1a": {
+      "date": "2026-01-25",
+      "title": "Why NaN !== NaN Makes Perfect Sense (I Promise)",
+      "source": "devto"
     }
   }
 }
