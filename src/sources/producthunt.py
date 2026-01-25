@@ -1,14 +1,16 @@
 """
 Product Hunt 数据源
-爬取 Product Hunt 获取每日新品
+使用 RSS Feed 获取每日新品（更稳定）
 """
 
 import requests
+import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 from typing import Optional
 import sys
 import os
 import re
+from datetime import datetime, timedelta
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -18,8 +20,9 @@ from translator import translate_to_chinese
 
 
 class ProductHuntSource(BaseSource):
-    """Product Hunt 数据源"""
+    """Product Hunt 数据源 - 使用 RSS Feed"""
 
+    RSS_URL = "https://www.producthunt.com/feed"
     BASE_URL = "https://www.producthunt.com"
 
     @property
@@ -45,133 +48,137 @@ class ProductHuntSource(BaseSource):
     def fetch(self, limit: int = 8) -> SourceResult:
         """获取 Product Hunt 热门产品"""
         try:
-            html = self._fetch_page()
-            items = self._parse_items(html, limit)
+            entries = self._fetch_rss()
+            items = self._parse_entries(entries, limit)
             return self._create_success_result(items)
         except Exception as e:
+            print(f"  ⚠️ Product Hunt 获取失败: {e}")
             return self._create_error_result(str(e))
 
-    def _fetch_page(self) -> str:
-        """获取页面 HTML"""
+    def _fetch_rss(self) -> list:
+        """获取 RSS Feed"""
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-            "Accept-Language": "en-US,en;q=0.5",
         }
-        response = requests.get(self.BASE_URL, headers=headers, timeout=30)
+        response = requests.get(self.RSS_URL, headers=headers, timeout=30)
         response.raise_for_status()
-        return response.text
 
-    def _parse_items(self, html: str, limit: int) -> list[NewsItem]:
-        """解析 HTML 提取产品信息"""
-        soup = BeautifulSoup(html, "html.parser")
+        # Parse XML
+        root = ET.fromstring(response.text)
+
+        # Atom namespace
+        ns = {'atom': 'http://www.w3.org/2005/Atom'}
+
+        entries = root.findall('atom:entry', ns)
+        return entries
+
+    def _parse_entries(self, entries: list, limit: int) -> list[NewsItem]:
+        """解析 RSS 条目"""
         items = []
 
-        # Product Hunt 的页面结构可能会变化，这里尝试多种选择器
-        # 方式1: 查找产品卡片
-        product_cards = soup.select('[data-test="post-item"]')
+        # Atom namespace
+        ns = {'atom': 'http://www.w3.org/2005/Atom'}
 
-        if not product_cards:
-            # 方式2: 尝试其他选择器
-            product_cards = soup.select('div[class*="styles_item"]')
+        # 只获取最近 7 天的产品
+        cutoff_date = datetime.now() - timedelta(days=7)
 
-        if not product_cards:
-            # 方式3: 查找所有链接到 /posts/ 的元素
-            product_cards = soup.select('a[href^="/posts/"]')
+        for rank, entry in enumerate(entries, 1):
+            if len(items) >= limit:
+                break
 
-        for rank, card in enumerate(product_cards[:limit], 1):
             try:
-                item = self._parse_product(card, rank)
+                item = self._parse_entry(entry, ns, rank, cutoff_date)
                 if item:
                     items.append(item)
             except Exception as e:
-                print(f"解析产品 {rank} 失败: {e}")
+                print(f"  解析产品 {rank} 失败: {e}")
                 continue
 
         return items
 
-    def _parse_product(self, element, rank: int) -> Optional[NewsItem]:
-        """解析单个产品"""
-        # 尝试提取产品名称
-        name_elem = element.select_one('h3') or element.select_one('[class*="title"]')
-        if not name_elem:
-            # 如果元素本身是链接，尝试从链接文本获取
-            if element.name == 'a':
-                name = element.get_text(strip=True)
-                href = element.get('href', '')
-            else:
-                return None
-        else:
-            name = name_elem.get_text(strip=True)
-            href = ""
-
-        if not name:
+    def _parse_entry(self, entry, ns: dict, rank: int, cutoff_date: datetime) -> Optional[NewsItem]:
+        """解析单个 RSS 条目"""
+        # 获取标题
+        title_elem = entry.find('atom:title', ns)
+        if title_elem is None or not title_elem.text:
             return None
+        title = title_elem.text.strip()
 
         # 获取链接
-        if not href:
-            link_elem = element.select_one('a[href^="/posts/"]') or element
-            href = link_elem.get('href', '') if hasattr(link_elem, 'get') else ''
+        link_elem = entry.find('atom:link', ns)
+        url = link_elem.get('href', '') if link_elem is not None else ''
+        if not url:
+            return None
 
-        if href and not href.startswith('http'):
-            url = f"{self.BASE_URL}{href}"
-        else:
-            url = href or f"{self.BASE_URL}/posts/{name.lower().replace(' ', '-')}"
+        # 获取发布时间
+        published_elem = entry.find('atom:published', ns)
+        if published_elem is not None and published_elem.text:
+            try:
+                # 解析时间格式: 2026-01-19T17:01:34-08:00
+                pub_str = published_elem.text
+                # 简单处理时区
+                pub_date = datetime.fromisoformat(pub_str.replace('Z', '+00:00'))
+                pub_date = pub_date.replace(tzinfo=None)
 
-        # 获取描述
-        desc_elem = element.select_one('p') or element.select_one('[class*="tagline"]')
-        description = desc_elem.get_text(strip=True) if desc_elem else ""
+                # 跳过太旧的产品
+                if pub_date < cutoff_date:
+                    return None
+            except:
+                pass
+
+        # 获取内容/描述
+        content_elem = entry.find('atom:content', ns)
+        description = ""
+        if content_elem is not None and content_elem.text:
+            # 解析 HTML 内容
+            soup = BeautifulSoup(content_elem.text, 'html.parser')
+
+            # 获取第一个 p 标签作为描述
+            first_p = soup.find('p')
+            if first_p:
+                description = first_p.get_text(strip=True)
+
+        # 如果没有描述，用标题
+        if not description:
+            description = title
 
         # 翻译描述
-        description_cn = translate_to_chinese(description) if description else translate_to_chinese(name)
+        description_cn = translate_to_chinese(description)
 
-        # 获取投票数
-        vote_elem = element.select_one('[class*="vote"]') or element.select_one('button')
-        votes = 0
-        if vote_elem:
-            vote_text = vote_elem.get_text(strip=True)
-            vote_match = re.search(r'\d+', vote_text.replace(',', ''))
-            if vote_match:
-                votes = int(vote_match.group())
-
-        # 获取评论数
-        comments = 0
-        comment_elem = element.select_one('[class*="comment"]')
-        if comment_elem:
-            comment_text = comment_elem.get_text(strip=True)
-            comment_match = re.search(r'\d+', comment_text)
-            if comment_match:
-                comments = int(comment_match.group())
-
-        # 获取缩略图
-        img_elem = element.select_one('img')
-        image_url = img_elem.get('src', '') if img_elem else ""
+        # 获取图片
+        image_url = ""
+        if content_elem is not None and content_elem.text:
+            soup = BeautifulSoup(content_elem.text, 'html.parser')
+            img = soup.find('img')
+            if img:
+                image_url = img.get('src', '')
 
         return NewsItem(
             source=self.source_type,
-            title=name,
+            title=title,
             url=url,
-            description=description or name,
+            description=description,
             description_cn=description_cn,
             image_url=image_url,
-            score=votes,
-            comments=comments,
+            score=0,  # RSS 没有投票数
+            comments=0,
             rank=rank,
-            extra={}
+            extra={
+                "published": published_elem.text if published_elem is not None else ""
+            }
         )
 
 
 if __name__ == "__main__":
     # 测试
     source = ProductHuntSource()
-    result = source.fetch(limit=5)
+    result = source.fetch(limit=8)
 
     if result.success:
         print(f"获取到 {result.count} 个产品")
         for item in result.items:
             print(f"#{item.rank} {item.title}")
             print(f"  描述: {item.description_cn}")
-            print(f"  投票: {item.score} | 评论: {item.comments}")
             print(f"  链接: {item.url}")
             print()
     else:
