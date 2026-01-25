@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T18:48:29.781901",
+  "last_updated": "2026-01-25T19:01:07.394562",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -380,6 +380,11 @@
     "092fddc3607b385d": {
       "date": "2026-01-25",
       "title": "ICE Using Palantir Tool That Feeds on Medicaid Data",
+      "source": "hackernews"
+    },
+    "d8324f9e75310cdb": {
+      "date": "2026-01-25",
+      "title": "World’s most powerful literary critic is on TikTok",
       "source": "hackernews"
     }
   }
