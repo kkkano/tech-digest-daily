@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T09:38:25.289950",
+  "last_updated": "2026-01-25T09:49:47.047204",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -206,6 +206,16 @@
       "date": "2026-01-25",
       "title": "BrainLoom",
       "source": "producthunt"
+    },
+    "87f90cae664edd5b": {
+      "date": "2026-01-25",
+      "title": "Deutsche Telekom is violating Net Neutrality",
+      "source": "hackernews"
+    },
+    "99403d9642dfb445": {
+      "date": "2026-01-25",
+      "title": "Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators",
+      "source": "hackernews"
     }
   }
 }
