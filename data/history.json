@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T16:58:54.804408",
+  "last_updated": "2026-01-25T17:35:30.526463",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -366,6 +366,11 @@
       "date": "2026-01-25",
       "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
       "source": "hackernews"
+    },
+    "1ccab8b70293284b": {
+      "date": "2026-01-25",
+      "title": "Getting Brutal. A brutalist portfolio of who I am, what I do and the accomplishments I've done",
+      "source": "devto"
     }
   }
 }
