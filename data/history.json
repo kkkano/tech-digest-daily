@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T09:19:10.292402",
+  "last_updated": "2026-01-25T09:38:25.289950",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -201,6 +201,11 @@
       "date": "2026-01-25",
       "title": "Like digging 'your own grave': The translators grappling with losing work to AI",
       "source": "hackernews"
+    },
+    "7c6bc88bedceb68e": {
+      "date": "2026-01-25",
+      "title": "BrainLoom",
+      "source": "producthunt"
     }
   }
 }
