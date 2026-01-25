@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T19:18:41.820486",
+  "last_updated": "2026-01-25T19:30:22.427559",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -390,6 +390,11 @@
     "b335422aee969077": {
       "date": "2026-01-25",
       "title": "Publishing on the ATmosphere",
+      "source": "hackernews"
+    },
+    "d69336e6b5f45bc3": {
+      "date": "2026-01-25",
+      "title": "The AI Revolution in Coding: Why I'm Ignoring the Prophets of Doom",
       "source": "hackernews"
     }
   }
