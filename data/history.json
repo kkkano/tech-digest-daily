@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T13:16:54.925257",
+  "last_updated": "2026-01-26T13:56:37.384868",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -691,6 +691,26 @@
       "date": "2026-01-26",
       "title": "Wind Chime Length Calculator",
       "source": "hackernews"
+    },
+    "240c32d24c128d49": {
+      "date": "2026-01-26",
+      "title": "Text Is King",
+      "source": "hackernews"
+    },
+    "681eca5b03c84f75": {
+      "date": "2026-01-26",
+      "title": "Vibe Coding Kills Open Source",
+      "source": "hackernews"
+    },
+    "5affef41c883fdc1": {
+      "date": "2026-01-26",
+      "title": "Transfering Files with gRPC",
+      "source": "hackernews"
+    },
+    "09091e26aa32c830": {
+      "date": "2026-01-26",
+      "title": "Being Right Too Early: What NGINX in 2010 Taught Me About Tech Adoption",
+      "source": "devto"
     }
   }
 }
