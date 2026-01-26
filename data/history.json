@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T00:58:34.951345",
+  "last_updated": "2026-01-26T03:12:50.792103",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -471,6 +471,46 @@
       "date": "2026-01-26",
       "title": "Clawdbot - open source personal AI assistant",
       "source": "hackernews"
+    },
+    "fccb0d779e2544f4": {
+      "date": "2026-01-26",
+      "title": "Scientists identify brain waves that define the limits of 'you'",
+      "source": "hackernews"
+    },
+    "7de73427b7edf5c4": {
+      "date": "2026-01-26",
+      "title": "Show HN: A small programming language where everything is pass-by-value",
+      "source": "hackernews"
+    },
+    "bf9d2d35159dc39d": {
+      "date": "2026-01-26",
+      "title": "Guix for Development",
+      "source": "hackernews"
+    },
+    "9f92b84d815600c0": {
+      "date": "2026-01-26",
+      "title": "The Science of Fermentation (The Food Programme)",
+      "source": "hackernews"
+    },
+    "c5452c31a2cda567": {
+      "date": "2026-01-26",
+      "title": "Your Accessibility Overlay Is a Scam (And Here's the Proof)",
+      "source": "devto"
+    },
+    "8bb2d3d3f1e07aea": {
+      "date": "2026-01-26",
+      "title": "🐝 Copilot Swarm Orchestrator",
+      "source": "devto"
+    },
+    "6fd76d410c961ea9": {
+      "date": "2026-01-26",
+      "title": "We don’t actually verify AI and that’s going to bite us sooner than we think",
+      "source": "devto"
+    },
+    "6570ec14fe156c39": {
+      "date": "2026-01-26",
+      "title": "I built a lightweight framework for Japan's \"SI\" projects (third attempt in 10 years)",
+      "source": "devto"
     }
   }
 }
