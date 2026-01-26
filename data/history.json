@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T16:49:59.496755",
+  "last_updated": "2026-01-26T22:53:49.221623",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -766,6 +766,71 @@
       "date": "2026-01-26",
       "title": "Qwen3-Max-Thinking",
       "source": "hackernews"
+    },
+    "500108025500d50c": {
+      "date": "2026-01-26",
+      "title": "Television is 100 years old today",
+      "source": "hackernews"
+    },
+    "39404ce9d470ece6": {
+      "date": "2026-01-26",
+      "title": "JuiceSSH – Give me my pro features back",
+      "source": "hackernews"
+    },
+    "d8e5cf334e33e5cd": {
+      "date": "2026-01-26",
+      "title": "There is an AI code review bubble",
+      "source": "hackernews"
+    },
+    "3061b8e679e36008": {
+      "date": "2026-01-26",
+      "title": "Dithering – Part 2: The Ordered Dithering",
+      "source": "hackernews"
+    },
+    "fbe8de9f1dc91987": {
+      "date": "2026-01-26",
+      "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
+      "source": "hackernews"
+    },
+    "ea48755ec8441df5": {
+      "date": "2026-01-26",
+      "title": "RIP Low-Code 2014-2025",
+      "source": "hackernews"
+    },
+    "beda9dd7458b660f": {
+      "date": "2026-01-26",
+      "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
+      "source": "hackernews"
+    },
+    "a18b6158de97ecd6": {
+      "date": "2026-01-26",
+      "title": "People who know the formula for WD-40",
+      "source": "hackernews"
+    },
+    "80a62e5d4a51ea28": {
+      "date": "2026-01-26",
+      "title": "Rewriting My First NUnit API Tests: Cleaner, Faster, Better",
+      "source": "devto"
+    },
+    "5b1eb9d55571f3b0": {
+      "date": "2026-01-26",
+      "title": "What Coders Could Offer Instead of Writing Lines of Code If AI Takes Over",
+      "source": "devto"
+    },
+    "0044702ebb0027a5": {
+      "date": "2026-01-26",
+      "title": "Meme Monday",
+      "source": "devto"
+    },
+    "85f9aafee9275203": {
+      "date": "2026-01-26",
+      "title": "What makes you close a tool within 5 seconds?",
+      "source": "devto"
+    },
+    "5b3f192a5cc8e172": {
+      "date": "2026-01-26",
+      "title": "How GitHub Copilot Helped Me Roast Its Own Users",
+      "source": "devto"
     }
   }
 }
