@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T13:56:37.384868",
+  "last_updated": "2026-01-26T14:21:22.146127",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -711,6 +711,16 @@
       "date": "2026-01-26",
       "title": "Being Right Too Early: What NGINX in 2010 Taught Me About Tech Adoption",
       "source": "devto"
+    },
+    "f563e370ac148cf4": {
+      "date": "2026-01-26",
+      "title": "After two years of vibecoding, I'm back to writing by hand",
+      "source": "hackernews"
+    },
+    "c78143b808fb11c2": {
+      "date": "2026-01-26",
+      "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
+      "source": "hackernews"
     }
   }
 }
