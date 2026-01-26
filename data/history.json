@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T11:33:00.596540",
+  "last_updated": "2026-01-26T13:16:54.925257",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -681,6 +681,16 @@
       "date": "2026-01-26",
       "title": "Detective: A Digital Forensics CLI Built with GitHub Copilot CLI",
       "source": "devto"
+    },
+    "e9347e3215455c33": {
+      "date": "2026-01-26",
+      "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
+      "source": "hackernews"
+    },
+    "1635b5db51bc0207": {
+      "date": "2026-01-26",
+      "title": "Wind Chime Length Calculator",
+      "source": "hackernews"
     }
   }
 }
