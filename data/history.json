@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T05:48:41.660427",
+  "last_updated": "2026-01-26T06:40:50.231866",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -541,6 +541,31 @@
       "date": "2026-01-26",
       "title": "Video Games as Art",
       "source": "hackernews"
+    },
+    "23e750187081436c": {
+      "date": "2026-01-26",
+      "title": "SF Microclimates",
+      "source": "hackernews"
+    },
+    "5ae4172819e547f7": {
+      "date": "2026-01-26",
+      "title": "The Browser Is the Sandbox",
+      "source": "hackernews"
+    },
+    "db4e1a47f9cb6b52": {
+      "date": "2026-01-26",
+      "title": "Show HN: A desktop app that blocks work when you bite your nails",
+      "source": "hackernews"
+    },
+    "431cc7914031eaa7": {
+      "date": "2026-01-26",
+      "title": "You can just port things to Cloudflare Workers",
+      "source": "hackernews"
+    },
+    "48bb0cc03d6c6986": {
+      "date": "2026-01-26",
+      "title": "I got 29x speedup rewriting Python's validators library in Rust",
+      "source": "devto"
     }
   }
 }
