@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T05:11:25.567279",
+  "last_updated": "2026-01-26T05:48:41.660427",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -530,6 +530,16 @@
     "98e8bcddacd41a35": {
       "date": "2026-01-26",
       "title": "Environmentalists worry Google behind bid to control Oregon town's water",
+      "source": "hackernews"
+    },
+    "29681a5b26d55b81": {
+      "date": "2026-01-26",
+      "title": "Iran's internet blackout may become permanent, with access for elites only",
+      "source": "hackernews"
+    },
+    "2ee50770106f445a": {
+      "date": "2026-01-26",
+      "title": "Video Games as Art",
       "source": "hackernews"
     }
   }
