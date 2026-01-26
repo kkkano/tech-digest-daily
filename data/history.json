@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T04:35:56.993090",
+  "last_updated": "2026-01-26T05:11:25.567279",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -521,6 +521,16 @@
       "date": "2026-01-26",
       "title": "I saw Antigravity, I prompted, I conquered!",
       "source": "devto"
+    },
+    "d411e29ee7202325": {
+      "date": "2026-01-26",
+      "title": "Delta single handle ball faucets (1963)",
+      "source": "hackernews"
+    },
+    "98e8bcddacd41a35": {
+      "date": "2026-01-26",
+      "title": "Environmentalists worry Google behind bid to control Oregon town's water",
+      "source": "hackernews"
     }
   }
 }
