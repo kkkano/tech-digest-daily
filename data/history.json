@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T07:05:44.457783",
+  "last_updated": "2026-01-26T07:38:58.589985",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -575,6 +575,11 @@
     "dbfa982331ddef9a": {
       "date": "2026-01-26",
       "title": "A static site generator written in POSIX shell",
+      "source": "hackernews"
+    },
+    "81f8af0e9633b5a1": {
+      "date": "2026-01-26",
+      "title": "Things I've learned in my 10 years as an engineering manager",
       "source": "hackernews"
     }
   }
