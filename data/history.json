@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T06:40:50.231866",
+  "last_updated": "2026-01-26T07:05:44.457783",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -566,6 +566,16 @@
       "date": "2026-01-26",
       "title": "I got 29x speedup rewriting Python's validators library in Rust",
       "source": "devto"
+    },
+    "902fd6c044c0ced8": {
+      "date": "2026-01-26",
+      "title": "Compiling models to megakernels",
+      "source": "hackernews"
+    },
+    "dbfa982331ddef9a": {
+      "date": "2026-01-26",
+      "title": "A static site generator written in POSIX shell",
+      "source": "hackernews"
     }
   }
 }
