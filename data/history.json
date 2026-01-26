@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T08:54:17.161525",
+  "last_updated": "2026-01-26T09:55:20.369629",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -626,6 +626,26 @@
       "date": "2026-01-26",
       "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
       "source": "hackernews"
+    },
+    "e569331f9591eca9": {
+      "date": "2026-01-26",
+      "title": "Emissary, a fast open-source Java messaging library",
+      "source": "hackernews"
+    },
+    "65a40d818897b2f7": {
+      "date": "2026-01-26",
+      "title": "PHP: Why I Use Static Analysis",
+      "source": "devto"
+    },
+    "b494255f3ea1496f": {
+      "date": "2026-01-26",
+      "title": "Why most SVG to PNG converters are overkill (and what I actually needed)",
+      "source": "devto"
+    },
+    "ebffaf2fbb9ca0ab": {
+      "date": "2026-01-26",
+      "title": "300ms to 60ms: How I Slashed API Latency by 80% with One Config Change",
+      "source": "devto"
     }
   }
 }
