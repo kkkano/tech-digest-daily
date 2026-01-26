@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T15:17:26.022739",
+  "last_updated": "2026-01-26T15:47:25.747517",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -741,6 +741,16 @@
       "date": "2026-01-26",
       "title": "The Complete Guide: Deploying a Dockerized MCP Server to AWS ECS Fargate and connecting it to AWS Ag",
       "source": "devto"
+    },
+    "c3b4b83934c59339": {
+      "date": "2026-01-26",
+      "title": "Exactitude in Science – Borges (1946) [pdf]",
+      "source": "hackernews"
+    },
+    "f521d2431fe1939c": {
+      "date": "2026-01-26",
+      "title": "OracleGPT: Thought Experiment on an AI Powered Executive",
+      "source": "hackernews"
     }
   }
 }
