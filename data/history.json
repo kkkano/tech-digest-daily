@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T14:53:56.177859",
+  "last_updated": "2026-01-26T15:17:26.022739",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -726,6 +726,21 @@
       "date": "2026-01-26",
       "title": "Show HN: Only 1 LLM can fly a drone",
       "source": "hackernews"
+    },
+    "982c5e2a41fddd78": {
+      "date": "2026-01-26",
+      "title": "Apple introduces new AirTag with longer range and improved findability",
+      "source": "hackernews"
+    },
+    "89c03361e94bd809": {
+      "date": "2026-01-26",
+      "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
+      "source": "hackernews"
+    },
+    "dd16023c0de0061f": {
+      "date": "2026-01-26",
+      "title": "The Complete Guide: Deploying a Dockerized MCP Server to AWS ECS Fargate and connecting it to AWS Ag",
+      "source": "devto"
     }
   }
 }
