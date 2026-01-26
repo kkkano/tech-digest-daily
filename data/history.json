@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T16:02:20.389381",
+  "last_updated": "2026-01-26T16:49:59.496755",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -760,6 +760,11 @@
     "71025c92f37067c7": {
       "date": "2026-01-26",
       "title": "OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen",
+      "source": "hackernews"
+    },
+    "0875aab575910fd7": {
+      "date": "2026-01-26",
+      "title": "Qwen3-Max-Thinking",
       "source": "hackernews"
     }
   }
