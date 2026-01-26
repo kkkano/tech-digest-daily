@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T14:21:22.146127",
+  "last_updated": "2026-01-26T14:53:56.177859",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -720,6 +720,11 @@
     "c78143b808fb11c2": {
       "date": "2026-01-26",
       "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
+      "source": "hackernews"
+    },
+    "8c3cd952b0860ee5": {
+      "date": "2026-01-26",
+      "title": "Show HN: Only 1 LLM can fly a drone",
       "source": "hackernews"
     }
   }
