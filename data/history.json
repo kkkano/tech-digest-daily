@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T09:55:20.369629",
+  "last_updated": "2026-01-26T10:16:46.269621",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -646,6 +646,11 @@
       "date": "2026-01-26",
       "title": "300ms to 60ms: How I Slashed API Latency by 80% with One Config Change",
       "source": "devto"
+    },
+    "5ac31ea17b7d8e95": {
+      "date": "2026-01-26",
+      "title": "UK House of Lords Votes to Extend Age Verification to VPNs",
+      "source": "hackernews"
     }
   }
 }
