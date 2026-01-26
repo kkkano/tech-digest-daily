@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T15:47:25.747517",
+  "last_updated": "2026-01-26T16:02:20.389381",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -750,6 +750,16 @@
     "f521d2431fe1939c": {
       "date": "2026-01-26",
       "title": "OracleGPT: Thought Experiment on an AI Powered Executive",
+      "source": "hackernews"
+    },
+    "0a007ce16596e0cc": {
+      "date": "2026-01-26",
+      "title": "Windows 11's Patch Tuesday nightmare gets worse",
+      "source": "hackernews"
+    },
+    "71025c92f37067c7": {
+      "date": "2026-01-26",
+      "title": "OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen",
       "source": "hackernews"
     }
   }
