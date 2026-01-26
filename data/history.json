@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-25T22:51:29.877564",
+  "last_updated": "2026-01-26T00:58:34.951345",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -460,6 +460,16 @@
     "0fe3e1f21a92ca66": {
       "date": "2026-01-25",
       "title": "Show HN: An interactive map of US lighthouses and navigational aids",
+      "source": "hackernews"
+    },
+    "13eefa93f55767c2": {
+      "date": "2026-01-26",
+      "title": "Case study: Creative math – How AI fakes proofs",
+      "source": "hackernews"
+    },
+    "948eaf92e60c7072": {
+      "date": "2026-01-26",
+      "title": "Clawdbot - open source personal AI assistant",
       "source": "hackernews"
     }
   }
