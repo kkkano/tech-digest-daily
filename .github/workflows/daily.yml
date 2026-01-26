@@ -25,6 +25,14 @@ on:
           - 'true'
           - 'false'
 
+# 并发控制：防止 GitHub Actions 调度器异常导致的重复运行
+# 问题背景：GitHub Actions 的 cron 调度器存在已知的可靠性问题，
+# 在高负载时期可能会多次触发同一个 scheduled workflow，导致重复发送邮件
+# 解决方案：使用 concurrency 确保同一时间只有一个 workflow 在运行
+concurrency:
+  group: daily-digest-workflow
+  cancel-in-progress: false  # 不取消正在运行的任务，只阻止新的重复任务排队
+
 # 需要写入权限来提交历史记录
 permissions:
   contents: write
