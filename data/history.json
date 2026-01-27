@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-26T22:53:49.221623",
+  "last_updated": "2026-01-27T22:52:53.828156",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -830,6 +830,166 @@
     "5b3f192a5cc8e172": {
       "date": "2026-01-26",
       "title": "How GitHub Copilot Helped Me Roast Its Own Users",
+      "source": "devto"
+    },
+    "b49554660e3dda78": {
+      "date": "2026-01-27",
+      "title": "FBI is investigating Minnesota Signal chats tracking ICE",
+      "source": "hackernews"
+    },
+    "726daed51afa7ac7": {
+      "date": "2026-01-27",
+      "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
+      "source": "hackernews"
+    },
+    "2d79546ea8ed8501": {
+      "date": "2026-01-27",
+      "title": "Prism",
+      "source": "hackernews"
+    },
+    "d24cfe3c05c68b5a": {
+      "date": "2026-01-27",
+      "title": "Xfwl4 – The Roadmap for a Xfce Wayland Compositor",
+      "source": "hackernews"
+    },
+    "cebd15af001e2140": {
+      "date": "2026-01-27",
+      "title": "A few random notes from Claude coding quite a bit last few weeks",
+      "source": "hackernews"
+    },
+    "1724b662d7aaa64e": {
+      "date": "2026-01-27",
+      "title": "Lennart Poettering, Christian Brauner founded a new company",
+      "source": "hackernews"
+    },
+    "3553978cd97aa49e": {
+      "date": "2026-01-27",
+      "title": "Doing the thing is doing the thing",
+      "source": "hackernews"
+    },
+    "3e017931e2bd27f1": {
+      "date": "2026-01-27",
+      "title": "SoundCloud Data Breach Now on HaveIBeenPwned",
+      "source": "hackernews"
+    },
+    "6a8774a3e4be022e": {
+      "date": "2026-01-27",
+      "title": "AI2: Open Coding Agents",
+      "source": "hackernews"
+    },
+    "2852b82ad7111900": {
+      "date": "2026-01-27",
+      "title": "Time Station Emulator",
+      "source": "hackernews"
+    },
+    "d514201ec401ad6c": {
+      "date": "2026-01-27",
+      "title": "Jotform AI Chatbot for Canva",
+      "source": "producthunt"
+    },
+    "4c89b597a07f8dc9": {
+      "date": "2026-01-27",
+      "title": "The Password App",
+      "source": "producthunt"
+    },
+    "51eb04608e757e73": {
+      "date": "2026-01-27",
+      "title": "Delos Mail",
+      "source": "producthunt"
+    },
+    "4e91087564d438e5": {
+      "date": "2026-01-27",
+      "title": "Timeless",
+      "source": "producthunt"
+    },
+    "ce39152be645284b": {
+      "date": "2026-01-27",
+      "title": "Zush",
+      "source": "producthunt"
+    },
+    "c961806259fd4de5": {
+      "date": "2026-01-27",
+      "title": "Runo 2.0",
+      "source": "producthunt"
+    },
+    "99bd5a4d362b466a": {
+      "date": "2026-01-27",
+      "title": "Moltbot",
+      "source": "producthunt"
+    },
+    "d4c0a97b8659deb2": {
+      "date": "2026-01-27",
+      "title": "Outtalent",
+      "source": "producthunt"
+    },
+    "11320934555e9771": {
+      "date": "2026-01-27",
+      "title": "badlogic / pi-mono",
+      "source": "github"
+    },
+    "a7831823542abca4": {
+      "date": "2026-01-27",
+      "title": "Free-TV / IPTV",
+      "source": "github"
+    },
+    "6df0ad1b150ef240": {
+      "date": "2026-01-27",
+      "title": "hashicorp / vault",
+      "source": "github"
+    },
+    "46405393d4f50fd7": {
+      "date": "2026-01-27",
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "source": "github"
+    },
+    "f6faa2900cb70f9e": {
+      "date": "2026-01-27",
+      "title": "We're Creating a Knowledge Collapse and No One's Talking About It",
+      "source": "devto"
+    },
+    "d84c8e757c34987c": {
+      "date": "2026-01-27",
+      "title": "Has anyone actually shipped a free offline mobile LLM?",
+      "source": "devto"
+    },
+    "ad4e2e7fb516bc13": {
+      "date": "2026-01-27",
+      "title": "GitHub Copilot CLI Challenge: 'The Linux Compass'",
+      "source": "devto"
+    },
+    "e13a9f5916e58e24": {
+      "date": "2026-01-27",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "0b8914858a41bf71": {
+      "date": "2026-01-27",
+      "title": "From Clawdbot to Moltbot: How a C&D, Crypto Scammers, and 10 Seconds of Chaos Took Down the Internet",
+      "source": "devto"
+    },
+    "be766f1dca303056": {
+      "date": "2026-01-27",
+      "title": "New Year, New You Portfolio Challenge",
+      "source": "devto"
+    },
+    "8f9135c164b01725": {
+      "date": "2026-01-27",
+      "title": "Nevermore.dev: LLM-as-judge on Lambda Durable Functions",
+      "source": "devto"
+    },
+    "2101ecf0bd57348f": {
+      "date": "2026-01-27",
+      "title": "Godot 4 in Practice",
+      "source": "devto"
+    },
+    "17efa219d68cc4bd": {
+      "date": "2026-01-27",
+      "title": "I Built a PDF Tool Because I Didn’t Trust PDF Tools",
+      "source": "devto"
+    },
+    "b9df4e03c332c28c": {
+      "date": "2026-01-27",
+      "title": "Detección de Intención: El fin de los ataques Evil Twin y el Ransomware mediante Blindaje Híbrido",
       "source": "devto"
     }
   }
