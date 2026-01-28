@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-27T22:52:53.828156",
+  "last_updated": "2026-01-28T22:59:32.994003",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -990,6 +990,191 @@
     "b9df4e03c332c28c": {
       "date": "2026-01-27",
       "title": "Detección de Intención: El fin de los ataques Evil Twin y el Ransomware mediante Blindaje Híbrido",
+      "source": "devto"
+    },
+    "ac33857b1e7f428b": {
+      "date": "2026-01-28",
+      "title": "Airfoil (2024)",
+      "source": "hackernews"
+    },
+    "f898629c46f6f4a5": {
+      "date": "2026-01-28",
+      "title": "Oban, the job processing framework from Elixir, has come to Python",
+      "source": "hackernews"
+    },
+    "80157900613a3175": {
+      "date": "2026-01-28",
+      "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
+      "source": "hackernews"
+    },
+    "e616e0ec79d8a520": {
+      "date": "2026-01-28",
+      "title": "Android's desktop interface leaks",
+      "source": "hackernews"
+    },
+    "6eefabafc91ca1d0": {
+      "date": "2026-01-28",
+      "title": "Jellyfin LLM/\"AI\" Development Policy",
+      "source": "hackernews"
+    },
+    "3bbc1404edeb950c": {
+      "date": "2026-01-28",
+      "title": "Computer History Museum Launches Digital Portal to Its Collection",
+      "source": "hackernews"
+    },
+    "bf167963686cb707": {
+      "date": "2026-01-28",
+      "title": "Spinning around: Please don't – Common problems with spin locks",
+      "source": "hackernews"
+    },
+    "d98ffbde072a5bc3": {
+      "date": "2026-01-28",
+      "title": "Trinity large: An open 400B sparse MoE model",
+      "source": "hackernews"
+    },
+    "aa27caded565be30": {
+      "date": "2026-01-28",
+      "title": "Did a celebrated researcher obscure a baby's poisoning?",
+      "source": "hackernews"
+    },
+    "640721a9258bf3ed": {
+      "date": "2026-01-28",
+      "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+      "source": "hackernews"
+    },
+    "237fec943615f832": {
+      "date": "2026-01-28",
+      "title": "Polyglotta",
+      "source": "producthunt"
+    },
+    "6bb91bae466520b7": {
+      "date": "2026-01-28",
+      "title": "Rumora",
+      "source": "producthunt"
+    },
+    "7a5c032a7112c406": {
+      "date": "2026-01-28",
+      "title": "kuku",
+      "source": "producthunt"
+    },
+    "676ad0e69b46a456": {
+      "date": "2026-01-28",
+      "title": "dumppp",
+      "source": "producthunt"
+    },
+    "102e856c2a8a3d65": {
+      "date": "2026-01-28",
+      "title": "DataFast",
+      "source": "producthunt"
+    },
+    "485ecabc73e909c1": {
+      "date": "2026-01-28",
+      "title": "Komo Playbook",
+      "source": "producthunt"
+    },
+    "6ba7d52cd0044d40": {
+      "date": "2026-01-28",
+      "title": "Prism",
+      "source": "producthunt"
+    },
+    "0c27423aa898b1f9": {
+      "date": "2026-01-28",
+      "title": "DunSocial",
+      "source": "producthunt"
+    },
+    "3675b0176088850f": {
+      "date": "2026-01-28",
+      "title": "asgeirtj / system_prompts_leaks",
+      "source": "github"
+    },
+    "59734ff70f7d3d6b": {
+      "date": "2026-01-28",
+      "title": "NevaMind-AI / memU",
+      "source": "github"
+    },
+    "ff4df8f2ba59fc8c": {
+      "date": "2026-01-28",
+      "title": "MoonshotAI / kimi-cli",
+      "source": "github"
+    },
+    "f04498fce0adfe48": {
+      "date": "2026-01-28",
+      "title": "kubernetes / ingress-nginx",
+      "source": "github"
+    },
+    "89a665d7fafbfdc7": {
+      "date": "2026-01-28",
+      "title": "protocolbuffers / protobuf",
+      "source": "github"
+    },
+    "82164af40f45157f": {
+      "date": "2026-01-28",
+      "title": "lobehub / lobehub",
+      "source": "github"
+    },
+    "e7b27a1cc7b55aba": {
+      "date": "2026-01-28",
+      "title": "ran-j / PS2Recomp",
+      "source": "github"
+    },
+    "17881ae679509acf": {
+      "date": "2026-01-28",
+      "title": "bambulab / BambuStudio",
+      "source": "github"
+    },
+    "a4f52833e7612f92": {
+      "date": "2026-01-28",
+      "title": "GetStream / Vision-Agents",
+      "source": "github"
+    },
+    "de654620a336e158": {
+      "date": "2026-01-28",
+      "title": "About Wizards & Warlocks, Programmers & Vibe Coders",
+      "source": "devto"
+    },
+    "a9a7678bd5aba45b": {
+      "date": "2026-01-28",
+      "title": "Building Connected Agents with MCP and A2A",
+      "source": "devto"
+    },
+    "8a036785d4eb8537": {
+      "date": "2026-01-28",
+      "title": "Contributing to RubyGems (.org)",
+      "source": "devto"
+    },
+    "d683c1b2a3eb60a4": {
+      "date": "2026-01-28",
+      "title": "The Secret Life of Go: Interfaces in Practice",
+      "source": "devto"
+    },
+    "a123126c2100d5a7": {
+      "date": "2026-01-28",
+      "title": "I spent a year building a PWA to track 150 cafe workspaces. Did AI actually help, or did it just giv",
+      "source": "devto"
+    },
+    "eb25f00427b461e3": {
+      "date": "2026-01-28",
+      "title": "Welcome Thread - v362",
+      "source": "devto"
+    },
+    "8416a73c0df52604": {
+      "date": "2026-01-28",
+      "title": "I built a brain for Claude Code because it keeps forgetting everything",
+      "source": "devto"
+    },
+    "b242f43ae00b1192": {
+      "date": "2026-01-28",
+      "title": "Symfony UX: Single Directory Components (SDC) - The Path to Cleaner Architecture Without Tailwind",
+      "source": "devto"
+    },
+    "4dcab85cb716fcc0": {
+      "date": "2026-01-28",
+      "title": "Webcrawling is just a brute force algorithm",
+      "source": "devto"
+    },
+    "36fd29df7d1d23b2": {
+      "date": "2026-01-28",
+      "title": "The End of the Terminal Search Journey: An Ideal Environment Found with Ghostty and Yazi",
       "source": "devto"
     }
   }
