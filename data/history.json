@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-28T22:59:32.994003",
+  "last_updated": "2026-01-29T23:00:00.437272",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -1175,6 +1175,176 @@
     "36fd29df7d1d23b2": {
       "date": "2026-01-28",
       "title": "The End of the Terminal Search Journey: An Ideal Environment Found with Ghostty and Yazi",
+      "source": "devto"
+    },
+    "e470a75734b9907f": {
+      "date": "2026-01-29",
+      "title": "Agentic Vision in Gemini",
+      "source": "producthunt"
+    },
+    "12156e2c15a9fdb1": {
+      "date": "2026-01-29",
+      "title": "BIOS",
+      "source": "producthunt"
+    },
+    "1bd9cd0e13ad6c32": {
+      "date": "2026-01-29",
+      "title": "Willow on Windows",
+      "source": "producthunt"
+    },
+    "ef8b5d74759cbf1d": {
+      "date": "2026-01-29",
+      "title": "Silkwave",
+      "source": "producthunt"
+    },
+    "f39e04ed08b9e09e": {
+      "date": "2026-01-29",
+      "title": "Invofox 2.0",
+      "source": "producthunt"
+    },
+    "f6dd6218e2b7c01b": {
+      "date": "2026-01-29",
+      "title": "The Prompting Company",
+      "source": "producthunt"
+    },
+    "7246ef169c4dc529": {
+      "date": "2026-01-29",
+      "title": "LiquidFetch",
+      "source": "producthunt"
+    },
+    "098cebbbbc2f21ff": {
+      "date": "2026-01-29",
+      "title": "AI Chrome Extension Builder",
+      "source": "producthunt"
+    },
+    "04f56bc68a869f10": {
+      "date": "2026-01-29",
+      "title": "Europe’s next-generation weather satellite sends back first images",
+      "source": "hackernews"
+    },
+    "01db31c0f930674b": {
+      "date": "2026-01-29",
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "source": "hackernews"
+    },
+    "94377593e9edbfd8": {
+      "date": "2026-01-29",
+      "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
+      "source": "hackernews"
+    },
+    "a495fa62e693b97e": {
+      "date": "2026-01-29",
+      "title": "County pays $600k to pentesters it arrested for assessing courthouse security",
+      "source": "hackernews"
+    },
+    "b39cfbde5da17bc1": {
+      "date": "2026-01-29",
+      "title": "A lot of population numbers are fake",
+      "source": "hackernews"
+    },
+    "156c503124cdb488": {
+      "date": "2026-01-29",
+      "title": "Drug trio found to block tumour resistance in pancreatic cancer",
+      "source": "hackernews"
+    },
+    "5fa7b995dcf82044": {
+      "date": "2026-01-29",
+      "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
+      "source": "hackernews"
+    },
+    "d30e20fafb41b3cc": {
+      "date": "2026-01-29",
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "source": "hackernews"
+    },
+    "62a401f0389384b6": {
+      "date": "2026-01-29",
+      "title": "Flameshot",
+      "source": "hackernews"
+    },
+    "bc4588c1b22cffca": {
+      "date": "2026-01-29",
+      "title": "Show HN: Kolibri, a DIY music club in Sweden",
+      "source": "hackernews"
+    },
+    "9b1df52a027679d5": {
+      "date": "2026-01-29",
+      "title": "moltbot / moltbot",
+      "source": "github"
+    },
+    "fdb0dd482492d285": {
+      "date": "2026-01-29",
+      "title": "modelcontextprotocol / ext-apps",
+      "source": "github"
+    },
+    "6ecd448e3d91a720": {
+      "date": "2026-01-29",
+      "title": "anomalyco / opencode-anthropic-auth",
+      "source": "github"
+    },
+    "8fd9ef616ea4e7b4": {
+      "date": "2026-01-29",
+      "title": "pedroslopez / whatsapp-web.js",
+      "source": "github"
+    },
+    "1824a6d84bff8099": {
+      "date": "2026-01-29",
+      "title": "TeamNewPipe / NewPipe",
+      "source": "github"
+    },
+    "483e28fc4c427a10": {
+      "date": "2026-01-29",
+      "title": "microsoft / playwright-cli",
+      "source": "github"
+    },
+    "c8b0cecf0a54c91d": {
+      "date": "2026-01-29",
+      "title": "The Internet’s Addiction to Being Contrary",
+      "source": "devto"
+    },
+    "97d92fc8350dc4ae": {
+      "date": "2026-01-29",
+      "title": "GitHub Copilot CLI Challenge Badges Are Here + 28 Chances to Win a Prize!",
+      "source": "devto"
+    },
+    "323b906f3ce5f03d": {
+      "date": "2026-01-29",
+      "title": "Is Learning CSS a Waste of Time in 2026?",
+      "source": "devto"
+    },
+    "1fdb1d4aacda9684": {
+      "date": "2026-01-29",
+      "title": "Is the language war even real?",
+      "source": "devto"
+    },
+    "c5c432101488a5c3": {
+      "date": "2026-01-29",
+      "title": "The Valley of Code: A Learning Resource",
+      "source": "devto"
+    },
+    "687a87b3c625ffcf": {
+      "date": "2026-01-29",
+      "title": "Before I forget how I got here...",
+      "source": "devto"
+    },
+    "d7fb0951be6ab3e2": {
+      "date": "2026-01-29",
+      "title": "How Bifrost’s MCP Gateway and Code Mode Power Production-Grade LLM Gateways",
+      "source": "devto"
+    },
+    "8f94d07a4602463c": {
+      "date": "2026-01-29",
+      "title": "The Secret Life of Go: Consumer-Defined Interfaces",
+      "source": "devto"
+    },
+    "c48bffbc43f18d14": {
+      "date": "2026-01-29",
+      "title": "Announcing Meteroid OSS v1 RC and Cloud 🦀",
+      "source": "devto"
+    },
+    "f0ff72d596a5a602": {
+      "date": "2026-01-29",
+      "title": "Why I Sometimes Leave Tech Events Feeling Smaller",
       "source": "devto"
     }
   }
