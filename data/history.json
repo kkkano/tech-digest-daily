@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-29T23:00:00.437272",
+  "last_updated": "2026-01-30T22:59:20.746055",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -1346,6 +1346,151 @@
       "date": "2026-01-29",
       "title": "Why I Sometimes Leave Tech Events Feeling Smaller",
       "source": "devto"
+    },
+    "245a87485a330e86": {
+      "date": "2026-01-30",
+      "title": "Moltbook",
+      "source": "hackernews"
+    },
+    "db5139aae809dde8": {
+      "date": "2026-01-30",
+      "title": "Antirender: remove the glossy shine on architectural renderings",
+      "source": "hackernews"
+    },
+    "76c70b1e4e11de96": {
+      "date": "2026-01-30",
+      "title": "The engineer who invented the Mars rover suspension in his garage [video]",
+      "source": "hackernews"
+    },
+    "cfda7faf1941ebc2": {
+      "date": "2026-01-30",
+      "title": "Kimi K2.5 Technical Report [pdf]",
+      "source": "hackernews"
+    },
+    "e5abad1512c8d417": {
+      "date": "2026-01-30",
+      "title": "HTTP Cats",
+      "source": "hackernews"
+    },
+    "a664edebaccd047c": {
+      "date": "2026-01-30",
+      "title": "Peerweb: Decentralized website hosting via WebTorrent",
+      "source": "hackernews"
+    },
+    "9308410d543b8257": {
+      "date": "2026-01-30",
+      "title": "The National Herbarium of Ireland digital collection of Irish plants",
+      "source": "hackernews"
+    },
+    "3a27278ecba9fc3f": {
+      "date": "2026-01-30",
+      "title": "Software Survival 3.0",
+      "source": "hackernews"
+    },
+    "8c856147198b0c33": {
+      "date": "2026-01-30",
+      "title": "Vitamin D supplements cut heart attack risk by 52%. Why?",
+      "source": "hackernews"
+    },
+    "0c827ff07b2ccc3e": {
+      "date": "2026-01-30",
+      "title": "Show HN: I built an AI conversation partner to practice speaking languages",
+      "source": "hackernews"
+    },
+    "11dbdb906527798c": {
+      "date": "2026-01-30",
+      "title": "Leapility",
+      "source": "producthunt"
+    },
+    "065cea2284d93004": {
+      "date": "2026-01-30",
+      "title": "Archimyst",
+      "source": "producthunt"
+    },
+    "47822aa988d3a518": {
+      "date": "2026-01-30",
+      "title": "Superagent from Airtable",
+      "source": "producthunt"
+    },
+    "db67552432dc4802": {
+      "date": "2026-01-30",
+      "title": "NMTV",
+      "source": "producthunt"
+    },
+    "b89796e35c1ad838": {
+      "date": "2026-01-30",
+      "title": "YepCode",
+      "source": "producthunt"
+    },
+    "08f16df8c0d7d6a5": {
+      "date": "2026-01-30",
+      "title": "Cntrl Bridge",
+      "source": "producthunt"
+    },
+    "f1b289c8a21a057f": {
+      "date": "2026-01-30",
+      "title": "Geekflare API",
+      "source": "producthunt"
+    },
+    "7aaf77f8c18f9898": {
+      "date": "2026-01-30",
+      "title": "Kokori",
+      "source": "producthunt"
+    },
+    "67c3f271e5710b84": {
+      "date": "2026-01-30",
+      "title": "Unpopular Opinion: I stopped coding on weekends and my career got better.",
+      "source": "devto"
+    },
+    "d997426f8ed406a1": {
+      "date": "2026-01-30",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "8f5e0fc116369c90": {
+      "date": "2026-01-30",
+      "title": "Gemini versus Gemma: Still Confused?",
+      "source": "devto"
+    },
+    "4f86cb4d30a55f22": {
+      "date": "2026-01-30",
+      "title": "I'm Passing on the GitHub CoPilot CLI Challenge",
+      "source": "devto"
+    },
+    "681e255cffeb2224": {
+      "date": "2026-01-30",
+      "title": "New developer tools for Google AI Pro and Ultra subscribers",
+      "source": "devto"
+    },
+    "c866dd9a0030d1c4": {
+      "date": "2026-01-30",
+      "title": "New Year, New You Portfolio Challenge - Evolving \"Portfolios\" into an Agent",
+      "source": "devto"
+    },
+    "6b61b1e5288a8f96": {
+      "date": "2026-01-30",
+      "title": "🔬 Copilot Autopsy: AI-Powered Repository Forensics",
+      "source": "devto"
+    },
+    "93b8562d70e59298": {
+      "date": "2026-01-30",
+      "title": "Autopilot - Extra: Coding a Zero-Maintenance, AI-Native Newsletter System",
+      "source": "devto"
+    },
+    "2ea00e7acb32fafa": {
+      "date": "2026-01-30",
+      "title": "Making Invalid States Unrepresentable: The Billion-Dollar Mistake That Wasn't",
+      "source": "devto"
+    },
+    "7555b0363daa1846": {
+      "date": "2026-01-30",
+      "title": "# I built an Encrypted Vault for .env files inside VS Code",
+      "source": "devto"
+    },
+    "0bd21c2cf11fc945": {
+      "date": "2026-01-30",
+      "title": "openclaw / openclaw",
+      "source": "github"
     }
   }
 }
