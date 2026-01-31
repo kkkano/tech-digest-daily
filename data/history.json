@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-30T22:59:20.746055",
+  "last_updated": "2026-01-31T22:55:42.768301",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -1491,6 +1491,176 @@
       "date": "2026-01-30",
       "title": "openclaw / openclaw",
       "source": "github"
+    },
+    "50ca4c3a5665371a": {
+      "date": "2026-01-31",
+      "title": "skills.sh",
+      "source": "producthunt"
+    },
+    "0336ef1673dcfb6e": {
+      "date": "2026-01-31",
+      "title": "ClaudeUsageBar",
+      "source": "producthunt"
+    },
+    "f24df66ed0399949": {
+      "date": "2026-01-31",
+      "title": "DestMate",
+      "source": "producthunt"
+    },
+    "36390b4d46c734fd": {
+      "date": "2026-01-31",
+      "title": "Lost Post",
+      "source": "producthunt"
+    },
+    "251751489f0ecf72": {
+      "date": "2026-01-31",
+      "title": "Finland to end \"uncontrolled human experiment\" with ban on youth social media",
+      "source": "hackernews"
+    },
+    "fe80ef59c7350910": {
+      "date": "2026-01-31",
+      "title": "Mobile carriers can get your GPS location",
+      "source": "hackernews"
+    },
+    "21fe10d12655450a": {
+      "date": "2026-01-31",
+      "title": "CPython Internals Explained",
+      "source": "hackernews"
+    },
+    "62f7070977ae6e92": {
+      "date": "2026-01-31",
+      "title": "US has investigated claims WhatsApp chats aren't private",
+      "source": "hackernews"
+    },
+    "59cf6a665c6d03ba": {
+      "date": "2026-01-31",
+      "title": "Genode OS is a tool kit for building highly secure special-purpose OS",
+      "source": "hackernews"
+    },
+    "81c793a6786e90f8": {
+      "date": "2026-01-31",
+      "title": "Nintendo DS code editor and scriptable game engine",
+      "source": "hackernews"
+    },
+    "3e2a2868b14328a0": {
+      "date": "2026-01-31",
+      "title": "Demystifying ARM SME to Optimize General Matrix Multiplications",
+      "source": "hackernews"
+    },
+    "64135c9a8a2cdb38": {
+      "date": "2026-01-31",
+      "title": "The Saddest Moment (2013) [pdf]",
+      "source": "hackernews"
+    },
+    "52c08e59ad1c5696": {
+      "date": "2026-01-31",
+      "title": "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
+      "source": "hackernews"
+    },
+    "bd1e8142c5d375ec": {
+      "date": "2026-01-31",
+      "title": "Autonomous cars, drones cheerfully obey prompt injection by road sign",
+      "source": "hackernews"
+    },
+    "c29936fe0aa05b98": {
+      "date": "2026-01-31",
+      "title": "ThePrimeagen / 99",
+      "source": "github"
+    },
+    "33b0d84c745e52f3": {
+      "date": "2026-01-31",
+      "title": "microsoft / BitNet",
+      "source": "github"
+    },
+    "0f779bc236545d9c": {
+      "date": "2026-01-31",
+      "title": "microsoft / agent-lightning",
+      "source": "github"
+    },
+    "68c57e7779dc4696": {
+      "date": "2026-01-31",
+      "title": "PaddlePaddle / PaddleOCR",
+      "source": "github"
+    },
+    "f2ef8f8410a81a77": {
+      "date": "2026-01-31",
+      "title": "anthropics / claude-plugins-official",
+      "source": "github"
+    },
+    "2cd560aef18e9807": {
+      "date": "2026-01-31",
+      "title": "microsoft / PowerToys",
+      "source": "github"
+    },
+    "bb504e2bb8d5d21f": {
+      "date": "2026-01-31",
+      "title": "termux / termux-app",
+      "source": "github"
+    },
+    "2919f157d9e754b7": {
+      "date": "2026-01-31",
+      "title": "AlexanderGrooff / mermaid-ascii",
+      "source": "github"
+    },
+    "9be2298923154546": {
+      "date": "2026-01-31",
+      "title": "reconurge / flowsint",
+      "source": "github"
+    },
+    "dd96a3f3f4b9af84": {
+      "date": "2026-01-31",
+      "title": "cline / cline",
+      "source": "github"
+    },
+    "9994c95af5aa5bce": {
+      "date": "2026-01-31",
+      "title": "🌊 Logtide 0.5.0: Making Observability Simpler and More Powerful",
+      "source": "devto"
+    },
+    "22b903b2733c4537": {
+      "date": "2026-01-31",
+      "title": "Minha Jornada na Área de Dados: Um Guia Para Quem Está Começando",
+      "source": "devto"
+    },
+    "b656fb32d2357c7a": {
+      "date": "2026-01-31",
+      "title": "The Secret Life of JavaScript: The Proxy",
+      "source": "devto"
+    },
+    "7f0fb6f9560cae5a": {
+      "date": "2026-01-31",
+      "title": "Starting Without a Perfect Plan",
+      "source": "devto"
+    },
+    "0224794552e8f2eb": {
+      "date": "2026-01-31",
+      "title": "Why CLAUDE.md Is the Most Important File in Your Codebase",
+      "source": "devto"
+    },
+    "43a797cf62aeda87": {
+      "date": "2026-01-31",
+      "title": "The Ronin's Path: Building a Pure Portfolio for the Google AI Challenge",
+      "source": "devto"
+    },
+    "95df44cfa1121004": {
+      "date": "2026-01-31",
+      "title": "Why CLAUDE.md Is one of the Most Important File in Your Codebase",
+      "source": "devto"
+    },
+    "43e9628dd1baee8f": {
+      "date": "2026-01-31",
+      "title": "Logging Strategies for Real-Time Applications: Session Tracking at Scale",
+      "source": "devto"
+    },
+    "23f79d8dd48b0e36": {
+      "date": "2026-01-31",
+      "title": "from typing import FinallyAnExplanation",
+      "source": "devto"
+    },
+    "5cfc5b45aa27cb77": {
+      "date": "2026-01-31",
+      "title": "Abu Taher Siddik | The Celestial Full Stack Architect",
+      "source": "devto"
     }
   }
 }
