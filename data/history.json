@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-01-31T22:55:42.768301",
+  "last_updated": "2026-02-01T22:57:34.722753",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -1660,6 +1660,171 @@
     "5cfc5b45aa27cb77": {
       "date": "2026-01-31",
       "title": "Abu Taher Siddik | The Celestial Full Stack Architect",
+      "source": "devto"
+    },
+    "d40bc32a19951a09": {
+      "date": "2026-02-01",
+      "title": "Dottie",
+      "source": "producthunt"
+    },
+    "545d204e2ad1a830": {
+      "date": "2026-02-01",
+      "title": "Time Ledger",
+      "source": "producthunt"
+    },
+    "c0acaec3c169e25f": {
+      "date": "2026-02-01",
+      "title": "Compressor",
+      "source": "producthunt"
+    },
+    "e59cbb1632148cf1": {
+      "date": "2026-02-01",
+      "title": "Good Assistant",
+      "source": "producthunt"
+    },
+    "be92ce3e7bace06d": {
+      "date": "2026-02-01",
+      "title": "Hyta",
+      "source": "producthunt"
+    },
+    "758b7ee6baf62fc1": {
+      "date": "2026-02-01",
+      "title": "Emra / Always on Transcription and PTT",
+      "source": "producthunt"
+    },
+    "6dd66f8d503daa20": {
+      "date": "2026-02-01",
+      "title": "Netbird – Open Source Zero Trust Networking",
+      "source": "hackernews"
+    },
+    "e7a42579c3b0d6bd": {
+      "date": "2026-02-01",
+      "title": "I taught my neighbor to keep the volume down",
+      "source": "hackernews"
+    },
+    "7345956e045f6113": {
+      "date": "2026-02-01",
+      "title": "What I learned building an opinionated and minimal coding agent",
+      "source": "hackernews"
+    },
+    "96078b933afe18af": {
+      "date": "2026-02-01",
+      "title": "Adventure Game Studio: OSS software for creating adventure games",
+      "source": "hackernews"
+    },
+    "fc8f6a37587d4ef8": {
+      "date": "2026-02-01",
+      "title": "Apple I Advertisement (1976)",
+      "source": "hackernews"
+    },
+    "f4225093c4ef97f2": {
+      "date": "2026-02-01",
+      "title": "TIL: Apple Broke Time Machine Again on Tahoe",
+      "source": "hackernews"
+    },
+    "632f10951b0dfd82": {
+      "date": "2026-02-01",
+      "title": "Efficient String Compression for Modern Database Systems",
+      "source": "hackernews"
+    },
+    "d75841ad5fac8ef1": {
+      "date": "2026-02-01",
+      "title": "Defeating a 40-year-old copy protection dongle",
+      "source": "hackernews"
+    },
+    "f5a2109839938ef5": {
+      "date": "2026-02-01",
+      "title": "My thousand dollar iPhone can't do math",
+      "source": "hackernews"
+    },
+    "39b3bf528868d76d": {
+      "date": "2026-02-01",
+      "title": "Towards a science of scaling agent systems: When and why agent systems work",
+      "source": "hackernews"
+    },
+    "95534353b3fed268": {
+      "date": "2026-02-01",
+      "title": "pedramamini / Maestro",
+      "source": "github"
+    },
+    "82c4b27cc4793d66": {
+      "date": "2026-02-01",
+      "title": "kovidgoyal / calibre",
+      "source": "github"
+    },
+    "f08d8cf2c7baf95f": {
+      "date": "2026-02-01",
+      "title": "thedotmack / claude-mem",
+      "source": "github"
+    },
+    "b3912961a426a6b4": {
+      "date": "2026-02-01",
+      "title": "amantus-ai / vibetunnel",
+      "source": "github"
+    },
+    "8689ab58cebfc899": {
+      "date": "2026-02-01",
+      "title": "steipete / CodexBar",
+      "source": "github"
+    },
+    "89dcbdce761db703": {
+      "date": "2026-02-01",
+      "title": "j178 / prek",
+      "source": "github"
+    },
+    "445996de377e6119": {
+      "date": "2026-02-01",
+      "title": "vita-epfl / Stable-Video-Infinity",
+      "source": "github"
+    },
+    "d5a721fbd2233313": {
+      "date": "2026-02-01",
+      "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
+      "source": "devto"
+    },
+    "624d9d64e475fdc2": {
+      "date": "2026-02-01",
+      "title": "The Secret Life of JavaScript: The Generator",
+      "source": "devto"
+    },
+    "be722e7b7bb10f38": {
+      "date": "2026-02-01",
+      "title": "Debug a Coding Journey Blog Page",
+      "source": "devto"
+    },
+    "a33e00dafe8b531f": {
+      "date": "2026-02-01",
+      "title": "The Cult of Clean Code",
+      "source": "devto"
+    },
+    "592f90afe97d8f9e": {
+      "date": "2026-02-01",
+      "title": "I Built QualityHub: AI-Powered Quality Intelligence for Your Releases",
+      "source": "devto"
+    },
+    "6fcff99a5c0d1ce4": {
+      "date": "2026-02-01",
+      "title": "From Blocking to Non-Blocking: Architecting High-Concurrency Signaling with Quart",
+      "source": "devto"
+    },
+    "c0e4aae5d59a5428": {
+      "date": "2026-02-01",
+      "title": "How I built a Moroccan Legal AI with $0 to beat a $200k Startup",
+      "source": "devto"
+    },
+    "ed9d2ef079698083": {
+      "date": "2026-02-01",
+      "title": "MindsEye AI: Building a Ledger-First Agentic System Inside Google Workspace",
+      "source": "devto"
+    },
+    "9bedcb6955c3a480": {
+      "date": "2026-02-01",
+      "title": "I Built a Native RTL Python GUI with Tkinter (and it actually looks good)",
+      "source": "devto"
+    },
+    "5597ebc7b5f1fc57": {
+      "date": "2026-02-01",
+      "title": "LinkedIn is Microsoft Infrastructure",
       "source": "devto"
     }
   }
