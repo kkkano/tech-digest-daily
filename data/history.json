@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-01T22:57:34.722753",
+  "last_updated": "2026-02-02T23:09:05.492334",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -1825,6 +1825,171 @@
     "5597ebc7b5f1fc57": {
       "date": "2026-02-01",
       "title": "LinkedIn is Microsoft Infrastructure",
+      "source": "devto"
+    },
+    "d2417ac309d149b8": {
+      "date": "2026-02-02",
+      "title": "Molthunt",
+      "source": "producthunt"
+    },
+    "555ce938210ac5b9": {
+      "date": "2026-02-02",
+      "title": "Moltweet",
+      "source": "producthunt"
+    },
+    "aa7948374c2c8c3f": {
+      "date": "2026-02-02",
+      "title": "Portal",
+      "source": "producthunt"
+    },
+    "e3ba6fe4e34ae839": {
+      "date": "2026-02-02",
+      "title": "Polyvia",
+      "source": "producthunt"
+    },
+    "c3dba039492409a7": {
+      "date": "2026-02-02",
+      "title": "EasyClaw",
+      "source": "producthunt"
+    },
+    "83d62148c38ddeed": {
+      "date": "2026-02-02",
+      "title": "Design In The Browser",
+      "source": "producthunt"
+    },
+    "ab32bc9eb76083cb": {
+      "date": "2026-02-02",
+      "title": "moltbook",
+      "source": "producthunt"
+    },
+    "2312902974ef2096": {
+      "date": "2026-02-02",
+      "title": "Voice Anywhere",
+      "source": "producthunt"
+    },
+    "0345dfcb87ab92b0": {
+      "date": "2026-02-02",
+      "title": "The Codex App",
+      "source": "hackernews"
+    },
+    "7b7951d3ea1f2c98": {
+      "date": "2026-02-02",
+      "title": "Todd C. Miller – Sudo maintainer for over 30 years",
+      "source": "hackernews"
+    },
+    "9e4770255044ca76": {
+      "date": "2026-02-02",
+      "title": "Nano-vLLM: How a vLLM-style inference engine works",
+      "source": "hackernews"
+    },
+    "3f0301148489f431": {
+      "date": "2026-02-02",
+      "title": "Hacking Moltbook",
+      "source": "hackernews"
+    },
+    "c46e2be8e578eec9": {
+      "date": "2026-02-02",
+      "title": "xAI joins SpaceX",
+      "source": "hackernews"
+    },
+    "b853f8a571e0029a": {
+      "date": "2026-02-02",
+      "title": "Geologists may have solved mystery of Green River's 'uphill' route",
+      "source": "hackernews"
+    },
+    "d7e7f90dc29b9221": {
+      "date": "2026-02-02",
+      "title": "Anki ownership transferred to AnkiHub",
+      "source": "hackernews"
+    },
+    "12f40143f5b25b5f": {
+      "date": "2026-02-02",
+      "title": "Advancing AI Benchmarking with Game Arena",
+      "source": "hackernews"
+    },
+    "5b6d58134eaf9f23": {
+      "date": "2026-02-02",
+      "title": "Zig Libc",
+      "source": "hackernews"
+    },
+    "170e244c65564cc8": {
+      "date": "2026-02-02",
+      "title": "The largest number representable in 64 bits",
+      "source": "hackernews"
+    },
+    "c2fa17501ae427b2": {
+      "date": "2026-02-02",
+      "title": "netbirdio / netbird",
+      "source": "github"
+    },
+    "650662eced1761ea": {
+      "date": "2026-02-02",
+      "title": "OpenBMB / ChatDev",
+      "source": "github"
+    },
+    "f962742aef5f217b": {
+      "date": "2026-02-02",
+      "title": "autobrr / qui",
+      "source": "github"
+    },
+    "971dc80d24870e3a": {
+      "date": "2026-02-02",
+      "title": "karpathy / nanochat",
+      "source": "github"
+    },
+    "82f99bdb43e3e375": {
+      "date": "2026-02-02",
+      "title": "langchain-ai / rag-from-scratch",
+      "source": "github"
+    },
+    "3a8e39145166aa31": {
+      "date": "2026-02-02",
+      "title": "Online Community Demise and why DEV is Different (at least a little bit, I hope)",
+      "source": "devto"
+    },
+    "35ee39cf448f3baa": {
+      "date": "2026-02-02",
+      "title": "Setting Up OpenClaw on exe.dev with Discord",
+      "source": "devto"
+    },
+    "e66c6a2b9c3a40d9": {
+      "date": "2026-02-02",
+      "title": "The Compiler Never Used Sarcasm: Why AI Feels Unsafe to the Neurodivergent Coder",
+      "source": "devto"
+    },
+    "b2eb80e0102c5860": {
+      "date": "2026-02-02",
+      "title": "Antigravity the Ralph Wiggum style",
+      "source": "devto"
+    },
+    "b36eda569166c6b6": {
+      "date": "2026-02-02",
+      "title": "Following Back: My Approach",
+      "source": "devto"
+    },
+    "77b72ac80ac14d53": {
+      "date": "2026-02-02",
+      "title": "DigitalOcean on Dev.to: Practical AI Insights for Builders",
+      "source": "devto"
+    },
+    "545a46e2828a34fe": {
+      "date": "2026-02-02",
+      "title": "🪙Let’s Become a Millionaire in a Second (Gold Fountain with React Three Fiber)🪙",
+      "source": "devto"
+    },
+    "fbdfd77fa19cf132": {
+      "date": "2026-02-02",
+      "title": "Rachel Wang's Portfolio - Built with Gemini & Cloud Run",
+      "source": "devto"
+    },
+    "b329fe2c5bf78f9c": {
+      "date": "2026-02-02",
+      "title": "Moltbook Exposed: It's Human Slop, Not AI Awakening",
+      "source": "devto"
+    },
+    "97bf9749f3200cda": {
+      "date": "2026-02-02",
+      "title": "I Built My Own DeepSite Alternative That Works with Kimi K2.5, Gemini, or Any Model",
       "source": "devto"
     }
   }
