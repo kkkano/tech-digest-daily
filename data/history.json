@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-02T23:09:05.492334",
+  "last_updated": "2026-02-03T23:03:12.600690",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -1990,6 +1990,166 @@
     "97bf9749f3200cda": {
       "date": "2026-02-02",
       "title": "I Built My Own DeepSite Alternative That Works with Kimi K2.5, Gemini, or Any Model",
+      "source": "devto"
+    },
+    "fb995a8a64582189": {
+      "date": "2026-02-03",
+      "title": "Hugo",
+      "source": "producthunt"
+    },
+    "b29540a8520c9368": {
+      "date": "2026-02-03",
+      "title": "findable.",
+      "source": "producthunt"
+    },
+    "d455d13081809834": {
+      "date": "2026-02-03",
+      "title": "Logo Link by Brand.dev",
+      "source": "producthunt"
+    },
+    "86acdde9a8a068c3": {
+      "date": "2026-02-03",
+      "title": "Paso",
+      "source": "producthunt"
+    },
+    "90198abf3f25c180": {
+      "date": "2026-02-03",
+      "title": "Atoms",
+      "source": "producthunt"
+    },
+    "19ee10a03b026b41": {
+      "date": "2026-02-03",
+      "title": "Yavy",
+      "source": "producthunt"
+    },
+    "0558c51481eef3cb": {
+      "date": "2026-02-03",
+      "title": "Pangolin",
+      "source": "producthunt"
+    },
+    "3d084c1fe514b21a": {
+      "date": "2026-02-03",
+      "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
+      "source": "hackernews"
+    },
+    "3d28ff92adc3aafa": {
+      "date": "2026-02-03",
+      "title": "What's up with all those equals signs anyway?",
+      "source": "hackernews"
+    },
+    "3a18a0b212d20946": {
+      "date": "2026-02-03",
+      "title": "Qwen3-Coder-Next",
+      "source": "hackernews"
+    },
+    "5841ad6fb1f3f8de": {
+      "date": "2026-02-03",
+      "title": "Agent Skills",
+      "source": "hackernews"
+    },
+    "4ffdac577c8867b1": {
+      "date": "2026-02-03",
+      "title": "Deno Sandbox",
+      "source": "hackernews"
+    },
+    "a1df1deae9c3af24": {
+      "date": "2026-02-03",
+      "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+      "source": "hackernews"
+    },
+    "9057ebbfccc265cd": {
+      "date": "2026-02-03",
+      "title": "OpenClaw is basically a cascade of LLMs in prime position to mess stuff up",
+      "source": "hackernews"
+    },
+    "0e84f09f1a621317": {
+      "date": "2026-02-03",
+      "title": "Lessons Learned Shipping 500 Units of My First Hardware Product",
+      "source": "hackernews"
+    },
+    "93343a9657f29ecb": {
+      "date": "2026-02-03",
+      "title": "FlashAttention-T: Towards Tensorized Attention",
+      "source": "hackernews"
+    },
+    "549618377aa1ef17": {
+      "date": "2026-02-03",
+      "title": "masoncl / review-prompts",
+      "source": "github"
+    },
+    "e60f6498c318c48b": {
+      "date": "2026-02-03",
+      "title": "openai / skills",
+      "source": "github"
+    },
+    "07fc169de8170b83": {
+      "date": "2026-02-03",
+      "title": "automazeio / ccpm",
+      "source": "github"
+    },
+    "c3257d531a3c4d89": {
+      "date": "2026-02-03",
+      "title": "obra / superpowers",
+      "source": "github"
+    },
+    "1556da33724cda2d": {
+      "date": "2026-02-03",
+      "title": "virattt / dexter",
+      "source": "github"
+    },
+    "aa1677553ddfe423": {
+      "date": "2026-02-03",
+      "title": "vm0-ai / vm0",
+      "source": "github"
+    },
+    "c12228e47df94bb4": {
+      "date": "2026-02-03",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "2a46d57b61da2c3d": {
+      "date": "2026-02-03",
+      "title": "I Vibe Coded a Multiplayer ASL Game using MQTT! 🌐",
+      "source": "devto"
+    },
+    "8057a8d65a0a9813": {
+      "date": "2026-02-03",
+      "title": "Above the API: What Developers Contribute When AI Can Code",
+      "source": "devto"
+    },
+    "d247be098bbcba9e": {
+      "date": "2026-02-03",
+      "title": "Realtime Multimodal AI on Ray-Ban Meta Glasses with Gemini Live & LiveKit",
+      "source": "devto"
+    },
+    "96004ca6e5654ef9": {
+      "date": "2026-02-03",
+      "title": "SMART Goals Don't Have to Be a Chore 🎯",
+      "source": "devto"
+    },
+    "5703ba63f73d091a": {
+      "date": "2026-02-03",
+      "title": "The 48-Hour Collapse of Moltbook",
+      "source": "devto"
+    },
+    "8f3ecab1404b5097": {
+      "date": "2026-02-03",
+      "title": "Build a Tech Conference Schedule Table",
+      "source": "devto"
+    },
+    "4d1050fdde91cd31": {
+      "date": "2026-02-03",
+      "title": "I Spent Over 9000 Hours Building a Tool to Save 5 Seconds of Right-Clicking",
+      "source": "devto"
+    },
+    "79750d5646c39317": {
+      "date": "2026-02-03",
+      "title": "SnapPoint: A Hard Reset for Your Dev Machine",
+      "source": "devto"
+    },
+    "040d0838f466508a": {
+      "date": "2026-02-03",
+      "title": "Stop Logging Raw JSON: How I Built a Visual Audit Trail for Filament PHP",
       "source": "devto"
     }
   }
