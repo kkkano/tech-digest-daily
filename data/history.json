@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-03T23:03:12.600690",
+  "last_updated": "2026-02-04T22:55:41.535299",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -2151,6 +2151,186 @@
       "date": "2026-02-03",
       "title": "Stop Logging Raw JSON: How I Built a Visual Audit Trail for Filament PHP",
       "source": "devto"
+    },
+    "165060417da95541": {
+      "date": "2026-02-04",
+      "title": "Voxtral Transcribe 2",
+      "source": "hackernews"
+    },
+    "7779f6bb23c9f398": {
+      "date": "2026-02-04",
+      "title": "AI is killing B2B SaaS",
+      "source": "hackernews"
+    },
+    "0b21c55632dd1008": {
+      "date": "2026-02-04",
+      "title": "Tractor",
+      "source": "hackernews"
+    },
+    "86f013e06d0ad1ad": {
+      "date": "2026-02-04",
+      "title": "Claude Code: connect to a local model when your quota runs out",
+      "source": "hackernews"
+    },
+    "f712f66cccce39fa": {
+      "date": "2026-02-04",
+      "title": "Building a 24-bit arcade CRT display adapter from scratch",
+      "source": "hackernews"
+    },
+    "e0696cebfb6b5004": {
+      "date": "2026-02-04",
+      "title": "Claude Code for Infrastructure",
+      "source": "hackernews"
+    },
+    "fed4434c6b2b43d9": {
+      "date": "2026-02-04",
+      "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
+      "source": "hackernews"
+    },
+    "7cc91d24c0cfe003": {
+      "date": "2026-02-04",
+      "title": "The Singularity Is Always Near (2006)",
+      "source": "hackernews"
+    },
+    "c0b27eeba71896f3": {
+      "date": "2026-02-04",
+      "title": "A real-world benchmark for AI code review",
+      "source": "hackernews"
+    },
+    "f4c59151f2b7d325": {
+      "date": "2026-02-04",
+      "title": "Remarkable Pro Colors",
+      "source": "hackernews"
+    },
+    "714a60dfcff8baf6": {
+      "date": "2026-02-04",
+      "title": "Unblocked Code Review",
+      "source": "producthunt"
+    },
+    "f033a62d18e26b4b": {
+      "date": "2026-02-04",
+      "title": "Xcode 26.3",
+      "source": "producthunt"
+    },
+    "593fe56e2998cd18": {
+      "date": "2026-02-04",
+      "title": "Universal-3 Pro",
+      "source": "producthunt"
+    },
+    "cd5357e1e3287935": {
+      "date": "2026-02-04",
+      "title": "Bunny Database",
+      "source": "producthunt"
+    },
+    "f255f4ebbb5a3abe": {
+      "date": "2026-02-04",
+      "title": "Ember Mug CLI",
+      "source": "producthunt"
+    },
+    "ca24bcb2c5aeba83": {
+      "date": "2026-02-04",
+      "title": "SERA",
+      "source": "producthunt"
+    },
+    "64207818a4966920": {
+      "date": "2026-02-04",
+      "title": "Multitui",
+      "source": "producthunt"
+    },
+    "491607a13d400828": {
+      "date": "2026-02-04",
+      "title": "Camzy",
+      "source": "producthunt"
+    },
+    "a218956ba66563e4": {
+      "date": "2026-02-04",
+      "title": "Moltbook Is Not an AI Society",
+      "source": "devto"
+    },
+    "7f082dfad33bec7d": {
+      "date": "2026-02-04",
+      "title": "Why do you write?",
+      "source": "devto"
+    },
+    "6dd08dfd799813d7": {
+      "date": "2026-02-04",
+      "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
+      "source": "devto"
+    },
+    "1cf94769eaba942a": {
+      "date": "2026-02-04",
+      "title": "An Al-go-llama Adventure",
+      "source": "devto"
+    },
+    "ddc5e12cc39041e0": {
+      "date": "2026-02-04",
+      "title": "I Watched an Anime and Built a VS Code Theme Bundle Inspired by 17th-Century Japanese Art",
+      "source": "devto"
+    },
+    "48f41df8e507733c": {
+      "date": "2026-02-04",
+      "title": "Welcome Thread - v363",
+      "source": "devto"
+    },
+    "c4106744d628c568": {
+      "date": "2026-02-04",
+      "title": "Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here's Why)",
+      "source": "devto"
+    },
+    "2ce93dd1b7c62189": {
+      "date": "2026-02-04",
+      "title": "The Secret Life of Python: The Shadow Name",
+      "source": "devto"
+    },
+    "ea62ae15ac9e73eb": {
+      "date": "2026-02-04",
+      "title": "Mastering Data Sanitization in Legacy React Applications: A Lead QA Engineer's Approach",
+      "source": "devto"
+    },
+    "c95d7a82d869094c": {
+      "date": "2026-02-04",
+      "title": "I brought C++23 to Windows 95 because Microsoft told me my PC was too old",
+      "source": "devto"
+    },
+    "06bc1b3524d9b848": {
+      "date": "2026-02-04",
+      "title": "disler / claude-code-hooks-mastery",
+      "source": "github"
+    },
+    "8088d27b11eb5bed": {
+      "date": "2026-02-04",
+      "title": "ankitects / anki",
+      "source": "github"
+    },
+    "c2b8652385182a02": {
+      "date": "2026-02-04",
+      "title": "open-telemetry / opentelemetry-collector-contrib",
+      "source": "github"
+    },
+    "818ae6c0dbde6156": {
+      "date": "2026-02-04",
+      "title": "Canner / WrenAI",
+      "source": "github"
+    },
+    "e2e3cda3fa2e6709": {
+      "date": "2026-02-04",
+      "title": "nvm-sh / nvm",
+      "source": "github"
+    },
+    "34fc9d9a9bfb282b": {
+      "date": "2026-02-04",
+      "title": "microsoft / qlib",
+      "source": "github"
+    },
+    "b4c1f3891d0e98fc": {
+      "date": "2026-02-04",
+      "title": "LadybirdBrowser / ladybird",
+      "source": "github"
+    },
+    "239fc0bbdc76c10b": {
+      "date": "2026-02-04",
+      "title": "likec4 / likec4",
+      "source": "github"
     }
   }
 }
