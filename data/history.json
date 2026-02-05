@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-04T22:55:41.535299",
+  "last_updated": "2026-02-05T22:59:40.416882",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -2330,6 +2330,176 @@
     "239fc0bbdc76c10b": {
       "date": "2026-02-04",
       "title": "likec4 / likec4",
+      "source": "github"
+    },
+    "ffb4fb0646fb7fd6": {
+      "date": "2026-02-05",
+      "title": "Claude Opus 4.6",
+      "source": "hackernews"
+    },
+    "f2f15af63dc647ec": {
+      "date": "2026-02-05",
+      "title": "Don't rent the cloud, own instead",
+      "source": "hackernews"
+    },
+    "068683f1f425905f": {
+      "date": "2026-02-05",
+      "title": "GPT-5.3-Codex",
+      "source": "hackernews"
+    },
+    "96ad47c8658cd8b3": {
+      "date": "2026-02-05",
+      "title": "Orchestrate teams of Claude Code sessions",
+      "source": "hackernews"
+    },
+    "57dc6ba6206eb74c": {
+      "date": "2026-02-05",
+      "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
+      "source": "hackernews"
+    },
+    "1ae2b15a9de2abdf": {
+      "date": "2026-02-05",
+      "title": "LinkedIn checks for 2953 browser extensions",
+      "source": "hackernews"
+    },
+    "cece43d75662f518": {
+      "date": "2026-02-05",
+      "title": "My AI Adoption Journey",
+      "source": "hackernews"
+    },
+    "1561a4f07bc8bf92": {
+      "date": "2026-02-05",
+      "title": "It's 2026, Just Use Postgres",
+      "source": "hackernews"
+    },
+    "6ba7a97acf9c8df2": {
+      "date": "2026-02-05",
+      "title": "Recreating Epstein PDFs from raw encoded attachments",
+      "source": "hackernews"
+    },
+    "ff25f44704d33761": {
+      "date": "2026-02-05",
+      "title": "Claude Opus 4.6 extra usage promo",
+      "source": "hackernews"
+    },
+    "baf6de3155263256": {
+      "date": "2026-02-05",
+      "title": "GitHub Agent HQ",
+      "source": "producthunt"
+    },
+    "4e0ae3e0fc3e09da": {
+      "date": "2026-02-05",
+      "title": "The new v0",
+      "source": "producthunt"
+    },
+    "a715d1a563055c88": {
+      "date": "2026-02-05",
+      "title": "Agent Sandbox",
+      "source": "producthunt"
+    },
+    "613789d3b7b0541e": {
+      "date": "2026-02-05",
+      "title": "Miro MCP",
+      "source": "producthunt"
+    },
+    "1f1f825b3fb0c6f3": {
+      "date": "2026-02-05",
+      "title": "TalkToPost",
+      "source": "producthunt"
+    },
+    "3ab8675a93ace144": {
+      "date": "2026-02-05",
+      "title": "Sylvian AI Forms",
+      "source": "producthunt"
+    },
+    "ef2169852c01aa7b": {
+      "date": "2026-02-05",
+      "title": "AI Bulk Analysis",
+      "source": "producthunt"
+    },
+    "01b685625567c498": {
+      "date": "2026-02-05",
+      "title": "AutoBandStudio",
+      "source": "producthunt"
+    },
+    "0132ff11c63e3898": {
+      "date": "2026-02-05",
+      "title": "The Junior Developer is Extinct (And we are creating a disaster)",
+      "source": "devto"
+    },
+    "0ceeb609dc0012b2": {
+      "date": "2026-02-05",
+      "title": "I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain",
+      "source": "devto"
+    },
+    "f254ad4f179e38b9": {
+      "date": "2026-02-05",
+      "title": "Got Gemini CLI questions? The Google team will answer DEV's questions in their new livestream series",
+      "source": "devto"
+    },
+    "3f18d14daf2f8560": {
+      "date": "2026-02-05",
+      "title": "Fighting with json - a war story",
+      "source": "devto"
+    },
+    "00a66f8f4ea6959c": {
+      "date": "2026-02-05",
+      "title": "Video Understanding with Gemini 3.0 Flash for Robotics",
+      "source": "devto"
+    },
+    "de2538c99ef93214": {
+      "date": "2026-02-05",
+      "title": "Dunning-Kruger Effect and Imposter Syndrome: Developer's Hidden Caveat that is Rarely Spoken Off.",
+      "source": "devto"
+    },
+    "9a71d8383eac1250": {
+      "date": "2026-02-05",
+      "title": "How I Built Graft: An Overlay Engine for Terraform Modules",
+      "source": "devto"
+    },
+    "4bf5b84959bffcca": {
+      "date": "2026-02-05",
+      "title": "The Secret Life of Python: The Silent Type (Type Casting)",
+      "source": "devto"
+    },
+    "5a0c90491773752d": {
+      "date": "2026-02-05",
+      "title": "The Bug That Made Me Question Reality for a Few Hours",
+      "source": "devto"
+    },
+    "8c3b84d8e6ba4966": {
+      "date": "2026-02-05",
+      "title": "Debug a Donation Form",
+      "source": "devto"
+    },
+    "ce85014ef213744d": {
+      "date": "2026-02-05",
+      "title": "bytedance / UI-TARS-desktop",
+      "source": "github"
+    },
+    "194bbbbcb050ad73": {
+      "date": "2026-02-05",
+      "title": "topoteretes / cognee",
+      "source": "github"
+    },
+    "7fdb3d2f4950e680": {
+      "date": "2026-02-05",
+      "title": "aquasecurity / trivy",
+      "source": "github"
+    },
+    "b5ba652a40bd28df": {
+      "date": "2026-02-05",
+      "title": "fish-shell / fish-shell",
+      "source": "github"
+    },
+    "af547da8f5e5b2ae": {
+      "date": "2026-02-05",
+      "title": "linshenkx / prompt-optimizer",
+      "source": "github"
+    },
+    "6a8fd7ee0aa10aca": {
+      "date": "2026-02-05",
+      "title": "ZeroTworu / anet",
       "source": "github"
     }
   }
