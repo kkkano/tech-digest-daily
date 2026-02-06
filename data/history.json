@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-05T22:59:40.416882",
+  "last_updated": "2026-02-06T22:54:40.766076",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -2501,6 +2501,151 @@
       "date": "2026-02-05",
       "title": "ZeroTworu / anet",
       "source": "github"
+    },
+    "4f638ab4ed1d6cfc": {
+      "date": "2026-02-06",
+      "title": "Commentblocks",
+      "source": "producthunt"
+    },
+    "e169a0a236171f0b": {
+      "date": "2026-02-06",
+      "title": "Field Theory",
+      "source": "producthunt"
+    },
+    "a735604dd8b40712": {
+      "date": "2026-02-06",
+      "title": "S3nding",
+      "source": "producthunt"
+    },
+    "f4b13f662a62b1f6": {
+      "date": "2026-02-06",
+      "title": "My Drawer",
+      "source": "producthunt"
+    },
+    "cd3f90121be40bcf": {
+      "date": "2026-02-06",
+      "title": "Model Council in Perplexity",
+      "source": "producthunt"
+    },
+    "89635e885c879a83": {
+      "date": "2026-02-06",
+      "title": "TabAI",
+      "source": "producthunt"
+    },
+    "18f264a8f3c15c83": {
+      "date": "2026-02-06",
+      "title": "Orange Slice",
+      "source": "producthunt"
+    },
+    "078484e7c1d994a2": {
+      "date": "2026-02-06",
+      "title": "The Waymo World Model",
+      "source": "hackernews"
+    },
+    "f422354c6a36d49a": {
+      "date": "2026-02-06",
+      "title": "Microsoft open-sources LiteBox, a security-focused library OS",
+      "source": "hackernews"
+    },
+    "a070ef437841aea3": {
+      "date": "2026-02-06",
+      "title": "Sheldon Brown's Bicycle Technical Info",
+      "source": "hackernews"
+    },
+    "c151bb6095940f20": {
+      "date": "2026-02-06",
+      "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+      "source": "hackernews"
+    },
+    "f1cbcd8369c8832a": {
+      "date": "2026-02-06",
+      "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+      "source": "hackernews"
+    },
+    "625ce7826c877493": {
+      "date": "2026-02-06",
+      "title": "Learning from context is harder than we thought",
+      "source": "hackernews"
+    },
+    "08cc867aa84ffc19": {
+      "date": "2026-02-06",
+      "title": "I spent 5 years in DevOps – Solutions engineering gave me what I was missing",
+      "source": "hackernews"
+    },
+    "90737dd76404cc5f": {
+      "date": "2026-02-06",
+      "title": "Early Christian Writings",
+      "source": "hackernews"
+    },
+    "03d6be8a1e9e6a35": {
+      "date": "2026-02-06",
+      "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+      "source": "hackernews"
+    },
+    "8acb4282a59a8b0b": {
+      "date": "2026-02-06",
+      "title": "Show HN: R3forth, a ColorForth-inspired language with a tiny VM",
+      "source": "hackernews"
+    },
+    "f84e917e416c7dca": {
+      "date": "2026-02-06",
+      "title": "Flowseal / zapret-discord-youtube",
+      "source": "github"
+    },
+    "515531fcd7ff4b09": {
+      "date": "2026-02-06",
+      "title": "DataExpert-io / data-engineer-handbook",
+      "source": "github"
+    },
+    "d0323564e04649cc": {
+      "date": "2026-02-06",
+      "title": "Gaming Beat Me, Development Won't",
+      "source": "devto"
+    },
+    "c6e9eb0a0e937ee1": {
+      "date": "2026-02-06",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "569d0bfc37be6c86": {
+      "date": "2026-02-06",
+      "title": "Agent Factory Recap: Cracking Open an Open Model",
+      "source": "devto"
+    },
+    "0067086ce4d8fd4c": {
+      "date": "2026-02-06",
+      "title": "$100 OFF Google Cloud Next for the Community! Let's meet up?",
+      "source": "devto"
+    },
+    "678c2b0e850a59c5": {
+      "date": "2026-02-06",
+      "title": "Welcome to The Foundation: Preserving Developer Knowledge in Public",
+      "source": "devto"
+    },
+    "ff86444e03d6232e": {
+      "date": "2026-02-06",
+      "title": "Hostile Takeover of RubyGems: My Thoughts",
+      "source": "devto"
+    },
+    "fb6a5adcad221a75": {
+      "date": "2026-02-06",
+      "title": "The Secret Life of Python: The Phantom Copy",
+      "source": "devto"
+    },
+    "eea14b173f3dc7d1": {
+      "date": "2026-02-06",
+      "title": "Are you doomed learning coding in the AI era?",
+      "source": "devto"
+    },
+    "714d730aca99e084": {
+      "date": "2026-02-06",
+      "title": "280+ Leaky Skills: How OpenClaw & ClawHub Are Exposing API Keys and PII",
+      "source": "devto"
+    },
+    "199ec7188c6d3351": {
+      "date": "2026-02-06",
+      "title": "The Armored AI Agent You Can Actually Trust",
+      "source": "devto"
     }
   }
 }
