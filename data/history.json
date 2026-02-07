@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-06T22:54:40.766076",
+  "last_updated": "2026-02-07T22:58:30.507393",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -2645,6 +2645,171 @@
     "199ec7188c6d3351": {
       "date": "2026-02-06",
       "title": "The Armored AI Agent You Can Actually Trust",
+      "source": "devto"
+    },
+    "6c5dc426413b32c0": {
+      "date": "2026-02-07",
+      "title": "InspireNote",
+      "source": "producthunt"
+    },
+    "6b372cefa8f3c3b7": {
+      "date": "2026-02-07",
+      "title": "Obooko",
+      "source": "producthunt"
+    },
+    "7fa41e3ea9037cf6": {
+      "date": "2026-02-07",
+      "title": "Skillkit",
+      "source": "producthunt"
+    },
+    "c65f8ea0540d18e3": {
+      "date": "2026-02-07",
+      "title": "Quash",
+      "source": "producthunt"
+    },
+    "de048df236a650eb": {
+      "date": "2026-02-07",
+      "title": "Nativeline",
+      "source": "producthunt"
+    },
+    "3922379841b389ba": {
+      "date": "2026-02-07",
+      "title": "Developer Docs Audit",
+      "source": "producthunt"
+    },
+    "f29e1cc1016089ce": {
+      "date": "2026-02-07",
+      "title": "GitBoard",
+      "source": "producthunt"
+    },
+    "6328955fca1da18b": {
+      "date": "2026-02-07",
+      "title": "Fix Ugly PowerPoint by CubeOne",
+      "source": "producthunt"
+    },
+    "32cd59fc0db4fb31": {
+      "date": "2026-02-07",
+      "title": "Hoot: Scheme on WebAssembly",
+      "source": "hackernews"
+    },
+    "48b0c5d29c5645ca": {
+      "date": "2026-02-07",
+      "title": "SectorC: A C Compiler in 512 bytes",
+      "source": "hackernews"
+    },
+    "eb7b9cb01c2d0faa": {
+      "date": "2026-02-07",
+      "title": "Software factories and the agentic moment",
+      "source": "hackernews"
+    },
+    "c920c9acf54cd5b2": {
+      "date": "2026-02-07",
+      "title": "Stories from 25 Years of Software Development",
+      "source": "hackernews"
+    },
+    "d843cbb2fba9ba0c": {
+      "date": "2026-02-07",
+      "title": "Speed up responses with fast mode",
+      "source": "hackernews"
+    },
+    "1cf716b46215cd97": {
+      "date": "2026-02-07",
+      "title": "Al Lowe on model trains, funny deaths and working with Disney",
+      "source": "hackernews"
+    },
+    "00993d250c2879df": {
+      "date": "2026-02-07",
+      "title": "The F Word",
+      "source": "hackernews"
+    },
+    "23b5b0f3a82ab94f": {
+      "date": "2026-02-07",
+      "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
+      "source": "hackernews"
+    },
+    "8578f89662f6e7d9": {
+      "date": "2026-02-07",
+      "title": "KeygraphHQ / shannon",
+      "source": "github"
+    },
+    "d2f39386e20eb773": {
+      "date": "2026-02-07",
+      "title": "p-e-w / heretic",
+      "source": "github"
+    },
+    "fd46f9049b4b951e": {
+      "date": "2026-02-07",
+      "title": "OpenBMB / MiniCPM-o",
+      "source": "github"
+    },
+    "93fd60b94ce7044a": {
+      "date": "2026-02-07",
+      "title": "wavetermdev / waveterm",
+      "source": "github"
+    },
+    "661963add6d5f89f": {
+      "date": "2026-02-07",
+      "title": "viarotel-org / escrcpy",
+      "source": "github"
+    },
+    "7e39ec2390d0765a": {
+      "date": "2026-02-07",
+      "title": "ComposioHQ / awesome-claude-skills",
+      "source": "github"
+    },
+    "8db97a17db9d8635": {
+      "date": "2026-02-07",
+      "title": "gitbutlerapp / gitbutler",
+      "source": "github"
+    },
+    "106f92b2d918d08d": {
+      "date": "2026-02-07",
+      "title": "Building DevPulse: A Project Health Checker in 80 Minutes with GitHub Copilot CLI",
+      "source": "devto"
+    },
+    "1d03c1738d2aa4ac": {
+      "date": "2026-02-07",
+      "title": "The Secret Life of Python: The Safety Net ('try' and 'except')",
+      "source": "devto"
+    },
+    "d4b591dbc21eacac": {
+      "date": "2026-02-07",
+      "title": "Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.",
+      "source": "devto"
+    },
+    "5387ad80a019046e": {
+      "date": "2026-02-07",
+      "title": "PortSwigger's Top 10 Web Hacking Techniques of 2025 — A Deep Dive",
+      "source": "devto"
+    },
+    "c4479287b0d86a94": {
+      "date": "2026-02-07",
+      "title": "I Built a Programming Language Where think Is a Keyword",
+      "source": "devto"
+    },
+    "9d23ab15d1b6b316": {
+      "date": "2026-02-07",
+      "title": "Why I use Typetify: A Type-Safe Alternative to Lodash",
+      "source": "devto"
+    },
+    "0314de26f95c8cc8": {
+      "date": "2026-02-07",
+      "title": "Why I Built an Uptime Monitor as a Solo Dev",
+      "source": "devto"
+    },
+    "7179d5e701d8b792": {
+      "date": "2026-02-07",
+      "title": "The Uncomfortable Truth: Why CLIs Are Still Beating MCP Servers in the Age of AI Agents",
+      "source": "devto"
+    },
+    "76a6d5f4d328c809": {
+      "date": "2026-02-07",
+      "title": "Your Framework Is Replaceable. Your Architecture Is Not.",
+      "source": "devto"
+    },
+    "8374c4a4e91a1520": {
+      "date": "2026-02-07",
+      "title": "I had two projects solving the same problem. I merged them and published to npm in a day",
       "source": "devto"
     }
   }
