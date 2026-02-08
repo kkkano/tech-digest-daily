@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-07T22:58:30.507393",
+  "last_updated": "2026-02-08T22:59:50.549525",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -2811,6 +2811,166 @@
       "date": "2026-02-07",
       "title": "I had two projects solving the same problem. I merged them and published to npm in a day",
       "source": "devto"
+    },
+    "d317911722ad66d4": {
+      "date": "2026-02-08",
+      "title": "Snap",
+      "source": "producthunt"
+    },
+    "154866cf8f8cb30a": {
+      "date": "2026-02-08",
+      "title": "StayAwake.Dev",
+      "source": "producthunt"
+    },
+    "6f938864d71422f5": {
+      "date": "2026-02-08",
+      "title": "Extrovert",
+      "source": "producthunt"
+    },
+    "add258bbb70b9da9": {
+      "date": "2026-02-08",
+      "title": "Inspector",
+      "source": "producthunt"
+    },
+    "a8bfac0de95c1a4d": {
+      "date": "2026-02-08",
+      "title": "Axel",
+      "source": "producthunt"
+    },
+    "b5119e550347335b": {
+      "date": "2026-02-08",
+      "title": "VolumeHub",
+      "source": "producthunt"
+    },
+    "9ae8ec36678d19a8": {
+      "date": "2026-02-08",
+      "title": "Sway",
+      "source": "producthunt"
+    },
+    "d1f93fffc14b404f": {
+      "date": "2026-02-08",
+      "title": "UX HeatGrid",
+      "source": "producthunt"
+    },
+    "f3f8a15681578470": {
+      "date": "2026-02-08",
+      "title": "Vouch",
+      "source": "hackernews"
+    },
+    "cc3806e227356d8c": {
+      "date": "2026-02-08",
+      "title": "Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
+      "source": "hackernews"
+    },
+    "cf9200642302d13f": {
+      "date": "2026-02-08",
+      "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books",
+      "source": "hackernews"
+    },
+    "dae100a0044fb2a7": {
+      "date": "2026-02-08",
+      "title": "A GTA modder has got the 1997 original working on modern PCs and Steam Deck",
+      "source": "hackernews"
+    },
+    "6d03a9f45404b628": {
+      "date": "2026-02-08",
+      "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
+      "source": "hackernews"
+    },
+    "89b3465aa4d48d45": {
+      "date": "2026-02-08",
+      "title": "The Little Bool of Doom (2025)",
+      "source": "hackernews"
+    },
+    "b58f7b9ecaff6a6d": {
+      "date": "2026-02-08",
+      "title": "Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization",
+      "source": "hackernews"
+    },
+    "088e1ca0cd6fe640": {
+      "date": "2026-02-08",
+      "title": "Apple XNU: Clutch Scheduler",
+      "source": "hackernews"
+    },
+    "306c7fc756f66213": {
+      "date": "2026-02-08",
+      "title": "More Mac malware from Google search",
+      "source": "hackernews"
+    },
+    "e36c645d49c8071b": {
+      "date": "2026-02-08",
+      "title": "Reverse Engineering the Prom for the SGI O2",
+      "source": "hackernews"
+    },
+    "5b03df63c9ff35b3": {
+      "date": "2026-02-08",
+      "title": "Actually Static: When WordPress Stops Being the Enemy",
+      "source": "devto"
+    },
+    "38380aa7679f6d02": {
+      "date": "2026-02-08",
+      "title": "I Got Tired of Being a One-Man Dev Team (So I Built This Thing)",
+      "source": "devto"
+    },
+    "b59c594fd7b92c93": {
+      "date": "2026-02-08",
+      "title": "freeCodeCamp: Full Stack Developer Curriculum",
+      "source": "devto"
+    },
+    "8044bc0317a861a9": {
+      "date": "2026-02-08",
+      "title": "Build an Accessible Audio Controller",
+      "source": "devto"
+    },
+    "54c3423afd04c19e": {
+      "date": "2026-02-08",
+      "title": "You don't need CSS preprocessor",
+      "source": "devto"
+    },
+    "ae3ff9de7a529d77": {
+      "date": "2026-02-08",
+      "title": "Dotfiles Coach: Your Shell History is Full of Automation Gold (You Just Don't Know It Yet)",
+      "source": "devto"
+    },
+    "c0d128f3cd21349c": {
+      "date": "2026-02-08",
+      "title": "How I Built a Random Number Generator (Sort Of)",
+      "source": "devto"
+    },
+    "80a9970a7d1af760": {
+      "date": "2026-02-08",
+      "title": "x402 V2 Just Dropped: 5 Security Changes Every AI Agent Builder Needs to Know",
+      "source": "devto"
+    },
+    "f4ea2d5a8d43707e": {
+      "date": "2026-02-08",
+      "title": "I built codex-monitor so I could ship code while I slept",
+      "source": "devto"
+    },
+    "2f7453d281fe3f62": {
+      "date": "2026-02-08",
+      "title": "rut: A Python Test Runner That Skips Unaffected Tests",
+      "source": "devto"
+    },
+    "1487f491e0bfbf35": {
+      "date": "2026-02-08",
+      "title": "pydantic / monty",
+      "source": "github"
+    },
+    "07fa4a613238ec66": {
+      "date": "2026-02-08",
+      "title": "google / langextract",
+      "source": "github"
+    },
+    "29d2d14c8abeda21": {
+      "date": "2026-02-08",
+      "title": "iOfficeAI / AionUi",
+      "source": "github"
+    },
+    "e29b1e88a476cfaa": {
+      "date": "2026-02-08",
+      "title": "home-assistant / addons",
+      "source": "github"
     }
   }
 }
