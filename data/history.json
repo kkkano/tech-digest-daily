@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-08T22:59:50.549525",
+  "last_updated": "2026-02-09T23:08:46.974217",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -2970,6 +2970,166 @@
     "e29b1e88a476cfaa": {
       "date": "2026-02-08",
       "title": "home-assistant / addons",
+      "source": "github"
+    },
+    "28f9e1d0da9842c3": {
+      "date": "2026-02-09",
+      "title": "Discord will require a face scan or ID for full access next month",
+      "source": "hackernews"
+    },
+    "88de07e00e050d3e": {
+      "date": "2026-02-09",
+      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+      "source": "hackernews"
+    },
+    "b13d70a8e1d878b2": {
+      "date": "2026-02-09",
+      "title": "Why is the sky blue?",
+      "source": "hackernews"
+    },
+    "88843007c2b8b1e2": {
+      "date": "2026-02-09",
+      "title": "UEFI Bindings for JavaScript",
+      "source": "hackernews"
+    },
+    "52018f27487a8b50": {
+      "date": "2026-02-09",
+      "title": "Hard-braking events as indicators of road segment crash risk",
+      "source": "hackernews"
+    },
+    "054453e205f857f0": {
+      "date": "2026-02-09",
+      "title": "America has a tungsten problem",
+      "source": "hackernews"
+    },
+    "a2a0d08f3c47d29c": {
+      "date": "2026-02-09",
+      "title": "Game Boy Advance Audio Interpolation",
+      "source": "hackernews"
+    },
+    "9589efedda43d09a": {
+      "date": "2026-02-09",
+      "title": "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
+      "source": "hackernews"
+    },
+    "2980b255489b19cd": {
+      "date": "2026-02-09",
+      "title": "How I've run major projects (2025)",
+      "source": "hackernews"
+    },
+    "69bea8179b646e51": {
+      "date": "2026-02-09",
+      "title": "Expansion Microscopy Has Transformed How We See the Cellular World",
+      "source": "hackernews"
+    },
+    "2bae7486a91b0c45": {
+      "date": "2026-02-09",
+      "title": "Dropstone 3",
+      "source": "producthunt"
+    },
+    "ebfe376dd877c081": {
+      "date": "2026-02-09",
+      "title": "rivva",
+      "source": "producthunt"
+    },
+    "11e068c922de73f2": {
+      "date": "2026-02-09",
+      "title": "Umbrel Pro",
+      "source": "producthunt"
+    },
+    "2705154676c7cfe2": {
+      "date": "2026-02-09",
+      "title": "DubStream by CAMB.AI",
+      "source": "producthunt"
+    },
+    "73ffd56b2157519b": {
+      "date": "2026-02-09",
+      "title": "Apple Creator Studio",
+      "source": "producthunt"
+    },
+    "f37af712e55a755f": {
+      "date": "2026-02-09",
+      "title": "Afterpage",
+      "source": "producthunt"
+    },
+    "238296c31bd9904a": {
+      "date": "2026-02-09",
+      "title": "CRML",
+      "source": "producthunt"
+    },
+    "023262b9691ef53a": {
+      "date": "2026-02-09",
+      "title": "I Shipped the Solution to Knowledge Collapse in 21 Days",
+      "source": "devto"
+    },
+    "bb9e8dcc2c4a64e4": {
+      "date": "2026-02-09",
+      "title": "What Your Claude Code Agents Don't Need to Be Told",
+      "source": "devto"
+    },
+    "2ecd6a64c0b621d0": {
+      "date": "2026-02-09",
+      "title": "A Silly Idea: A Star Wars Lightsaber Duel in the Terminal with GitHub Copilot CLI",
+      "source": "devto"
+    },
+    "2909efe4127ee6f2": {
+      "date": "2026-02-09",
+      "title": "Meme Monday",
+      "source": "devto"
+    },
+    "ea48299d98549e37": {
+      "date": "2026-02-09",
+      "title": "How Fishjam.io Built a Multi-Speaker AI Game using Gemini Live",
+      "source": "devto"
+    },
+    "d70a8ca5c65d6351": {
+      "date": "2026-02-09",
+      "title": "Conversational Retrieval: When Chat Becomes Navigation 💬",
+      "source": "devto"
+    },
+    "6d2f020e0cfdbe0f": {
+      "date": "2026-02-09",
+      "title": "Dear Vibe Coder: Your App Works. Your Code Is the Problem.",
+      "source": "devto"
+    },
+    "eb1abac29079c2f2": {
+      "date": "2026-02-09",
+      "title": "Build a Checkout Page",
+      "source": "devto"
+    },
+    "f735afc09264ac85": {
+      "date": "2026-02-09",
+      "title": "Merging the \"This Is\" Community into \"Playful Programming\"",
+      "source": "devto"
+    },
+    "2fc9c7ba56d5931a": {
+      "date": "2026-02-09",
+      "title": "Beyond RAG: Building an AI Companion with \"Deep Memory\" using Knowledge Graphs",
+      "source": "devto"
+    },
+    "75a944068045ae29": {
+      "date": "2026-02-09",
+      "title": "hsliuping / TradingAgents-CN",
+      "source": "github"
+    },
+    "a55c819fccc2bf0d": {
+      "date": "2026-02-09",
+      "title": "public-apis / public-apis",
+      "source": "github"
+    },
+    "91dd5eeca6a0d950": {
+      "date": "2026-02-09",
+      "title": "github / gh-aw",
+      "source": "github"
+    },
+    "7cb97b3a7c12222e": {
+      "date": "2026-02-09",
+      "title": "EveryInc / compound-engineering-plugin",
+      "source": "github"
+    },
+    "5b1925fad66d25f2": {
+      "date": "2026-02-09",
+      "title": "DrewThomasson / ebook2audiobook",
       "source": "github"
     }
   }
