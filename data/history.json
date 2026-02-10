@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-09T23:08:46.974217",
+  "last_updated": "2026-02-10T23:22:24.825897",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -3130,6 +3130,166 @@
     "5b1925fad66d25f2": {
       "date": "2026-02-09",
       "title": "DrewThomasson / ebook2audiobook",
+      "source": "github"
+    },
+    "7cce03ccaa8553fc": {
+      "date": "2026-02-10",
+      "title": "The Singularity will occur on a Tuesday",
+      "source": "hackernews"
+    },
+    "d522c02d8cfd0350": {
+      "date": "2026-02-10",
+      "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
+      "source": "hackernews"
+    },
+    "a31e70fe548fdf4d": {
+      "date": "2026-02-10",
+      "title": "Simplifying Vulkan one subsystem at a time",
+      "source": "hackernews"
+    },
+    "99f38918a4d05d4f": {
+      "date": "2026-02-10",
+      "title": "Mathematicians disagree on the essential structure of the complex numbers (2024)",
+      "source": "hackernews"
+    },
+    "4d7c9f3921ee9fd8": {
+      "date": "2026-02-10",
+      "title": "My eighth year as a bootstrapped founder",
+      "source": "hackernews"
+    },
+    "512c5420e2dbae3a": {
+      "date": "2026-02-10",
+      "title": "Waymo exec reveals company uses remote workers in the Philippines",
+      "source": "hackernews"
+    },
+    "fb704a827bea459b": {
+      "date": "2026-02-10",
+      "title": "How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?",
+      "source": "hackernews"
+    },
+    "f9ab7f9188eb9d0d": {
+      "date": "2026-02-10",
+      "title": "The Little Learner: A Straight Line to Deep Learning",
+      "source": "hackernews"
+    },
+    "6cc739601207f1d5": {
+      "date": "2026-02-10",
+      "title": "The Day the Telnet Died",
+      "source": "hackernews"
+    },
+    "79beb6648f6f492e": {
+      "date": "2026-02-10",
+      "title": "The Feynman Lectures on Physics (1961-1964)",
+      "source": "hackernews"
+    },
+    "29ba26e0adb53992": {
+      "date": "2026-02-10",
+      "title": "Cosmic CLI",
+      "source": "producthunt"
+    },
+    "4653041ea0f3b651": {
+      "date": "2026-02-10",
+      "title": "Total addressable Market calculator",
+      "source": "producthunt"
+    },
+    "b5d68c739d640efd": {
+      "date": "2026-02-10",
+      "title": "Agent Builder by Thesys",
+      "source": "producthunt"
+    },
+    "6ba9a9bc87a0c0c1": {
+      "date": "2026-02-10",
+      "title": "Gravity Notes For Mac",
+      "source": "producthunt"
+    },
+    "38be79d2f411c260": {
+      "date": "2026-02-10",
+      "title": "Tinkerer Club",
+      "source": "producthunt"
+    },
+    "9e4b05d1e3fca70a": {
+      "date": "2026-02-10",
+      "title": "Spawned",
+      "source": "producthunt"
+    },
+    "fd2c8ae08b851076": {
+      "date": "2026-02-10",
+      "title": "Makers Page",
+      "source": "producthunt"
+    },
+    "ff8785db7d596443": {
+      "date": "2026-02-10",
+      "title": "claw.fm",
+      "source": "producthunt"
+    },
+    "733604692a5e504d": {
+      "date": "2026-02-10",
+      "title": "Stack Overflow: Time for a Change?",
+      "source": "devto"
+    },
+    "659e7cefe52c99e4": {
+      "date": "2026-02-10",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "a4e7effec89bf427": {
+      "date": "2026-02-10",
+      "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
+      "source": "devto"
+    },
+    "51b00d19cb8cdaac": {
+      "date": "2026-02-10",
+      "title": "One Month at a Startup: What Stayed With Me After I Left",
+      "source": "devto"
+    },
+    "1f03e69e4a4a46f7": {
+      "date": "2026-02-10",
+      "title": "Implemented a Feature where the Theme on my Portfolio changes based on the Holiday (Because it's fun",
+      "source": "devto"
+    },
+    "daa20ac9613e0e52": {
+      "date": "2026-02-10",
+      "title": "Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI",
+      "source": "devto"
+    },
+    "eaa416a549f908fd": {
+      "date": "2026-02-10",
+      "title": "Design a Movie Review Page",
+      "source": "devto"
+    },
+    "746125aa8944b386": {
+      "date": "2026-02-10",
+      "title": "Five Git Config Settings Every Dev Needs",
+      "source": "devto"
+    },
+    "d5b191a7220a253b": {
+      "date": "2026-02-10",
+      "title": "The Secret Life of Go: Panic and Recover",
+      "source": "devto"
+    },
+    "5c309a2307d666bd": {
+      "date": "2026-02-10",
+      "title": "The Push and Pull of AI",
+      "source": "devto"
+    },
+    "ca5f66269e6b1347": {
+      "date": "2026-02-10",
+      "title": "carlvellotti / claude-code-pm-course",
+      "source": "github"
+    },
+    "1ba9921a841424e3": {
+      "date": "2026-02-10",
+      "title": "drawdb-io / drawdb",
+      "source": "github"
+    },
+    "8b3ac28cee2a333a": {
+      "date": "2026-02-10",
+      "title": "cheahjs / free-llm-api-resources",
+      "source": "github"
+    },
+    "bd5866030024b70e": {
+      "date": "2026-02-10",
+      "title": "Jeffallan / claude-skills",
       "source": "github"
     }
   }
