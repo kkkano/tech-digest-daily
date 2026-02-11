@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-10T23:22:24.825897",
+  "last_updated": "2026-02-11T23:03:39.963744",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -3291,6 +3291,156 @@
       "date": "2026-02-10",
       "title": "Jeffallan / claude-skills",
       "source": "github"
+    },
+    "6c9e0ca2abef1f63": {
+      "date": "2026-02-11",
+      "title": "happycapy",
+      "source": "producthunt"
+    },
+    "79ef43a31ebc4cbf": {
+      "date": "2026-02-11",
+      "title": "Lyrica",
+      "source": "producthunt"
+    },
+    "d95cae44cfd76c44": {
+      "date": "2026-02-11",
+      "title": "On-Call Health",
+      "source": "producthunt"
+    },
+    "ad3c705ac07a1d82": {
+      "date": "2026-02-11",
+      "title": "0xAudit",
+      "source": "producthunt"
+    },
+    "ec9a934df0abcad0": {
+      "date": "2026-02-11",
+      "title": "Observational Memory by Mastra",
+      "source": "producthunt"
+    },
+    "01a9518bfa082fd7": {
+      "date": "2026-02-11",
+      "title": "JumprAI",
+      "source": "producthunt"
+    },
+    "49d220fd41a15aa1": {
+      "date": "2026-02-11",
+      "title": "Doraverse's All-in-One AI for Meetings",
+      "source": "producthunt"
+    },
+    "0e00c362f44c6a54": {
+      "date": "2026-02-11",
+      "title": "Atyla",
+      "source": "producthunt"
+    },
+    "a95801d11e35c940": {
+      "date": "2026-02-11",
+      "title": "Claude Code is being dumbed down?",
+      "source": "hackernews"
+    },
+    "39a4607200d2d27f": {
+      "date": "2026-02-11",
+      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
+      "source": "hackernews"
+    },
+    "7f6c18d112d52f0e": {
+      "date": "2026-02-11",
+      "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "source": "hackernews"
+    },
+    "8243cff3ddb4242a": {
+      "date": "2026-02-11",
+      "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
+      "source": "hackernews"
+    },
+    "281444c326266bee": {
+      "date": "2026-02-11",
+      "title": "WiFi Could Become an Invisible Mass Surveillance System",
+      "source": "hackernews"
+    },
+    "307a550ed95437bd": {
+      "date": "2026-02-11",
+      "title": "GLM-OCR: Accurate × Fast × Comprehensive",
+      "source": "hackernews"
+    },
+    "262670ebf398ef1f": {
+      "date": "2026-02-11",
+      "title": "NetNewsWire Turns 23",
+      "source": "hackernews"
+    },
+    "039a5a4806e548f0": {
+      "date": "2026-02-11",
+      "title": "We rendered and embedded one million CAD files",
+      "source": "hackernews"
+    },
+    "c2ec969869e42fc1": {
+      "date": "2026-02-11",
+      "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
+      "source": "hackernews"
+    },
+    "e8362ea3b609e058": {
+      "date": "2026-02-11",
+      "title": "Switzerland's Extraordinary Medieval Library",
+      "source": "hackernews"
+    },
+    "b4212d4b4d442e7e": {
+      "date": "2026-02-11",
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "source": "github"
+    },
+    "efa40a1e188a4896": {
+      "date": "2026-02-11",
+      "title": "patchy631 / ai-engineering-hub",
+      "source": "github"
+    },
+    "6319561a6f770405": {
+      "date": "2026-02-11",
+      "title": "ASCII Whisper: Local P2P Chat with Sound FX and Battleship",
+      "source": "devto"
+    },
+    "c4379a27220e0a30": {
+      "date": "2026-02-11",
+      "title": "Re-creating a Pantone Color Deck in CSS",
+      "source": "devto"
+    },
+    "10c61b9dee3d1dd5": {
+      "date": "2026-02-11",
+      "title": "Get **** done. I hate what Trello has become",
+      "source": "devto"
+    },
+    "5ec6ac3f70047218": {
+      "date": "2026-02-11",
+      "title": "The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith",
+      "source": "devto"
+    },
+    "9a0f22ea65102a5a": {
+      "date": "2026-02-11",
+      "title": "Welcome Thread - v364",
+      "source": "devto"
+    },
+    "f7ccd101ef6756de": {
+      "date": "2026-02-11",
+      "title": "How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware",
+      "source": "devto"
+    },
+    "996e7626d4b0e831": {
+      "date": "2026-02-11",
+      "title": "Blog Syndication: Cross-Publishing Blog Posts to Dev.to, Hashnode, and Medium",
+      "source": "devto"
+    },
+    "c805777a68d8a847": {
+      "date": "2026-02-11",
+      "title": "Build a Multimedia Player",
+      "source": "devto"
+    },
+    "da64a6ada0754bd0": {
+      "date": "2026-02-11",
+      "title": "Your \"Read Later\" list is a graveyard. It is time to stop hoarding.",
+      "source": "devto"
+    },
+    "c68ee5c2ab4d5022": {
+      "date": "2026-02-11",
+      "title": "I Stopped Trying to Learn Every DevOps Tool: And Started Building a Platform Instead",
+      "source": "devto"
     }
   }
 }
