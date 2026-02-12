@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-11T23:03:39.963744",
+  "last_updated": "2026-02-12T23:01:13.348116",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -3440,6 +3440,176 @@
     "c68ee5c2ab4d5022": {
       "date": "2026-02-11",
       "title": "I Stopped Trying to Learn Every DevOps Tool: And Started Building a Platform Instead",
+      "source": "devto"
+    },
+    "a9bbf3fe587026a1": {
+      "date": "2026-02-12",
+      "title": "TrendWidget",
+      "source": "producthunt"
+    },
+    "7680b2dd7eae395e": {
+      "date": "2026-02-12",
+      "title": "Granary by Speakeasy",
+      "source": "producthunt"
+    },
+    "00c9c43317b518b0": {
+      "date": "2026-02-12",
+      "title": "Seda",
+      "source": "producthunt"
+    },
+    "88dfb29f27263814": {
+      "date": "2026-02-12",
+      "title": "Make AI Agents",
+      "source": "producthunt"
+    },
+    "f7353a0de8840a7e": {
+      "date": "2026-02-12",
+      "title": "Powering",
+      "source": "producthunt"
+    },
+    "d54e96c2393acc5e": {
+      "date": "2026-02-12",
+      "title": "Resume Builder by Foundire",
+      "source": "producthunt"
+    },
+    "1a8fe0c668b4a92d": {
+      "date": "2026-02-12",
+      "title": "Cube",
+      "source": "producthunt"
+    },
+    "c1c074e593ee2bc1": {
+      "date": "2026-02-12",
+      "title": "Palgo",
+      "source": "producthunt"
+    },
+    "88fce2f8bbe49f40": {
+      "date": "2026-02-12",
+      "title": "An AI agent published a hit piece on me",
+      "source": "hackernews"
+    },
+    "e795181f01f669df": {
+      "date": "2026-02-12",
+      "title": "Gemini 3 Deep Think",
+      "source": "hackernews"
+    },
+    "8da1c8fa2af8090e": {
+      "date": "2026-02-12",
+      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+      "source": "hackernews"
+    },
+    "642051e96e8b7990": {
+      "date": "2026-02-12",
+      "title": "GPT‑5.3‑Codex‑Spark",
+      "source": "hackernews"
+    },
+    "3cf05b56d57d37dc": {
+      "date": "2026-02-12",
+      "title": "Major European payment processor can't send email to Google Workspace users",
+      "source": "hackernews"
+    },
+    "68c9362915a7e4dc": {
+      "date": "2026-02-12",
+      "title": "Apache Arrow is 10 years old",
+      "source": "hackernews"
+    },
+    "c7f3bb187280533e": {
+      "date": "2026-02-12",
+      "title": "Welcoming Discord users amidst the challenge of Age Verification",
+      "source": "hackernews"
+    },
+    "b1cc4303937588f5": {
+      "date": "2026-02-12",
+      "title": "Rari – Rust-powered React framework",
+      "source": "hackernews"
+    },
+    "5950b781467e22a8": {
+      "date": "2026-02-12",
+      "title": "Fixing retail with land value capture",
+      "source": "hackernews"
+    },
+    "24e22dcce425065b": {
+      "date": "2026-02-12",
+      "title": "How to Have a Bad Career – David Patterson (2016) [video]",
+      "source": "hackernews"
+    },
+    "ff07e0b609718852": {
+      "date": "2026-02-12",
+      "title": "tambo-ai / tambo",
+      "source": "github"
+    },
+    "7904af429ad536aa": {
+      "date": "2026-02-12",
+      "title": "danielmiessler / Personal_AI_Infrastructure",
+      "source": "github"
+    },
+    "5bfdb1381234aa52": {
+      "date": "2026-02-12",
+      "title": "rowboatlabs / rowboat",
+      "source": "github"
+    },
+    "4242e51e337ac7d2": {
+      "date": "2026-02-12",
+      "title": "unslothai / unsloth",
+      "source": "github"
+    },
+    "2860c61e97426a72": {
+      "date": "2026-02-12",
+      "title": "cinnyapp / cinny",
+      "source": "github"
+    },
+    "ca8557e367bfd6e3": {
+      "date": "2026-02-12",
+      "title": "HandsOnLLM / Hands-On-Large-Language-Models",
+      "source": "github"
+    },
+    "8d9d5374b1da5701": {
+      "date": "2026-02-12",
+      "title": "Becoming 1% better each day.",
+      "source": "devto"
+    },
+    "7649a3c1720037e8": {
+      "date": "2026-02-12",
+      "title": "Your IDE is an Attack Vector",
+      "source": "devto"
+    },
+    "58a4841ff01b8a8e": {
+      "date": "2026-02-12",
+      "title": "HTML Accessibility Review",
+      "source": "devto"
+    },
+    "8386d899a9527200": {
+      "date": "2026-02-12",
+      "title": "API vs Event Streaming: O Que Muda Para Quem Testa?",
+      "source": "devto"
+    },
+    "f7e80ccb8974ba1d": {
+      "date": "2026-02-12",
+      "title": "Layoffs! Fellow employees, be prepared for the worst.",
+      "source": "devto"
+    },
+    "a39ff9d1acd70a6d": {
+      "date": "2026-02-12",
+      "title": "I Curated 106 Software Design Resources and Ranked What Actually Matters",
+      "source": "devto"
+    },
+    "06bc92d81f1ed8ec": {
+      "date": "2026-02-12",
+      "title": "Duplicate “Follow” Button Text in User Profile Hover Card",
+      "source": "devto"
+    },
+    "b9248a8d45a66ca7": {
+      "date": "2026-02-12",
+      "title": "Built a Vibe Coded App where you can Style any Image you like! :D",
+      "source": "devto"
+    },
+    "ff7338066081b211": {
+      "date": "2026-02-12",
+      "title": "Why I Built nevr-env — And Why process.env Deserves Better",
+      "source": "devto"
+    },
+    "04984d57df262241": {
+      "date": "2026-02-12",
+      "title": "I Spent $174 Transpiling 12 Open-Source C Projects (28K Lines) to Rust. Here's What Happened.",
       "source": "devto"
     }
   }
