@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-12T23:01:13.348116",
+  "last_updated": "2026-02-13T23:04:12.020911",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -3610,6 +3610,171 @@
     "04984d57df262241": {
       "date": "2026-02-12",
       "title": "I Spent $174 Transpiling 12 Open-Source C Projects (28K Lines) to Rust. Here's What Happened.",
+      "source": "devto"
+    },
+    "c69083701b1f8d26": {
+      "date": "2026-02-13",
+      "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
+      "source": "hackernews"
+    },
+    "b7419b9912be26c3": {
+      "date": "2026-02-13",
+      "title": "Monosketch",
+      "source": "hackernews"
+    },
+    "ba3ff6d0909d14ad": {
+      "date": "2026-02-13",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "source": "hackernews"
+    },
+    "71f88bfa70feaed8": {
+      "date": "2026-02-13",
+      "title": "OpenAI has deleted the word 'safely' from its mission",
+      "source": "hackernews"
+    },
+    "e1d795d54701b490": {
+      "date": "2026-02-13",
+      "title": "The EU moves to kill infinite scrolling",
+      "source": "hackernews"
+    },
+    "05525a38d30297cf": {
+      "date": "2026-02-13",
+      "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
+      "source": "hackernews"
+    },
+    "d93342809b4d8357": {
+      "date": "2026-02-13",
+      "title": "Show HN: Moltis – AI assistant with memory, tools, and self-extending skills",
+      "source": "hackernews"
+    },
+    "003cee40e0f7e93e": {
+      "date": "2026-02-13",
+      "title": "gRPC: From service definition to wire format",
+      "source": "hackernews"
+    },
+    "c81f6cb2a93c26e7": {
+      "date": "2026-02-13",
+      "title": "Font Rendering from First Principles",
+      "source": "hackernews"
+    },
+    "fce7d3c7f772a850": {
+      "date": "2026-02-13",
+      "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+      "source": "hackernews"
+    },
+    "86ece21a805ecffd": {
+      "date": "2026-02-13",
+      "title": "Fabric by Carmel Labs",
+      "source": "producthunt"
+    },
+    "d49ae8a34318199e": {
+      "date": "2026-02-13",
+      "title": "LogiCoal",
+      "source": "producthunt"
+    },
+    "d7f38f3d7ddc6446": {
+      "date": "2026-02-13",
+      "title": "Cosmic-light",
+      "source": "producthunt"
+    },
+    "5cba3dafce2cdaaf": {
+      "date": "2026-02-13",
+      "title": "FlowGrid",
+      "source": "producthunt"
+    },
+    "fbaa03977182ee92": {
+      "date": "2026-02-13",
+      "title": "MailMolt",
+      "source": "producthunt"
+    },
+    "94bd669f618a7797": {
+      "date": "2026-02-13",
+      "title": "TrumpRx",
+      "source": "producthunt"
+    },
+    "b729064cfea58f70": {
+      "date": "2026-02-13",
+      "title": "MyBikeFitting",
+      "source": "producthunt"
+    },
+    "1f9ff50c498097eb": {
+      "date": "2026-02-13",
+      "title": "GoClaw",
+      "source": "producthunt"
+    },
+    "18fd0de6ea66e550": {
+      "date": "2026-02-13",
+      "title": "SynkraAI / aios-core",
+      "source": "github"
+    },
+    "0a2369b704beda44": {
+      "date": "2026-02-13",
+      "title": "TelegramMessenger / MTProxy",
+      "source": "github"
+    },
+    "986fd83f03f9b491": {
+      "date": "2026-02-13",
+      "title": "google-deepmind / superhuman",
+      "source": "github"
+    },
+    "aa8b64a6f4089827": {
+      "date": "2026-02-13",
+      "title": "THUDM / slime",
+      "source": "github"
+    },
+    "5c9b4bc9cd1145e2": {
+      "date": "2026-02-13",
+      "title": "DebugSwift / DebugSwift",
+      "source": "github"
+    },
+    "f306d9fb59031900": {
+      "date": "2026-02-13",
+      "title": "Remember Your First Computer Book?",
+      "source": "devto"
+    },
+    "b1a134f9d301bc46": {
+      "date": "2026-02-13",
+      "title": "What was your win this week??",
+      "source": "devto"
+    },
+    "3e3faf43e097db80": {
+      "date": "2026-02-13",
+      "title": "Claude Code for Fullstack Development: The 3 Things You Actually Need",
+      "source": "devto"
+    },
+    "5cdd6bfcec4216d6": {
+      "date": "2026-02-13",
+      "title": "How We’re Surviving 600+ Legacy Angular Components While Migrating to Next.js, GraphQL, and a Monore",
+      "source": "devto"
+    },
+    "d3203c610fe52a2f": {
+      "date": "2026-02-13",
+      "title": "Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up",
+      "source": "devto"
+    },
+    "b6e8e8ed526bd90b": {
+      "date": "2026-02-13",
+      "title": "Send us your Dev Challenge!",
+      "source": "devto"
+    },
+    "4d1259d92662c3ed": {
+      "date": "2026-02-13",
+      "title": "Google Analytics, SaaS, or self-hosted? How I chose my analytics stack",
+      "source": "devto"
+    },
+    "1879dd1f598ef218": {
+      "date": "2026-02-13",
+      "title": "Why Your GitHub Actions Secrets Don't Work in Reusable Workflow Inputs",
+      "source": "devto"
+    },
+    "5dca9348a678191c": {
+      "date": "2026-02-13",
+      "title": "The Secret Life of Go: Channels",
+      "source": "devto"
+    },
+    "f855f406e43c22a9": {
+      "date": "2026-02-13",
+      "title": "How I Built Graft Absorb: Turning Terraform Drift into Code",
       "source": "devto"
     }
   }
