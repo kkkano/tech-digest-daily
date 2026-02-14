@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-13T23:04:12.020911",
+  "last_updated": "2026-02-14T22:55:48.840521",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -3775,6 +3775,171 @@
     "f855f406e43c22a9": {
       "date": "2026-02-13",
       "title": "How I Built Graft Absorb: Turning Terraform Drift into Code",
+      "source": "devto"
+    },
+    "62809d32ffc1901c": {
+      "date": "2026-02-14",
+      "title": "Ooh.directory: a place to find good blogs that interest you",
+      "source": "hackernews"
+    },
+    "e9357470903cbc0e": {
+      "date": "2026-02-14",
+      "title": "uBlock filter list to hide all YouTube Shorts",
+      "source": "hackernews"
+    },
+    "c5e88389f5d8cf5c": {
+      "date": "2026-02-14",
+      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+      "source": "hackernews"
+    },
+    "cc076a01ad3b60fd": {
+      "date": "2026-02-14",
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "source": "hackernews"
+    },
+    "3a5285aaa104bb2e": {
+      "date": "2026-02-14",
+      "title": "Amsterdam Compiler Kit",
+      "source": "hackernews"
+    },
+    "238db68e1560524f": {
+      "date": "2026-02-14",
+      "title": "Breaking the spell of vibe coding",
+      "source": "hackernews"
+    },
+    "cd5245292d14c013": {
+      "date": "2026-02-14",
+      "title": "How often do full-body MRIs find cancer?",
+      "source": "hackernews"
+    },
+    "c64f3bca1425f30a": {
+      "date": "2026-02-14",
+      "title": "Discord: A case study in performance optimization",
+      "source": "hackernews"
+    },
+    "fd0e1ac2be5aed63": {
+      "date": "2026-02-14",
+      "title": "Instagram's URL Blackhole",
+      "source": "hackernews"
+    },
+    "3d63f2e9a8d54ed2": {
+      "date": "2026-02-14",
+      "title": "Zvec: A lightweight, fast, in-process vector database",
+      "source": "hackernews"
+    },
+    "595b3660633fc74c": {
+      "date": "2026-02-14",
+      "title": "Seedance 2.0",
+      "source": "producthunt"
+    },
+    "842bab32cd01b4dd": {
+      "date": "2026-02-14",
+      "title": "Elebean",
+      "source": "producthunt"
+    },
+    "3d5c78b77dcacbc3": {
+      "date": "2026-02-14",
+      "title": "Your Love Style",
+      "source": "producthunt"
+    },
+    "802cb9dbc9986a3e": {
+      "date": "2026-02-14",
+      "title": "Cline CLI 2.0",
+      "source": "producthunt"
+    },
+    "069609f06d534f26": {
+      "date": "2026-02-14",
+      "title": "OpenBug",
+      "source": "producthunt"
+    },
+    "5ccf166f81d844ce": {
+      "date": "2026-02-14",
+      "title": "Termsy",
+      "source": "producthunt"
+    },
+    "72ae0e3c0b6e52de": {
+      "date": "2026-02-14",
+      "title": "Valentine Online",
+      "source": "producthunt"
+    },
+    "53ef2c36363cddb4": {
+      "date": "2026-02-14",
+      "title": "TexTab",
+      "source": "producthunt"
+    },
+    "e1075e97d765fa48": {
+      "date": "2026-02-14",
+      "title": "minio / minio",
+      "source": "github"
+    },
+    "1345eb0c41fa55e6": {
+      "date": "2026-02-14",
+      "title": "ruvnet / wifi-densepose",
+      "source": "github"
+    },
+    "1a9f76dce696a3dc": {
+      "date": "2026-02-14",
+      "title": "Zipstack / unstract",
+      "source": "github"
+    },
+    "76d69cf563db527d": {
+      "date": "2026-02-14",
+      "title": "letta-ai / letta-code",
+      "source": "github"
+    },
+    "0ef9962604055b38": {
+      "date": "2026-02-14",
+      "title": "ruby / ruby",
+      "source": "github"
+    },
+    "0e9aa3e0a6c01d97": {
+      "date": "2026-02-14",
+      "title": "I built a Stutter-Friendly App in 1 Day with Elm, Elixir, and Copilot",
+      "source": "devto"
+    },
+    "915bfa1981b0cad8": {
+      "date": "2026-02-14",
+      "title": "Git Blamed Me, CSS Gaslit Me, Node Ghosted Me, React Re-rendered My Trauma",
+      "source": "devto"
+    },
+    "022d1fa4ba02698d": {
+      "date": "2026-02-14",
+      "title": "Track Your GitHub Copilot Pro from the Terminal 🖥️",
+      "source": "devto"
+    },
+    "0d6b45020ae492a7": {
+      "date": "2026-02-14",
+      "title": "From Chaos to Clarity: My Journey Building JSON Query Pro",
+      "source": "devto"
+    },
+    "cb0d9f5c06263092": {
+      "date": "2026-02-14",
+      "title": "I Built a CLI That Remembers What I Was Working On (So I Don't Have To)",
+      "source": "devto"
+    },
+    "c8576445574cd7d9": {
+      "date": "2026-02-14",
+      "title": "Cupid-Commit 💘 - Finding the Code That Completes You",
+      "source": "devto"
+    },
+    "e695299d06db0ab6": {
+      "date": "2026-02-14",
+      "title": "I Built a Free Open-Source Hotel AI (By Accident)",
+      "source": "devto"
+    },
+    "a42e9339785db44e": {
+      "date": "2026-02-14",
+      "title": "Conditions, Phases, and Declarative Phase Rules in Kubernetes Operators",
+      "source": "devto"
+    },
+    "3bcbc8bc129e9031": {
+      "date": "2026-02-14",
+      "title": "Scaling to 200+ Cities by Deleting 90% of My Database",
+      "source": "devto"
+    },
+    "177414dee530fee3": {
+      "date": "2026-02-14",
+      "title": "Destructive Reader LLM — When an Author Gets Tired of Reddit's Gatekeeping",
       "source": "devto"
     }
   }
