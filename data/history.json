@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-14T22:55:48.840521",
+  "last_updated": "2026-02-15T22:56:48.676922",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -3940,6 +3940,146 @@
     "177414dee530fee3": {
       "date": "2026-02-14",
       "title": "Destructive Reader LLM — When an Author Gets Tired of Reddit's Gatekeeping",
+      "source": "devto"
+    },
+    "bd57e8d4ec83b625": {
+      "date": "2026-02-15",
+      "title": "Plus AI Presentation Agent",
+      "source": "producthunt"
+    },
+    "8f8dccb9cb2856d9": {
+      "date": "2026-02-15",
+      "title": "Habit Island",
+      "source": "producthunt"
+    },
+    "705fda7a2e7f6973": {
+      "date": "2026-02-15",
+      "title": "Prompt Library",
+      "source": "producthunt"
+    },
+    "45b51583c40547eb": {
+      "date": "2026-02-15",
+      "title": "WikiTrip 2.0",
+      "source": "producthunt"
+    },
+    "c623d124fb313fa7": {
+      "date": "2026-02-15",
+      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+      "source": "hackernews"
+    },
+    "ed7df854a1900994": {
+      "date": "2026-02-15",
+      "title": "I fixed Windows native development",
+      "source": "hackernews"
+    },
+    "e4f7fe0a389c3b70": {
+      "date": "2026-02-15",
+      "title": "LT6502: A 6502-based homebrew laptop",
+      "source": "hackernews"
+    },
+    "e8ceba2886f57af6": {
+      "date": "2026-02-15",
+      "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+      "source": "hackernews"
+    },
+    "5c58e7f381f0f360": {
+      "date": "2026-02-15",
+      "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
+      "source": "hackernews"
+    },
+    "b8308283227109b8": {
+      "date": "2026-02-15",
+      "title": "Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI",
+      "source": "hackernews"
+    },
+    "3a7f650e5c343d0a": {
+      "date": "2026-02-15",
+      "title": "GNU Pies – Program Invocation and Execution Supervisor",
+      "source": "hackernews"
+    },
+    "82f4cf5007754f7c": {
+      "date": "2026-02-15",
+      "title": "Audio is the one area small labs are winning",
+      "source": "hackernews"
+    },
+    "1064f73e72d929ea": {
+      "date": "2026-02-15",
+      "title": "Pocketblue – Fedora Atomic for mobile devices",
+      "source": "hackernews"
+    },
+    "bbdfafe45174d293": {
+      "date": "2026-02-15",
+      "title": "Continuous batching from first principles (2025)",
+      "source": "hackernews"
+    },
+    "77c460c436551b66": {
+      "date": "2026-02-15",
+      "title": "nautechsystems / nautilus_trader",
+      "source": "github"
+    },
+    "32a5d5a1e083e7fe": {
+      "date": "2026-02-15",
+      "title": "steipete / gogcli",
+      "source": "github"
+    },
+    "56de0ef29dd7fafa": {
+      "date": "2026-02-15",
+      "title": "moonshine-ai / moonshine",
+      "source": "github"
+    },
+    "e19b89691267e9c5": {
+      "date": "2026-02-15",
+      "title": "brave / brave-browser",
+      "source": "github"
+    },
+    "c771012ee3130b19": {
+      "date": "2026-02-15",
+      "title": "Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.",
+      "source": "devto"
+    },
+    "c1b99258b7671b10": {
+      "date": "2026-02-15",
+      "title": "The Secret Life of Python: Manual List Iteration with While and Reverse Loops",
+      "source": "devto"
+    },
+    "308ae8414822e551": {
+      "date": "2026-02-15",
+      "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
+      "source": "devto"
+    },
+    "5308072a5bddbad1": {
+      "date": "2026-02-15",
+      "title": "We Built Voice Chat That Lives Entirely in Your Terminal (Yes, Really)",
+      "source": "devto"
+    },
+    "4024185d75d47609": {
+      "date": "2026-02-15",
+      "title": "I built Spotify Wrapped for Git using GitHub Copilot CLI",
+      "source": "devto"
+    },
+    "ba3a22928beffca5": {
+      "date": "2026-02-15",
+      "title": "EnvHub: A Zero-Knowledge Secret Manager Built with GitHub Copilot CLI",
+      "source": "devto"
+    },
+    "29938b536c5ccb9d": {
+      "date": "2026-02-15",
+      "title": "Traduje “la guía” de Elm al español",
+      "source": "devto"
+    },
+    "8ebc186e72a10d62": {
+      "date": "2026-02-15",
+      "title": "Cute Magick: A Website Platform You Can Call Home",
+      "source": "devto"
+    },
+    "d3d66e59b1abb21b": {
+      "date": "2026-02-15",
+      "title": "How We Linked Technical Decisions to Pull Requests on GitHub",
+      "source": "devto"
+    },
+    "df46a97d700a5482": {
+      "date": "2026-02-15",
+      "title": "Every way to automate a Mac setup, ranked by mass of YAML you'll write",
       "source": "devto"
     }
   }
