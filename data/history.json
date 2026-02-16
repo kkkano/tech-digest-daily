@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-15T22:56:48.676922",
+  "last_updated": "2026-02-16T23:01:18.405946",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -4080,6 +4080,151 @@
     "df46a97d700a5482": {
       "date": "2026-02-15",
       "title": "Every way to automate a Mac setup, ranked by mass of YAML you'll write",
+      "source": "devto"
+    },
+    "d70fe09b06e0461a": {
+      "date": "2026-02-16",
+      "title": "NVIDIA PersonaPlex",
+      "source": "producthunt"
+    },
+    "3bbdf875d0a85aa6": {
+      "date": "2026-02-16",
+      "title": "PenguinBot AI",
+      "source": "producthunt"
+    },
+    "87abbc9f45affc72": {
+      "date": "2026-02-16",
+      "title": "HookWatch",
+      "source": "producthunt"
+    },
+    "3b7280b406fabf94": {
+      "date": "2026-02-16",
+      "title": "SearchSeal",
+      "source": "producthunt"
+    },
+    "3f944b0520b0e052": {
+      "date": "2026-02-16",
+      "title": "Agent Bar",
+      "source": "producthunt"
+    },
+    "85f0886bc338f401": {
+      "date": "2026-02-16",
+      "title": "MockAPI Dog",
+      "source": "producthunt"
+    },
+    "e44fa746f2e42d15": {
+      "date": "2026-02-16",
+      "title": "Meteorite",
+      "source": "producthunt"
+    },
+    "cd4c9c67223d4def": {
+      "date": "2026-02-16",
+      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+      "source": "hackernews"
+    },
+    "7de49ba78e4f6a3f": {
+      "date": "2026-02-16",
+      "title": "What your Bluetooth devices reveal",
+      "source": "hackernews"
+    },
+    "9e5ed3f39743edb1": {
+      "date": "2026-02-16",
+      "title": "Show HN: Jemini – Gemini for the Epstein Files",
+      "source": "hackernews"
+    },
+    "66342721e6e25b44": {
+      "date": "2026-02-16",
+      "title": "Study: Self-generated Agent Skills are useless",
+      "source": "hackernews"
+    },
+    "3e7d31aea3f51e9c": {
+      "date": "2026-02-16",
+      "title": "Visual Introduction to PyTorch",
+      "source": "hackernews"
+    },
+    "bf13089697736a67": {
+      "date": "2026-02-16",
+      "title": "Suicide Linux (2009)",
+      "source": "hackernews"
+    },
+    "d1d30093664ff7bb": {
+      "date": "2026-02-16",
+      "title": "State of Show HN: 2025",
+      "source": "hackernews"
+    },
+    "a620abe308ffb2e8": {
+      "date": "2026-02-16",
+      "title": "Testing Postgres race conditions with synchronization barriers",
+      "source": "hackernews"
+    },
+    "0dede85c5babd495": {
+      "date": "2026-02-16",
+      "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
+      "source": "hackernews"
+    },
+    "cb22d9af1dbd592c": {
+      "date": "2026-02-16",
+      "title": "Show HN: 2D Coulomb Gas Simulator",
+      "source": "hackernews"
+    },
+    "40e848ce1097dcdd": {
+      "date": "2026-02-16",
+      "title": "seerr-team / seerr",
+      "source": "github"
+    },
+    "2c741fa5ac3137ab": {
+      "date": "2026-02-16",
+      "title": "hummingbot / hummingbot",
+      "source": "github"
+    },
+    "75b1af75c27fdb23": {
+      "date": "2026-02-16",
+      "title": "How a DEV Friend and I Brought Two Avatars to Life",
+      "source": "devto"
+    },
+    "3bbef9cc10e5b70c": {
+      "date": "2026-02-16",
+      "title": "Do people still genuinely care about technical articles ?",
+      "source": "devto"
+    },
+    "f7f90b18914978f9": {
+      "date": "2026-02-16",
+      "title": "Building Vero: How I Used Super Context with GitHub Copilot CLI to Create a Premium Visual Debugger",
+      "source": "devto"
+    },
+    "a412f885698b6d98": {
+      "date": "2026-02-16",
+      "title": "After 2 years of AI-assisted coding, I automated the one thing that actually improved quality: AI Pa",
+      "source": "devto"
+    },
+    "d395e1305ab76913": {
+      "date": "2026-02-16",
+      "title": "I Built a Personality Test for Vibe Coding",
+      "source": "devto"
+    },
+    "3e469cae01bd2884": {
+      "date": "2026-02-16",
+      "title": "Your AI Agent Knows Your Passwords — Here's How I Fixed It",
+      "source": "devto"
+    },
+    "ff3b725afde70e4b": {
+      "date": "2026-02-16",
+      "title": "I built an accessibility data API because every restaurant app ignores wheelchair users",
+      "source": "devto"
+    },
+    "9f4576cfacd15931": {
+      "date": "2026-02-16",
+      "title": "We Scanned 8 Popular MCP Servers — Here's What We Found",
+      "source": "devto"
+    },
+    "3a3802aa7ce3e07d": {
+      "date": "2026-02-16",
+      "title": "FluxDown: A Free Download Manager Built with Rust + Flutter",
+      "source": "devto"
+    },
+    "fc947f75250864f8": {
+      "date": "2026-02-16",
+      "title": "Meme Monday",
       "source": "devto"
     }
   }
