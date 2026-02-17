@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-16T23:01:18.405946",
+  "last_updated": "2026-02-17T23:01:20.213330",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -4226,6 +4226,166 @@
       "date": "2026-02-16",
       "title": "Meme Monday",
       "source": "devto"
+    },
+    "005387fb4800e9d7": {
+      "date": "2026-02-17",
+      "title": "TransLite",
+      "source": "producthunt"
+    },
+    "934b5e43161a1ffa": {
+      "date": "2026-02-17",
+      "title": "Drivebase",
+      "source": "producthunt"
+    },
+    "4548bb7f9937a9d1": {
+      "date": "2026-02-17",
+      "title": "AI Tech Packs",
+      "source": "producthunt"
+    },
+    "ed64c14f8eb13716": {
+      "date": "2026-02-17",
+      "title": "Synra",
+      "source": "producthunt"
+    },
+    "5e94f4140f52600a": {
+      "date": "2026-02-17",
+      "title": "HostedClaws",
+      "source": "producthunt"
+    },
+    "88cf8e1bacdac8bf": {
+      "date": "2026-02-17",
+      "title": "MiniMax-M2.5",
+      "source": "producthunt"
+    },
+    "ac2de875d4696604": {
+      "date": "2026-02-17",
+      "title": "Boost.space v5",
+      "source": "producthunt"
+    },
+    "5b0a5ba849b6842f": {
+      "date": "2026-02-17",
+      "title": "GrapheneOS – Break Free from Google and Apple",
+      "source": "hackernews"
+    },
+    "509dbec071b6fc7b": {
+      "date": "2026-02-17",
+      "title": "Claude Sonnet 4.6",
+      "source": "hackernews"
+    },
+    "fadddb0c77ea365b": {
+      "date": "2026-02-17",
+      "title": "Using go fix to modernize Go code",
+      "source": "hackernews"
+    },
+    "28c73c531f975b7f": {
+      "date": "2026-02-17",
+      "title": "Gentoo on Codeberg",
+      "source": "hackernews"
+    },
+    "fdb6a8e4bb4ba91e": {
+      "date": "2026-02-17",
+      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+      "source": "hackernews"
+    },
+    "4ea5c4cbdaa50b9b": {
+      "date": "2026-02-17",
+      "title": "Async/Await on the GPU",
+      "source": "hackernews"
+    },
+    "cb0e085361a5a666": {
+      "date": "2026-02-17",
+      "title": "So you want to build a tunnel",
+      "source": "hackernews"
+    },
+    "ef16e641fffdc01d": {
+      "date": "2026-02-17",
+      "title": "Physicists Make Electrons Flow Like Water",
+      "source": "hackernews"
+    },
+    "2170692ad1e64988": {
+      "date": "2026-02-17",
+      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+      "source": "hackernews"
+    },
+    "425783cc2fca241f": {
+      "date": "2026-02-17",
+      "title": "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
+      "source": "hackernews"
+    },
+    "2c598d7fc124190d": {
+      "date": "2026-02-17",
+      "title": "Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)",
+      "source": "devto"
+    },
+    "6cefe2b8bad0b8fc": {
+      "date": "2026-02-17",
+      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
+      "source": "devto"
+    },
+    "cf0e9d2acecc3b66": {
+      "date": "2026-02-17",
+      "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
+      "source": "devto"
+    },
+    "92d097122a1b9998": {
+      "date": "2026-02-17",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "3dc492784db74e05": {
+      "date": "2026-02-17",
+      "title": "Cloudflare Bot Fight Mode Breaks Zapier OAuth (And How to Fix It)",
+      "source": "devto"
+    },
+    "1cdb457b53d31aa4": {
+      "date": "2026-02-17",
+      "title": "The Secret Life of JavaScript: The Async Generator",
+      "source": "devto"
+    },
+    "e64a71e34c98b70a": {
+      "date": "2026-02-17",
+      "title": "GitHub Copilot to Generate Conventional Commit Messages in VSCode and JetBrains Rider",
+      "source": "devto"
+    },
+    "61f08944f469f755": {
+      "date": "2026-02-17",
+      "title": "I’ve Seen This Architecture Before. It Ends in Tears.",
+      "source": "devto"
+    },
+    "7dfa86aa21332a68": {
+      "date": "2026-02-17",
+      "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
+      "source": "devto"
+    },
+    "7f24be8726244d9d": {
+      "date": "2026-02-17",
+      "title": "How My Team Aligns on Prompting for Production",
+      "source": "devto"
+    },
+    "d33ed1415cd510b7": {
+      "date": "2026-02-17",
+      "title": "ashishps1 / awesome-system-design-resources",
+      "source": "github"
+    },
+    "844f298b0b62ed86": {
+      "date": "2026-02-17",
+      "title": "steipete / summarize",
+      "source": "github"
+    },
+    "13df77a00c234c33": {
+      "date": "2026-02-17",
+      "title": "anthropics / claude-quickstarts",
+      "source": "github"
+    },
+    "95ae7120d6074efd": {
+      "date": "2026-02-17",
+      "title": "davila7 / claude-code-templates",
+      "source": "github"
+    },
+    "23da4635e5d3efb8": {
+      "date": "2026-02-17",
+      "title": "OpenCTI-Platform / opencti",
+      "source": "github"
     }
   }
 }
