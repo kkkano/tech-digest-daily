@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-19T23:03:34.588678",
+  "last_updated": "2026-02-20T22:59:52.829231",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -4710,6 +4710,186 @@
     "a68a2411590086ec": {
       "date": "2026-02-19",
       "title": "Color Always Haunts Me",
+      "source": "devto"
+    },
+    "db0e76466dc21fce": {
+      "date": "2026-02-20",
+      "title": "Google Pomelli - Photoshoot",
+      "source": "producthunt"
+    },
+    "d9a017bd8f1a76a0": {
+      "date": "2026-02-20",
+      "title": "Coasty",
+      "source": "producthunt"
+    },
+    "92ca6d6059f0efde": {
+      "date": "2026-02-20",
+      "title": "Claudebin",
+      "source": "producthunt"
+    },
+    "bc976c21e9743395": {
+      "date": "2026-02-20",
+      "title": "keychains.dev",
+      "source": "producthunt"
+    },
+    "d226bc785504a28b": {
+      "date": "2026-02-20",
+      "title": "Arcmark",
+      "source": "producthunt"
+    },
+    "123d2c1f141f0913": {
+      "date": "2026-02-20",
+      "title": "Guideless",
+      "source": "producthunt"
+    },
+    "8ddc8d74d54944e6": {
+      "date": "2026-02-20",
+      "title": "PI-Link Speed Radar",
+      "source": "producthunt"
+    },
+    "c859354a08b011a6": {
+      "date": "2026-02-20",
+      "title": "Keep Android Open",
+      "source": "hackernews"
+    },
+    "5dd1e28ade37712b": {
+      "date": "2026-02-20",
+      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "source": "hackernews"
+    },
+    "69b07f7460b26f63": {
+      "date": "2026-02-20",
+      "title": "Facebook is cooked",
+      "source": "hackernews"
+    },
+    "83c0091350ba5c3a": {
+      "date": "2026-02-20",
+      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+      "source": "hackernews"
+    },
+    "1b6da089d2b6993d": {
+      "date": "2026-02-20",
+      "title": "I found a Vulnerability. They found a Lawyer",
+      "source": "hackernews"
+    },
+    "04cf99fc021d64bb": {
+      "date": "2026-02-20",
+      "title": "Turn Dependabot Off",
+      "source": "hackernews"
+    },
+    "4310baa90d6135fd": {
+      "date": "2026-02-20",
+      "title": "Blue light filters don't work – controlling total luminance is a better bet",
+      "source": "hackernews"
+    },
+    "9ff04544b0ffa4d5": {
+      "date": "2026-02-20",
+      "title": "OpenScan",
+      "source": "hackernews"
+    },
+    "3dce2fb0e4b6bd4b": {
+      "date": "2026-02-20",
+      "title": "Uncovering insiders and alpha on Polymarket with AI",
+      "source": "hackernews"
+    },
+    "3b0b0b463bf3a2a1": {
+      "date": "2026-02-20",
+      "title": "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
+      "source": "hackernews"
+    },
+    "85770197f1cb7d8d": {
+      "date": "2026-02-20",
+      "title": "vxcontrol / pentagi",
+      "source": "github"
+    },
+    "da590e70e40b55bf": {
+      "date": "2026-02-20",
+      "title": "blackboardsh / electrobun",
+      "source": "github"
+    },
+    "6fb08428e288194e": {
+      "date": "2026-02-20",
+      "title": "PostHog / posthog",
+      "source": "github"
+    },
+    "0666c423761a7c81": {
+      "date": "2026-02-20",
+      "title": "eslint / eslint",
+      "source": "github"
+    },
+    "d3905385e8279fd0": {
+      "date": "2026-02-20",
+      "title": "Effect-TS / effect-smol",
+      "source": "github"
+    },
+    "17a133fee8f3ef38": {
+      "date": "2026-02-20",
+      "title": "google-research / timesfm",
+      "source": "github"
+    },
+    "89bbfafe215d8de5": {
+      "date": "2026-02-20",
+      "title": "roboflow / trackers",
+      "source": "github"
+    },
+    "928195ecaee541cc": {
+      "date": "2026-02-20",
+      "title": "huggingface / skills",
+      "source": "github"
+    },
+    "e1f26f1ac01ccedf": {
+      "date": "2026-02-20",
+      "title": "databricks-solutions / ai-dev-kit",
+      "source": "github"
+    },
+    "09716c77cd35fd0b": {
+      "date": "2026-02-20",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "8ed2a453073032fc": {
+      "date": "2026-02-20",
+      "title": "The Meter Was Always Running",
+      "source": "devto"
+    },
+    "637de736ed39efce": {
+      "date": "2026-02-20",
+      "title": "I’ve Mentored 37 Junior Developers. Here’s What They All Get Wrong (And Why It’s Not Their Fault)",
+      "source": "devto"
+    },
+    "a0435dfee8b4c466": {
+      "date": "2026-02-20",
+      "title": "What Do You Want to Know About Antigravity?",
+      "source": "devto"
+    },
+    "77223b26753321a7": {
+      "date": "2026-02-20",
+      "title": "The hosting setup nobody talks about anymore",
+      "source": "devto"
+    },
+    "0a6d82330bfe6a8b": {
+      "date": "2026-02-20",
+      "title": "How to Build a Research Assistant using Deep Agents",
+      "source": "devto"
+    },
+    "4b7cf65f683932aa": {
+      "date": "2026-02-20",
+      "title": "What does MLH stand for?",
+      "source": "devto"
+    },
+    "d2a3f47bbea6a906": {
+      "date": "2026-02-20",
+      "title": "The Promotion I Didn't Get Taught Me More Than the One I Did",
+      "source": "devto"
+    },
+    "301aab1e71106a6c": {
+      "date": "2026-02-20",
+      "title": "AI Coding Tools and the Runtime Context Gap",
+      "source": "devto"
+    },
+    "45918878867850dd": {
+      "date": "2026-02-20",
+      "title": "I Tried Running File Conversion Fully in the Browser (WASM, LibreOffice, FFmpeg)",
       "source": "devto"
     }
   }
