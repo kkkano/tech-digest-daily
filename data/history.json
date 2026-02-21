@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-02-20T22:59:52.829231",
+  "last_updated": "2026-02-21T22:55:38.538745",
   "sent_items": {
     "61226841096d4f3c": {
       "date": "2026-01-25",
@@ -4890,6 +4890,176 @@
     "45918878867850dd": {
       "date": "2026-02-20",
       "title": "I Tried Running File Conversion Fully in the Browser (WASM, LibreOffice, FFmpeg)",
+      "source": "devto"
+    },
+    "f663969f15e50435": {
+      "date": "2026-02-21",
+      "title": "I verified my LinkedIn identity. Here's what I handed over",
+      "source": "hackernews"
+    },
+    "581a5c9670efc0f9": {
+      "date": "2026-02-21",
+      "title": "How far back in time can you understand English?",
+      "source": "hackernews"
+    },
+    "d714936b4ab8636f": {
+      "date": "2026-02-21",
+      "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
+      "source": "hackernews"
+    },
+    "e86d36a24d90da91": {
+      "date": "2026-02-21",
+      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+      "source": "hackernews"
+    },
+    "625814b60c54c5cc": {
+      "date": "2026-02-21",
+      "title": "I Don't Like Magic",
+      "source": "hackernews"
+    },
+    "dd30f1d4323cdcec": {
+      "date": "2026-02-21",
+      "title": "When Code is Free, Why is Claude is an Electron app?",
+      "source": "hackernews"
+    },
+    "fd70e2cfa5878e63": {
+      "date": "2026-02-21",
+      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
+      "source": "hackernews"
+    },
+    "b3dbe95d33322f49": {
+      "date": "2026-02-21",
+      "title": "Inputlag.science – Repository of knowledge about input lag in gaming",
+      "source": "hackernews"
+    },
+    "de667323dbd5dfb4": {
+      "date": "2026-02-21",
+      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+      "source": "hackernews"
+    },
+    "81a2f4d2e94f309d": {
+      "date": "2026-02-21",
+      "title": "Password managers less secure than promised",
+      "source": "hackernews"
+    },
+    "d1ff6f1e6c3d23a9": {
+      "date": "2026-02-21",
+      "title": "Rork Max",
+      "source": "producthunt"
+    },
+    "c226f35f284d7e81": {
+      "date": "2026-02-21",
+      "title": "PulseKit",
+      "source": "producthunt"
+    },
+    "4060351c01d24e8a": {
+      "date": "2026-02-21",
+      "title": "Woise",
+      "source": "producthunt"
+    },
+    "8ea7e7335b552229": {
+      "date": "2026-02-21",
+      "title": "Prism Videos",
+      "source": "producthunt"
+    },
+    "b17ec740a0285f99": {
+      "date": "2026-02-21",
+      "title": "WANotifier",
+      "source": "producthunt"
+    },
+    "dbc5c7b85f0c078d": {
+      "date": "2026-02-21",
+      "title": "Lyria 3 by Google Deepmind",
+      "source": "producthunt"
+    },
+    "46e24096af5aa5e6": {
+      "date": "2026-02-21",
+      "title": "abhigyanpatwari / GitNexus",
+      "source": "github"
+    },
+    "948e14202b264559": {
+      "date": "2026-02-21",
+      "title": "PowerShell / PowerShell",
+      "source": "github"
+    },
+    "1e61851c7eb0065b": {
+      "date": "2026-02-21",
+      "title": "anthropics / claude-code",
+      "source": "github"
+    },
+    "97f521215cf5512d": {
+      "date": "2026-02-21",
+      "title": "stan-smith / FossFLOW",
+      "source": "github"
+    },
+    "4c6e2b5d342dc532": {
+      "date": "2026-02-21",
+      "title": "ggml-org / ggml",
+      "source": "github"
+    },
+    "dac0f50fad3f86f4": {
+      "date": "2026-02-21",
+      "title": "Stremio / stremio-web",
+      "source": "github"
+    },
+    "d3b459a921b895af": {
+      "date": "2026-02-21",
+      "title": "cloudflare / agents",
+      "source": "github"
+    },
+    "1c8ca2374a6403a1": {
+      "date": "2026-02-21",
+      "title": "hiddify / hiddify-app",
+      "source": "github"
+    },
+    "9a467a929952d4db": {
+      "date": "2026-02-21",
+      "title": "StackOverflow - was it worth it?",
+      "source": "devto"
+    },
+    "de27d1794d824ba1": {
+      "date": "2026-02-21",
+      "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits — Here's the Exact Setup",
+      "source": "devto"
+    },
+    "a80414c6cd91a5ef": {
+      "date": "2026-02-21",
+      "title": "Your Article Isn’t the Real Content",
+      "source": "devto"
+    },
+    "b9d506289f7f8899": {
+      "date": "2026-02-21",
+      "title": "Are markdown files becoming the new dot files?",
+      "source": "devto"
+    },
+    "2d9065f7a5c5d420": {
+      "date": "2026-02-21",
+      "title": "98 Bytes That Prove Your Document Existed",
+      "source": "devto"
+    },
+    "6a677a0157e5a85a": {
+      "date": "2026-02-21",
+      "title": "I Kept Enjoying Game Programming—and Ended Up with 500 Homemade Games",
+      "source": "devto"
+    },
+    "0352b4c1ca255383": {
+      "date": "2026-02-21",
+      "title": "I'm a dyslexic developer. Here is why I built a task tracker to escape the \"Wall of Text\"",
+      "source": "devto"
+    },
+    "3964353d697e2f9f": {
+      "date": "2026-02-21",
+      "title": "Optimizing OCR Performance on Mobile: From 5 Seconds to Under 1 Second",
+      "source": "devto"
+    },
+    "a27df484248a35fc": {
+      "date": "2026-02-21",
+      "title": "I built a web capture API in my spare time. Here is what happened when I added AI voice narration.",
+      "source": "devto"
+    },
+    "13df32e5c4a9c437": {
+      "date": "2026-02-21",
+      "title": "localhost to deploy..project that changed my thinking....",
       "source": "devto"
     }
   }
