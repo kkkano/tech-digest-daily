@@ -103,6 +103,12 @@ class TechDigestLogger:
         }
         self._logger.setLevel(level_map.get(level.upper(), logging.INFO))
 
+    def set_stream(self, stream):
+        """切换日志输出流，用于 CLI/MCP 保持 stdout 干净。"""
+        for handler in self._logger.handlers:
+            if hasattr(handler, "setStream"):
+                handler.setStream(stream)
+
     # ==================== 基础日志方法 ====================
 
     def debug(self, msg: str, *args, **kwargs):

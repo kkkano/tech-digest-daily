@@ -61,7 +61,7 @@ class LLMClient:
         system_prompt: Optional[str] = None,
         temperature: float = 0.7,
         max_tokens: int = 4096,
-        verbose: bool = True
+        verbose: Optional[bool] = None
     ) -> str:
         """
         发送聊天请求（带多模型重试）
@@ -71,11 +71,14 @@ class LLMClient:
             system_prompt: 系统提示
             temperature: 温度参数
             max_tokens: 最大 token 数
-            verbose: 是否打印详细日志
+            verbose: 是否打印详细日志，默认由 DEBUG_LLM 控制
 
         Returns:
             模型响应文本
         """
+        if verbose is None:
+            verbose = os.environ.get("DEBUG_LLM", "false").lower() == "true"
+
         # 打印完整 Prompt（用于调试）
         if verbose:
             print("\n" + "=" * 70)
