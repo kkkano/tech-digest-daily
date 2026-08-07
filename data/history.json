@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-08-07T01:40:03.695145",
+  "last_updated": "2026-08-07T23:11:04.869704",
   "sent_items": {
     "ee89408329588cd5": {
       "date": "2026-07-08",
@@ -4910,6 +4910,176 @@
     "2f5b9452f2dfd7d0": {
       "date": "2026-08-07",
       "title": "Significant-Gravitas / AutoGPT",
+      "source": "github"
+    },
+    "2e39f74301c7f0d2": {
+      "date": "2026-08-07",
+      "title": "DataBlur",
+      "source": "producthunt"
+    },
+    "05236b338b752be1": {
+      "date": "2026-08-07",
+      "title": "ShootClip",
+      "source": "producthunt"
+    },
+    "526dd679288e25b1": {
+      "date": "2026-08-07",
+      "title": "Blueberry",
+      "source": "producthunt"
+    },
+    "b105330180f3a437": {
+      "date": "2026-08-07",
+      "title": "Rescript for Desktop",
+      "source": "producthunt"
+    },
+    "9702f87280c9c4d6": {
+      "date": "2026-08-07",
+      "title": "Merge",
+      "source": "producthunt"
+    },
+    "e1922af2afb75b83": {
+      "date": "2026-08-07",
+      "title": "Soloop",
+      "source": "producthunt"
+    },
+    "84192075b6605656": {
+      "date": "2026-08-07",
+      "title": "Prompt Bridge",
+      "source": "producthunt"
+    },
+    "7072d9c4c23e8d9e": {
+      "date": "2026-08-07",
+      "title": "DeepSeek V4 Flash 0731",
+      "source": "hackernews"
+    },
+    "99c5fc173e86b393": {
+      "date": "2026-08-07",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "source": "hackernews"
+    },
+    "6ed73fb0dd97c3b1": {
+      "date": "2026-08-07",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "source": "hackernews"
+    },
+    "f222ab795a8b0a89": {
+      "date": "2026-08-07",
+      "title": "Assembly Hall of Shame",
+      "source": "hackernews"
+    },
+    "08c06a38d78616a1": {
+      "date": "2026-08-07",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "source": "hackernews"
+    },
+    "f05e07c94926179a": {
+      "date": "2026-08-07",
+      "title": "An all-sky map of half a million supermassive black holes",
+      "source": "hackernews"
+    },
+    "d8c1504d1e356d0c": {
+      "date": "2026-08-07",
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "source": "hackernews"
+    },
+    "0b45378172f2c26b": {
+      "date": "2026-08-07",
+      "title": "Carl's Required Reading",
+      "source": "hackernews"
+    },
+    "6261db6c664affc6": {
+      "date": "2026-08-07",
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "source": "hackernews"
+    },
+    "7829fcdafb902a1e": {
+      "date": "2026-08-07",
+      "title": "Guarded Methods in OCaml",
+      "source": "hackernews"
+    },
+    "ab78ed3e629e5469": {
+      "date": "2026-08-07",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "93048ac6ebf563c9": {
+      "date": "2026-08-07",
+      "title": "The Year I Started Leaving Breadcrumbs Instead of Notes",
+      "source": "devto"
+    },
+    "9c07ec53d4f61988": {
+      "date": "2026-08-07",
+      "title": "ratatop: the process table, and the parentheses that ruin everything",
+      "source": "devto"
+    },
+    "bbd6724799e6e36c": {
+      "date": "2026-08-07",
+      "title": "linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀",
+      "source": "devto"
+    },
+    "68efad4dcc7179b2": {
+      "date": "2026-08-07",
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "source": "devto"
+    },
+    "dc37a2d2e2fd1e52": {
+      "date": "2026-08-07",
+      "title": "I Found Two Bugs in Zulip. The Maintainers Had Filed Both Two Weeks Earlier.",
+      "source": "devto"
+    },
+    "4dd5f51c5fdc5716": {
+      "date": "2026-08-07",
+      "title": "How Kiro Crew's Cron Jobs Replaced 4 Hours of Weekly Toil",
+      "source": "devto"
+    },
+    "6f4494bd409d7c7c": {
+      "date": "2026-08-07",
+      "title": "I Thought Building Agent Observability Was a Detector Problem. I Was Wrong.",
+      "source": "devto"
+    },
+    "e3a22662509caa5e": {
+      "date": "2026-08-07",
+      "title": "Aged Care Does Not Need More AI",
+      "source": "devto"
+    },
+    "3544e78c09ad8131": {
+      "date": "2026-08-07",
+      "title": "Multi-Repo to Monorepo: How I Automated 6 Go Microservice Releases and Then Made It 15x Faster",
+      "source": "devto"
+    },
+    "fd5ece9fb4227a5e": {
+      "date": "2026-08-07",
+      "title": "PrimeIntellect-ai / prime-agent",
+      "source": "github"
+    },
+    "a7f9890fb36a6a88": {
+      "date": "2026-08-07",
+      "title": "semantica-agi / semantica",
+      "source": "github"
+    },
+    "5fa324d6510a1f1b": {
+      "date": "2026-08-07",
+      "title": "666ghj / MiroFish",
+      "source": "github"
+    },
+    "babd5456309a43a6": {
+      "date": "2026-08-07",
+      "title": "jdx / mise",
+      "source": "github"
+    },
+    "6125ba6588eb10b8": {
+      "date": "2026-08-07",
+      "title": "unclebob / swarm-forge",
+      "source": "github"
+    },
+    "0ab654e456c47753": {
+      "date": "2026-08-07",
+      "title": "denoland / celld",
+      "source": "github"
+    },
+    "7b86631926e7e6f3": {
+      "date": "2026-08-07",
+      "title": "K2SOsint / Legendary_OSINT",
       "source": "github"
     }
   }
