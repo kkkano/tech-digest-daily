@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-07T23:11:04.869704",
+  "last_updated": "2026-08-08T23:03:30.490438",
   "sent_items": {
-    "ee89408329588cd5": {
-      "date": "2026-07-08",
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "source": "hackernews"
-    },
-    "8d4800754aaa447a": {
-      "date": "2026-07-08",
-      "title": "Chatto is now open source",
-      "source": "hackernews"
-    },
-    "623f6abfe53197b7": {
-      "date": "2026-07-08",
-      "title": "Grok 4.5",
-      "source": "hackernews"
-    },
-    "da7c60eac71cbd5b": {
-      "date": "2026-07-08",
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "source": "hackernews"
-    },
-    "f0a84d5fa103e1d0": {
-      "date": "2026-07-08",
-      "title": "FAANG Simulator",
-      "source": "hackernews"
-    },
-    "295415ad6648cf43": {
-      "date": "2026-07-08",
-      "title": "Cloudflare Drop",
-      "source": "hackernews"
-    },
-    "675b2b6a7cdb3d99": {
-      "date": "2026-07-08",
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "source": "hackernews"
-    },
-    "ca4034068fea7074": {
-      "date": "2026-07-08",
-      "title": "Rewriting Bun in Rust",
-      "source": "hackernews"
-    },
-    "0397c162f82795c2": {
-      "date": "2026-07-08",
-      "title": "Separating signal from noise in coding evaluations",
-      "source": "hackernews"
-    },
-    "e97ed564430fc93e": {
-      "date": "2026-07-08",
-      "title": "DKIM2 and DMARCbis Have Landed",
-      "source": "hackernews"
-    },
-    "580ab9d68d946b9e": {
-      "date": "2026-07-08",
-      "title": "Link Preview API",
-      "source": "producthunt"
-    },
-    "4539af4e765ac4e8": {
-      "date": "2026-07-08",
-      "title": "agents-cli",
-      "source": "producthunt"
-    },
-    "356624c4d8951de6": {
-      "date": "2026-07-08",
-      "title": "ExploreYC",
-      "source": "producthunt"
-    },
-    "cd8fbf964046fc77": {
-      "date": "2026-07-08",
-      "title": "Compendium",
-      "source": "producthunt"
-    },
-    "9d2d37a03e6a0760": {
-      "date": "2026-07-08",
-      "title": "LemonLime",
-      "source": "producthunt"
-    },
-    "828fb153cb911a31": {
-      "date": "2026-07-08",
-      "title": "Orus",
-      "source": "producthunt"
-    },
-    "1bd9cd0e13ad6c32": {
-      "date": "2026-07-08",
-      "title": "Willow Frontier Pro",
-      "source": "producthunt"
-    },
-    "abeff16927fc6985": {
-      "date": "2026-07-08",
-      "title": "Notion Agents iOS app",
-      "source": "producthunt"
-    },
-    "e3205a5c6cd753d1": {
-      "date": "2026-07-08",
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "source": "devto"
-    },
-    "c108598cf4f16240": {
-      "date": "2026-07-08",
-      "title": "DEV's Summer Bug Smash Launches on July 14. Register Now!",
-      "source": "devto"
-    },
-    "1164abd59804ca77": {
-      "date": "2026-07-08",
-      "title": "Ownership: do \"temos um rojão na mão\" até \"não precisa mais pensar nisso\"",
-      "source": "devto"
-    },
-    "b32f52360c04a0a5": {
-      "date": "2026-07-08",
-      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
-      "source": "devto"
-    },
-    "c9e0bd98ddd315ff": {
-      "date": "2026-07-08",
-      "title": "I Started Writing My Prediction Before Reading the AI's Answer. Here's What Happened.",
-      "source": "devto"
-    },
-    "12bc74ffc667afca": {
-      "date": "2026-07-08",
-      "title": "A New Developer Platform for Agent-Human Collaboration",
-      "source": "devto"
-    },
-    "05a98ea88ef93b6e": {
-      "date": "2026-07-08",
-      "title": "Stratagems #8: Alex Watched an AI Dashboard Take Over. He Kept the Keys Under the Table.",
-      "source": "devto"
-    },
-    "827bf8f9db2c7928": {
-      "date": "2026-07-08",
-      "title": "My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast",
-      "source": "devto"
-    },
-    "f3688ce3c31e0787": {
-      "date": "2026-07-08",
-      "title": "The Agent Faked a Test Log, Then Believed It. Self-Editing Harnesses Have a Provenance Problem.",
-      "source": "devto"
-    },
-    "6fb12af6948f67ad": {
-      "date": "2026-07-08",
-      "title": "Has the audience for technical articles dropped?",
-      "source": "devto"
-    },
-    "56030b62da1387c4": {
-      "date": "2026-07-08",
-      "title": "TencentCloud / TencentDB-Agent-Memory",
-      "source": "github"
-    },
-    "a6837e0cbb3b5baa": {
-      "date": "2026-07-08",
-      "title": "prisma / prisma",
-      "source": "github"
-    },
-    "bf2404a033b0a4e0": {
-      "date": "2026-07-08",
-      "title": "argoproj / argo-cd",
-      "source": "github"
-    },
-    "2a226d56135ff239": {
-      "date": "2026-07-08",
-      "title": "Diolinux / PhotoGIMP",
-      "source": "github"
-    },
-    "1186b2882266412e": {
-      "date": "2026-07-08",
-      "title": "wonderwhy-er / DesktopCommanderMCP",
-      "source": "github"
-    },
-    "a531ffc6a0eb8496": {
-      "date": "2026-07-08",
-      "title": "huxingyi / autoremesher",
-      "source": "github"
-    },
     "f4e4f7935847b513": {
       "date": "2026-07-09",
       "title": "GPT-5.6",
@@ -5080,6 +4910,156 @@
     "7b86631926e7e6f3": {
       "date": "2026-08-07",
       "title": "K2SOsint / Legendary_OSINT",
+      "source": "github"
+    },
+    "482fdf4e3a0eb7bf": {
+      "date": "2026-08-08",
+      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "source": "hackernews"
+    },
+    "ea121f25d18711ce": {
+      "date": "2026-08-08",
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "source": "hackernews"
+    },
+    "a883b083f3d8a86d": {
+      "date": "2026-08-08",
+      "title": "A domain can now say it is for sale, in DNS",
+      "source": "hackernews"
+    },
+    "c4c593837e6d495c": {
+      "date": "2026-08-08",
+      "title": "Fastmail offers EU data region",
+      "source": "hackernews"
+    },
+    "abdc68130cebc26d": {
+      "date": "2026-08-08",
+      "title": "LinkedIn Feed Blocker",
+      "source": "hackernews"
+    },
+    "2d193cba6f4e8dfd": {
+      "date": "2026-08-08",
+      "title": "Can Intel finally beat ARM on performance per Watt?",
+      "source": "hackernews"
+    },
+    "6db0bbb1c6af502d": {
+      "date": "2026-08-08",
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "source": "hackernews"
+    },
+    "7b9e4df6ad0b1391": {
+      "date": "2026-08-08",
+      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
+      "source": "hackernews"
+    },
+    "544667de7d520ee0": {
+      "date": "2026-08-08",
+      "title": "Preventing Misfolding by Preventing Folding",
+      "source": "hackernews"
+    },
+    "378cf497bb609814": {
+      "date": "2026-08-08",
+      "title": "Making difficulty curves in games",
+      "source": "hackernews"
+    },
+    "cc0850cf5e0e5eb1": {
+      "date": "2026-08-08",
+      "title": "Toolport",
+      "source": "producthunt"
+    },
+    "9ed0a10c7f60579a": {
+      "date": "2026-08-08",
+      "title": "Hexis",
+      "source": "producthunt"
+    },
+    "727a01bbb8ed20ab": {
+      "date": "2026-08-08",
+      "title": "AstraPixels",
+      "source": "producthunt"
+    },
+    "fcd808e501953b4f": {
+      "date": "2026-08-08",
+      "title": "Rindler",
+      "source": "producthunt"
+    },
+    "724ab43f9b4a28cc": {
+      "date": "2026-08-08",
+      "title": "Progress AI Observability",
+      "source": "producthunt"
+    },
+    "9b35f034cfea909c": {
+      "date": "2026-08-08",
+      "title": "Into the void",
+      "source": "devto"
+    },
+    "5a27c56af4fcdad9": {
+      "date": "2026-08-08",
+      "title": "Swift Protocols — Opaque Return Types and the Mystery of `some` 🔮",
+      "source": "devto"
+    },
+    "6e6b4a5bc2144303": {
+      "date": "2026-08-08",
+      "title": "I Know the Recipe. I Miss the Winter Kitchen.",
+      "source": "devto"
+    },
+    "f00c6025347c7bcf": {
+      "date": "2026-08-08",
+      "title": "I Explained My Code While Writing It on Camera. Here’s What Surprised Me",
+      "source": "devto"
+    },
+    "a421f72117ff05de": {
+      "date": "2026-08-08",
+      "title": "I Put a Canary Token in My Resume and Caught a Company Stalking Me",
+      "source": "devto"
+    },
+    "40503d8f8a09c6b3": {
+      "date": "2026-08-08",
+      "title": "Who Named This ReAct? I'd Like to Speak to the Manager.",
+      "source": "devto"
+    },
+    "e62179b1d45106f1": {
+      "date": "2026-08-08",
+      "title": "Week 9: Verifying the Token",
+      "source": "devto"
+    },
+    "13f763427d233026": {
+      "date": "2026-08-08",
+      "title": "AI Won't Kill Your AI Won't Kill Your Motivation. But Mediocrity Might.",
+      "source": "devto"
+    },
+    "866727ac24a7b7e5": {
+      "date": "2026-08-08",
+      "title": "Every Test Can Name Why It Exists",
+      "source": "devto"
+    },
+    "71a9d7e07d29eaae": {
+      "date": "2026-08-08",
+      "title": "Our Token Counter Took 26 Seconds on a Single Prompt",
+      "source": "devto"
+    },
+    "69c7eb76fe0b1fcc": {
+      "date": "2026-08-08",
+      "title": "google / skills",
+      "source": "github"
+    },
+    "afdace39e7492d8a": {
+      "date": "2026-08-08",
+      "title": "TauricResearch / TradingAgents",
+      "source": "github"
+    },
+    "b4c1f3891d0e98fc": {
+      "date": "2026-08-08",
+      "title": "LadybirdBrowser / ladybird",
+      "source": "github"
+    },
+    "66a6bfb667a601ed": {
+      "date": "2026-08-08",
+      "title": "litu54 / DevOps-Interview-Guide",
+      "source": "github"
+    },
+    "0e9d524ba522c191": {
+      "date": "2026-08-08",
+      "title": "bannedbook / fanqiang",
       "source": "github"
     }
   }
