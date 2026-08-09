@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-08T23:03:30.490438",
+  "last_updated": "2026-08-09T23:05:05.799255",
   "sent_items": {
-    "f4e4f7935847b513": {
-      "date": "2026-07-09",
-      "title": "GPT-5.6",
-      "source": "hackernews"
-    },
-    "6897dc0e3dbbf846": {
-      "date": "2026-07-09",
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "source": "hackernews"
-    },
-    "970f96f86491040d": {
-      "date": "2026-07-09",
-      "title": "Show HN: 18 Words",
-      "source": "hackernews"
-    },
-    "08f34ecd4ef9da71": {
-      "date": "2026-07-09",
-      "title": "Hy3",
-      "source": "hackernews"
-    },
-    "d465f4b45da1040a": {
-      "date": "2026-07-09",
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "source": "hackernews"
-    },
-    "d8699931bd0d7791": {
-      "date": "2026-07-09",
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "source": "hackernews"
-    },
-    "f79363ee79fb1b84": {
-      "date": "2026-07-09",
-      "title": "No leap second will be introduced at the end of December 2026",
-      "source": "hackernews"
-    },
-    "d7de14150ac398cf": {
-      "date": "2026-07-09",
-      "title": "Train sim created by just one person is being called the best ever made",
-      "source": "hackernews"
-    },
-    "a4ffd2fe1bbf5a41": {
-      "date": "2026-07-09",
-      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-      "source": "hackernews"
-    },
-    "beaeea510ecc9a1f": {
-      "date": "2026-07-09",
-      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
-      "source": "hackernews"
-    },
-    "d9a017bd8f1a76a0": {
-      "date": "2026-07-09",
-      "title": "Coasty",
-      "source": "producthunt"
-    },
-    "ee95cb9f07576fe9": {
-      "date": "2026-07-09",
-      "title": "Just Ask by SEORCE",
-      "source": "producthunt"
-    },
-    "b4ef0639170354e0": {
-      "date": "2026-07-09",
-      "title": "Constellation Gate AI",
-      "source": "producthunt"
-    },
-    "dd4454034ea850d6": {
-      "date": "2026-07-09",
-      "title": "Opper AI",
-      "source": "producthunt"
-    },
-    "27725463c2e41524": {
-      "date": "2026-07-09",
-      "title": "Glimpse",
-      "source": "producthunt"
-    },
-    "09ba4fc1c10605e9": {
-      "date": "2026-07-09",
-      "title": "Monogram AI",
-      "source": "producthunt"
-    },
-    "4a0b97eb8be19552": {
-      "date": "2026-07-09",
-      "title": "Aura: Agents + Git + Intent Open Source",
-      "source": "producthunt"
-    },
-    "bf975c71ae5896d6": {
-      "date": "2026-07-09",
-      "title": "ARKAD Wallet",
-      "source": "producthunt"
-    },
-    "8227c1b797aef382": {
-      "date": "2026-07-09",
-      "title": "SmartlyDressedGames / U3-SDK",
-      "source": "github"
-    },
-    "4b4cf6b011e27df5": {
-      "date": "2026-07-09",
-      "title": "VoltAgent / awesome-design-md",
-      "source": "github"
-    },
-    "3f87148fc02bbcf5": {
-      "date": "2026-07-09",
-      "title": "anthropics / claude-cookbooks",
-      "source": "github"
-    },
-    "85770197f1cb7d8d": {
-      "date": "2026-07-09",
-      "title": "vxcontrol / pentagi",
-      "source": "github"
-    },
-    "2db83a025fb2e599": {
-      "date": "2026-07-09",
-      "title": "unclecode / crawl4ai",
-      "source": "github"
-    },
-    "32d078cecf55571e": {
-      "date": "2026-07-09",
-      "title": "imthenachoman / How-To-Secure-A-Linux-Server",
-      "source": "github"
-    },
-    "53d1f895d2f6185c": {
-      "date": "2026-07-09",
-      "title": "Should I quit IT or just live through the burnout?",
-      "source": "devto"
-    },
-    "b1f8e8a5664c072d": {
-      "date": "2026-07-09",
-      "title": "Congrats to the June Solstice Game Jam Winners!",
-      "source": "devto"
-    },
-    "df260263d07d91d1": {
-      "date": "2026-07-09",
-      "title": "Your Hand-Typed Slop Isn't Honest. It's Just Slower.",
-      "source": "devto"
-    },
-    "4a6a492b91fdf13d": {
-      "date": "2026-07-09",
-      "title": "I Deleted 200 Lines of Code I Didn't Write and Learned More Than When I Wrote It...",
-      "source": "devto"
-    },
-    "c797970b20ce3e52": {
-      "date": "2026-07-09",
-      "title": "The Silent Panic of Being Asked \"Can You Just Quickly Fix This?\"",
-      "source": "devto"
-    },
-    "500f087ae511b53b": {
-      "date": "2026-07-09",
-      "title": "Two nasty surprises in Home Assistant's config",
-      "source": "devto"
-    },
-    "cbc95a9fb17c39b2": {
-      "date": "2026-07-09",
-      "title": "Deploying a real-time multiplayer game on Railway",
-      "source": "devto"
-    },
-    "ab0adc0904478a5c": {
-      "date": "2026-07-09",
-      "title": "Why My Angular 21 Upgrade Failed 👀",
-      "source": "devto"
-    },
-    "b33207bc3694e1ea": {
-      "date": "2026-07-09",
-      "title": "Unboxable in Tech: The Evidence Locker",
-      "source": "devto"
-    },
-    "f216f16fbdc8639c": {
-      "date": "2026-07-09",
-      "title": "Stratagems #9: Lena and P Watched Two AI Suppliers Fight. The Logs Said Neither Was Clean.",
-      "source": "devto"
-    },
     "3ad9e4d56d0d1b46": {
       "date": "2026-07-10",
       "title": "ChatCut",
@@ -5061,6 +4891,176 @@
       "date": "2026-08-08",
       "title": "bannedbook / fanqiang",
       "source": "github"
+    },
+    "bc7e331fcbd972f3": {
+      "date": "2026-08-09",
+      "title": "Workflo",
+      "source": "producthunt"
+    },
+    "1b6e4ea6cd7b4d25": {
+      "date": "2026-08-09",
+      "title": "DocsAlot CLI",
+      "source": "producthunt"
+    },
+    "c0572936159eb9aa": {
+      "date": "2026-08-09",
+      "title": "Argos",
+      "source": "producthunt"
+    },
+    "40b102f84f9de363": {
+      "date": "2026-08-09",
+      "title": "DuckDisk",
+      "source": "producthunt"
+    },
+    "7080cdcb3c418976": {
+      "date": "2026-08-09",
+      "title": "ConferenceGrid",
+      "source": "producthunt"
+    },
+    "309357ee071bc2e5": {
+      "date": "2026-08-09",
+      "title": "VoiceOS App Store",
+      "source": "producthunt"
+    },
+    "71835aafd4208675": {
+      "date": "2026-08-09",
+      "title": "Soup CLI",
+      "source": "producthunt"
+    },
+    "e59cbb1632148cf1": {
+      "date": "2026-08-09",
+      "title": "Good Assistant 2",
+      "source": "producthunt"
+    },
+    "b8833e2e23524bdc": {
+      "date": "2026-08-09",
+      "title": "Mea Culpa – Dark Hours",
+      "source": "hackernews"
+    },
+    "dd94114e1e0a7347": {
+      "date": "2026-08-09",
+      "title": "How I use LLMs to learn complex topics",
+      "source": "hackernews"
+    },
+    "eb5cbeebc7423c53": {
+      "date": "2026-08-09",
+      "title": "Cool URIs Don't Change (1998)",
+      "source": "hackernews"
+    },
+    "c4b7521898c37f98": {
+      "date": "2026-08-09",
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "source": "hackernews"
+    },
+    "726c5c34d778ed45": {
+      "date": "2026-08-09",
+      "title": "OpenChamber: An Agentic Development Environment",
+      "source": "hackernews"
+    },
+    "4c74710d48b194a8": {
+      "date": "2026-08-09",
+      "title": "The Hacker's Renaissance",
+      "source": "hackernews"
+    },
+    "10af8ac6d73b26b5": {
+      "date": "2026-08-09",
+      "title": "The tragedy of the commons, AI edition",
+      "source": "hackernews"
+    },
+    "22fe051caa07502a": {
+      "date": "2026-08-09",
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "source": "hackernews"
+    },
+    "c4f383e6dd6d14c0": {
+      "date": "2026-08-09",
+      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
+      "source": "hackernews"
+    },
+    "e659324037989519": {
+      "date": "2026-08-09",
+      "title": "Tuxedo No. 2 – Cocktail recipes",
+      "source": "hackernews"
+    },
+    "9df15693a325a4df": {
+      "date": "2026-08-09",
+      "title": "vitali87 / code-graph-rag",
+      "source": "github"
+    },
+    "5c6b792d638db986": {
+      "date": "2026-08-09",
+      "title": "pranshuparmar / witr",
+      "source": "github"
+    },
+    "ebb1d052d7691b41": {
+      "date": "2026-08-09",
+      "title": "google-deepmind / weathernext",
+      "source": "github"
+    },
+    "4ec6d5af71eebc5a": {
+      "date": "2026-08-09",
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "source": "github"
+    },
+    "cfd080a015af43f1": {
+      "date": "2026-08-09",
+      "title": "Comfy-Org / ComfyUI",
+      "source": "github"
+    },
+    "366a0618b79f3f5d": {
+      "date": "2026-08-09",
+      "title": "harveyai / harvey-labs",
+      "source": "github"
+    },
+    "fee2f0fe7d27e545": {
+      "date": "2026-08-09",
+      "title": "Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.",
+      "source": "devto"
+    },
+    "1fc16c1b9b262974": {
+      "date": "2026-08-09",
+      "title": "🛻CSS Art: Smoothie Food Truck",
+      "source": "devto"
+    },
+    "a50b750af22a82e3": {
+      "date": "2026-08-09",
+      "title": "I measured his app with his own code. He measured my claim with his own corpus.",
+      "source": "devto"
+    },
+    "b80d61a1c673b8fc": {
+      "date": "2026-08-09",
+      "title": "Which parts of this are real? Should be a question with an answer",
+      "source": "devto"
+    },
+    "25a018b967ad81fd": {
+      "date": "2026-08-09",
+      "title": "🏦 Vaya: an AI loan advisor that asks whether you can still afford to live",
+      "source": "devto"
+    },
+    "2789e448981879ef": {
+      "date": "2026-08-09",
+      "title": "Restate's Single Binary vs Temporal's Cluster: When the Lighter Engine Wins",
+      "source": "devto"
+    },
+    "66448213c7b4dd65": {
+      "date": "2026-08-09",
+      "title": "Surviving the AI Bubble With Two Pieces of Junk From Amazon",
+      "source": "devto"
+    },
+    "8ae1f20c5df791bc": {
+      "date": "2026-08-09",
+      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
+      "source": "devto"
+    },
+    "1d93487500ac4cf8": {
+      "date": "2026-08-09",
+      "title": "Rasa Kenangan — Immersive Scroll Narrative Landing Page",
+      "source": "devto"
+    },
+    "c25dc9e46c7624a4": {
+      "date": "2026-08-09",
+      "title": "I Built Scenario Packs for Agent Regression Testing. The Integration, Not the Judge, Broke Me.",
+      "source": "devto"
     }
   }
 }
