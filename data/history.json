@@ -1,192 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-09T23:05:05.799255",
+  "last_updated": "2026-08-10T23:11:29.205758",
   "sent_items": {
-    "3ad9e4d56d0d1b46": {
-      "date": "2026-07-10",
-      "title": "ChatCut",
-      "source": "producthunt"
-    },
-    "c1293631b720705f": {
-      "date": "2026-07-10",
-      "title": "PlugThis",
-      "source": "producthunt"
-    },
-    "9b921e9360e28fc6": {
-      "date": "2026-07-10",
-      "title": "StoryChief Connect",
-      "source": "producthunt"
-    },
-    "5f55b7f0dc1442cd": {
-      "date": "2026-07-10",
-      "title": "Mispher",
-      "source": "producthunt"
-    },
-    "7ad60b634430aa32": {
-      "date": "2026-07-10",
-      "title": "Juicy",
-      "source": "producthunt"
-    },
-    "3c486a4c0c5d6fe2": {
-      "date": "2026-07-10",
-      "title": "RepStandard",
-      "source": "producthunt"
-    },
-    "ce8620f2b3648316": {
-      "date": "2026-07-10",
-      "title": "Ship OS by Notion",
-      "source": "producthunt"
-    },
-    "b208c3d8837c1ee6": {
-      "date": "2026-07-10",
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "source": "hackernews"
-    },
-    "5dfabe863515b014": {
-      "date": "2026-07-10",
-      "title": "New York City to to ban deceptive subscription practices",
-      "source": "hackernews"
-    },
-    "4910c8c33b272315": {
-      "date": "2026-07-10",
-      "title": "Good Tools Are Invisible",
-      "source": "hackernews"
-    },
-    "7cb0bf9414fdab89": {
-      "date": "2026-07-10",
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "source": "hackernews"
-    },
-    "c6113a7431def3b3": {
-      "date": "2026-07-10",
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "source": "hackernews"
-    },
-    "a6ed0d78a7a5bef2": {
-      "date": "2026-07-10",
-      "title": "The tech of 'Terminator 2' – an oral history (2017)",
-      "source": "hackernews"
-    },
-    "91424ae120108acf": {
-      "date": "2026-07-10",
-      "title": "Combustion engine web-based simulator",
-      "source": "hackernews"
-    },
-    "115e49494d8560cb": {
-      "date": "2026-07-10",
-      "title": "Computation as a universal and fundamental concept",
-      "source": "hackernews"
-    },
-    "b1b7fe6054ff32f6": {
-      "date": "2026-07-10",
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "source": "hackernews"
-    },
-    "04f02623c0472c0e": {
-      "date": "2026-07-10",
-      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
-      "source": "hackernews"
-    },
-    "9a76eec2a2cd5f94": {
-      "date": "2026-07-10",
-      "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an M",
-      "source": "devto"
-    },
-    "ceb0010c1df95d71": {
-      "date": "2026-07-10",
-      "title": "I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.",
-      "source": "devto"
-    },
-    "10a3411b74185335": {
-      "date": "2026-07-10",
-      "title": "The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits",
-      "source": "devto"
-    },
-    "21ddb138be17b7e6": {
-      "date": "2026-07-10",
-      "title": "Is It Ethical to Post and Ask About Circuits on Dev.to?",
-      "source": "devto"
-    },
-    "58e972fa073e832f": {
-      "date": "2026-07-10",
-      "title": "The Sword of Damocles at Work: The Human Cost of Delayed Layoffs",
-      "source": "devto"
-    },
-    "bf0452da1c604503": {
-      "date": "2026-07-10",
-      "title": "Stratagems #10: Lena Watched a Team Adopt Her AI Template. Leo Didn't Know the Knife Was in the Cont",
-      "source": "devto"
-    },
-    "9c0dcaff9642c754": {
-      "date": "2026-07-10",
-      "title": "How I Built a Zero-Cloud AI Memory OS for Android 📱🧠",
-      "source": "devto"
-    },
-    "ee0f2991da7d06f8": {
-      "date": "2026-07-10",
-      "title": "The Rise of Koshary Code",
-      "source": "devto"
-    },
-    "c6842e0dd976db58": {
-      "date": "2026-07-10",
-      "title": "FinPal - I Built a Finance App You Can Actually Ask Questions To",
-      "source": "devto"
-    },
-    "28f27ac5b013d248": {
-      "date": "2026-07-10",
-      "title": "I Built a Linter That Catches the Security Bugs AI Assistants Keep Writing",
-      "source": "devto"
-    },
-    "d0e94d130828eeee": {
-      "date": "2026-07-10",
-      "title": "oven-sh / bun",
-      "source": "github"
-    },
-    "7b96a8713f54316d": {
-      "date": "2026-07-10",
-      "title": "abseil / abseil-cpp",
-      "source": "github"
-    },
-    "e0eb31222492034e": {
-      "date": "2026-07-10",
-      "title": "jbeder / yaml-cpp",
-      "source": "github"
-    },
-    "056bb02146300a1b": {
-      "date": "2026-07-10",
-      "title": "microsoft / TypeScript",
-      "source": "github"
-    },
-    "2e11ed46319e0069": {
-      "date": "2026-07-10",
-      "title": "catchorg / Catch2",
-      "source": "github"
-    },
-    "1529ac3945ee1527": {
-      "date": "2026-07-10",
-      "title": "chriskohlhoff / asio",
-      "source": "github"
-    },
-    "95ae7120d6074efd": {
-      "date": "2026-07-10",
-      "title": "davila7 / claude-code-templates",
-      "source": "github"
-    },
-    "e40e6547343a680e": {
-      "date": "2026-07-10",
-      "title": "zeux / meshoptimizer",
-      "source": "github"
-    },
-    "47503397d9e427e0": {
-      "date": "2026-07-10",
-      "title": "tailscale / tailscale",
-      "source": "github"
-    },
-    "f73b7c861bcc0e09": {
-      "date": "2026-07-10",
-      "title": "google-labs-code / stitch-skills",
-      "source": "github"
-    },
     "685cddaf8af416e8": {
       "date": "2026-07-11",
       "title": "Prefer strict tables in SQLite",
@@ -5061,6 +4876,161 @@
       "date": "2026-08-09",
       "title": "I Built Scenario Packs for Agent Regression Testing. The Integration, Not the Judge, Broke Me.",
       "source": "devto"
+    },
+    "3f4b51b0e9d78667": {
+      "date": "2026-08-10",
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "source": "hackernews"
+    },
+    "49d99e09b3af488a": {
+      "date": "2026-08-10",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "source": "hackernews"
+    },
+    "a6dccbbdc714bdf5": {
+      "date": "2026-08-10",
+      "title": "Sonic Pi v5",
+      "source": "hackernews"
+    },
+    "b48991e9443b46c4": {
+      "date": "2026-08-10",
+      "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
+      "source": "hackernews"
+    },
+    "c93a79f807e13f68": {
+      "date": "2026-08-10",
+      "title": "Exploiting System Management Mode with a very long interrupt",
+      "source": "hackernews"
+    },
+    "9264bf4ae1a10e7f": {
+      "date": "2026-08-10",
+      "title": "Rust SIMD on the GPU",
+      "source": "hackernews"
+    },
+    "bd6197a1b1b66042": {
+      "date": "2026-08-10",
+      "title": "Amazon backs power plant that may become top source of US climate pollution",
+      "source": "hackernews"
+    },
+    "dc264893595eec75": {
+      "date": "2026-08-10",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "source": "hackernews"
+    },
+    "c6722278db09c861": {
+      "date": "2026-08-10",
+      "title": "Publishing Schematics Before \"Open Source\" Was a Word",
+      "source": "hackernews"
+    },
+    "d391f79699f3d81e": {
+      "date": "2026-08-10",
+      "title": "Confessions of a Long-Distance Sailor",
+      "source": "hackernews"
+    },
+    "1a9c3f2354b1d8ff": {
+      "date": "2026-08-10",
+      "title": "SecondBrain Note by GenSpark",
+      "source": "producthunt"
+    },
+    "74118be369932447": {
+      "date": "2026-08-10",
+      "title": "Vidaya",
+      "source": "producthunt"
+    },
+    "9e18f55f46a5b880": {
+      "date": "2026-08-10",
+      "title": "AI Group Call",
+      "source": "producthunt"
+    },
+    "8b63a506a140c426": {
+      "date": "2026-08-10",
+      "title": "Gutta",
+      "source": "producthunt"
+    },
+    "47867c5899729330": {
+      "date": "2026-08-10",
+      "title": "Remix",
+      "source": "producthunt"
+    },
+    "c5a61356678ee104": {
+      "date": "2026-08-10",
+      "title": "Prime Agent",
+      "source": "producthunt"
+    },
+    "065a57c98e91dce3": {
+      "date": "2026-08-10",
+      "title": "radiusHQ",
+      "source": "producthunt"
+    },
+    "f1bdf7d3fda0c1d8": {
+      "date": "2026-08-10",
+      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
+      "source": "devto"
+    },
+    "b5e80fb41444e2a9": {
+      "date": "2026-08-10",
+      "title": "I Joined dev.to because...",
+      "source": "devto"
+    },
+    "de882e7d41bf88bc": {
+      "date": "2026-08-10",
+      "title": "You Don't Have an AI Problem You Have a Thinking Problem.",
+      "source": "devto"
+    },
+    "4fa728254e4f35ec": {
+      "date": "2026-08-10",
+      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
+      "source": "devto"
+    },
+    "ecd786318f71a29f": {
+      "date": "2026-08-10",
+      "title": "What Would You Tell Someone Early in Their Career?",
+      "source": "devto"
+    },
+    "6d74b8abfccc0798": {
+      "date": "2026-08-10",
+      "title": "My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲",
+      "source": "devto"
+    },
+    "7ddfd7dfc3389324": {
+      "date": "2026-08-10",
+      "title": "Daal Bhaath Chokha: Home, Jharkhand (CSS Art)",
+      "source": "devto"
+    },
+    "cff0837414596c79": {
+      "date": "2026-08-10",
+      "title": "Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are",
+      "source": "devto"
+    },
+    "49bde3ae3bfb9d98": {
+      "date": "2026-08-10",
+      "title": "Three Clouds, Three Native Agents",
+      "source": "devto"
+    },
+    "df57c71de51d152b": {
+      "date": "2026-08-10",
+      "title": "Fixing a Silent Cache Bug in npmx.dev",
+      "source": "devto"
+    },
+    "e596fc31d0dc4f76": {
+      "date": "2026-08-10",
+      "title": "paperclipai / paperclip",
+      "source": "github"
+    },
+    "361d8d37c3971cf9": {
+      "date": "2026-08-10",
+      "title": "ruvnet / RuView",
+      "source": "github"
+    },
+    "5d466100c8b3862c": {
+      "date": "2026-08-10",
+      "title": "danielmiessler / LifeOS",
+      "source": "github"
+    },
+    "49a1c7e387a4e695": {
+      "date": "2026-08-10",
+      "title": "firecrawl / firecrawl",
+      "source": "github"
     }
   }
 }
