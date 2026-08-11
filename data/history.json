@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-10T23:11:29.205758",
+  "last_updated": "2026-08-11T23:23:04.948237",
   "sent_items": {
-    "685cddaf8af416e8": {
-      "date": "2026-07-11",
-      "title": "Prefer strict tables in SQLite",
-      "source": "hackernews"
-    },
-    "7e4ee71decfc0085": {
-      "date": "2026-07-11",
-      "title": "We scaled PgBouncer to 4x throughput",
-      "source": "hackernews"
-    },
-    "e0ec47435bf3b0d8": {
-      "date": "2026-07-11",
-      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-      "source": "hackernews"
-    },
-    "0876fa567e56bdc9": {
-      "date": "2026-07-11",
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "source": "hackernews"
-    },
-    "7f9ead008542b47e": {
-      "date": "2026-07-11",
-      "title": "UPI: Anatomy of a Payment Transaction",
-      "source": "hackernews"
-    },
-    "8049498272c2c806": {
-      "date": "2026-07-11",
-      "title": "Stop Telling Me to Ask an LLM",
-      "source": "hackernews"
-    },
-    "313f1828af00767e": {
-      "date": "2026-07-11",
-      "title": "Weightlifting beats running for blood sugar control, researchers find",
-      "source": "hackernews"
-    },
-    "df319ccd79564993": {
-      "date": "2026-07-11",
-      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
-      "source": "hackernews"
-    },
-    "e8265069f1e30f77": {
-      "date": "2026-07-11",
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "source": "hackernews"
-    },
-    "ca7a302167b9686e": {
-      "date": "2026-07-11",
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "source": "hackernews"
-    },
-    "3301ef01c79fb78b": {
-      "date": "2026-07-11",
-      "title": "San Fran Sim",
-      "source": "producthunt"
-    },
-    "f283bde20089cec9": {
-      "date": "2026-07-11",
-      "title": "ChatGPT Work",
-      "source": "producthunt"
-    },
-    "2d8c14157582f759": {
-      "date": "2026-07-11",
-      "title": "SoundPipe",
-      "source": "producthunt"
-    },
-    "df2016ab828d7fc7": {
-      "date": "2026-07-11",
-      "title": "Kickbacks CLI",
-      "source": "producthunt"
-    },
-    "c86c967add0be8b5": {
-      "date": "2026-07-11",
-      "title": "Sim",
-      "source": "producthunt"
-    },
-    "09f320937c80b26a": {
-      "date": "2026-07-11",
-      "title": "Stratagems #11: Lena Watched Her Own AI Platform Get Cut. An Ember Stayed.",
-      "source": "devto"
-    },
-    "7cc7f45531aab24c": {
-      "date": "2026-07-11",
-      "title": "My Abandoned Cricket Kit Confronted Me. So I Built It a Voice",
-      "source": "devto"
-    },
-    "a22475e8b4225317": {
-      "date": "2026-07-11",
-      "title": "How I Turned Slack Into an AI Teammate That Opens Pull Requests",
-      "source": "devto"
-    },
-    "e88c6c8e50499d6d": {
-      "date": "2026-07-11",
-      "title": "See how AI instructions decay, then write ones that hold",
-      "source": "devto"
-    },
-    "764df29b79515117": {
-      "date": "2026-07-11",
-      "title": "Integrating Lambda Durable Functions into a Step Functions Workflow",
-      "source": "devto"
-    },
-    "5e2ffa6189b34baa": {
-      "date": "2026-07-11",
-      "title": "MLH x DigitalOcean Hackathon: Jury Duty, Explained",
-      "source": "devto"
-    },
-    "39100aba033c69b3": {
-      "date": "2026-07-11",
-      "title": "Race Recap Radio — I turned my 10K into a hype sports broadcast",
-      "source": "devto"
-    },
-    "d4ea16cb9478d711": {
-      "date": "2026-07-11",
-      "title": "Building LaunchPad: one product brief, 42 launch channels, and the bugs that almost sank it",
-      "source": "devto"
-    },
-    "936efa43d30c1261": {
-      "date": "2026-07-11",
-      "title": "THE STAND: Keep the Chant Alive!",
-      "source": "devto"
-    },
-    "356d9faee8dfdfad": {
-      "date": "2026-07-11",
-      "title": "Fandom Fire — A GPU-Accelerated, AI-Powered Roast Battle Engine",
-      "source": "devto"
-    },
-    "97fa41567e13c6c4": {
-      "date": "2026-07-11",
-      "title": "hashicorp / terraform",
-      "source": "github"
-    },
-    "8c9e20fc0efe6fec": {
-      "date": "2026-07-11",
-      "title": "openai / plugins",
-      "source": "github"
-    },
-    "33cf411d1b08b0fd": {
-      "date": "2026-07-11",
-      "title": "home-assistant / core",
-      "source": "github"
-    },
-    "b58db5c0a7c76bd1": {
-      "date": "2026-07-11",
-      "title": "vercel / next.js",
-      "source": "github"
-    },
     "9aba0e82d9f455c5": {
       "date": "2026-07-12",
       "title": "JustVibe",
@@ -5030,6 +4885,181 @@
     "49a1c7e387a4e695": {
       "date": "2026-08-10",
       "title": "firecrawl / firecrawl",
+      "source": "github"
+    },
+    "6a457ad709cce9f6": {
+      "date": "2026-08-11",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "source": "hackernews"
+    },
+    "01ed58edb8ffe7b8": {
+      "date": "2026-08-11",
+      "title": "Mojo 1.0",
+      "source": "hackernews"
+    },
+    "875555974265e36b": {
+      "date": "2026-08-11",
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "source": "hackernews"
+    },
+    "9810393c5d6615b7": {
+      "date": "2026-08-11",
+      "title": "Compression is prediction",
+      "source": "hackernews"
+    },
+    "0961e00024d2451e": {
+      "date": "2026-08-11",
+      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+      "source": "hackernews"
+    },
+    "39c0907ab4edff65": {
+      "date": "2026-08-11",
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "source": "hackernews"
+    },
+    "d9030d0c100bce92": {
+      "date": "2026-08-11",
+      "title": "Making holograms with a pen plotter",
+      "source": "hackernews"
+    },
+    "9f0fe248997547f5": {
+      "date": "2026-08-11",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "source": "hackernews"
+    },
+    "eb09a686e6a44344": {
+      "date": "2026-08-11",
+      "title": "Suzanne: AI tool for designing and manufacturing physical products",
+      "source": "hackernews"
+    },
+    "87c9acba5c380cb9": {
+      "date": "2026-08-11",
+      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "source": "hackernews"
+    },
+    "1dfc16ee390f401f": {
+      "date": "2026-08-11",
+      "title": "Gotcha",
+      "source": "producthunt"
+    },
+    "c4d4a37239d7f858": {
+      "date": "2026-08-11",
+      "title": "Lexi",
+      "source": "producthunt"
+    },
+    "03aa291133e15d5d": {
+      "date": "2026-08-11",
+      "title": "VoiceGecko",
+      "source": "producthunt"
+    },
+    "ff8142a34b4858c1": {
+      "date": "2026-08-11",
+      "title": "Continuum",
+      "source": "producthunt"
+    },
+    "df38d51d0c858b78": {
+      "date": "2026-08-11",
+      "title": "bb",
+      "source": "producthunt"
+    },
+    "c0312cd374dbd04e": {
+      "date": "2026-08-11",
+      "title": "Bullet",
+      "source": "producthunt"
+    },
+    "8e19a777197fe75a": {
+      "date": "2026-08-11",
+      "title": "Xirp",
+      "source": "producthunt"
+    },
+    "a45fbfe3a341d73a": {
+      "date": "2026-08-11",
+      "title": "Tines 3B",
+      "source": "producthunt"
+    },
+    "c95198328f6a5f50": {
+      "date": "2026-08-11",
+      "title": "How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search",
+      "source": "devto"
+    },
+    "0ba014dd12fe6157": {
+      "date": "2026-08-11",
+      "title": "Adrak Chai & Samosa — Comfort Food Edition (Corporate Tech Office Tea Break)",
+      "source": "devto"
+    },
+    "a31a488718c7f672": {
+      "date": "2026-08-11",
+      "title": "Nuxt 4.5 SSR Streaming Is Kind Of A Big Deal",
+      "source": "devto"
+    },
+    "8ba001642f31d85b": {
+      "date": "2026-08-11",
+      "title": "Ignition: Flashing 2,300 conference badges with Temporal",
+      "source": "devto"
+    },
+    "b7aff8d3bde44d7e": {
+      "date": "2026-08-11",
+      "title": "Porting a Python PEG parser to Rust in 72 hours, and actually proving it worked",
+      "source": "devto"
+    },
+    "82cff15334c56709": {
+      "date": "2026-08-11",
+      "title": "Three Pastry Chefs Walk Into a Kitchen",
+      "source": "devto"
+    },
+    "10d6a1db92ed2468": {
+      "date": "2026-08-11",
+      "title": "Dev log #16 Typographic Hierarchy and the Great Obsidian Purge",
+      "source": "devto"
+    },
+    "07e82da4b566074b": {
+      "date": "2026-08-11",
+      "title": "Write down every guarantee before you write any code",
+      "source": "devto"
+    },
+    "30e3b80c69dde530": {
+      "date": "2026-08-11",
+      "title": "Donut Panic 🍩 — Building an Interactive CSS-Only Donut",
+      "source": "devto"
+    },
+    "bb237380cd58345c": {
+      "date": "2026-08-11",
+      "title": "Vada Pav - An Interactive Landing Page for Mumbai's Favorite Street Food",
+      "source": "devto"
+    },
+    "e2e3cda3fa2e6709": {
+      "date": "2026-08-11",
+      "title": "nvm-sh / nvm",
+      "source": "github"
+    },
+    "ea97e2f9b3078078": {
+      "date": "2026-08-11",
+      "title": "anthropics / skills",
+      "source": "github"
+    },
+    "e41e0f15f042a511": {
+      "date": "2026-08-11",
+      "title": "3b1b / manim",
+      "source": "github"
+    },
+    "d7dc32f00be2e8f5": {
+      "date": "2026-08-11",
+      "title": "stablyai / orca",
+      "source": "github"
+    },
+    "cf909fcdfc721ecc": {
+      "date": "2026-08-11",
+      "title": "huggingface / transformers",
+      "source": "github"
+    },
+    "db0a3545143e00a3": {
+      "date": "2026-08-11",
+      "title": "jaywcjlove / awesome-mac",
+      "source": "github"
+    },
+    "20703a86e2b01e24": {
+      "date": "2026-08-11",
+      "title": "calesthio / OpenMontage",
       "source": "github"
     }
   }
