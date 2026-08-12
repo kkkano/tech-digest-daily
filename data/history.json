@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-11T23:23:04.948237",
+  "last_updated": "2026-08-12T23:24:51.504322",
   "sent_items": {
-    "9aba0e82d9f455c5": {
-      "date": "2026-07-12",
-      "title": "JustVibe",
-      "source": "producthunt"
-    },
-    "49bc96cff18fe62d": {
-      "date": "2026-07-12",
-      "title": "Miora",
-      "source": "producthunt"
-    },
-    "af30ea7b31515aac": {
-      "date": "2026-07-12",
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "source": "hackernews"
-    },
-    "daad41f528e7a68b": {
-      "date": "2026-07-12",
-      "title": "Old and new apps, via modern coding agents",
-      "source": "hackernews"
-    },
-    "a9b26234683f415e": {
-      "date": "2026-07-12",
-      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
-      "source": "hackernews"
-    },
-    "f3db4b73f52de005": {
-      "date": "2026-07-12",
-      "title": "Irish datacenters now guzzle 23% of the country's electricity",
-      "source": "hackernews"
-    },
-    "b41a722ba9edfcde": {
-      "date": "2026-07-12",
-      "title": "Tiny Emulators",
-      "source": "hackernews"
-    },
-    "389409443cc9e997": {
-      "date": "2026-07-12",
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "source": "hackernews"
-    },
-    "8bf58e13a3bbb9f5": {
-      "date": "2026-07-12",
-      "title": "How we can reduce traffic congestion",
-      "source": "hackernews"
-    },
-    "35f7f42a45eb1a83": {
-      "date": "2026-07-12",
-      "title": "So you want to learn physics (second edition, 2021)",
-      "source": "hackernews"
-    },
-    "5d341736b0dd0bb1": {
-      "date": "2026-07-12",
-      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
-      "source": "hackernews"
-    },
-    "928d262bf540249c": {
-      "date": "2026-07-12",
-      "title": "Cyberpunk Comics, Manga and Graphic Novels",
-      "source": "hackernews"
-    },
-    "8c171384c4cda195": {
-      "date": "2026-07-12",
-      "title": "Dicklesworthstone / destructive_command_guard",
-      "source": "github"
-    },
-    "3888eecb3f450ecd": {
-      "date": "2026-07-12",
-      "title": "HKUDS / Vibe-Trading",
-      "source": "github"
-    },
-    "3687a0874b5239a5": {
-      "date": "2026-07-12",
-      "title": "PrefectHQ / prefect",
-      "source": "github"
-    },
-    "46405393d4f50fd7": {
-      "date": "2026-07-12",
-      "title": "Shubhamsaboo / awesome-llm-apps",
-      "source": "github"
-    },
-    "41a6a86637e67fe4": {
-      "date": "2026-07-12",
-      "title": "Crosstalk-Solutions / project-nomad",
-      "source": "github"
-    },
-    "b454287131ed0d92": {
-      "date": "2026-07-12",
-      "title": "ColeMurray / background-agents",
-      "source": "github"
-    },
-    "1c3e1f88dc2dc347": {
-      "date": "2026-07-12",
-      "title": "k1tbyte / Wand-Enhancer",
-      "source": "github"
-    },
-    "d2e7f6acabc603da": {
-      "date": "2026-07-12",
-      "title": "pingdotgg / t3code",
-      "source": "github"
-    },
-    "86aa53f1b07692ef": {
-      "date": "2026-07-12",
-      "title": "virattt / ai-hedge-fund",
-      "source": "github"
-    },
-    "f41dcfa2746bceff": {
-      "date": "2026-07-12",
-      "title": "chen08209 / FlClash",
-      "source": "github"
-    },
-    "0778cebbc87da2f7": {
-      "date": "2026-07-12",
-      "title": "par274 / sharpemu",
-      "source": "github"
-    },
-    "dffdedb326e70836": {
-      "date": "2026-07-12",
-      "title": "I Built a Graveyard for My Dead Side Projects - With AI Eulogies & a 3D Cemetery",
-      "source": "devto"
-    },
-    "6ebc03c2e796a540": {
-      "date": "2026-07-12",
-      "title": "I Love Fragrances, So I Built a 6-Game Arcade + Concierge About My Obsession",
-      "source": "devto"
-    },
-    "52ca01f082778330": {
-      "date": "2026-07-12",
-      "title": "Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.",
-      "source": "devto"
-    },
-    "9709716b097e25c1": {
-      "date": "2026-07-12",
-      "title": "I Poked a 10-Year-Old Chat Protocol With a Stick",
-      "source": "devto"
-    },
-    "266b0885a49f2e5d": {
-      "date": "2026-07-12",
-      "title": "Building Minelog, a Minecraft Travel Log Web App",
-      "source": "devto"
-    },
-    "7ec5b6a0f0067531": {
-      "date": "2026-07-12",
-      "title": "Simple Benchmark Review: Ollama on Jetson Nano",
-      "source": "devto"
-    },
-    "c1401028bbda5cb8": {
-      "date": "2026-07-12",
-      "title": "Passion Atlas: A Living Map of Human Curiosity",
-      "source": "devto"
-    },
-    "a0e112d4a1d0f904": {
-      "date": "2026-07-12",
-      "title": "Stratagems #12: Mark Watched an AI Dashboard Take Over. The Muted Channel Was Still Speaking.",
-      "source": "devto"
-    },
-    "0469a1670151e018": {
-      "date": "2026-07-12",
-      "title": "Four signals I built into an OSS decision score instead of fabricating reviews",
-      "source": "devto"
-    },
-    "7202eb9a70969986": {
-      "date": "2026-07-12",
-      "title": "For the love of the game: a World Cup companion with on-chain betting and Snowflake-ready analytics",
-      "source": "devto"
-    },
     "a55ad66e04ebf4e7": {
       "date": "2026-07-13",
       "title": "AgentKey",
@@ -5060,6 +4895,191 @@
     "20703a86e2b01e24": {
       "date": "2026-08-11",
       "title": "calesthio / OpenMontage",
+      "source": "github"
+    },
+    "8c6833d191499aa9": {
+      "date": "2026-08-12",
+      "title": "Sidekick™",
+      "source": "producthunt"
+    },
+    "5ed82f94679f459c": {
+      "date": "2026-08-12",
+      "title": "Swipe",
+      "source": "producthunt"
+    },
+    "a67cd04f053693a0": {
+      "date": "2026-08-12",
+      "title": "Media Sharing",
+      "source": "producthunt"
+    },
+    "d9320b467f75358e": {
+      "date": "2026-08-12",
+      "title": "LaraCopilot",
+      "source": "producthunt"
+    },
+    "14abcd01a23f7a63": {
+      "date": "2026-08-12",
+      "title": "Lettertrace",
+      "source": "producthunt"
+    },
+    "2b59900805188da8": {
+      "date": "2026-08-12",
+      "title": "Dograh",
+      "source": "producthunt"
+    },
+    "5020d229ca512ec8": {
+      "date": "2026-08-12",
+      "title": "Grok Bot",
+      "source": "producthunt"
+    },
+    "e929b4f82ec3b0dc": {
+      "date": "2026-08-12",
+      "title": "Cohesor",
+      "source": "producthunt"
+    },
+    "bc1f856e9a4a53eb": {
+      "date": "2026-08-12",
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "source": "hackernews"
+    },
+    "407e683521748e9d": {
+      "date": "2026-08-12",
+      "title": "DeepSeek V4 Pro 0813",
+      "source": "hackernews"
+    },
+    "e7aab50d2d4e6817": {
+      "date": "2026-08-12",
+      "title": "2026 Eclipse Webcams",
+      "source": "hackernews"
+    },
+    "4b3c0e16bb3f45a1": {
+      "date": "2026-08-12",
+      "title": "Qwen3.8-2.4T",
+      "source": "hackernews"
+    },
+    "692c0339583a4bc0": {
+      "date": "2026-08-12",
+      "title": "Grok 4.6",
+      "source": "hackernews"
+    },
+    "e5b265718d984b5c": {
+      "date": "2026-08-12",
+      "title": "Delta",
+      "source": "hackernews"
+    },
+    "77e1f40861c4f0b9": {
+      "date": "2026-08-12",
+      "title": "Tim King, AmigaDOS developer, has died",
+      "source": "hackernews"
+    },
+    "0f1dc2521dd594b1": {
+      "date": "2026-08-12",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "source": "hackernews"
+    },
+    "16661ccc8ea1ffc9": {
+      "date": "2026-08-12",
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "source": "hackernews"
+    },
+    "da73e93036f713fc": {
+      "date": "2026-08-12",
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "source": "hackernews"
+    },
+    "895c96348c8882c7": {
+      "date": "2026-08-12",
+      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+      "source": "devto"
+    },
+    "4afcb5a049ac13ea": {
+      "date": "2026-08-12",
+      "title": "I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First",
+      "source": "devto"
+    },
+    "0bac95036ad64909": {
+      "date": "2026-08-12",
+      "title": "The Next Evolution of Software Developers",
+      "source": "devto"
+    },
+    "64335e2f1eebd39f": {
+      "date": "2026-08-12",
+      "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
+      "source": "devto"
+    },
+    "d7d53b80ccae97ca": {
+      "date": "2026-08-12",
+      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
+      "source": "devto"
+    },
+    "8546c59f41b6ecaf": {
+      "date": "2026-08-12",
+      "title": "Stop Pretending To Do Domain-Driven Design",
+      "source": "devto"
+    },
+    "6ee22d713421f74d": {
+      "date": "2026-08-12",
+      "title": "Two AI agents checked the same script for a safety guard. One found it, one didn't. Both were right.",
+      "source": "devto"
+    },
+    "61e33e33dbc603bd": {
+      "date": "2026-08-12",
+      "title": "React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False",
+      "source": "devto"
+    },
+    "cdee8859ed5d9f68": {
+      "date": "2026-08-12",
+      "title": "is-kit Reached 50 Stars ⭐ Here’s How We Use It in Production",
+      "source": "devto"
+    },
+    "add552f2d0e8a1dd": {
+      "date": "2026-08-12",
+      "title": "My AI assistant tested a \"flip video public\" script on the real video. It cost us the premiere, perm",
+      "source": "devto"
+    },
+    "f0faec98f86e4fde": {
+      "date": "2026-08-12",
+      "title": "cathrynlavery / diagram-design",
+      "source": "github"
+    },
+    "bbfc2ca772d59109": {
+      "date": "2026-08-12",
+      "title": "macro-inc / macro",
+      "source": "github"
+    },
+    "26454b4b1f40da47": {
+      "date": "2026-08-12",
+      "title": "hugohe3 / ppt-master",
+      "source": "github"
+    },
+    "d7078bd140381c80": {
+      "date": "2026-08-12",
+      "title": "infiniflow / ragflow",
+      "source": "github"
+    },
+    "515eeefe62e349b0": {
+      "date": "2026-08-12",
+      "title": "NVIDIA-NeMo / Switchyard",
+      "source": "github"
+    },
+    "e413ca598b2e8b59": {
+      "date": "2026-08-12",
+      "title": "ZuodaoTech / everyone-can-use-english",
+      "source": "github"
+    },
+    "d5c3c51d6e6ce977": {
+      "date": "2026-08-12",
+      "title": "smicallef / spiderfoot",
+      "source": "github"
+    },
+    "84856bae44e50ca8": {
+      "date": "2026-08-12",
+      "title": "localsend / localsend",
+      "source": "github"
+    },
+    "9a4ea7a4f9427fb4": {
+      "date": "2026-08-12",
+      "title": "Lightricks / LTX-2",
       "source": "github"
     }
   }
