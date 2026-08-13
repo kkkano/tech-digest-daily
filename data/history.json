@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-12T23:24:51.504322",
+  "last_updated": "2026-08-13T23:23:39.721798",
   "sent_items": {
-    "a55ad66e04ebf4e7": {
-      "date": "2026-07-13",
-      "title": "AgentKey",
-      "source": "producthunt"
-    },
-    "2a7e30301e6af3ab": {
-      "date": "2026-07-13",
-      "title": "Marked QL",
-      "source": "producthunt"
-    },
-    "9027c680cf89e1c3": {
-      "date": "2026-07-13",
-      "title": "Knockoff",
-      "source": "producthunt"
-    },
-    "0a04a9dfff60151a": {
-      "date": "2026-07-13",
-      "title": "Playground",
-      "source": "producthunt"
-    },
-    "65957b01597c895a": {
-      "date": "2026-07-13",
-      "title": "TailMux",
-      "source": "producthunt"
-    },
-    "010384c05cc8930a": {
-      "date": "2026-07-13",
-      "title": "NoMac.app",
-      "source": "producthunt"
-    },
-    "10c358e42867dcb3": {
-      "date": "2026-07-13",
-      "title": "Fudge MCP",
-      "source": "producthunt"
-    },
-    "9f628f289cef7e88": {
-      "date": "2026-07-13",
-      "title": "Simba Voice Agents",
-      "source": "producthunt"
-    },
-    "f7cc71af96a7107d": {
-      "date": "2026-07-13",
-      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "source": "hackernews"
-    },
-    "7605eb36ed89407a": {
-      "date": "2026-07-13",
-      "title": "Telegram's t.me domain has been suspended",
-      "source": "hackernews"
-    },
-    "7b3fbdf162a98078": {
-      "date": "2026-07-13",
-      "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "source": "hackernews"
-    },
-    "b99e7ca5715350f4": {
-      "date": "2026-07-13",
-      "title": "The art and engineering of Sega CD Silpheed",
-      "source": "hackernews"
-    },
-    "d2fab8a1db1dcfe4": {
-      "date": "2026-07-13",
-      "title": "The real prices of frontier models",
-      "source": "hackernews"
-    },
-    "858c8707ea08cdc7": {
-      "date": "2026-07-13",
-      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
-      "source": "hackernews"
-    },
-    "6532a89f0c5b507f": {
-      "date": "2026-07-13",
-      "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
-      "source": "hackernews"
-    },
-    "d360f85aed1a2e7b": {
-      "date": "2026-07-13",
-      "title": "Show HN: YouTube Guitar Tab Parser",
-      "source": "hackernews"
-    },
-    "3589b4c0d89ed571": {
-      "date": "2026-07-13",
-      "title": "Claude is just Mr. Meeseeks",
-      "source": "hackernews"
-    },
-    "6830fabd345ab305": {
-      "date": "2026-07-13",
-      "title": "‘Asia's cleanest village’ bans tourists on Sundays",
-      "source": "hackernews"
-    },
-    "d877e72a1b1804cb": {
-      "date": "2026-07-13",
-      "title": "OpenCut-app / OpenCut",
-      "source": "github"
-    },
-    "ebe69a8411ca36d3": {
-      "date": "2026-07-13",
-      "title": "moeru-ai / airi",
-      "source": "github"
-    },
-    "c88c01cfd244fd4b": {
-      "date": "2026-07-13",
-      "title": "Nutlope / hallmark",
-      "source": "github"
-    },
-    "68a6c284cff5d619": {
-      "date": "2026-07-13",
-      "title": "Graphify-Labs / graphify",
-      "source": "github"
-    },
-    "8a080a19e7684f78": {
-      "date": "2026-07-13",
-      "title": "github / spec-kit",
-      "source": "github"
-    },
-    "0d4094c6bede621a": {
-      "date": "2026-07-13",
-      "title": "The Myth of the Post-Documentation Era",
-      "source": "devto"
-    },
-    "2e30abbef411517e": {
-      "date": "2026-07-13",
-      "title": "my ai coding session burns more power than the average nigerian gets all day.",
-      "source": "devto"
-    },
-    "dcd588e502c0d2cd": {
-      "date": "2026-07-13",
-      "title": "I Finally Built the Dev Opportunity Radar Website ❤️",
-      "source": "devto"
-    },
-    "177128ced055f165": {
-      "date": "2026-07-13",
-      "title": "What are your goals for the week? #187",
-      "source": "devto"
-    },
-    "0d24977e8f3b28ea": {
-      "date": "2026-07-13",
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "source": "devto"
-    },
-    "95104359b0486389": {
-      "date": "2026-07-13",
-      "title": "I am that I am.",
-      "source": "devto"
-    },
-    "f4229da249669197": {
-      "date": "2026-07-13",
-      "title": "Fusuma: Write Markdown, Get Slides, PDFs, and a Self-Made Social Card",
-      "source": "devto"
-    },
-    "25c0276b7ba1966c": {
-      "date": "2026-07-13",
-      "title": "I Built a Monitor for Servers. Then Pointed It at Myself.",
-      "source": "devto"
-    },
-    "5683e2a319bc073b": {
-      "date": "2026-07-13",
-      "title": "I Built an AI That Turns Your Passion Into a Cinematic Origin Story",
-      "source": "devto"
-    },
-    "affb8c9cf0b20028": {
-      "date": "2026-07-13",
-      "title": "I Could Review It. I Couldn’t Write It.",
-      "source": "devto"
-    },
     "bd2f3612c99b0d58": {
       "date": "2026-07-14",
       "title": "Your 'app' could have been a webpage (so I fixed it for you)",
@@ -5080,6 +4915,176 @@
     "9a4ea7a4f9427fb4": {
       "date": "2026-08-12",
       "title": "Lightricks / LTX-2",
+      "source": "github"
+    },
+    "2a5c2f445201a4b0": {
+      "date": "2026-08-13",
+      "title": "Kin Health",
+      "source": "producthunt"
+    },
+    "23bd25fa418a6f27": {
+      "date": "2026-08-13",
+      "title": "Human Behavior",
+      "source": "producthunt"
+    },
+    "be8d0cbeb3ee3774": {
+      "date": "2026-08-13",
+      "title": "Kane CLI",
+      "source": "producthunt"
+    },
+    "ef7901950af723c8": {
+      "date": "2026-08-13",
+      "title": "Mem Agent",
+      "source": "producthunt"
+    },
+    "23bd81717ac3c0a1": {
+      "date": "2026-08-13",
+      "title": "Patience",
+      "source": "producthunt"
+    },
+    "06789f072804c43c": {
+      "date": "2026-08-13",
+      "title": "Kivicube",
+      "source": "producthunt"
+    },
+    "7316913ab5be28a2": {
+      "date": "2026-08-13",
+      "title": "Phinq",
+      "source": "producthunt"
+    },
+    "ce32f87cb2857fe5": {
+      "date": "2026-08-13",
+      "title": "ThreadPort",
+      "source": "producthunt"
+    },
+    "c4b202ac50c2a47d": {
+      "date": "2026-08-13",
+      "title": "Gemini 3.7 Flash",
+      "source": "hackernews"
+    },
+    "9f127a2494c26598": {
+      "date": "2026-08-13",
+      "title": "DeepSeek Harness developer preview",
+      "source": "hackernews"
+    },
+    "12ac73783350158c": {
+      "date": "2026-08-13",
+      "title": "Spaghettifying DRAM",
+      "source": "hackernews"
+    },
+    "78707d245003fa2f": {
+      "date": "2026-08-13",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "source": "hackernews"
+    },
+    "a864f7ed2ba92486": {
+      "date": "2026-08-13",
+      "title": "Mistral OCR 4.1",
+      "source": "hackernews"
+    },
+    "6723325d9229f986": {
+      "date": "2026-08-13",
+      "title": "Choose Boring Technology (2015)",
+      "source": "hackernews"
+    },
+    "2a1f669b4024b0b7": {
+      "date": "2026-08-13",
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "source": "hackernews"
+    },
+    "1b0a1ff759abe040": {
+      "date": "2026-08-13",
+      "title": "Understanding is the new bottleneck",
+      "source": "hackernews"
+    },
+    "bbd07f0f76eb4005": {
+      "date": "2026-08-13",
+      "title": "NP-Overrated",
+      "source": "hackernews"
+    },
+    "11c3091c13100e12": {
+      "date": "2026-08-13",
+      "title": "How Gödel's Proof Works (2020)",
+      "source": "hackernews"
+    },
+    "3ba8635887d9e5c5": {
+      "date": "2026-08-13",
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "source": "devto"
+    },
+    "7389d9bee0af517e": {
+      "date": "2026-08-13",
+      "title": "Not All AI Builders Are Doing the Same Work",
+      "source": "devto"
+    },
+    "82a1895ee28eecd2": {
+      "date": "2026-08-13",
+      "title": "24 Cups, 36 Seats — The Bartender's Ledger",
+      "source": "devto"
+    },
+    "97116a2700540157": {
+      "date": "2026-08-13",
+      "title": "My (not so pretty) journey in tech",
+      "source": "devto"
+    },
+    "7fe745e183a83ec4": {
+      "date": "2026-08-13",
+      "title": "Do I Still Need a Monkey Patch for Gemini Live?",
+      "source": "devto"
+    },
+    "19b6ffeccd773eca": {
+      "date": "2026-08-13",
+      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
+      "source": "devto"
+    },
+    "2e028e0078766d01": {
+      "date": "2026-08-13",
+      "title": "Crafting Hot Filter Kaapi in Pure CSS: Gradients, Steam Engines & Hardware Acceleration",
+      "source": "devto"
+    },
+    "8cf4b6cb5b02274a": {
+      "date": "2026-08-13",
+      "title": "You Know What's Worse Than Not Being Able to Log In?",
+      "source": "devto"
+    },
+    "ae73deec6bf30368": {
+      "date": "2026-08-13",
+      "title": "The Backup Awakens: A Star Wars Story",
+      "source": "devto"
+    },
+    "7fdfa657c0215934": {
+      "date": "2026-08-13",
+      "title": "The Most Dangerous AI-Generated Code Is the Code That Passes All Tests",
+      "source": "devto"
+    },
+    "88adb36d994a0627": {
+      "date": "2026-08-13",
+      "title": "cactus-compute / needle",
+      "source": "github"
+    },
+    "cf22fb2fe760cb42": {
+      "date": "2026-08-13",
+      "title": "altic-dev / FluidVoice",
+      "source": "github"
+    },
+    "4242e51e337ac7d2": {
+      "date": "2026-08-13",
+      "title": "unslothai / unsloth",
+      "source": "github"
+    },
+    "30f62a06b3c4e9b3": {
+      "date": "2026-08-13",
+      "title": "megadose / holehe",
+      "source": "github"
+    },
+    "7cc067ca58c9acc9": {
+      "date": "2026-08-13",
+      "title": "holaboss-ai / holaOS",
+      "source": "github"
+    },
+    "333ac7fd8f02fc43": {
+      "date": "2026-08-13",
+      "title": "kepano / obsidian-skills",
       "source": "github"
     }
   }
