@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-13T23:23:39.721798",
+  "last_updated": "2026-08-14T22:56:23.319596",
   "sent_items": {
-    "bd2f3612c99b0d58": {
-      "date": "2026-07-14",
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "source": "hackernews"
-    },
-    "846a8e6b3aad4c9d": {
-      "date": "2026-07-14",
-      "title": "How to stop Claude from saying load-bearing",
-      "source": "hackernews"
-    },
-    "b692f34523e3f6fe": {
-      "date": "2026-07-14",
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "source": "hackernews"
-    },
-    "ad2cc798c0cf6466": {
-      "date": "2026-07-14",
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "source": "hackernews"
-    },
-    "2c5c2238eb8ffb5a": {
-      "date": "2026-07-14",
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "source": "hackernews"
-    },
-    "0e149f1f34dd768f": {
-      "date": "2026-07-14",
-      "title": "I'm a USB-C Maximalist",
-      "source": "hackernews"
-    },
-    "8b8770d619f10182": {
-      "date": "2026-07-14",
-      "title": "The zero-cost fallacy: open-source software in the agentic era",
-      "source": "hackernews"
-    },
-    "369ded27acb94dcc": {
-      "date": "2026-07-14",
-      "title": "Dependabot version updates introduce default package cooldown",
-      "source": "hackernews"
-    },
-    "c27cd8658ee54098": {
-      "date": "2026-07-14",
-      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-      "source": "hackernews"
-    },
-    "03a13c9f497a3db4": {
-      "date": "2026-07-14",
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "source": "hackernews"
-    },
-    "84b7a8ae4c08696a": {
-      "date": "2026-07-14",
-      "title": "loopclub",
-      "source": "producthunt"
-    },
-    "ea37e872f52ccde9": {
-      "date": "2026-07-14",
-      "title": "ClawTeams",
-      "source": "producthunt"
-    },
-    "9989746b52f1b04b": {
-      "date": "2026-07-14",
-      "title": "Agentcard for companies",
-      "source": "producthunt"
-    },
-    "92031009d02b9d17": {
-      "date": "2026-07-14",
-      "title": "Breva",
-      "source": "producthunt"
-    },
-    "78740a7c9b2a5d73": {
-      "date": "2026-07-14",
-      "title": "Mojave Paint",
-      "source": "producthunt"
-    },
-    "3e8ac84d05ac01e7": {
-      "date": "2026-07-14",
-      "title": "ClipFlow",
-      "source": "producthunt"
-    },
-    "ffaa71ad8273854d": {
-      "date": "2026-07-14",
-      "title": "Altersend",
-      "source": "producthunt"
-    },
-    "e7fb3b3b4b71d74f": {
-      "date": "2026-07-14",
-      "title": "Trump Accounts",
-      "source": "producthunt"
-    },
-    "419bc94b68fc2de8": {
-      "date": "2026-07-14",
-      "title": "AIEraDev / Clypra",
-      "source": "github"
-    },
-    "125010e3540e3897": {
-      "date": "2026-07-14",
-      "title": "chenyme / grok2api",
-      "source": "github"
-    },
-    "810a6b2984da6c86": {
-      "date": "2026-07-14",
-      "title": "HenryNdubuaku / maths-cs-ai-compendium",
-      "source": "github"
-    },
-    "a3731e2a39a817bd": {
-      "date": "2026-07-14",
-      "title": "DEV’s Big Summer Bug Smash is now LIVE! Share $5,000 in cash prizes, skateboards, and more across 20",
-      "source": "devto"
-    },
-    "632282425fc20193": {
-      "date": "2026-07-14",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "aca306173bb9dd07": {
-      "date": "2026-07-14",
-      "title": "Stop Saying You Want Ownership Mindset",
-      "source": "devto"
-    },
-    "5df71f8220c2c167": {
-      "date": "2026-07-14",
-      "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
-      "source": "devto"
-    },
-    "c287cf534b1705d4": {
-      "date": "2026-07-14",
-      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
-      "source": "devto"
-    },
-    "192a8fc737eae8c1": {
-      "date": "2026-07-14",
-      "title": "A Dash of dev.to: My Blog Stats Now Live in the Terminal",
-      "source": "devto"
-    },
-    "aeb0caab1a9d2513": {
-      "date": "2026-07-14",
-      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
-      "source": "devto"
-    },
-    "45c506f508ecf74a": {
-      "date": "2026-07-14",
-      "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregist",
-      "source": "devto"
-    },
-    "a8b86dbf4ea524e9": {
-      "date": "2026-07-14",
-      "title": "Stratagems #13: P Posted a Question on a Public Forum. 24 Hours Later, an AI Sales Team Called.",
-      "source": "devto"
-    },
-    "07a77b3050e17ecf": {
-      "date": "2026-07-14",
-      "title": "This is remarkable\r\n\r\nhttps://bobdahacker.com/blog/fifa-hack",
-      "source": "devto"
-    },
     "93bfddc231a53e0b": {
       "date": "2026-07-15",
       "title": "Inkling: Our Open-Weights Model",
@@ -5085,6 +4930,171 @@
     "333ac7fd8f02fc43": {
       "date": "2026-08-13",
       "title": "kepano / obsidian-skills",
+      "source": "github"
+    },
+    "16910a87fbaebf89": {
+      "date": "2026-08-14",
+      "title": "Openmotion",
+      "source": "producthunt"
+    },
+    "06b407e52492ae87": {
+      "date": "2026-08-14",
+      "title": "Freebuff",
+      "source": "producthunt"
+    },
+    "82716a31615118ea": {
+      "date": "2026-08-14",
+      "title": "Muse",
+      "source": "producthunt"
+    },
+    "eb92a4e934b2f0c0": {
+      "date": "2026-08-14",
+      "title": "Compass Calendar",
+      "source": "producthunt"
+    },
+    "570b1e6a13c7eeec": {
+      "date": "2026-08-14",
+      "title": "Occasio®",
+      "source": "producthunt"
+    },
+    "106dba3b07c10b21": {
+      "date": "2026-08-14",
+      "title": "ChordViz",
+      "source": "producthunt"
+    },
+    "e4da8bd2e9f2a6d2": {
+      "date": "2026-08-14",
+      "title": "Gemini 3.7 Flash",
+      "source": "producthunt"
+    },
+    "3c6993de807d2048": {
+      "date": "2026-08-14",
+      "title": "Qwen 3.8 27B",
+      "source": "hackernews"
+    },
+    "6da520a93cb1d9e2": {
+      "date": "2026-08-14",
+      "title": "Why does Opus 5 feel worse to work with?",
+      "source": "hackernews"
+    },
+    "87274b2d7ed5d37a": {
+      "date": "2026-08-14",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "source": "hackernews"
+    },
+    "4bf31048ec1b3670": {
+      "date": "2026-08-14",
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "source": "hackernews"
+    },
+    "4cd81ebb7b04bc6e": {
+      "date": "2026-08-14",
+      "title": "Introducing Toast 1",
+      "source": "hackernews"
+    },
+    "7e91629f659a11e4": {
+      "date": "2026-08-14",
+      "title": "AI by Hand",
+      "source": "hackernews"
+    },
+    "b01a84e9c727d042": {
+      "date": "2026-08-14",
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "source": "hackernews"
+    },
+    "46165ace5e85bd27": {
+      "date": "2026-08-14",
+      "title": "Show HN: Ember – Redshift safe color palettes",
+      "source": "hackernews"
+    },
+    "b0b5317f878aa713": {
+      "date": "2026-08-14",
+      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+      "source": "hackernews"
+    },
+    "8e29aa34ad6decdc": {
+      "date": "2026-08-14",
+      "title": "Super Mario Derivations",
+      "source": "hackernews"
+    },
+    "7cb9e969b6dcf6b8": {
+      "date": "2026-08-14",
+      "title": "What was your win this week??",
+      "source": "devto"
+    },
+    "fd9a8a4b1607ccfb": {
+      "date": "2026-08-14",
+      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in On",
+      "source": "devto"
+    },
+    "5916170d9653ca89": {
+      "date": "2026-08-14",
+      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
+      "source": "devto"
+    },
+    "ce1ef65822d73641": {
+      "date": "2026-08-14",
+      "title": "Dev Opportunity Radar #12: $10K+ Magnificent Grants, Free CodePath Courses, AI Societal Impact Lab F",
+      "source": "devto"
+    },
+    "7ea0a50ef57fd56f": {
+      "date": "2026-08-14",
+      "title": "I Built an AI Liar's Dice Opponent That Remembers How You Play",
+      "source": "devto"
+    },
+    "b44727c55c433cc4": {
+      "date": "2026-08-14",
+      "title": "Looker's Native MCP Server with Claude Code",
+      "source": "devto"
+    },
+    "49b78e298ac05381": {
+      "date": "2026-08-14",
+      "title": "Durable Memory: Why Vector Databases Aren't Enough",
+      "source": "devto"
+    },
+    "aafaebdbd4f4f435": {
+      "date": "2026-08-14",
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "source": "devto"
+    },
+    "76c62a9ac66a0ee9": {
+      "date": "2026-08-14",
+      "title": "59% of Dogs Are Obese and Their Owners Don't Know. So I Built an AI That Tells Them.",
+      "source": "devto"
+    },
+    "c3fb8141b1cdb4c8": {
+      "date": "2026-08-14",
+      "title": "I Built a Puerto Rican Mountain Kitchen. The Only Image Is the Favicon.",
+      "source": "devto"
+    },
+    "8a080a19e7684f78": {
+      "date": "2026-08-14",
+      "title": "github / spec-kit",
+      "source": "github"
+    },
+    "f252ba96214e1ce3": {
+      "date": "2026-08-14",
+      "title": "lightningpixel / modly",
+      "source": "github"
+    },
+    "21302fb12d0b2e2d": {
+      "date": "2026-08-14",
+      "title": "cursor / plugins",
+      "source": "github"
+    },
+    "365700f8954f2067": {
+      "date": "2026-08-14",
+      "title": "deepseek-ai / awesome-deepseek-agent",
+      "source": "github"
+    },
+    "8cb1f496a7fbc670": {
+      "date": "2026-08-14",
+      "title": "rustdesk / rustdesk",
+      "source": "github"
+    },
+    "d877e72a1b1804cb": {
+      "date": "2026-08-14",
+      "title": "OpenCut-app / OpenCut",
       "source": "github"
     }
   }
