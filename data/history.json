@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-14T22:56:23.319596",
+  "last_updated": "2026-08-15T22:55:32.727867",
   "sent_items": {
-    "93bfddc231a53e0b": {
-      "date": "2026-07-15",
-      "title": "Inkling: Our Open-Weights Model",
-      "source": "hackernews"
-    },
-    "4c4d1653eb7d2ad5": {
-      "date": "2026-07-15",
-      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-      "source": "hackernews"
-    },
-    "9c2b59994f37d4f0": {
-      "date": "2026-07-15",
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "source": "hackernews"
-    },
-    "2bdccaea9d3819f9": {
-      "date": "2026-07-15",
-      "title": "Grok Build is open source",
-      "source": "hackernews"
-    },
-    "6fba7131fe4a2eb3": {
-      "date": "2026-07-15",
-      "title": "Show HN: Firefox in WebAssembly",
-      "source": "hackernews"
-    },
-    "1d93303d9e789be5": {
-      "date": "2026-07-15",
-      "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
-      "source": "hackernews"
-    },
-    "eada78214e2f23a7": {
-      "date": "2026-07-15",
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "source": "hackernews"
-    },
-    "c21754a83684fce4": {
-      "date": "2026-07-15",
-      "title": "SQLite should have (Rust-style) editions",
-      "source": "hackernews"
-    },
-    "e129bfdfa3d699a8": {
-      "date": "2026-07-15",
-      "title": "The Anti-Mac User Interface (1996)",
-      "source": "hackernews"
-    },
-    "03cd34ebd4cc8c5e": {
-      "date": "2026-07-15",
-      "title": "LLM Networking with MikroTik",
-      "source": "hackernews"
-    },
-    "f030430262631af8": {
-      "date": "2026-07-15",
-      "title": "Keepresso",
-      "source": "producthunt"
-    },
-    "e9a53601e12902e6": {
-      "date": "2026-07-15",
-      "title": "Jam-Pod",
-      "source": "producthunt"
-    },
-    "e767f25ee386511c": {
-      "date": "2026-07-15",
-      "title": "YAGNI",
-      "source": "producthunt"
-    },
-    "d17dea0042e97d95": {
-      "date": "2026-07-15",
-      "title": "Velo 3.0",
-      "source": "producthunt"
-    },
-    "cd90c659c46e7683": {
-      "date": "2026-07-15",
-      "title": "Crustdata Recruiter",
-      "source": "producthunt"
-    },
-    "d4a3239f51bd310f": {
-      "date": "2026-07-15",
-      "title": "nudge2.0",
-      "source": "producthunt"
-    },
-    "8669b395b6538bbf": {
-      "date": "2026-07-15",
-      "title": "QuickQuill",
-      "source": "producthunt"
-    },
-    "6ce4be94143d9744": {
-      "date": "2026-07-15",
-      "title": "ccshare",
-      "source": "producthunt"
-    },
-    "8d619cd23556466b": {
-      "date": "2026-07-15",
-      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
-      "source": "devto"
-    },
-    "5ae7bbaa1609519d": {
-      "date": "2026-07-15",
-      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
-      "source": "devto"
-    },
-    "344aac16fa17673d": {
-      "date": "2026-07-15",
-      "title": "/proc, pkexec, and 678 commits",
-      "source": "devto"
-    },
-    "5525cf4bdf471482": {
-      "date": "2026-07-15",
-      "title": "My Demo Script Found a Production Bug on Its First Run: A Tiny Post-Mortem",
-      "source": "devto"
-    },
-    "1f464749ec8ec13a": {
-      "date": "2026-07-15",
-      "title": "Eighty Percent Done Is Not a Real Number",
-      "source": "devto"
-    },
-    "6b4b3c3490e236f8": {
-      "date": "2026-07-15",
-      "title": "The SSE Fragmentation Catastrophe That Took Down CareerPilot AI",
-      "source": "devto"
-    },
-    "2a12de29d6ea7137": {
-      "date": "2026-07-15",
-      "title": "A Receipt Is Not Proof Forever. It Is a Promise to Reopen the Claim.",
-      "source": "devto"
-    },
-    "3cccb3430afe65f7": {
-      "date": "2026-07-15",
-      "title": "I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA View View 👀👀)",
-      "source": "devto"
-    },
-    "c2110bde0d623718": {
-      "date": "2026-07-15",
-      "title": "I Pre-Registered a Hypothesis. 600 API Calls Later, the Data Killed It.",
-      "source": "devto"
-    },
-    "268c49ccce191d62": {
-      "date": "2026-07-15",
-      "title": "How We Cut Our Browser Video Renderer's Frame Time by 80%",
-      "source": "devto"
-    },
-    "be7c8f4e3a9e9011": {
-      "date": "2026-07-15",
-      "title": "openinterpreter / openinterpreter",
-      "source": "github"
-    },
-    "bca7775ac9caec94": {
-      "date": "2026-07-15",
-      "title": "HKUDS / DeepTutor",
-      "source": "github"
-    },
-    "25d4ef138213864c": {
-      "date": "2026-07-15",
-      "title": "YimMenu / YimMenuV2",
-      "source": "github"
-    },
     "3dbcece5f4dd7da5": {
       "date": "2026-07-16",
       "title": "The Eureka Database",
@@ -5095,6 +4940,166 @@
     "d877e72a1b1804cb": {
       "date": "2026-08-14",
       "title": "OpenCut-app / OpenCut",
+      "source": "github"
+    },
+    "34b6bf6082ec10a3": {
+      "date": "2026-08-15",
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "source": "hackernews"
+    },
+    "61f60a667ad40217": {
+      "date": "2026-08-15",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "source": "hackernews"
+    },
+    "23efa96eff6eb4ac": {
+      "date": "2026-08-15",
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "source": "hackernews"
+    },
+    "ae3c495b09171f57": {
+      "date": "2026-08-15",
+      "title": "RISC-V: They Should Have Known Better",
+      "source": "hackernews"
+    },
+    "eb4dce5f84f17001": {
+      "date": "2026-08-15",
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "source": "hackernews"
+    },
+    "873d5b5970eb3213": {
+      "date": "2026-08-15",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "source": "hackernews"
+    },
+    "d62ab705b1e785e3": {
+      "date": "2026-08-15",
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "source": "hackernews"
+    },
+    "fb4eabc8c3f7bac3": {
+      "date": "2026-08-15",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "source": "hackernews"
+    },
+    "5550f7551b09d860": {
+      "date": "2026-08-15",
+      "title": "Engineers will do anything to avoid learning from history",
+      "source": "hackernews"
+    },
+    "906829d5d5dcee49": {
+      "date": "2026-08-15",
+      "title": "Bede Liu, a digital signal processing pioneer, has died",
+      "source": "hackernews"
+    },
+    "e0dec569f79330bc": {
+      "date": "2026-08-15",
+      "title": "Attyn",
+      "source": "producthunt"
+    },
+    "bc727c3bfe4e6e22": {
+      "date": "2026-08-15",
+      "title": "GLM-5.3",
+      "source": "producthunt"
+    },
+    "7152f0651e562eda": {
+      "date": "2026-08-15",
+      "title": "Inferock Bench",
+      "source": "producthunt"
+    },
+    "2da791d200e4b735": {
+      "date": "2026-08-15",
+      "title": "nenspace",
+      "source": "producthunt"
+    },
+    "1bb698eda4955c43": {
+      "date": "2026-08-15",
+      "title": "Clamshell",
+      "source": "producthunt"
+    },
+    "f77b7bdc29b82f75": {
+      "date": "2026-08-15",
+      "title": "Talvo",
+      "source": "producthunt"
+    },
+    "ff0c6b92a8bfeddb": {
+      "date": "2026-08-15",
+      "title": "Chronock",
+      "source": "producthunt"
+    },
+    "e327db8ea71a8fbc": {
+      "date": "2026-08-15",
+      "title": "PawBot - An AI Desktop Puppy That Eats Your Files 🐾",
+      "source": "devto"
+    },
+    "437f4adfbd6a0d9d": {
+      "date": "2026-08-15",
+      "title": "The \"AI\" Badge Doesn't Measure What You Think It Does",
+      "source": "devto"
+    },
+    "3be7ae170de1472b": {
+      "date": "2026-08-15",
+      "title": "Turning Ayurveda’s Six Rasas Into CSS Art",
+      "source": "devto"
+    },
+    "06aa4bc5dec1b830": {
+      "date": "2026-08-15",
+      "title": "Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13",
+      "source": "devto"
+    },
+    "a8e6dd4d619db376": {
+      "date": "2026-08-15",
+      "title": "One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution",
+      "source": "devto"
+    },
+    "3b23209bf133be8d": {
+      "date": "2026-08-15",
+      "title": "Gravy Theory: three chickens, one base",
+      "source": "devto"
+    },
+    "55a64d4664f0f66c": {
+      "date": "2026-08-15",
+      "title": "Five tabs open, one refresh token — the race nobody noticed",
+      "source": "devto"
+    },
+    "ad318c50ecfd0598": {
+      "date": "2026-08-15",
+      "title": "Spicing Up the Web: Building \"Angaar\", an Immersive Indian Comfort Food Experience",
+      "source": "devto"
+    },
+    "e40c69048cf5a145": {
+      "date": "2026-08-15",
+      "title": "Designing a Landing Page That Feels Like Opening a Food Journal",
+      "source": "devto"
+    },
+    "c44d9bebf757f4e6": {
+      "date": "2026-08-15",
+      "title": "I built a security scanner that checks if you are a dog",
+      "source": "devto"
+    },
+    "af4602932aef745a": {
+      "date": "2026-08-15",
+      "title": "cordiverse / cordis",
+      "source": "github"
+    },
+    "a55c819fccc2bf0d": {
+      "date": "2026-08-15",
+      "title": "public-apis / public-apis",
+      "source": "github"
+    },
+    "839948fdcd0c1840": {
+      "date": "2026-08-15",
+      "title": "MakazhanAlpamys / Soup",
+      "source": "github"
+    },
+    "c2363e257b825d28": {
+      "date": "2026-08-15",
+      "title": "ToolJet / ToolJet",
+      "source": "github"
+    },
+    "12e9527951797ad0": {
+      "date": "2026-08-15",
+      "title": "HKUDS / CLI-Anything",
       "source": "github"
     }
   }
