@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-15T22:55:32.727867",
+  "last_updated": "2026-08-16T22:54:46.848344",
   "sent_items": {
-    "3dbcece5f4dd7da5": {
-      "date": "2026-07-16",
-      "title": "The Eureka Database",
-      "source": "producthunt"
-    },
-    "6ba7d52cd0044d40": {
-      "date": "2026-07-16",
-      "title": "Codex Micro",
-      "source": "producthunt"
-    },
-    "0cde3782cc31cbe6": {
-      "date": "2026-07-16",
-      "title": "Graft AI",
-      "source": "producthunt"
-    },
-    "699c05f06fa7e8e2": {
-      "date": "2026-07-16",
-      "title": "River",
-      "source": "producthunt"
-    },
-    "004bf2a9314460cf": {
-      "date": "2026-07-16",
-      "title": "Weave",
-      "source": "producthunt"
-    },
-    "2e03b61fab6265a6": {
-      "date": "2026-07-16",
-      "title": "Nitrosend",
-      "source": "producthunt"
-    },
-    "cc262555eee275a4": {
-      "date": "2026-07-16",
-      "title": "FlightGlitch",
-      "source": "producthunt"
-    },
-    "c375693016de9cde": {
-      "date": "2026-07-16",
-      "title": "Cito",
-      "source": "producthunt"
-    },
-    "b61594ab97dde21a": {
-      "date": "2026-07-16",
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "source": "hackernews"
-    },
-    "7bacf643f8d91cd7": {
-      "date": "2026-07-16",
-      "title": "Microsoft Comic Chat is now open source",
-      "source": "hackernews"
-    },
-    "39af2f7690c09d64": {
-      "date": "2026-07-16",
-      "title": "Decoy Font",
-      "source": "hackernews"
-    },
-    "47d0768bfbe82811": {
-      "date": "2026-07-16",
-      "title": "NotebookLM is now Gemini Notebook",
-      "source": "hackernews"
-    },
-    "a1467e2b536395de": {
-      "date": "2026-07-16",
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "source": "hackernews"
-    },
-    "a59d113cd5345f7e": {
-      "date": "2026-07-16",
-      "title": "Mathematics of Data Science",
-      "source": "hackernews"
-    },
-    "5c332eee25b85c81": {
-      "date": "2026-07-16",
-      "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
-      "source": "hackernews"
-    },
-    "a23fc54bacb0b545": {
-      "date": "2026-07-16",
-      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
-      "source": "hackernews"
-    },
-    "c07e5988f94f6752": {
-      "date": "2026-07-16",
-      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
-      "source": "hackernews"
-    },
-    "f1c0c90b11a61fac": {
-      "date": "2026-07-16",
-      "title": "The Little Book of Reinforcement Learning",
-      "source": "hackernews"
-    },
-    "4197d28ed544a3e6": {
-      "date": "2026-07-16",
-      "title": "Smash Story: The Demo Script That Out-Debugged My Test Suite",
-      "source": "devto"
-    },
-    "cb95beddec15f549": {
-      "date": "2026-07-16",
-      "title": "Produto 4 Devs",
-      "source": "devto"
-    },
-    "598ff9ddc4b220e3": {
-      "date": "2026-07-16",
-      "title": "Did You Know TLDs Can Be Websites?",
-      "source": "devto"
-    },
-    "e8288dad292fb638": {
-      "date": "2026-07-16",
-      "title": "What is an \"agentic harness,\" actually?",
-      "source": "devto"
-    },
-    "d752d4706b8c020f": {
-      "date": "2026-07-16",
-      "title": "Stratagems #15: Derek and Alex Shared One Server. ACL's AI Was Listening to Both.",
-      "source": "devto"
-    },
-    "a77b7541bad244aa": {
-      "date": "2026-07-16",
-      "title": "Claude might be saturating your machine",
-      "source": "devto"
-    },
-    "e9d1c480b452ed3f": {
-      "date": "2026-07-16",
-      "title": "Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back",
-      "source": "devto"
-    },
-    "fccbc9c7b95bcf1e": {
-      "date": "2026-07-16",
-      "title": "Post-Mortem: Building a Local MCP Server for Codebase Memory using Ollama and ChromaDB",
-      "source": "devto"
-    },
-    "53c1e453c636748c": {
-      "date": "2026-07-16",
-      "title": "I Failed a Promise I Made to Myself",
-      "source": "devto"
-    },
-    "49d22dc4318a804e": {
-      "date": "2026-07-16",
-      "title": "I got tired of not knowing what my AI agents were doing, so I built a tiny observability tool",
-      "source": "devto"
-    },
-    "97c77c913c657c42": {
-      "date": "2026-07-16",
-      "title": "apache / ossie",
-      "source": "github"
-    },
-    "6fb08428e288194e": {
-      "date": "2026-07-16",
-      "title": "PostHog / posthog",
-      "source": "github"
-    },
-    "3d98181abb043bce": {
-      "date": "2026-07-16",
-      "title": "PrismML-Eng / Bonsai-demo",
-      "source": "github"
-    },
-    "82164af40f45157f": {
-      "date": "2026-07-16",
-      "title": "lobehub / lobehub",
-      "source": "github"
-    },
-    "06007b54a16f5739": {
-      "date": "2026-07-16",
-      "title": "github / copilot-sdk",
-      "source": "github"
-    },
-    "060d9576ed9646da": {
-      "date": "2026-07-16",
-      "title": "ibelick / ui-skills",
-      "source": "github"
-    },
     "7a744d6876270db1": {
       "date": "2026-07-17",
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
@@ -5101,6 +4931,126 @@
       "date": "2026-08-15",
       "title": "HKUDS / CLI-Anything",
       "source": "github"
+    },
+    "cf930f9fab621c0f": {
+      "date": "2026-08-16",
+      "title": "Claude: System Prompts",
+      "source": "hackernews"
+    },
+    "3e6753416c3b9070": {
+      "date": "2026-08-16",
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "source": "hackernews"
+    },
+    "547ded5fe924020c": {
+      "date": "2026-08-16",
+      "title": "Models Are Getting Dumber on Purpose",
+      "source": "hackernews"
+    },
+    "41f2fc1010ceb37a": {
+      "date": "2026-08-16",
+      "title": "The AI Credit Resale Economy",
+      "source": "hackernews"
+    },
+    "3fa21f32114dc233": {
+      "date": "2026-08-16",
+      "title": "Protobuf has LSP support. You're welcome",
+      "source": "hackernews"
+    },
+    "9dc4317251915853": {
+      "date": "2026-08-16",
+      "title": "The Case Against Formal Verification, 50 Years Later",
+      "source": "hackernews"
+    },
+    "57aea0d2f6ab5819": {
+      "date": "2026-08-16",
+      "title": "Low-Tech Ceramic Water Filter",
+      "source": "hackernews"
+    },
+    "1df2ff4d540a42c4": {
+      "date": "2026-08-16",
+      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+      "source": "hackernews"
+    },
+    "70e3a85a0945c6e3": {
+      "date": "2026-08-16",
+      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "source": "hackernews"
+    },
+    "4a4a3e0210bae350": {
+      "date": "2026-08-16",
+      "title": "A quick look at zero-knowledge proofs",
+      "source": "hackernews"
+    },
+    "28cd0e7dd17d7f88": {
+      "date": "2026-08-16",
+      "title": "AirAlarm",
+      "source": "producthunt"
+    },
+    "fdedb47815e504dc": {
+      "date": "2026-08-16",
+      "title": "Chert",
+      "source": "producthunt"
+    },
+    "1d4496e0ddb2d0f5": {
+      "date": "2026-08-16",
+      "title": "Expeditione",
+      "source": "producthunt"
+    },
+    "3dd650989f01578c": {
+      "date": "2026-08-16",
+      "title": "basecamp / omarchy",
+      "source": "github"
+    },
+    "988d410025cf7bda": {
+      "date": "2026-08-16",
+      "title": "Pawford Academy — A SwiftUI Puppy Training App with ElevenLabs AI Voice 🐾🎓",
+      "source": "devto"
+    },
+    "69657b1159f0d740": {
+      "date": "2026-08-16",
+      "title": "Your Dog Can't Tell You Where It Hurts. MATCH_RECOGNIZE in Snowflake Can.",
+      "source": "devto"
+    },
+    "2518c91f2ca1a859": {
+      "date": "2026-08-16",
+      "title": "Paw & Order: upload your dog, and defend them against evidence generated from their own photo",
+      "source": "devto"
+    },
+    "5a2f573c7428f887": {
+      "date": "2026-08-16",
+      "title": "Feijoada Anonymous: a support group for people who miss Brazilian food",
+      "source": "devto"
+    },
+    "dfd5d5d384049fb3": {
+      "date": "2026-08-16",
+      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
+      "source": "devto"
+    },
+    "2e85a3aacdec075a": {
+      "date": "2026-08-16",
+      "title": "Kitchen-Sune: A Community Cookbook",
+      "source": "devto"
+    },
+    "fda67df8b3ef9577": {
+      "date": "2026-08-16",
+      "title": "I Can Finally Delete My max-height: 9999px Animation Hack",
+      "source": "devto"
+    },
+    "a80b9a2aa82fcd21": {
+      "date": "2026-08-16",
+      "title": "Claude Impact Lab LA: Community Changed the Code",
+      "source": "devto"
+    },
+    "47f0ae8ffc624bfa": {
+      "date": "2026-08-16",
+      "title": "How We Got an LLM to Draw Charts Without Ever Touching a Pixel",
+      "source": "devto"
+    },
+    "33e1070998d34ffc": {
+      "date": "2026-08-16",
+      "title": "🍣 Sushi RS: SVG Sushi Components for Rust Frontends.",
+      "source": "devto"
     }
   }
 }
