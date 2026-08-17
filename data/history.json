@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-16T22:54:46.848344",
+  "last_updated": "2026-08-17T22:56:49.508653",
   "sent_items": {
-    "7a744d6876270db1": {
-      "date": "2026-07-17",
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "source": "hackernews"
-    },
-    "c35b417007f7c182": {
-      "date": "2026-07-17",
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "source": "hackernews"
-    },
-    "6e830503fed36aba": {
-      "date": "2026-07-17",
-      "title": "The Zilog Z80 has turned 50",
-      "source": "hackernews"
-    },
-    "8717ecee3596f189": {
-      "date": "2026-07-17",
-      "title": "Learning a few things about running SQLite",
-      "source": "hackernews"
-    },
-    "9cfc73e86dde639b": {
-      "date": "2026-07-17",
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "source": "hackernews"
-    },
-    "4e14e173ceb5294d": {
-      "date": "2026-07-17",
-      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "source": "hackernews"
-    },
-    "54546ec17fd34a4d": {
-      "date": "2026-07-17",
-      "title": "Frank Lloyd Wright’s first home",
-      "source": "hackernews"
-    },
-    "76bd5c2a949748d0": {
-      "date": "2026-07-17",
-      "title": "Topcoat: The full full-stack framework for Rust",
-      "source": "hackernews"
-    },
-    "bc49769c38be8c53": {
-      "date": "2026-07-17",
-      "title": "Open Book Touch: open-source e-reader",
-      "source": "hackernews"
-    },
-    "9cc3c6dc893f533c": {
-      "date": "2026-07-17",
-      "title": "Texas wins court order to suspend domain name for violating age-verification law",
-      "source": "hackernews"
-    },
-    "edd0f2ce2f8a9298": {
-      "date": "2026-07-17",
-      "title": "Basedash Suggestions",
-      "source": "producthunt"
-    },
-    "011562674e823d94": {
-      "date": "2026-07-17",
-      "title": "Pebbles Ai",
-      "source": "producthunt"
-    },
-    "3922cb552c6eca1e": {
-      "date": "2026-07-17",
-      "title": "PixyCAD",
-      "source": "producthunt"
-    },
-    "d241e9220d7eae15": {
-      "date": "2026-07-17",
-      "title": "Scribble Party",
-      "source": "producthunt"
-    },
-    "082cd1074156fae0": {
-      "date": "2026-07-17",
-      "title": "Kimi K3",
-      "source": "producthunt"
-    },
-    "4c4f6563f9881394": {
-      "date": "2026-07-17",
-      "title": "Yapper Leaderboard",
-      "source": "producthunt"
-    },
-    "decf40f6027a789d": {
-      "date": "2026-07-17",
-      "title": "Aye",
-      "source": "producthunt"
-    },
-    "7f199bcc63c47033": {
-      "date": "2026-07-17",
-      "title": "Timely",
-      "source": "producthunt"
-    },
-    "635974f9dd97a1be": {
-      "date": "2026-07-17",
-      "title": "Hey DEV, I'm Tobore. Let's actually connect.",
-      "source": "devto"
-    },
-    "f2f12d63ac074cdb": {
-      "date": "2026-07-17",
-      "title": "What was your win this week!?",
-      "source": "devto"
-    },
-    "56e68cc9ef7aabc9": {
-      "date": "2026-07-17",
-      "title": "Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fellowship, Founder Residency & Free AI D",
-      "source": "devto"
-    },
-    "8367ab2c0b384d71": {
-      "date": "2026-07-17",
-      "title": "I burned through thousands of AI tokens. Then a friend did it for free",
-      "source": "devto"
-    },
-    "f2647b1e0e13d2f9": {
-      "date": "2026-07-17",
-      "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
-      "source": "devto"
-    },
-    "0ebf5f0d6072afce": {
-      "date": "2026-07-17",
-      "title": "Porting a 128-expert MoE (Gemma-4 26B-A4B) to AWS Inferentia2 — where every rank weighted the wrong ",
-      "source": "devto"
-    },
-    "35fa5767dcb27539": {
-      "date": "2026-07-17",
-      "title": "My Inferentia port matched its reference token-for-token — and still output garbage",
-      "source": "devto"
-    },
-    "cf3385beea3553b1": {
-      "date": "2026-07-17",
-      "title": "Experiments with On-device AI — What building on Gemini Nano actually teaches you",
-      "source": "devto"
-    },
-    "4503a3913d8e5e25": {
-      "date": "2026-07-17",
-      "title": "Instrumenting an AI-Powered GitHub Analyzer with OpenTelemetry and SigNoz",
-      "source": "devto"
-    },
-    "bcfb7e936799fa98": {
-      "date": "2026-07-17",
-      "title": "codecrafters-io / build-your-own-x",
-      "source": "github"
-    },
-    "836c99cc8449230b": {
-      "date": "2026-07-17",
-      "title": "anthropics / cwc-workshops",
-      "source": "github"
-    },
-    "89a665d7fafbfdc7": {
-      "date": "2026-07-17",
-      "title": "protocolbuffers / protobuf",
-      "source": "github"
-    },
-    "49d53e226ac61243": {
-      "date": "2026-07-17",
-      "title": "tirth8205 / code-review-graph",
-      "source": "github"
-    },
-    "c19a27291b7051b9": {
-      "date": "2026-07-17",
-      "title": "docusealco / docuseal",
-      "source": "github"
-    },
-    "ce57d7f0f38eb7bc": {
-      "date": "2026-07-17",
-      "title": "RyanCodrai / turbovec",
-      "source": "github"
-    },
     "384130be23988385": {
       "date": "2026-07-18",
       "title": "WX",
@@ -5051,6 +4886,191 @@
       "date": "2026-08-16",
       "title": "🍣 Sushi RS: SVG Sushi Components for Rust Frontends.",
       "source": "devto"
+    },
+    "d316305f168247da": {
+      "date": "2026-08-17",
+      "title": "A Preview of DuckDB v2.0",
+      "source": "hackernews"
+    },
+    "bb0224d52f1fe756": {
+      "date": "2026-08-17",
+      "title": "Incident with Github.com",
+      "source": "hackernews"
+    },
+    "ad020c91f6cb954c": {
+      "date": "2026-08-17",
+      "title": "AI;DR (AI; Didn't Read)",
+      "source": "hackernews"
+    },
+    "64d3338b4aed0757": {
+      "date": "2026-08-17",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "source": "hackernews"
+    },
+    "8893a476984436dc": {
+      "date": "2026-08-17",
+      "title": "How to disable or avoid intrusive AI",
+      "source": "hackernews"
+    },
+    "fb1d9c246a9f2420": {
+      "date": "2026-08-17",
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "source": "hackernews"
+    },
+    "a73720677fa20418": {
+      "date": "2026-08-17",
+      "title": "Bluesky draws its logo on screenshots",
+      "source": "hackernews"
+    },
+    "dfe06b13b1e52788": {
+      "date": "2026-08-17",
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "source": "hackernews"
+    },
+    "3ec31d3613f31d95": {
+      "date": "2026-08-17",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "source": "hackernews"
+    },
+    "f0febdcd6d0348e5": {
+      "date": "2026-08-17",
+      "title": "Intriguing Stories in Computer Science",
+      "source": "hackernews"
+    },
+    "8fe3c96bd59c3aca": {
+      "date": "2026-08-17",
+      "title": "Omni by xpander",
+      "source": "producthunt"
+    },
+    "79fcad6ab9fa7799": {
+      "date": "2026-08-17",
+      "title": "Meridian",
+      "source": "producthunt"
+    },
+    "9067b943cf08f283": {
+      "date": "2026-08-17",
+      "title": "Vendo",
+      "source": "producthunt"
+    },
+    "551ee9bb993f8e3e": {
+      "date": "2026-08-17",
+      "title": "Skriptr",
+      "source": "producthunt"
+    },
+    "0b44d31b54390a83": {
+      "date": "2026-08-17",
+      "title": "Scholé Scenarios",
+      "source": "producthunt"
+    },
+    "4973d98ff782a188": {
+      "date": "2026-08-17",
+      "title": "Startup Program by Recall.ai",
+      "source": "producthunt"
+    },
+    "aacea65facc1409f": {
+      "date": "2026-08-17",
+      "title": "Treg",
+      "source": "producthunt"
+    },
+    "c80b3ac1b357170d": {
+      "date": "2026-08-17",
+      "title": "Blender Agent Bridge",
+      "source": "producthunt"
+    },
+    "8b4b310ce608e28d": {
+      "date": "2026-08-17",
+      "title": "Functional languages are heavily imperative.",
+      "source": "devto"
+    },
+    "732de5e21de2e5d0": {
+      "date": "2026-08-17",
+      "title": "Git Gud!",
+      "source": "devto"
+    },
+    "e2bdd5024ef13a1f": {
+      "date": "2026-08-17",
+      "title": "How to Reach Your Full Potential as a Programmer (It's Probably Not What You Think)",
+      "source": "devto"
+    },
+    "1ecbe4c1a0d923a8": {
+      "date": "2026-08-17",
+      "title": "The Kitchen Doesn't Care About Your Excuses",
+      "source": "devto"
+    },
+    "b5f480ecef2c23e4": {
+      "date": "2026-08-17",
+      "title": "What are your goals for the week? #192",
+      "source": "devto"
+    },
+    "7d5d815e05d2d5d4": {
+      "date": "2026-08-17",
+      "title": "Learn how to build a disclosure component using the native HTML details tag",
+      "source": "devto"
+    },
+    "f67755d6a6fb020d": {
+      "date": "2026-08-17",
+      "title": "PawMatch: Finding the Dog That Matches Your Personality 🐾",
+      "source": "devto"
+    },
+    "2d6fe3778d00ed1e": {
+      "date": "2026-08-17",
+      "title": "Coding agents got boring the moment we built a really good one.",
+      "source": "devto"
+    },
+    "afd3e1f31c550104": {
+      "date": "2026-08-17",
+      "title": "Don't Give the Model SQL",
+      "source": "devto"
+    },
+    "44ae743e04c43660": {
+      "date": "2026-08-17",
+      "title": "Shipping Assumptions: A Reliability Stack for AI-Generated Code",
+      "source": "devto"
+    },
+    "7c09473f1ffc3548": {
+      "date": "2026-08-17",
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "source": "github"
+    },
+    "11576ef07d08cff8": {
+      "date": "2026-08-17",
+      "title": "usestrix / strix",
+      "source": "github"
+    },
+    "77c460c436551b66": {
+      "date": "2026-08-17",
+      "title": "nautechsystems / nautilus_trader",
+      "source": "github"
+    },
+    "44154b46b32c21ba": {
+      "date": "2026-08-17",
+      "title": "akitaonrails / ai-memory",
+      "source": "github"
+    },
+    "ebc3b4fe22b66c2d": {
+      "date": "2026-08-17",
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "source": "github"
+    },
+    "7b6a865db4d6f6c0": {
+      "date": "2026-08-17",
+      "title": "santifer / career-ops",
+      "source": "github"
+    },
+    "f4f993b4bf74f441": {
+      "date": "2026-08-17",
+      "title": "jundot / omlx",
+      "source": "github"
+    },
+    "f6d44bafc3780456": {
+      "date": "2026-08-17",
+      "title": "immich-app / immich",
+      "source": "github"
+    },
+    "1d3aa2a2f7e2c3bd": {
+      "date": "2026-08-17",
+      "title": "agalwood / Motrix",
+      "source": "github"
     }
   }
 }
