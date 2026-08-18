@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-17T22:56:49.508653",
+  "last_updated": "2026-08-18T22:57:22.231903",
   "sent_items": {
-    "384130be23988385": {
-      "date": "2026-07-18",
-      "title": "WX",
-      "source": "producthunt"
-    },
-    "9b41cf79a4a4d306": {
-      "date": "2026-07-18",
-      "title": "Mainichi",
-      "source": "producthunt"
-    },
-    "7c515704241d6d72": {
-      "date": "2026-07-18",
-      "title": "Acebuilder",
-      "source": "producthunt"
-    },
-    "3e7a45f66f924223": {
-      "date": "2026-07-18",
-      "title": "OpenMarkdown",
-      "source": "producthunt"
-    },
-    "b312bd521caa26b2": {
-      "date": "2026-07-18",
-      "title": "Pocket Screen",
-      "source": "producthunt"
-    },
-    "da56b4ec12266495": {
-      "date": "2026-07-18",
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "source": "hackernews"
-    },
-    "e73d92dd02ac8a9e": {
-      "date": "2026-07-18",
-      "title": "If You Build It, They Will Come",
-      "source": "hackernews"
-    },
-    "8237a3e6579c0421": {
-      "date": "2026-07-18",
-      "title": "Gleam Is Now on Tangled",
-      "source": "hackernews"
-    },
-    "d8fb288a83174b41": {
-      "date": "2026-07-18",
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "source": "hackernews"
-    },
-    "16718d4f24b92903": {
-      "date": "2026-07-18",
-      "title": "Is this the end of the once-mighty GoPro?",
-      "source": "hackernews"
-    },
-    "a87ec9b90cc33500": {
-      "date": "2026-07-18",
-      "title": "Typing Speed Test, but for Developers",
-      "source": "hackernews"
-    },
-    "e8e8a56c575f383b": {
-      "date": "2026-07-18",
-      "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
-      "source": "hackernews"
-    },
-    "1de0d1c2053434a5": {
-      "date": "2026-07-18",
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "source": "hackernews"
-    },
-    "a7300868c8cd3e7b": {
-      "date": "2026-07-18",
-      "title": "Judge a book by its first pages",
-      "source": "hackernews"
-    },
-    "dc996d8c198facf9": {
-      "date": "2026-07-18",
-      "title": "Classic Amiga titles, free to download",
-      "source": "hackernews"
-    },
-    "eb6c98bf3dd10338": {
-      "date": "2026-07-18",
-      "title": "How We Beat HotSpot Performance (By Cheating, But Not Like That)",
-      "source": "devto"
-    },
-    "89197eab398e18b8": {
-      "date": "2026-07-18",
-      "title": "Stratagems #17: Alex Set an AI Bait. The Catch Wasn't Code — It Was Someone Who Shouldn't Have Been ",
-      "source": "devto"
-    },
-    "bee70cae2471c7e6": {
-      "date": "2026-07-18",
-      "title": "Why I built a SQL client when 10 already exist — then let AI agents into it",
-      "source": "devto"
-    },
-    "b9fb80c1b41a898b": {
-      "date": "2026-07-18",
-      "title": "Every AI-built site looks the same, so I built a skill that locks taste before any code is written",
-      "source": "devto"
-    },
-    "31329a780eba1b8f": {
-      "date": "2026-07-18",
-      "title": "FLUX on a 4070 Graphics Card 🖼️",
-      "source": "devto"
-    },
-    "3f8438e9d49a64c9": {
-      "date": "2026-07-18",
-      "title": "AWS Weekend Agent Challenge: Daybreak",
-      "source": "devto"
-    },
-    "7bf0a72a91191680": {
-      "date": "2026-07-18",
-      "title": "I was tired of studying security tools from static cheatsheets, so I built ShellStack",
-      "source": "devto"
-    },
-    "7bccd8e55ea72c3b": {
-      "date": "2026-07-18",
-      "title": "Apache Data Lakehouse Weekly: July 11 to July 18, 2026",
-      "source": "devto"
-    },
-    "e3fbd85a82c338df": {
-      "date": "2026-07-18",
-      "title": "I reviewed a NestJS fintech backend where the numbers never quite matched, this is the fix",
-      "source": "devto"
-    },
-    "4a15c0c9d6aa101d": {
-      "date": "2026-07-18",
-      "title": "Anxious About the Tech Market? Try Digging a New Hole",
-      "source": "devto"
-    },
-    "4d8e922de101f720": {
-      "date": "2026-07-18",
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "source": "github"
-    },
-    "db7ba6e660566bce": {
-      "date": "2026-07-18",
-      "title": "elder-plinius / G0DM0D3",
-      "source": "github"
-    },
-    "cef11b5e74b825ba": {
-      "date": "2026-07-18",
-      "title": "lyogavin / airllm",
-      "source": "github"
-    },
-    "4e0f7b8afe94cb65": {
-      "date": "2026-07-18",
-      "title": "KnockOutEZ / wigolo",
-      "source": "github"
-    },
-    "ff4df8f2ba59fc8c": {
-      "date": "2026-07-18",
-      "title": "MoonshotAI / kimi-cli",
-      "source": "github"
-    },
     "c8b4b3d83f24e145": {
       "date": "2026-07-19",
       "title": "Qwen 3.8",
@@ -5070,6 +4920,166 @@
     "1d3aa2a2f7e2c3bd": {
       "date": "2026-08-17",
       "title": "agalwood / Motrix",
+      "source": "github"
+    },
+    "b3fd0a71c984768d": {
+      "date": "2026-08-18",
+      "title": "The Amazon tax",
+      "source": "hackernews"
+    },
+    "c294d917965a3989": {
+      "date": "2026-08-18",
+      "title": "Beware Management Consultants",
+      "source": "hackernews"
+    },
+    "d805c6dd5048ea0d": {
+      "date": "2026-08-18",
+      "title": "Using the railway network as a flatbed scanner",
+      "source": "hackernews"
+    },
+    "17404d99ec655847": {
+      "date": "2026-08-18",
+      "title": "Fixing a bricked Framework laptop",
+      "source": "hackernews"
+    },
+    "ce57d7f0f38eb7bc": {
+      "date": "2026-08-18",
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "source": "hackernews"
+    },
+    "f23fb6dcccc64a40": {
+      "date": "2026-08-18",
+      "title": "How does IKEA come up with names for its products?",
+      "source": "hackernews"
+    },
+    "3ad2d6198a4ff956": {
+      "date": "2026-08-18",
+      "title": "Being ambitious and being a dad",
+      "source": "hackernews"
+    },
+    "03d67884fc4dbb1e": {
+      "date": "2026-08-18",
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "source": "hackernews"
+    },
+    "fe0cff88bb38c696": {
+      "date": "2026-08-18",
+      "title": "Companies promote incompetent employees to management tolimit damage they can do",
+      "source": "hackernews"
+    },
+    "fb7fa64cffdff64c": {
+      "date": "2026-08-18",
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "source": "hackernews"
+    },
+    "79a72649ad5fbbbd": {
+      "date": "2026-08-18",
+      "title": "Controller AI",
+      "source": "producthunt"
+    },
+    "5a1ba7aef7dad120": {
+      "date": "2026-08-18",
+      "title": "Deepmark",
+      "source": "producthunt"
+    },
+    "3ade497109f5ed9b": {
+      "date": "2026-08-18",
+      "title": "LayerProof Matte 3.0",
+      "source": "producthunt"
+    },
+    "9b845810a6f67763": {
+      "date": "2026-08-18",
+      "title": "Taku AI",
+      "source": "producthunt"
+    },
+    "6c01d5c499484737": {
+      "date": "2026-08-18",
+      "title": "Shepherd Terminal",
+      "source": "producthunt"
+    },
+    "b5f6ad7699901445": {
+      "date": "2026-08-18",
+      "title": "monolog",
+      "source": "producthunt"
+    },
+    "2ab01992f2fd0bcc": {
+      "date": "2026-08-18",
+      "title": "Finch",
+      "source": "producthunt"
+    },
+    "642d6a62ea6a62c4": {
+      "date": "2026-08-18",
+      "title": "Dates by Agenda Hero",
+      "source": "producthunt"
+    },
+    "67a78ad910d50637": {
+      "date": "2026-08-18",
+      "title": "7 Productivity Tips That Sound Wrong (But Actually Work)",
+      "source": "devto"
+    },
+    "6347f642ccbf8f7d": {
+      "date": "2026-08-18",
+      "title": "My First Engineering Job Is Teaching Me Something I Didn't Expect",
+      "source": "devto"
+    },
+    "c45eeefda556a4f7": {
+      "date": "2026-08-18",
+      "title": "I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”",
+      "source": "devto"
+    },
+    "193053efcf9d64ae": {
+      "date": "2026-08-18",
+      "title": "The same Rust gave two different answers, and neither matched JavaScript",
+      "source": "devto"
+    },
+    "27f24cb33386aa01": {
+      "date": "2026-08-18",
+      "title": "How I Built a Kiro Crew App in 5 Minutes - Full Tutorial With Code",
+      "source": "devto"
+    },
+    "263ad89312168e75": {
+      "date": "2026-08-18",
+      "title": "COSP: The Prompting Trick Where Your LLM Grades Its Own Homework",
+      "source": "devto"
+    },
+    "29b90954d0629b65": {
+      "date": "2026-08-18",
+      "title": "How to Improve Playwright Test Coverage Using Agent Context",
+      "source": "devto"
+    },
+    "d9c3730b3c9f83a9": {
+      "date": "2026-08-18",
+      "title": "xUnit 4 ParallelMode.All: Protect Shared State from Test Races",
+      "source": "devto"
+    },
+    "d14bbc6dab743e0a": {
+      "date": "2026-08-18",
+      "title": "I Built a Lottery Simulator That Shows You Losing Money for 1000 Years",
+      "source": "devto"
+    },
+    "9b8465c018bc4b4c": {
+      "date": "2026-08-18",
+      "title": "My Uptime Monitor Was Set to Every 5 Minutes. In July It Ran 15 Times a Day.",
+      "source": "devto"
+    },
+    "c611600453f2b1d1": {
+      "date": "2026-08-18",
+      "title": "chaitanyagiri / munder-difflin",
+      "source": "github"
+    },
+    "91af1ab046d36261": {
+      "date": "2026-08-18",
+      "title": "volcengine / OpenViking",
+      "source": "github"
+    },
+    "9044a443cc06c171": {
+      "date": "2026-08-18",
+      "title": "NawfalMotii79 / PLFM_RADAR",
+      "source": "github"
+    },
+    "25b6d2f432b5af9b": {
+      "date": "2026-08-18",
+      "title": "genlayerlabs / genlayer-project-boilerplate",
       "source": "github"
     }
   }
