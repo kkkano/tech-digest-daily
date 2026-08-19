@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-18T22:57:22.231903",
+  "last_updated": "2026-08-19T23:02:30.957823",
   "sent_items": {
-    "c8b4b3d83f24e145": {
-      "date": "2026-07-19",
-      "title": "Qwen 3.8",
-      "source": "hackernews"
-    },
-    "262590a6eaebda6c": {
-      "date": "2026-07-19",
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "source": "hackernews"
-    },
-    "a69cdbbe8c39ba85": {
-      "date": "2026-07-19",
-      "title": "Claude Code uses Bun written in Rust now",
-      "source": "hackernews"
-    },
-    "48125760258aa8bf": {
-      "date": "2026-07-19",
-      "title": "Blender 5.2 LTS",
-      "source": "hackernews"
-    },
-    "0b4fb7fdaa784fdb": {
-      "date": "2026-07-19",
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "source": "hackernews"
-    },
-    "fcb8915650a0a06e": {
-      "date": "2026-07-19",
-      "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
-      "source": "hackernews"
-    },
-    "19278d01b6d0599d": {
-      "date": "2026-07-19",
-      "title": "The Zen of Parallel Programming",
-      "source": "hackernews"
-    },
-    "f6ef2fee3b3b14ad": {
-      "date": "2026-07-19",
-      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
-      "source": "hackernews"
-    },
-    "ee9b676c62f4ee88": {
-      "date": "2026-07-19",
-      "title": "Show HN: A canvas-based note taking and organizer app",
-      "source": "hackernews"
-    },
-    "53cf998bbba0b706": {
-      "date": "2026-07-19",
-      "title": "Talk: The Art of Braiding Algorithms",
-      "source": "hackernews"
-    },
-    "9fbdf4f6079626ab": {
-      "date": "2026-07-19",
-      "title": "OpenSEO",
-      "source": "producthunt"
-    },
-    "b3fc6c67cceb08b7": {
-      "date": "2026-07-19",
-      "title": "Rewisp",
-      "source": "producthunt"
-    },
-    "b09b9822d243ad95": {
-      "date": "2026-07-19",
-      "title": "Detourmap",
-      "source": "producthunt"
-    },
-    "c4c566d05361fc36": {
-      "date": "2026-07-19",
-      "title": "BaseRT",
-      "source": "producthunt"
-    },
-    "7b6cc02cd654d765": {
-      "date": "2026-07-19",
-      "title": "Kobbe",
-      "source": "producthunt"
-    },
-    "6d12d6b98277fd73": {
-      "date": "2026-07-19",
-      "title": "Stratagems #18: Leo Tracked an AI Signal to Derek. Both Were Looking for the Same Enemy.",
-      "source": "devto"
-    },
-    "7b7f644ac0e99f71": {
-      "date": "2026-07-19",
-      "title": "Building a Real-time, Multiplayer Poker Game: Phase 1 of 3",
-      "source": "devto"
-    },
-    "1f35659ff08125bf": {
-      "date": "2026-07-19",
-      "title": "One line of math froze my AI agent forever. The timeout watched and did nothing.",
-      "source": "devto"
-    },
-    "f7c37de1e3df3eb3": {
-      "date": "2026-07-19",
-      "title": "I Rewrote a OneNote MCP Server in TypeScript — Here's What I Learned About Microsoft Graph Auth",
-      "source": "devto"
-    },
-    "2d5e76513da14b8a": {
-      "date": "2026-07-19",
-      "title": "The Hardest System I Ever Built Was for Patients Who Could Not Afford for It to Fail",
-      "source": "devto"
-    },
-    "9e552756f2730dae": {
-      "date": "2026-07-19",
-      "title": "I Built an AI App. Eight Months Later, It Became a Skill",
-      "source": "devto"
-    },
-    "24475a54fdfc215a": {
-      "date": "2026-07-19",
-      "title": "I measured every millisecond of my real-time AI pipeline. The LLM was the fast part.",
-      "source": "devto"
-    },
-    "1f4eef53f743c852": {
-      "date": "2026-07-19",
-      "title": "My Solana Program Launch Checklist (Written the Day After I Actually Did It)",
-      "source": "devto"
-    },
-    "9ecad8aabfe5b1bd": {
-      "date": "2026-07-19",
-      "title": "Browser OS Redefined: The Desktop Metaphor Doesn't Quite Fit a 5\" Screen Browser",
-      "source": "devto"
-    },
-    "2204b4c6c1b95949": {
-      "date": "2026-07-19",
-      "title": "You Deleted It. The Crawler Still Sees It.",
-      "source": "devto"
-    },
-    "b07d60e58753a646": {
-      "date": "2026-07-19",
-      "title": "bojieli / ai-agent-book",
-      "source": "github"
-    },
-    "3cabe5488f9f7c40": {
-      "date": "2026-07-19",
-      "title": "kvcache-ai / ktransformers",
-      "source": "github"
-    },
-    "bc222d70acfeef9c": {
-      "date": "2026-07-19",
-      "title": "andrewrabert / jellium-desktop",
-      "source": "github"
-    },
-    "435d72beb104780e": {
-      "date": "2026-07-19",
-      "title": "microsoft / terminal",
-      "source": "github"
-    },
-    "6a29aa0fa11abd15": {
-      "date": "2026-07-19",
-      "title": "AstrBotDevs / AstrBot",
-      "source": "github"
-    },
-    "7d0e9c89c3e6f05b": {
-      "date": "2026-07-19",
-      "title": "1jehuang / jcode",
-      "source": "github"
-    },
-    "d44331a1971df5c9": {
-      "date": "2026-07-19",
-      "title": "trycua / cua",
-      "source": "github"
-    },
     "f7649e21502597d6": {
       "date": "2026-07-20",
       "title": "Autoplot",
@@ -5080,6 +4920,156 @@
     "25b6d2f432b5af9b": {
       "date": "2026-08-18",
       "title": "genlayerlabs / genlayer-project-boilerplate",
+      "source": "github"
+    },
+    "2f388a168f88be16": {
+      "date": "2026-08-19",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "source": "hackernews"
+    },
+    "2bc42a21bd81d16d": {
+      "date": "2026-08-19",
+      "title": "OpenRouter is joining Stripe",
+      "source": "hackernews"
+    },
+    "6dbfb305b24b24d9": {
+      "date": "2026-08-19",
+      "title": "Go 1.27",
+      "source": "hackernews"
+    },
+    "e5784de24be7838f": {
+      "date": "2026-08-19",
+      "title": "Casio F-B100W-1A",
+      "source": "hackernews"
+    },
+    "fe82b57a4326b9bc": {
+      "date": "2026-08-19",
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "source": "hackernews"
+    },
+    "bde94133bc0310ca": {
+      "date": "2026-08-19",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "source": "hackernews"
+    },
+    "85a66ff576918e59": {
+      "date": "2026-08-19",
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "source": "hackernews"
+    },
+    "a678b2801da4b109": {
+      "date": "2026-08-19",
+      "title": "DFlash 2: Keep Drafting Parallel",
+      "source": "hackernews"
+    },
+    "a9c639f41d2ee72e": {
+      "date": "2026-08-19",
+      "title": "Sol Loves to Cheat",
+      "source": "hackernews"
+    },
+    "c025ff40a8b3c02a": {
+      "date": "2026-08-19",
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "source": "hackernews"
+    },
+    "483fd0c2f19366c4": {
+      "date": "2026-08-19",
+      "title": "anyCreature by Gobkit",
+      "source": "producthunt"
+    },
+    "74bbfda82f0674f5": {
+      "date": "2026-08-19",
+      "title": "Origin by Cursor",
+      "source": "producthunt"
+    },
+    "1d38ba8e8b31d2c9": {
+      "date": "2026-08-19",
+      "title": "Edgemetry",
+      "source": "producthunt"
+    },
+    "2a7ccf40edffa2c7": {
+      "date": "2026-08-19",
+      "title": "Astute",
+      "source": "producthunt"
+    },
+    "a3946e1f3cae3720": {
+      "date": "2026-08-19",
+      "title": "Claude Watermark Remover",
+      "source": "producthunt"
+    },
+    "edd0f2ce2f8a9298": {
+      "date": "2026-08-19",
+      "title": "Basedash Public Sharing",
+      "source": "producthunt"
+    },
+    "b927fd5f234e9203": {
+      "date": "2026-08-19",
+      "title": "Expert Chase 2.0",
+      "source": "producthunt"
+    },
+    "c85cac6ad5001ed2": {
+      "date": "2026-08-19",
+      "title": "KiHub",
+      "source": "producthunt"
+    },
+    "e0dcb7607e8c6862": {
+      "date": "2026-08-19",
+      "title": "Engineering: Dreams, or Self-Actualization?",
+      "source": "devto"
+    },
+    "43bf793a48423ef3": {
+      "date": "2026-08-19",
+      "title": "Greatness Is Forged by Limitation",
+      "source": "devto"
+    },
+    "39d4a6260f741638": {
+      "date": "2026-08-19",
+      "title": "My AI Content Journey",
+      "source": "devto"
+    },
+    "79ed514c155d0ea5": {
+      "date": "2026-08-19",
+      "title": "11 Independent DevOps Learning Sites That Are Not Selling You a Certification",
+      "source": "devto"
+    },
+    "295654804279a52a": {
+      "date": "2026-08-19",
+      "title": "My QUIC transport had never once been executed. Here's what happened when I ran it.",
+      "source": "devto"
+    },
+    "a90e10e236423706": {
+      "date": "2026-08-19",
+      "title": "React useScrollLock Hook: Lock Body Scroll for Modals (2026)",
+      "source": "devto"
+    },
+    "3566141340675185": {
+      "date": "2026-08-19",
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "source": "devto"
+    },
+    "9312406988ce90ed": {
+      "date": "2026-08-19",
+      "title": "I Deliberately Destroyed My Kubernetes Cluster at 2 AM. Here's What Died First.",
+      "source": "devto"
+    },
+    "7aaa25e47acc09ed": {
+      "date": "2026-08-19",
+      "title": "Agent Memory: Everything It Remembers Has the Same Authority, and That Is the Bug",
+      "source": "devto"
+    },
+    "95c95330dbeda6ae": {
+      "date": "2026-08-19",
+      "title": "Your idempotency test probably cannot fail",
+      "source": "devto"
+    },
+    "4feaa250a513cbd9": {
+      "date": "2026-08-19",
+      "title": "amadeusprotocol / node",
+      "source": "github"
+    },
+    "f453f701f0417821": {
+      "date": "2026-08-19",
+      "title": "marceloprates / prettymaps",
       "source": "github"
     }
   }
