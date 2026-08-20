@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-19T23:02:30.957823",
+  "last_updated": "2026-08-20T23:13:22.622987",
   "sent_items": {
-    "f7649e21502597d6": {
-      "date": "2026-07-20",
-      "title": "Autoplot",
-      "source": "producthunt"
-    },
-    "44014c01bb17f038": {
-      "date": "2026-07-20",
-      "title": "Backdrop",
-      "source": "producthunt"
-    },
-    "9dfca342ca366870": {
-      "date": "2026-07-20",
-      "title": "CaptureKit",
-      "source": "producthunt"
-    },
-    "295519286459c624": {
-      "date": "2026-07-20",
-      "title": "Inkling",
-      "source": "producthunt"
-    },
-    "7bbad20e727abe54": {
-      "date": "2026-07-20",
-      "title": "BlockscopeChat",
-      "source": "producthunt"
-    },
-    "19eb9454448b3499": {
-      "date": "2026-07-20",
-      "title": "LnkFlow",
-      "source": "producthunt"
-    },
-    "3ae71ca393be344d": {
-      "date": "2026-07-20",
-      "title": "Kogvio",
-      "source": "producthunt"
-    },
-    "99da2e5c9a5c86eb": {
-      "date": "2026-07-20",
-      "title": "Backbeat Forge",
-      "source": "producthunt"
-    },
-    "bea949a4a20f966e": {
-      "date": "2026-07-20",
-      "title": "China’s open-weights AI strategy is winning",
-      "source": "hackernews"
-    },
-    "fbba896c8d94419c": {
-      "date": "2026-07-20",
-      "title": "Airport Simulator",
-      "source": "hackernews"
-    },
-    "8c41ec59e8292c80": {
-      "date": "2026-07-20",
-      "title": "Hacker wipes Romania's land registry database",
-      "source": "hackernews"
-    },
-    "b7ff16003f5d9982": {
-      "date": "2026-07-20",
-      "title": "Kimi Work",
-      "source": "hackernews"
-    },
-    "62d615f5ff749522": {
-      "date": "2026-07-20",
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "source": "hackernews"
-    },
-    "b3fbd93bade36c83": {
-      "date": "2026-07-20",
-      "title": "Human mathematicians are being outcounterexampled",
-      "source": "hackernews"
-    },
-    "3e0cfadf11d8f4d0": {
-      "date": "2026-07-20",
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "source": "hackernews"
-    },
-    "b91616d24ab7318c": {
-      "date": "2026-07-20",
-      "title": "Who's Afraid of Chinese Models?",
-      "source": "hackernews"
-    },
-    "b9d3ed836577d6c3": {
-      "date": "2026-07-20",
-      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-      "source": "hackernews"
-    },
-    "df6b09097971da8c": {
-      "date": "2026-07-20",
-      "title": "I wrote an bash enumerator because I was sick of xargs",
-      "source": "hackernews"
-    },
-    "5112e8e8361b5bed": {
-      "date": "2026-07-20",
-      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
-      "source": "devto"
-    },
-    "8ec5a5d7e79121b1": {
-      "date": "2026-07-20",
-      "title": "Choose your Burden",
-      "source": "devto"
-    },
-    "768a16d99a664471": {
-      "date": "2026-07-20",
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "source": "devto"
-    },
-    "56f367d435b96160": {
-      "date": "2026-07-20",
-      "title": "Gemma4 DevOps In Action",
-      "source": "devto"
-    },
-    "ce6ae0dd61c783e8": {
-      "date": "2026-07-20",
-      "title": "Theatre Kid to Developer Advocate, None of This Was Planned",
-      "source": "devto"
-    },
-    "10c80c064e0c324f": {
-      "date": "2026-07-20",
-      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding ",
-      "source": "devto"
-    },
-    "0006c620607421f9": {
-      "date": "2026-07-20",
-      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemin",
-      "source": "devto"
-    },
-    "26fb5cc2d205c1b1": {
-      "date": "2026-07-20",
-      "title": "the part of this year I don't put in the commit messages",
-      "source": "devto"
-    },
-    "bcb6d173ecf7cf78": {
-      "date": "2026-07-20",
-      "title": "The smolagents bug that made my agent retry the same valid code three times",
-      "source": "devto"
-    },
-    "e9e1a84637e4066f": {
-      "date": "2026-07-20",
-      "title": "Why I needed Durable Execution to read a toy manual",
-      "source": "devto"
-    },
-    "5dfe15d5980db3b9": {
-      "date": "2026-07-20",
-      "title": "msitarzewski / agency-agents",
-      "source": "github"
-    },
-    "542965ab7bd0bd5f": {
-      "date": "2026-07-20",
-      "title": "PrefectHQ / fastmcp",
-      "source": "github"
-    },
     "2967707ce89d50d9": {
       "date": "2026-07-21",
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
@@ -5070,6 +4920,181 @@
     "f453f701f0417821": {
       "date": "2026-08-19",
       "title": "marceloprates / prettymaps",
+      "source": "github"
+    },
+    "0d38f47f0c0db046": {
+      "date": "2026-08-20",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "source": "hackernews"
+    },
+    "bfbe224e44632f1c": {
+      "date": "2026-08-20",
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "source": "hackernews"
+    },
+    "de7ec48fdb70ceef": {
+      "date": "2026-08-20",
+      "title": "HTML Can Do That",
+      "source": "hackernews"
+    },
+    "1cfdf74a597abf6a": {
+      "date": "2026-08-20",
+      "title": "I like 'em thick: an apology to my English teachers",
+      "source": "hackernews"
+    },
+    "20dcbe89b3fb3a87": {
+      "date": "2026-08-20",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "source": "hackernews"
+    },
+    "9ab7e4d07cdc93a6": {
+      "date": "2026-08-20",
+      "title": "The August 17 outage, and the work ahead",
+      "source": "hackernews"
+    },
+    "2a3f3d0326e9b4e8": {
+      "date": "2026-08-20",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "source": "hackernews"
+    },
+    "9c9968045ffe697a": {
+      "date": "2026-08-20",
+      "title": "I should have loved biology (2020)",
+      "source": "hackernews"
+    },
+    "041fc3674d967bb1": {
+      "date": "2026-08-20",
+      "title": "Consumer Rights Wiki",
+      "source": "hackernews"
+    },
+    "89cb18d0a623d07d": {
+      "date": "2026-08-20",
+      "title": "Citizen Devs: Everyone is an engineer now",
+      "source": "hackernews"
+    },
+    "9ba9b0b1e0ced9ac": {
+      "date": "2026-08-20",
+      "title": "Revy",
+      "source": "producthunt"
+    },
+    "e19cada5b1b54430": {
+      "date": "2026-08-20",
+      "title": "Berd",
+      "source": "producthunt"
+    },
+    "9a939770a1e1efe3": {
+      "date": "2026-08-20",
+      "title": "Lifelong",
+      "source": "producthunt"
+    },
+    "c24d82056df4f3b5": {
+      "date": "2026-08-20",
+      "title": "The New Calendly",
+      "source": "producthunt"
+    },
+    "55b2f0d02d9a1fb9": {
+      "date": "2026-08-20",
+      "title": "MeetStream AI",
+      "source": "producthunt"
+    },
+    "d9e8af4ac7d72fb7": {
+      "date": "2026-08-20",
+      "title": "Hermai Brand API",
+      "source": "producthunt"
+    },
+    "ce16e5ae37d76115": {
+      "date": "2026-08-20",
+      "title": "Grok 4.6",
+      "source": "producthunt"
+    },
+    "e642173c067efd0f": {
+      "date": "2026-08-20",
+      "title": "Aloud",
+      "source": "producthunt"
+    },
+    "53d779a3ebdde4c2": {
+      "date": "2026-08-20",
+      "title": "State Management in Front-end Web Development: Mutators",
+      "source": "devto"
+    },
+    "1c2ab6a11da3f35d": {
+      "date": "2026-08-20",
+      "title": "I wrote a test for prompt injection. It passed while the attack worked.",
+      "source": "devto"
+    },
+    "637f1ae83fe639e8": {
+      "date": "2026-08-20",
+      "title": "1ª vez trabalhando com git em um time: tudo que você precisa saber",
+      "source": "devto"
+    },
+    "0765929ffaade7de": {
+      "date": "2026-08-20",
+      "title": "Solving Gradle metadata and Renovate integration",
+      "source": "devto"
+    },
+    "4f78b4aa1d629412": {
+      "date": "2026-08-20",
+      "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
+      "source": "devto"
+    },
+    "fbffd92138ef177b": {
+      "date": "2026-08-20",
+      "title": "The test was green. Every real connection would have failed.",
+      "source": "devto"
+    },
+    "08f437234466cab8": {
+      "date": "2026-08-20",
+      "title": "The Reasoning Ledger: Remembering Decisions, Not Just Data",
+      "source": "devto"
+    },
+    "aee6522417111017": {
+      "date": "2026-08-20",
+      "title": "I Built an AI Code Reviewer. Then OWASP Broke It.",
+      "source": "devto"
+    },
+    "44c4f00ac3b2e89b": {
+      "date": "2026-08-20",
+      "title": "A missing exchange rate is not an exchange rate of 1",
+      "source": "devto"
+    },
+    "fcb925e944e48cc5": {
+      "date": "2026-08-20",
+      "title": "The /sdp endpoint that trusted its callers: fixing a memory-amplification DoS in py-libp2p",
+      "source": "devto"
+    },
+    "5e545fb9f529df45": {
+      "date": "2026-08-20",
+      "title": "modular / modular",
+      "source": "github"
+    },
+    "3adab56acaa31031": {
+      "date": "2026-08-20",
+      "title": "AprilNEA / OpenLogi",
+      "source": "github"
+    },
+    "9b897d36ce84b465": {
+      "date": "2026-08-20",
+      "title": "agent-substrate / substrate",
+      "source": "github"
+    },
+    "6fb08428e288194e": {
+      "date": "2026-08-20",
+      "title": "PostHog / posthog",
+      "source": "github"
+    },
+    "65d0cb405a9eb49f": {
+      "date": "2026-08-20",
+      "title": "mahlernim / google-timeline-visualizer",
+      "source": "github"
+    },
+    "021dcfb5e16a50cf": {
+      "date": "2026-08-20",
+      "title": "JuliusBrussee / caveman",
+      "source": "github"
+    },
+    "bf3408e522ca2216": {
+      "date": "2026-08-20",
+      "title": "makeplane / plane",
       "source": "github"
     }
   }
