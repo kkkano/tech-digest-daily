@@ -1,197 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-20T23:13:22.622987",
+  "last_updated": "2026-08-21T23:09:20.403883",
   "sent_items": {
-    "2967707ce89d50d9": {
-      "date": "2026-07-21",
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "source": "hackernews"
-    },
-    "a6a720bfc5d237c9": {
-      "date": "2026-07-21",
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "source": "hackernews"
-    },
-    "6ed57de9509871a4": {
-      "date": "2026-07-21",
-      "title": "FreeInk: Open ecosystem for e-readers",
-      "source": "hackernews"
-    },
-    "e3c42c89eaef1c19": {
-      "date": "2026-07-21",
-      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-      "source": "hackernews"
-    },
-    "f7c43a5bc182f683": {
-      "date": "2026-07-21",
-      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
-      "source": "hackernews"
-    },
-    "ee8670fb6715ddd3": {
-      "date": "2026-07-21",
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "source": "hackernews"
-    },
-    "9e19d69b3cd8bcb0": {
-      "date": "2026-07-21",
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "source": "hackernews"
-    },
-    "0d84a422d04985f3": {
-      "date": "2026-07-21",
-      "title": "A digestion of the Jacobian conjecture counterexample",
-      "source": "hackernews"
-    },
-    "2a7ff54d10754acf": {
-      "date": "2026-07-21",
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "source": "hackernews"
-    },
-    "93106b48d110e735": {
-      "date": "2026-07-21",
-      "title": "The Birth of Prolog (1996)",
-      "source": "hackernews"
-    },
-    "e0ca3218302df310": {
-      "date": "2026-07-21",
-      "title": "Phantomstory",
-      "source": "producthunt"
-    },
-    "131ab0359ae0ec5a": {
-      "date": "2026-07-21",
-      "title": "Tidy",
-      "source": "producthunt"
-    },
-    "bf0bba3d0b858843": {
-      "date": "2026-07-21",
-      "title": "Diffsmith",
-      "source": "producthunt"
-    },
-    "c05baf7f49f41ed6": {
-      "date": "2026-07-21",
-      "title": "Routine AI",
-      "source": "producthunt"
-    },
-    "f07f340c848832ee": {
-      "date": "2026-07-21",
-      "title": "ProtoFlow",
-      "source": "producthunt"
-    },
-    "79898daaa9ae2fd1": {
-      "date": "2026-07-21",
-      "title": "tterm",
-      "source": "producthunt"
-    },
-    "8d98dad254cdf357": {
-      "date": "2026-07-21",
-      "title": "ditto.site",
-      "source": "producthunt"
-    },
-    "15f936759ae95dfe": {
-      "date": "2026-07-21",
-      "title": "ArachStudio",
-      "source": "producthunt"
-    },
-    "9ad772dbfeb435e6": {
-      "date": "2026-07-21",
-      "title": "You can build it. Should you?",
-      "source": "devto"
-    },
-    "8c2ba10cd6a304a4": {
-      "date": "2026-07-21",
-      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
-      "source": "devto"
-    },
-    "ed141a40a72a4e76": {
-      "date": "2026-07-21",
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "source": "devto"
-    },
-    "a247d2449e1ba154": {
-      "date": "2026-07-21",
-      "title": "The Optimistic UI Race Condition That Only Showed Up on the Fifth Click",
-      "source": "devto"
-    },
-    "0dfee9fa3f18885f": {
-      "date": "2026-07-21",
-      "title": "🐘 TypeScript for PHP? YES, that's possible! And it's not what you think...",
-      "source": "devto"
-    },
-    "0c4a33c7837b280f": {
-      "date": "2026-07-21",
-      "title": "How AI changed the way I pick frameworks, and the two places React survived",
-      "source": "devto"
-    },
-    "2208dae172b90c9a": {
-      "date": "2026-07-21",
-      "title": "Snowflake Cortex, Explained Like an AI That Lives Next to Your Data",
-      "source": "devto"
-    },
-    "07087b8abb505a64": {
-      "date": "2026-07-21",
-      "title": "Open AI Build Week: Foundation First, Software Second",
-      "source": "devto"
-    },
-    "bb54ba776d88bbc2": {
-      "date": "2026-07-21",
-      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models",
-      "source": "devto"
-    },
-    "cd1b1c78f4b363af": {
-      "date": "2026-07-21",
-      "title": "Preventing Focus Loss From Launching a Charged Jump in a Three.js Arcade Game",
-      "source": "devto"
-    },
-    "56d33226bf40d769": {
-      "date": "2026-07-21",
-      "title": "koala73 / worldmonitor",
-      "source": "github"
-    },
-    "ee7d6f2f5cec7fb9": {
-      "date": "2026-07-21",
-      "title": "ayghri / i-have-adhd",
-      "source": "github"
-    },
-    "7a4b3790492aaeb5": {
-      "date": "2026-07-21",
-      "title": "earthtojake / text-to-cad",
-      "source": "github"
-    },
-    "ee1315903bd5e838": {
-      "date": "2026-07-21",
-      "title": "oblien / openship",
-      "source": "github"
-    },
-    "d84de85bb3f0e980": {
-      "date": "2026-07-21",
-      "title": "tradesdontlie / tradingview-mcp",
-      "source": "github"
-    },
-    "018703fab583e3d5": {
-      "date": "2026-07-21",
-      "title": "AlexsJones / llmfit",
-      "source": "github"
-    },
-    "3a0b0b37a392aba3": {
-      "date": "2026-07-21",
-      "title": "hyprwm / Hyprland",
-      "source": "github"
-    },
-    "44fef4354ab3fc2f": {
-      "date": "2026-07-21",
-      "title": "chrislgarry / Apollo-11",
-      "source": "github"
-    },
-    "c23e4133fb44634b": {
-      "date": "2026-07-21",
-      "title": "DioxusLabs / dioxus",
-      "source": "github"
-    },
-    "280b22a646186e07": {
-      "date": "2026-07-21",
-      "title": "langchain-ai / open_deep_research",
-      "source": "github"
-    },
     "6ca22fc6b2aead0a": {
       "date": "2026-07-22",
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
@@ -5095,6 +4905,176 @@
     "bf3408e522ca2216": {
       "date": "2026-08-20",
       "title": "makeplane / plane",
+      "source": "github"
+    },
+    "c566085c3ba08687": {
+      "date": "2026-08-21",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "source": "hackernews"
+    },
+    "237fce0ade9c5a44": {
+      "date": "2026-08-21",
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "source": "hackernews"
+    },
+    "406cdb9c473f07b9": {
+      "date": "2026-08-21",
+      "title": "Felony Bench",
+      "source": "hackernews"
+    },
+    "7d05548c0a1211f3": {
+      "date": "2026-08-21",
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "source": "hackernews"
+    },
+    "ee005c5c0e5c95a9": {
+      "date": "2026-08-21",
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "source": "hackernews"
+    },
+    "3b363ecc337da139": {
+      "date": "2026-08-21",
+      "title": "Kobo can run apps now",
+      "source": "hackernews"
+    },
+    "487dcd058245b141": {
+      "date": "2026-08-21",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "source": "hackernews"
+    },
+    "874758b55ba55bf0": {
+      "date": "2026-08-21",
+      "title": "Scientists release biggest 2D map of the universe",
+      "source": "hackernews"
+    },
+    "6d507ab14d67ba20": {
+      "date": "2026-08-21",
+      "title": "I ran Photoshop on a £0.60 computer chip",
+      "source": "hackernews"
+    },
+    "336b42c2894b2720": {
+      "date": "2026-08-21",
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "source": "hackernews"
+    },
+    "99376cbd5d625f4c": {
+      "date": "2026-08-21",
+      "title": "Local",
+      "source": "producthunt"
+    },
+    "ae8f77eb0f38a91d": {
+      "date": "2026-08-21",
+      "title": "Lynqo",
+      "source": "producthunt"
+    },
+    "6dfc44b824ed6dd4": {
+      "date": "2026-08-21",
+      "title": "Surfdeck",
+      "source": "producthunt"
+    },
+    "6696d03e6fb90aa1": {
+      "date": "2026-08-21",
+      "title": "Wizstar",
+      "source": "producthunt"
+    },
+    "a0ab5979c49124cf": {
+      "date": "2026-08-21",
+      "title": "Actx0",
+      "source": "producthunt"
+    },
+    "f54b7663682d0811": {
+      "date": "2026-08-21",
+      "title": "Epho",
+      "source": "producthunt"
+    },
+    "aea289407207cf3d": {
+      "date": "2026-08-21",
+      "title": "fx (by Vercel)",
+      "source": "producthunt"
+    },
+    "18e193c142970bfd": {
+      "date": "2026-08-21",
+      "title": "Router by Ramp",
+      "source": "producthunt"
+    },
+    "e2b1bd402c56ce15": {
+      "date": "2026-08-21",
+      "title": "What was your win this week?!",
+      "source": "devto"
+    },
+    "1d973e372d476ae8": {
+      "date": "2026-08-21",
+      "title": "I Added Terminal Charts to My Dev.to CLI. Here's What My Data Looks Like.",
+      "source": "devto"
+    },
+    "c9363ee3d9486dec": {
+      "date": "2026-08-21",
+      "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
+      "source": "devto"
+    },
+    "9c335ca1adbc277c": {
+      "date": "2026-08-21",
+      "title": "My first website said \"Don't commit without context.\" I never committed it at all.",
+      "source": "devto"
+    },
+    "db5aeb54670bd984": {
+      "date": "2026-08-21",
+      "title": "How ChatGPT Serves 900 Million Users at a Time",
+      "source": "devto"
+    },
+    "1210b76d01160881": {
+      "date": "2026-08-21",
+      "title": "I Ran 157 Agent Plans Against a Real LLM. The Problem Wasn't Execution. It Was Planning.",
+      "source": "devto"
+    },
+    "db23c52b2a070889": {
+      "date": "2026-08-21",
+      "title": "The Third-Generation GUI Builder: One Workspace for Every Form",
+      "source": "devto"
+    },
+    "34dc75a334864e03": {
+      "date": "2026-08-21",
+      "title": "Fixing a null-body crash in the Formbricks survey SDK, found by Sentry",
+      "source": "devto"
+    },
+    "d1f63021d3dcf71b": {
+      "date": "2026-08-21",
+      "title": "The AI demo failed, but the database remembered half of it",
+      "source": "devto"
+    },
+    "8407f68d34ad691a": {
+      "date": "2026-08-21",
+      "title": "We tested \"tokenize before you compress\" against 452 configurations, and it mostly held up",
+      "source": "devto"
+    },
+    "056bb02146300a1b": {
+      "date": "2026-08-21",
+      "title": "microsoft / TypeScript",
+      "source": "github"
+    },
+    "a90d342e2181a927": {
+      "date": "2026-08-21",
+      "title": "affaan-m / ECC",
+      "source": "github"
+    },
+    "00d751d8c6f4efa9": {
+      "date": "2026-08-21",
+      "title": "TryGhost / Ghost",
+      "source": "github"
+    },
+    "9a16f8b0667e86a0": {
+      "date": "2026-08-21",
+      "title": "ruvnet / ruflo",
+      "source": "github"
+    },
+    "6dc9b530b3881335": {
+      "date": "2026-08-21",
+      "title": "apache / maka",
+      "source": "github"
+    },
+    "89a665d7fafbfdc7": {
+      "date": "2026-08-21",
+      "title": "protocolbuffers / protobuf",
       "source": "github"
     }
   }
