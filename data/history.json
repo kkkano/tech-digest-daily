@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-21T23:09:20.403883",
+  "last_updated": "2026-08-22T23:08:39.135915",
   "sent_items": {
-    "6ca22fc6b2aead0a": {
-      "date": "2026-07-22",
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "source": "hackernews"
-    },
-    "678763b37da605af": {
-      "date": "2026-07-22",
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-      "source": "hackernews"
-    },
-    "5e48565febeac4f5": {
-      "date": "2026-07-22",
-      "title": "Are AI Labs Pelicanmaxxing?",
-      "source": "hackernews"
-    },
-    "a1d745ce50de911b": {
-      "date": "2026-07-22",
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "source": "hackernews"
-    },
-    "02232e38e9ed7824": {
-      "date": "2026-07-22",
-      "title": "Everyone Should Know SIMD",
-      "source": "hackernews"
-    },
-    "8ef2e4ef1b1a28c1": {
-      "date": "2026-07-22",
-      "title": "Safari Technology Preview 248 Released",
-      "source": "hackernews"
-    },
-    "9f90536071ea53ea": {
-      "date": "2026-07-22",
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "source": "hackernews"
-    },
-    "3a032f85ecf85a43": {
-      "date": "2026-07-22",
-      "title": "Malleable Computing, Emacs, and You",
-      "source": "hackernews"
-    },
-    "bc6c1a712780e98d": {
-      "date": "2026-07-22",
-      "title": "Medici family mystery may be solved after more than 400 years",
-      "source": "hackernews"
-    },
-    "54b80d267e4cb44e": {
-      "date": "2026-07-22",
-      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-      "source": "hackernews"
-    },
-    "f05b34d02ab03efd": {
-      "date": "2026-07-22",
-      "title": "MonoCloud for Startups",
-      "source": "producthunt"
-    },
-    "da974e3033e08f8e": {
-      "date": "2026-07-22",
-      "title": "Redential",
-      "source": "producthunt"
-    },
-    "8361de597a4f8d85": {
-      "date": "2026-07-22",
-      "title": "box",
-      "source": "producthunt"
-    },
-    "dfcc39ce1b748f38": {
-      "date": "2026-07-22",
-      "title": "UltraPod",
-      "source": "producthunt"
-    },
-    "fd446ea949e4cb2b": {
-      "date": "2026-07-22",
-      "title": "Overflight",
-      "source": "producthunt"
-    },
-    "fab52f6911a82a9e": {
-      "date": "2026-07-22",
-      "title": "Lattics",
-      "source": "producthunt"
-    },
-    "8b56d022076b2e8f": {
-      "date": "2026-07-22",
-      "title": "Humalike x Hermes",
-      "source": "producthunt"
-    },
-    "a6ee411b464a458a": {
-      "date": "2026-07-22",
-      "title": "Remote OpenClaw",
-      "source": "producthunt"
-    },
-    "b88a3a4b263fe858": {
-      "date": "2026-07-22",
-      "title": "schollz / croc",
-      "source": "github"
-    },
-    "239fc0bbdc76c10b": {
-      "date": "2026-07-22",
-      "title": "likec4 / likec4",
-      "source": "github"
-    },
-    "c175a33fc9954c9b": {
-      "date": "2026-07-22",
-      "title": "shiyu-coder / Kronos",
-      "source": "github"
-    },
-    "7e39ec2390d0765a": {
-      "date": "2026-07-22",
-      "title": "ComposioHQ / awesome-claude-skills",
-      "source": "github"
-    },
-    "fe5f464751175ecd": {
-      "date": "2026-07-22",
-      "title": "agegr / pi-web",
-      "source": "github"
-    },
-    "0f509cf92ac6d466": {
-      "date": "2026-07-22",
-      "title": "dreamhunter2333 / cloudflare_temp_email",
-      "source": "github"
-    },
-    "5da3f4c37d3720d8": {
-      "date": "2026-07-22",
-      "title": "The Friction Is A Feature, Not A Bug: Teaching and Mentoring in the Age of AI",
-      "source": "devto"
-    },
-    "d99d41e62511a205": {
-      "date": "2026-07-22",
-      "title": "Contribuir para a comunidade: como destacar isso no seu LinkedIn e currículo",
-      "source": "devto"
-    },
-    "22d1b91ecd7a24a9": {
-      "date": "2026-07-22",
-      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
-      "source": "devto"
-    },
-    "6b281a647098fd45": {
-      "date": "2026-07-22",
-      "title": "What is a context window, actually?",
-      "source": "devto"
-    },
-    "d1195c9225566267": {
-      "date": "2026-07-22",
-      "title": "Substack's New AI Detector Has the Same Blind Spot DEV.to's Did",
-      "source": "devto"
-    },
-    "f6b077c6f20dc5b9": {
-      "date": "2026-07-22",
-      "title": "Swift Classes — Deinitializers and How Swift Cleans Up After Itself 🧹",
-      "source": "devto"
-    },
-    "4095ab66232f8959": {
-      "date": "2026-07-22",
-      "title": "Nuxt vs SvelteKit: What works better?",
-      "source": "devto"
-    },
-    "ef6aff73d624510f": {
-      "date": "2026-07-22",
-      "title": "Defeating the Fargate Cold Start Chaos with SOCI",
-      "source": "devto"
-    },
-    "1e626d276e20994c": {
-      "date": "2026-07-22",
-      "title": "SPF, DKIM, DMARC: the 15-minute setup that actually passes",
-      "source": "devto"
-    },
-    "b75ebd7bec4dfd12": {
-      "date": "2026-07-22",
-      "title": "I Built a Job-Scraping Bot to Escape Cloud Consulting (And It's Open Source)",
-      "source": "devto"
-    },
     "7a4b50a8f9c12e0a": {
       "date": "2026-07-23",
       "title": "Swenest",
@@ -5075,6 +4905,171 @@
     "89a665d7fafbfdc7": {
       "date": "2026-08-21",
       "title": "protocolbuffers / protobuf",
+      "source": "github"
+    },
+    "bf0ea94ccea4f92e": {
+      "date": "2026-08-22",
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "source": "hackernews"
+    },
+    "ff6c6e92dfd9334c": {
+      "date": "2026-08-22",
+      "title": "Scrap",
+      "source": "hackernews"
+    },
+    "6952b35b1753edf4": {
+      "date": "2026-08-22",
+      "title": "Hister – A private, full content search index that you control",
+      "source": "hackernews"
+    },
+    "a423a40ee50f054e": {
+      "date": "2026-08-22",
+      "title": "A Friendly Introduction to Racket",
+      "source": "hackernews"
+    },
+    "707d97be0a10a08d": {
+      "date": "2026-08-22",
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "source": "hackernews"
+    },
+    "bf47e652947d61da": {
+      "date": "2026-08-22",
+      "title": "typ.ing",
+      "source": "hackernews"
+    },
+    "d073d6e723196a3a": {
+      "date": "2026-08-22",
+      "title": "RF Cafe",
+      "source": "hackernews"
+    },
+    "54728fe029ffdc2e": {
+      "date": "2026-08-22",
+      "title": "Why your local LLM feels dumber than it is",
+      "source": "hackernews"
+    },
+    "c6c3d5497f8c6505": {
+      "date": "2026-08-22",
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "source": "hackernews"
+    },
+    "4e37da81acd6a107": {
+      "date": "2026-08-22",
+      "title": "NetBSD and my life (2005)",
+      "source": "hackernews"
+    },
+    "3b90bd73aa10e555": {
+      "date": "2026-08-22",
+      "title": "Pocket by Meta",
+      "source": "producthunt"
+    },
+    "0993511396f5aa16": {
+      "date": "2026-08-22",
+      "title": "Open Analytics",
+      "source": "producthunt"
+    },
+    "dfc7c274a3af585b": {
+      "date": "2026-08-22",
+      "title": "Maccess",
+      "source": "producthunt"
+    },
+    "83e536fa99314254": {
+      "date": "2026-08-22",
+      "title": "Port Radar for macOS",
+      "source": "producthunt"
+    },
+    "0919536dda4e2063": {
+      "date": "2026-08-22",
+      "title": "VeloFiler",
+      "source": "producthunt"
+    },
+    "acb937a7bfc16bec": {
+      "date": "2026-08-22",
+      "title": "KerasFormers",
+      "source": "producthunt"
+    },
+    "cfaa95c2e6f46f6a": {
+      "date": "2026-08-22",
+      "title": "Zero",
+      "source": "producthunt"
+    },
+    "91c328e3eda0a895": {
+      "date": "2026-08-22",
+      "title": "The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking",
+      "source": "devto"
+    },
+    "4d82afa63adc7cfd": {
+      "date": "2026-08-22",
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "source": "devto"
+    },
+    "c7811b8f8a8eaeda": {
+      "date": "2026-08-22",
+      "title": "Designing a Reasoning Ledger Record",
+      "source": "devto"
+    },
+    "77802e299aedb08a": {
+      "date": "2026-08-22",
+      "title": "Job Hunt With a Bot?",
+      "source": "devto"
+    },
+    "928a27de2bd4f30a": {
+      "date": "2026-08-22",
+      "title": "I built Kintara because apparently having too many hobbies eventually leads to building your own doc",
+      "source": "devto"
+    },
+    "57b895082ed728a7": {
+      "date": "2026-08-22",
+      "title": "The Planner Made the Same 3 Mistakes Every Time. A Bigger Model Didn't Fix It.",
+      "source": "devto"
+    },
+    "4a5ce69be0ca9b42": {
+      "date": "2026-08-22",
+      "title": "Why I Built Amazon Store (So I Don't Have to Pick a Country)",
+      "source": "devto"
+    },
+    "a3677f219733005c": {
+      "date": "2026-08-22",
+      "title": "Nuance Is a Double-Edged Sword ⚔️",
+      "source": "devto"
+    },
+    "40f545a6ab09702a": {
+      "date": "2026-08-22",
+      "title": "I used JSON files instead of a database for 1,699 records. Here's what actually broke.",
+      "source": "devto"
+    },
+    "2ead14cc06ce65b8": {
+      "date": "2026-08-22",
+      "title": "4 Non-obvious learnings from working with alerts",
+      "source": "devto"
+    },
+    "1a57528ba5a4a035": {
+      "date": "2026-08-22",
+      "title": "openai / codex",
+      "source": "github"
+    },
+    "e1a6696969acd12e": {
+      "date": "2026-08-22",
+      "title": "Wei-Shaw / sub2api",
+      "source": "github"
+    },
+    "feb34faf0b30f401": {
+      "date": "2026-08-22",
+      "title": "n8n-io / n8n",
+      "source": "github"
+    },
+    "1e61851c7eb0065b": {
+      "date": "2026-08-22",
+      "title": "anthropics / claude-code",
+      "source": "github"
+    },
+    "39ec5846ae4b9617": {
+      "date": "2026-08-22",
+      "title": "multica-ai / andrej-karpathy-skills",
+      "source": "github"
+    },
+    "66fdad17e3139cd7": {
+      "date": "2026-08-22",
+      "title": "ripienaar / free-for-dev",
       "source": "github"
     }
   }
