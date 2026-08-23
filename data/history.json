@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-22T23:08:39.135915",
+  "last_updated": "2026-08-23T23:08:42.913715",
   "sent_items": {
-    "7a4b50a8f9c12e0a": {
-      "date": "2026-07-23",
-      "title": "Swenest",
-      "source": "producthunt"
-    },
-    "88ecc7a2bddea9c9": {
-      "date": "2026-07-23",
-      "title": "Drawsy",
-      "source": "producthunt"
-    },
-    "4cb18d1d37f79c64": {
-      "date": "2026-07-23",
-      "title": "Vevey",
-      "source": "producthunt"
-    },
-    "fd3029a6cf68b775": {
-      "date": "2026-07-23",
-      "title": "xPitch",
-      "source": "producthunt"
-    },
-    "7232d387e3a0dcf5": {
-      "date": "2026-07-23",
-      "title": "AgentLoop",
-      "source": "producthunt"
-    },
-    "81a4b4825816f1a9": {
-      "date": "2026-07-23",
-      "title": "OpenCode Superapp",
-      "source": "producthunt"
-    },
-    "26b811d667d2e418": {
-      "date": "2026-07-23",
-      "title": "Wispro",
-      "source": "producthunt"
-    },
-    "35ef15278bebe994": {
-      "date": "2026-07-23",
-      "title": "Writing by hand is good for your brain",
-      "source": "hackernews"
-    },
-    "aca257bb93fd12fa": {
-      "date": "2026-07-23",
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "source": "hackernews"
-    },
-    "f64ead1100dcc11f": {
-      "date": "2026-07-23",
-      "title": "What happened to TheNumbers.com",
-      "source": "hackernews"
-    },
-    "5223b9bbb6a5ac5f": {
-      "date": "2026-07-23",
-      "title": "Software rendering in 500 lines of bare C++",
-      "source": "hackernews"
-    },
-    "85bd5a1fc677dda6": {
-      "date": "2026-07-23",
-      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-      "source": "hackernews"
-    },
-    "1ff27c8ad9969a65": {
-      "date": "2026-07-23",
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "source": "hackernews"
-    },
-    "66ea0eb6f9181fa2": {
-      "date": "2026-07-23",
-      "title": "Building on ATProto",
-      "source": "hackernews"
-    },
-    "8bd1f17f0a17c196": {
-      "date": "2026-07-23",
-      "title": "The Beam Engine",
-      "source": "hackernews"
-    },
-    "8cce3676d4f631cb": {
-      "date": "2026-07-23",
-      "title": "98.css",
-      "source": "hackernews"
-    },
-    "6b00a79aa94f3891": {
-      "date": "2026-07-23",
-      "title": "Interview with Matheus Moreira about Lone Lisp and Linux Kernel",
-      "source": "hackernews"
-    },
-    "faa501375775e0d3": {
-      "date": "2026-07-23",
-      "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
-      "source": "devto"
-    },
-    "686ffa292750fff1": {
-      "date": "2026-07-23",
-      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
-      "source": "devto"
-    },
-    "eeda0c5ab91437cc": {
-      "date": "2026-07-23",
-      "title": "Swift Classes — The Four Ways Variables and Constants Can Combine 🎭",
-      "source": "devto"
-    },
-    "307d58c5f7b58f02": {
-      "date": "2026-07-23",
-      "title": "Jerry Ran Out of Numbers But Drank All the Punch",
-      "source": "devto"
-    },
-    "078745d6ff844477": {
-      "date": "2026-07-23",
-      "title": "Roll your own file-based router in under 50 lines of code",
-      "source": "devto"
-    },
-    "64b28b64827bcb31": {
-      "date": "2026-07-23",
-      "title": "My dashboard took 7.6 seconds to render fifteen numbers 🐌",
-      "source": "devto"
-    },
-    "bbc2a1e12ee85dc0": {
-      "date": "2026-07-23",
-      "title": "Game networking for a slow strategy game",
-      "source": "devto"
-    },
-    "2cd143fdad0c7ca8": {
-      "date": "2026-07-23",
-      "title": "Tried building GitHub's search box in Go",
-      "source": "devto"
-    },
-    "5920cc8cff939517": {
-      "date": "2026-07-23",
-      "title": "DSCI - CI with regular programming languages instead of YAML",
-      "source": "devto"
-    },
-    "d89892338a08a58f": {
-      "date": "2026-07-23",
-      "title": "How AI Endpoints Change the Traditional API Flow",
-      "source": "devto"
-    },
-    "f8fd1424e453d1b4": {
-      "date": "2026-07-23",
-      "title": "block / buzz",
-      "source": "github"
-    },
-    "0064ff826d4ea331": {
-      "date": "2026-07-23",
-      "title": "Pumpkin-MC / Pumpkin",
-      "source": "github"
-    },
-    "02e09efcdbd4bdf8": {
-      "date": "2026-07-23",
-      "title": "citrolabs / ego-lite",
-      "source": "github"
-    },
-    "9cd514d03f14c102": {
-      "date": "2026-07-23",
-      "title": "alibaba / open-code-review",
-      "source": "github"
-    },
-    "f0e8ac07d3199ef1": {
-      "date": "2026-07-23",
-      "title": "Automattic / harper",
-      "source": "github"
-    },
-    "59e9f1b93ba7d02c": {
-      "date": "2026-07-23",
-      "title": "jellyfin / jellyfin",
-      "source": "github"
-    },
     "d05d8aadf890ce6b": {
       "date": "2026-07-24",
       "title": "Freesolo Flash",
@@ -5070,6 +4905,156 @@
     "66fdad17e3139cd7": {
       "date": "2026-08-22",
       "title": "ripienaar / free-for-dev",
+      "source": "github"
+    },
+    "5587198269c03721": {
+      "date": "2026-08-23",
+      "title": "What Is a Harness?",
+      "source": "hackernews"
+    },
+    "d86a8b31a2a6f0b7": {
+      "date": "2026-08-23",
+      "title": "A website for debloated open source alternatives",
+      "source": "hackernews"
+    },
+    "df1121e45dc84d2c": {
+      "date": "2026-08-23",
+      "title": "How Complex Systems Fail (1998)",
+      "source": "hackernews"
+    },
+    "5aa3dc41b67ba0dd": {
+      "date": "2026-08-23",
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "source": "hackernews"
+    },
+    "db8d83e94d0ed777": {
+      "date": "2026-08-23",
+      "title": "How I find problems to solve as a staff engineer",
+      "source": "hackernews"
+    },
+    "523f84d052df6d85": {
+      "date": "2026-08-23",
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "source": "hackernews"
+    },
+    "43f3b04e9a20717d": {
+      "date": "2026-08-23",
+      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+      "source": "hackernews"
+    },
+    "e51017e8b3e9b565": {
+      "date": "2026-08-23",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "source": "hackernews"
+    },
+    "eed113e9ed3786e0": {
+      "date": "2026-08-23",
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "source": "hackernews"
+    },
+    "15d6d8e1489e0151": {
+      "date": "2026-08-23",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "source": "hackernews"
+    },
+    "6e3391c63ee66e31": {
+      "date": "2026-08-23",
+      "title": "Claude Academy",
+      "source": "producthunt"
+    },
+    "c22ac4ed30c0f62c": {
+      "date": "2026-08-23",
+      "title": "KanaSensei",
+      "source": "producthunt"
+    },
+    "c3ba88752ae4cb87": {
+      "date": "2026-08-23",
+      "title": "Yatko",
+      "source": "producthunt"
+    },
+    "a99536d6f2518511": {
+      "date": "2026-08-23",
+      "title": "Plask",
+      "source": "producthunt"
+    },
+    "a226d258575e5b98": {
+      "date": "2026-08-23",
+      "title": "OpenLogi",
+      "source": "producthunt"
+    },
+    "ea3c0900c3efed0f": {
+      "date": "2026-08-23",
+      "title": "Eleven tables, zero indices, and the observability I added afterwards found three more bugs",
+      "source": "devto"
+    },
+    "a353b6c53888efd8": {
+      "date": "2026-08-23",
+      "title": "I wrote the privacy rule, enforced it, commented it, and shipped the leak anyway",
+      "source": "devto"
+    },
+    "7af76fc2a0f8da07": {
+      "date": "2026-08-23",
+      "title": "My performance optimization silently disabled the feature the app exists for",
+      "source": "devto"
+    },
+    "d6c6c178479c7455": {
+      "date": "2026-08-23",
+      "title": "I installed a crash reporter and it crashed my app 100% of the time",
+      "source": "devto"
+    },
+    "9155a93ece1a87ce": {
+      "date": "2026-08-23",
+      "title": "The People Building AI Are the Worst at Predicting It",
+      "source": "devto"
+    },
+    "14007469ffebba3f": {
+      "date": "2026-08-23",
+      "title": "One conversation, four cards: the dashboard bug with three root causes stacked on top of each other",
+      "source": "devto"
+    },
+    "5261050034a1ef7f": {
+      "date": "2026-08-23",
+      "title": "How I recorded my first product demo in 54 seconds (OBS, ffmpeg, openai.fm)",
+      "source": "devto"
+    },
+    "00127f53be087f46": {
+      "date": "2026-08-23",
+      "title": "The Bug That Looked Fine to Every Visitor and Lied to Every Crawler",
+      "source": "devto"
+    },
+    "832151c516054854": {
+      "date": "2026-08-23",
+      "title": "Your AI Agent Doesn't Need a Bigger Context Window. It Needs an Eviction Policy.",
+      "source": "devto"
+    },
+    "4e1aef16da44c64b": {
+      "date": "2026-08-23",
+      "title": "Someone forked my React component instead of opening an issue",
+      "source": "devto"
+    },
+    "7694793c41367c9a": {
+      "date": "2026-08-23",
+      "title": "freestylefly / awesome-gpt-image-2",
+      "source": "github"
+    },
+    "e5348c5ff3f91788": {
+      "date": "2026-08-23",
+      "title": "tinyhumansai / openhuman",
+      "source": "github"
+    },
+    "064bd2f0be42f364": {
+      "date": "2026-08-23",
+      "title": "VoltAgent / awesome-agent-skills",
+      "source": "github"
+    },
+    "494d19bddf316eb5": {
+      "date": "2026-08-23",
+      "title": "dani-garcia / vaultwarden",
+      "source": "github"
+    },
+    "6587b2c413179319": {
+      "date": "2026-08-23",
+      "title": "anthropics / claude-plugins-community",
       "source": "github"
     }
   }
