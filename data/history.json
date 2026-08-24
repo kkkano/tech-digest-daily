@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-23T23:08:42.913715",
+  "last_updated": "2026-08-24T23:12:11.238402",
   "sent_items": {
-    "d05d8aadf890ce6b": {
-      "date": "2026-07-24",
-      "title": "Freesolo Flash",
-      "source": "producthunt"
-    },
-    "fa59e88f036b3e53": {
-      "date": "2026-07-24",
-      "title": "YC has it",
-      "source": "producthunt"
-    },
-    "b58ffa21d36583e5": {
-      "date": "2026-07-24",
-      "title": "The new Firecrawl /search",
-      "source": "producthunt"
-    },
-    "0abbbce48d5f23f6": {
-      "date": "2026-07-24",
-      "title": "Hotspot Meter",
-      "source": "producthunt"
-    },
-    "9152c3d73117eaa2": {
-      "date": "2026-07-24",
-      "title": "Prosed",
-      "source": "producthunt"
-    },
-    "4cd8726e2096bec7": {
-      "date": "2026-07-24",
-      "title": "HarnessRouter",
-      "source": "producthunt"
-    },
-    "251094ae0d595314": {
-      "date": "2026-07-24",
-      "title": "Buzz",
-      "source": "producthunt"
-    },
-    "ca8e0d337b926230": {
-      "date": "2026-07-24",
-      "title": "Liso",
-      "source": "producthunt"
-    },
-    "1445d8a42c014bb8": {
-      "date": "2026-07-24",
-      "title": "Claude Opus 5",
-      "source": "hackernews"
-    },
-    "3a464cfed62513a7": {
-      "date": "2026-07-24",
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "source": "hackernews"
-    },
-    "044a992b61137428": {
-      "date": "2026-07-24",
-      "title": "India's first privately-developed rocket reaches orbit on debut launch",
-      "source": "hackernews"
-    },
-    "51f89d378e2da760": {
-      "date": "2026-07-24",
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "source": "hackernews"
-    },
-    "7e3d93bcc2e892c9": {
-      "date": "2026-07-24",
-      "title": "Postgres LISTEN/NOTIFY actually scales",
-      "source": "hackernews"
-    },
-    "418c67d69ccc8c17": {
-      "date": "2026-07-24",
-      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
-      "source": "hackernews"
-    },
-    "f41315891e365c43": {
-      "date": "2026-07-24",
-      "title": "Designing an Ethernet Switch ASIC",
-      "source": "hackernews"
-    },
-    "78261b4c4c883a06": {
-      "date": "2026-07-24",
-      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "source": "hackernews"
-    },
-    "dc3102d4b5d1a569": {
-      "date": "2026-07-24",
-      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-      "source": "hackernews"
-    },
-    "725d2eda99d2135f": {
-      "date": "2026-07-24",
-      "title": "SpaceX Starship Flight 13 livestream [video]",
-      "source": "hackernews"
-    },
-    "05d37dc32f33cdc9": {
-      "date": "2026-07-24",
-      "title": "Dev Opportunity Radar #9: A Fully Funded AI Security Residency, SF Founder Residency, Figma Campus L",
-      "source": "devto"
-    },
-    "e29a28ade0bb4300": {
-      "date": "2026-07-24",
-      "title": "6 Open Source Tools That Give You the Web Back",
-      "source": "devto"
-    },
-    "c90d9bc83522e00c": {
-      "date": "2026-07-24",
-      "title": "The World's Oldest Communication Protocol Is Music",
-      "source": "devto"
-    },
-    "a59134f0223035dd": {
-      "date": "2026-07-24",
-      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "source": "devto"
-    },
-    "15475f4daa5f3799": {
-      "date": "2026-07-24",
-      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions ",
-      "source": "devto"
-    },
-    "08819da096448997": {
-      "date": "2026-07-24",
-      "title": "Own Your Pixels: Native Fidelity on Your Schedule",
-      "source": "devto"
-    },
-    "e1f430721ed58066": {
-      "date": "2026-07-24",
-      "title": "Hetzner Inference: First Look",
-      "source": "devto"
-    },
-    "f6b9a1ab05939659": {
-      "date": "2026-07-24",
-      "title": "Começando com Redes: Camadas de uma conexão TCP/IP",
-      "source": "devto"
-    },
-    "8e8f9354b3b61c38": {
-      "date": "2026-07-24",
-      "title": "I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline",
-      "source": "devto"
-    },
-    "92e19eedceec733a": {
-      "date": "2026-07-24",
-      "title": "Just for Fun: Fear and Loathing in the Age of Coding Agents",
-      "source": "devto"
-    },
-    "348a5ab08e75414c": {
-      "date": "2026-07-24",
-      "title": "yorukot / superfile",
-      "source": "github"
-    },
-    "1ae169fb23a902a7": {
-      "date": "2026-07-24",
-      "title": "mattpocock / skills",
-      "source": "github"
-    },
-    "1fc186e3e23d6cbb": {
-      "date": "2026-07-24",
-      "title": "Lordog / dive-into-llms",
-      "source": "github"
-    },
     "95fc50816c04ac20": {
       "date": "2026-07-25",
       "title": "Wisprkey",
@@ -5055,6 +4900,176 @@
     "6587b2c413179319": {
       "date": "2026-08-23",
       "title": "anthropics / claude-plugins-community",
+      "source": "github"
+    },
+    "be1f7cd2c534f8eb": {
+      "date": "2026-08-24",
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "source": "hackernews"
+    },
+    "9899235269a727b7": {
+      "date": "2026-08-24",
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "source": "hackernews"
+    },
+    "8fc05fbe4bf4e7d8": {
+      "date": "2026-08-24",
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "source": "hackernews"
+    },
+    "fd1baf471cf9a7ed": {
+      "date": "2026-08-24",
+      "title": "Oceans hit highest temperature on record",
+      "source": "hackernews"
+    },
+    "f97cde3b5bd2e7b3": {
+      "date": "2026-08-24",
+      "title": "IPFS Maintainers Winding Down",
+      "source": "hackernews"
+    },
+    "59c86df6a3d6bc7e": {
+      "date": "2026-08-24",
+      "title": "The entire city of San Francisco as a video game",
+      "source": "hackernews"
+    },
+    "f150166fb062d668": {
+      "date": "2026-08-24",
+      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+      "source": "hackernews"
+    },
+    "84f40fd574dc1288": {
+      "date": "2026-08-24",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "source": "hackernews"
+    },
+    "3b3359aa0b2085ce": {
+      "date": "2026-08-24",
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "source": "hackernews"
+    },
+    "e9e036f86a8212c6": {
+      "date": "2026-08-24",
+      "title": "Moon",
+      "source": "hackernews"
+    },
+    "2bae7486a91b0c45": {
+      "date": "2026-08-24",
+      "title": "Dropstone",
+      "source": "producthunt"
+    },
+    "6a3bef348ff9cc80": {
+      "date": "2026-08-24",
+      "title": "Localdock",
+      "source": "producthunt"
+    },
+    "9ac032c451b273e0": {
+      "date": "2026-08-24",
+      "title": "Trama",
+      "source": "producthunt"
+    },
+    "a977d2cfc034f8d7": {
+      "date": "2026-08-24",
+      "title": "IFAH",
+      "source": "producthunt"
+    },
+    "c8db85639b9e3857": {
+      "date": "2026-08-24",
+      "title": "Antigravity Remote Control",
+      "source": "producthunt"
+    },
+    "f09a831d6ddc3f31": {
+      "date": "2026-08-24",
+      "title": "Offloop",
+      "source": "producthunt"
+    },
+    "c8c84bd33fd90d00": {
+      "date": "2026-08-24",
+      "title": "Treebar",
+      "source": "producthunt"
+    },
+    "fddd8580f4d7e4b7": {
+      "date": "2026-08-24",
+      "title": "PaymentKit",
+      "source": "producthunt"
+    },
+    "7739a2caed647240": {
+      "date": "2026-08-24",
+      "title": "I Used React DataGrid to Build a Real Space Mission Explorer",
+      "source": "devto"
+    },
+    "db8653233275605a": {
+      "date": "2026-08-24",
+      "title": "I Won a Writing Challenge That I Almost Didn't Publish!",
+      "source": "devto"
+    },
+    "c0da9fd80c0c4683": {
+      "date": "2026-08-24",
+      "title": "I Almost Shipped a RAG Assistant That Lied About APIs That Don't Exist",
+      "source": "devto"
+    },
+    "b86adc8781e1f34e": {
+      "date": "2026-08-24",
+      "title": "The Model Scored 30%. The Harness Scored 100%. Which One Did You Benchmark?",
+      "source": "devto"
+    },
+    "5511de5a4d9b6000": {
+      "date": "2026-08-24",
+      "title": "The Tests Passed. The Contract Was Wrong.",
+      "source": "devto"
+    },
+    "bde336ab11e2123b": {
+      "date": "2026-08-24",
+      "title": "I Built an AWS DevOps AI Agent Using Kiro Crew + MCP",
+      "source": "devto"
+    },
+    "d58897d241605922": {
+      "date": "2026-08-24",
+      "title": "Why my biggest embarrassment was also one of my greatest learning experiences in Programming!",
+      "source": "devto"
+    },
+    "7e7dcbe7551daffa": {
+      "date": "2026-08-24",
+      "title": "7 Signs You're Over-Engineering Your AI App (and How to Stop)",
+      "source": "devto"
+    },
+    "17a6442f99296988": {
+      "date": "2026-08-24",
+      "title": "How I Actually Code with Claude Code: My Real Workflow on a Real Project",
+      "source": "devto"
+    },
+    "bf43f133fda7af60": {
+      "date": "2026-08-24",
+      "title": "AI, Fairy's, and Agile",
+      "source": "devto"
+    },
+    "ce3a785ea3a972f5": {
+      "date": "2026-08-24",
+      "title": "MadsLorentzen / ai-job-search",
+      "source": "github"
+    },
+    "978e35c607178533": {
+      "date": "2026-08-24",
+      "title": "NousResearch / hermes-agent",
+      "source": "github"
+    },
+    "0bd21c2cf11fc945": {
+      "date": "2026-08-24",
+      "title": "openclaw / openclaw",
+      "source": "github"
+    },
+    "d2c746ee30ee6b2f": {
+      "date": "2026-08-24",
+      "title": "AgriciDaniel / claude-obsidian",
+      "source": "github"
+    },
+    "4d8e922de101f720": {
+      "date": "2026-08-24",
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "source": "github"
+    },
+    "43d43a131b0529aa": {
+      "date": "2026-08-24",
+      "title": "tashfeenahmed / freellmapi",
       "source": "github"
     }
   }
