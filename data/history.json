@@ -1,337 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-25T23:13:19.336527",
+  "last_updated": "2026-08-27T03:34:41.480667",
   "sent_items": {
-    "ff02f88490955ea8": {
-      "date": "2026-07-26",
-      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-      "source": "hackernews"
-    },
-    "06d8e97a7fcf509b": {
-      "date": "2026-07-26",
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "source": "hackernews"
-    },
-    "04a1803c5810b3f2": {
-      "date": "2026-07-26",
-      "title": "Design is compromise",
-      "source": "hackernews"
-    },
-    "74fa33b5f6bf39bb": {
-      "date": "2026-07-26",
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "source": "hackernews"
-    },
-    "049f9ba83c8dcdc7": {
-      "date": "2026-07-26",
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "source": "hackernews"
-    },
-    "67785b3afcbb02f8": {
-      "date": "2026-07-26",
-      "title": "How to Block Some of the Bots",
-      "source": "hackernews"
-    },
-    "cc44ef51c68f5eb2": {
-      "date": "2026-07-26",
-      "title": "Simulate cassette tape audio profiles using FFmpeg",
-      "source": "hackernews"
-    },
-    "8b680fbb72f39332": {
-      "date": "2026-07-26",
-      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
-      "source": "hackernews"
-    },
-    "f7fc0063c1d35180": {
-      "date": "2026-07-26",
-      "title": "Teaching Kids Forth",
-      "source": "hackernews"
-    },
-    "3289bfde62d22538": {
-      "date": "2026-07-26",
-      "title": "Japan legend Miura, 59, scores first goal since 2022",
-      "source": "hackernews"
-    },
-    "8d78e4872bcccc5c": {
-      "date": "2026-07-26",
-      "title": "PureBox.ai",
-      "source": "producthunt"
-    },
-    "681a79c22ee9955b": {
-      "date": "2026-07-26",
-      "title": "Aymo AI",
-      "source": "producthunt"
-    },
-    "dd15ee2cc6a450f9": {
-      "date": "2026-07-26",
-      "title": "SF Apartment Finder",
-      "source": "producthunt"
-    },
-    "369e98d5758f84fb": {
-      "date": "2026-07-26",
-      "title": "TouchGrass",
-      "source": "producthunt"
-    },
-    "5601a7acba4cab12": {
-      "date": "2026-07-26",
-      "title": "BrainFeed",
-      "source": "producthunt"
-    },
-    "670763f491a203a6": {
-      "date": "2026-07-26",
-      "title": "yatta!",
-      "source": "producthunt"
-    },
-    "e9e9bcdb60b25401": {
-      "date": "2026-07-26",
-      "title": "KeyOpera 2.0",
-      "source": "producthunt"
-    },
-    "3589e4ac3c794425": {
-      "date": "2026-07-26",
-      "title": "Pulse Island",
-      "source": "producthunt"
-    },
-    "9fe4c4d60a39269c": {
-      "date": "2026-07-26",
-      "title": "Como eu venci o medo da transição de carreira",
-      "source": "devto"
-    },
-    "1c91e4c0d846efc4": {
-      "date": "2026-07-26",
-      "title": "18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems",
-      "source": "devto"
-    },
-    "ff219a09f8e71d4c": {
-      "date": "2026-07-26",
-      "title": "Your JSON Array Was Streaming All Along",
-      "source": "devto"
-    },
-    "2f465368e0420efc": {
-      "date": "2026-07-26",
-      "title": "No backend, no database, no network calls. I still found 3 security holes.",
-      "source": "devto"
-    },
-    "4a24bc6a4d20109b": {
-      "date": "2026-07-26",
-      "title": "PWAs Cache Resources. Spirit Installs an Application.",
-      "source": "devto"
-    },
-    "e190d03b43ad9755": {
-      "date": "2026-07-26",
-      "title": "One Task.Run Quietly Killed the BackgroundService Startup Footgun",
-      "source": "devto"
-    },
-    "5e1e3cf8095d0d62": {
-      "date": "2026-07-26",
-      "title": "600 Filters and a 414: The New QUERY Method in .NET 10",
-      "source": "devto"
-    },
-    "030fff06fda00b51": {
-      "date": "2026-07-26",
-      "title": "Don't Wait. Fork It.",
-      "source": "devto"
-    },
-    "3ad51fdb3b4c6789": {
-      "date": "2026-07-26",
-      "title": "I Built an Autonomous On-Chain Agent on Solana: Here's the Documentation I Wish I Had Earlier",
-      "source": "devto"
-    },
-    "d276d7bf4f78d446": {
-      "date": "2026-07-26",
-      "title": "What You Can Do With C#",
-      "source": "devto"
-    },
-    "a2c9c4617f9b3de5": {
-      "date": "2026-07-26",
-      "title": "nodejs / node",
-      "source": "github"
-    },
-    "37ec76a5f2bf0780": {
-      "date": "2026-07-26",
-      "title": "OtterMind / Chat2DB",
-      "source": "github"
-    },
-    "be8acfaf11180d2a": {
-      "date": "2026-07-26",
-      "title": "pbakaus / impeccable",
-      "source": "github"
-    },
-    "b627289da26ad7fd": {
-      "date": "2026-07-26",
-      "title": "andrewyng / aisuite",
-      "source": "github"
-    },
-    "5ca71ebd0783a4d9": {
-      "date": "2026-07-26",
-      "title": "permissionlesstech / bitchat-android",
-      "source": "github"
-    },
-    "2dfce8db0dbc7a27": {
-      "date": "2026-07-27",
-      "title": "Our position on open-weights models",
-      "source": "hackernews"
-    },
-    "9c4e96f81f8b4d0e": {
-      "date": "2026-07-27",
-      "title": "Watching Go's new garbage collector move through the heap",
-      "source": "hackernews"
-    },
-    "5f12d7e6a92d6b44": {
-      "date": "2026-07-27",
-      "title": "Self-contained highly-portable Python distributions",
-      "source": "hackernews"
-    },
-    "e2d554b1687d9603": {
-      "date": "2026-07-27",
-      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-      "source": "hackernews"
-    },
-    "51fc1200ad601913": {
-      "date": "2026-07-27",
-      "title": "Securing Services with Rootless Containers",
-      "source": "hackernews"
-    },
-    "50f977fafa2401a6": {
-      "date": "2026-07-27",
-      "title": "A Discord Alternative – Echoed",
-      "source": "hackernews"
-    },
-    "53979f52175c70e8": {
-      "date": "2026-07-27",
-      "title": "DConf 2026 in London",
-      "source": "hackernews"
-    },
-    "5c131b6c417e5199": {
-      "date": "2026-07-27",
-      "title": "America has become an entrepreneur's paradise",
-      "source": "hackernews"
-    },
-    "11628c62eb0eb2db": {
-      "date": "2026-07-27",
-      "title": "C/C++ projects packaged for Zig",
-      "source": "hackernews"
-    },
-    "7cf1a38354eff863": {
-      "date": "2026-07-27",
-      "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
-      "source": "hackernews"
-    },
-    "346d2071925fe5b3": {
-      "date": "2026-07-27",
-      "title": "Notate",
-      "source": "producthunt"
-    },
-    "cb801d9d0e9cbed4": {
-      "date": "2026-07-27",
-      "title": "Comms",
-      "source": "producthunt"
-    },
-    "291e757870096771": {
-      "date": "2026-07-27",
-      "title": "Rivault",
-      "source": "producthunt"
-    },
-    "9ce3a220a691b842": {
-      "date": "2026-07-27",
-      "title": "Illume Labs",
-      "source": "producthunt"
-    },
-    "d5f09246d4795837": {
-      "date": "2026-07-27",
-      "title": "Webhound",
-      "source": "producthunt"
-    },
-    "3c0888e0904b49d9": {
-      "date": "2026-07-27",
-      "title": "Cynative Security Research Agent",
-      "source": "producthunt"
-    },
-    "fca5976552c65ab7": {
-      "date": "2026-07-27",
-      "title": "Tackly",
-      "source": "producthunt"
-    },
-    "7161768abc2b1bf1": {
-      "date": "2026-07-27",
-      "title": "amnezia-vpn / amnezia-client",
-      "source": "github"
-    },
-    "da2e5405fa1d2e41": {
-      "date": "2026-07-27",
-      "title": "opengeos / GeoLibre",
-      "source": "github"
-    },
-    "874577557ff0ace1": {
-      "date": "2026-07-27",
-      "title": "jenkinsci / jenkins",
-      "source": "github"
-    },
-    "f11f26a49a080575": {
-      "date": "2026-07-27",
-      "title": "vudovn / ag-kit",
-      "source": "github"
-    },
-    "d2e956b168caf7fa": {
-      "date": "2026-07-27",
-      "title": "apache / cassandra",
-      "source": "github"
-    },
-    "337bb58fd3dab250": {
-      "date": "2026-07-27",
-      "title": "ocornut / imgui",
-      "source": "github"
-    },
-    "d2c20016cdf8e434": {
-      "date": "2026-07-27",
-      "title": "I Ran an AMA on Dev.to. Here Are My Favorite Questions",
-      "source": "devto"
-    },
-    "405bbd85cdf6b24c": {
-      "date": "2026-07-27",
-      "title": "Passkeys Explained Simply",
-      "source": "devto"
-    },
-    "a4934889c5eb1d9e": {
-      "date": "2026-07-27",
-      "title": "From Silent Reader to 25 Articles: What 3 Months on DEV Taught Me + AMA",
-      "source": "devto"
-    },
-    "b9a939540f2264ac": {
-      "date": "2026-07-27",
-      "title": "🗓️ Monthly Dev Report: July 2026",
-      "source": "devto"
-    },
-    "2ca4ecc56d37ec58": {
-      "date": "2026-07-27",
-      "title": "The Junior Developer Pipeline Is Broken... And AI Broke It",
-      "source": "devto"
-    },
-    "33588dafd70e4752": {
-      "date": "2026-07-27",
-      "title": "Accessibility Semantics: The UI Tree You Cannot See",
-      "source": "devto"
-    },
-    "b8adb94a56c71356": {
-      "date": "2026-07-27",
-      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
-      "source": "devto"
-    },
-    "4986bc29b6e838f2": {
-      "date": "2026-07-27",
-      "title": "2 métodos que usei (E USO) nos estudos de programação.",
-      "source": "devto"
-    },
-    "3db3b2072be78f0a": {
-      "date": "2026-07-27",
-      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
-      "source": "devto"
-    },
-    "5c5261460749b722": {
-      "date": "2026-07-27",
-      "title": "I Updated My Android App From a Restaurant. My Laptop Was Off.",
-      "source": "devto"
-    },
     "de2fd5acd51b0554": {
       "date": "2026-07-28",
       "title": "Substack writers, you need a website",
@@ -5085,6 +4755,161 @@
     "0c898219dedf03f5": {
       "date": "2026-08-25",
       "title": "asciimoo / hister",
+      "source": "github"
+    },
+    "e8e6c47e031305dd": {
+      "date": "2026-08-27",
+      "title": "AWS Acquires DuckLabs",
+      "source": "hackernews"
+    },
+    "44d815fde738aba7": {
+      "date": "2026-08-27",
+      "title": "GLM-5.3-Flash",
+      "source": "hackernews"
+    },
+    "2e99c10b71a947d8": {
+      "date": "2026-08-27",
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "source": "hackernews"
+    },
+    "a8711ed2edfa40f5": {
+      "date": "2026-08-27",
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "source": "hackernews"
+    },
+    "520afb9e6d5c7758": {
+      "date": "2026-08-27",
+      "title": "Mechanical Turk shutting down September 30",
+      "source": "hackernews"
+    },
+    "9d5c9917dcdbe981": {
+      "date": "2026-08-27",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "source": "hackernews"
+    },
+    "9d7789c88f6f1c91": {
+      "date": "2026-08-27",
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "source": "hackernews"
+    },
+    "f2edff101b0fe9b5": {
+      "date": "2026-08-27",
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "source": "hackernews"
+    },
+    "2a9a397f75ef34cb": {
+      "date": "2026-08-27",
+      "title": "Kusama Yayoi Dies at 97",
+      "source": "hackernews"
+    },
+    "025cd731f27b705a": {
+      "date": "2026-08-27",
+      "title": "Laion Big Video Dataset",
+      "source": "hackernews"
+    },
+    "e67624e6d27fc040": {
+      "date": "2026-08-27",
+      "title": "x1",
+      "source": "producthunt"
+    },
+    "b7de9d616de7ec03": {
+      "date": "2026-08-27",
+      "title": "Message Album",
+      "source": "producthunt"
+    },
+    "99488e8216d2e3b0": {
+      "date": "2026-08-27",
+      "title": "HEVN U.S.",
+      "source": "producthunt"
+    },
+    "e0b16a40aa025e16": {
+      "date": "2026-08-27",
+      "title": "Termy",
+      "source": "producthunt"
+    },
+    "2653268063f801bb": {
+      "date": "2026-08-27",
+      "title": "DeployHermes",
+      "source": "producthunt"
+    },
+    "5d598c3c67dc8eab": {
+      "date": "2026-08-27",
+      "title": "BaudBuddy",
+      "source": "producthunt"
+    },
+    "73ffd56b2157519b": {
+      "date": "2026-08-27",
+      "title": "Mac mini",
+      "source": "producthunt"
+    },
+    "a31cc5e415b3c307": {
+      "date": "2026-08-27",
+      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
+      "source": "devto"
+    },
+    "8a29142d210a41f0": {
+      "date": "2026-08-27",
+      "title": "10 Git Commands You’ll Wish You Knew Earlier",
+      "source": "devto"
+    },
+    "ea701061fada530b": {
+      "date": "2026-08-27",
+      "title": "I Tested 5 Design to Code Tools With the Same Outdated SaaS Dashboard",
+      "source": "devto"
+    },
+    "6aee4791231cd90f": {
+      "date": "2026-08-27",
+      "title": "Why I Built an SSH Config and Tunnel Manager for macOS",
+      "source": "devto"
+    },
+    "89923ae81a3001d2": {
+      "date": "2026-08-27",
+      "title": "Portfolio Update, I Guess",
+      "source": "devto"
+    },
+    "b8aafd8e8292f2f4": {
+      "date": "2026-08-27",
+      "title": "Back from Wudang Mountain. The book is under review.",
+      "source": "devto"
+    },
+    "199917f65025993d": {
+      "date": "2026-08-27",
+      "title": "Solution to Challenge 4 - Accessibility testing",
+      "source": "devto"
+    },
+    "3977d2cd4ff54882": {
+      "date": "2026-08-27",
+      "title": "My Cloud Run Multi-Agent Fleet Passed Its Demo. The Architecture Was Still Wrong.",
+      "source": "devto"
+    },
+    "c31432be80b4d596": {
+      "date": "2026-08-27",
+      "title": "Kademlia: Algo That Turned XOR Distance Into a Network",
+      "source": "devto"
+    },
+    "6b3198fd15f1f542": {
+      "date": "2026-08-27",
+      "title": "Your Hiring Process Needs HTTP Status Codes",
+      "source": "devto"
+    },
+    "717af6605a957a5c": {
+      "date": "2026-08-27",
+      "title": "tt-a1i / archify",
+      "source": "github"
+    },
+    "30408734ead09cf2": {
+      "date": "2026-08-27",
+      "title": "ConardLi / garden-skills",
+      "source": "github"
+    },
+    "2f48be63fe82be5d": {
+      "date": "2026-08-27",
+      "title": "browser-use / browser-use",
+      "source": "github"
+    },
+    "bf559441b24d3589": {
+      "date": "2026-08-27",
+      "title": "K-Dense-AI / scientific-agent-skills",
       "source": "github"
     }
   }
