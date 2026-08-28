@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-27T03:34:41.480667",
+  "last_updated": "2026-08-28T06:19:37.979037",
   "sent_items": {
-    "de2fd5acd51b0554": {
-      "date": "2026-07-28",
-      "title": "Substack writers, you need a website",
-      "source": "hackernews"
-    },
-    "8cf35aebd06a8a75": {
-      "date": "2026-07-28",
-      "title": "Kimi K3 Architecture Overview and Notes",
-      "source": "hackernews"
-    },
-    "2a9bb2bf7afb0f86": {
-      "date": "2026-07-28",
-      "title": "OpenAI just open-sourced Codex Security",
-      "source": "hackernews"
-    },
-    "0128a6806bf564c7": {
-      "date": "2026-07-28",
-      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
-      "source": "hackernews"
-    },
-    "4136a28fa8a8af27": {
-      "date": "2026-07-28",
-      "title": "Steel Bank Common Lisp version 2.6.7",
-      "source": "hackernews"
-    },
-    "b42ee2dcd776a949": {
-      "date": "2026-07-28",
-      "title": "Half-Life ported to Mac OS 9",
-      "source": "hackernews"
-    },
-    "0d7616d8cd405b5f": {
-      "date": "2026-07-28",
-      "title": "Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn",
-      "source": "hackernews"
-    },
-    "e46640725feb7acd": {
-      "date": "2026-07-28",
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "source": "hackernews"
-    },
-    "983dae7933183982": {
-      "date": "2026-07-28",
-      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-      "source": "hackernews"
-    },
-    "7f49147d9d1c8bf5": {
-      "date": "2026-07-28",
-      "title": "Banning AI will not make it go away",
-      "source": "hackernews"
-    },
-    "54a5a7d4c509e887": {
-      "date": "2026-07-28",
-      "title": "Pinery Prose",
-      "source": "producthunt"
-    },
-    "f90d5c629e788c70": {
-      "date": "2026-07-28",
-      "title": "Lamoom",
-      "source": "producthunt"
-    },
-    "57ef38d928e9cb29": {
-      "date": "2026-07-28",
-      "title": "Ycode AI Agents",
-      "source": "producthunt"
-    },
-    "240fd339e411bf8d": {
-      "date": "2026-07-28",
-      "title": "SUB/WAVE",
-      "source": "producthunt"
-    },
-    "1666fe988448d25f": {
-      "date": "2026-07-28",
-      "title": "ZenithBar",
-      "source": "producthunt"
-    },
-    "f4fbe4ee519191bf": {
-      "date": "2026-07-28",
-      "title": "Phantom",
-      "source": "producthunt"
-    },
-    "76114fd885edf904": {
-      "date": "2026-07-28",
-      "title": "MCP-Billing",
-      "source": "producthunt"
-    },
-    "2cd00719ba4ca7ca": {
-      "date": "2026-07-28",
-      "title": "EasyCircuit",
-      "source": "producthunt"
-    },
-    "2df5c7e5656a3f8f": {
-      "date": "2026-07-28",
-      "title": "Understanding Over Origin",
-      "source": "devto"
-    },
-    "935d5c1f260ddf6c": {
-      "date": "2026-07-28",
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "source": "devto"
-    },
-    "7d8338d801f4b44d": {
-      "date": "2026-07-28",
-      "title": "Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations",
-      "source": "devto"
-    },
-    "a7a1706a835e6ea4": {
-      "date": "2026-07-28",
-      "title": "I Had a Lot of Fun Building a Linux Packet Flight Recorder",
-      "source": "devto"
-    },
-    "d46c7a4796e369ef": {
-      "date": "2026-07-28",
-      "title": "Vibe Coding: Endgame",
-      "source": "devto"
-    },
-    "e41f4461b7dd014e": {
-      "date": "2026-07-28",
-      "title": "If Your AI Agent Has Write Access to Public Repos, Audit It Now — Here's Why",
-      "source": "devto"
-    },
-    "fc1ae3ec8b266798": {
-      "date": "2026-07-28",
-      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
-      "source": "devto"
-    },
-    "69d0f75dc27b238f": {
-      "date": "2026-07-28",
-      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-i",
-      "source": "devto"
-    },
-    "e9483dcc5311e238": {
-      "date": "2026-07-28",
-      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
-      "source": "devto"
-    },
-    "ea3a582c04d3f246": {
-      "date": "2026-07-28",
-      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
-      "source": "devto"
-    },
-    "f3ea32c160be052c": {
-      "date": "2026-07-28",
-      "title": "pascalorg / editor",
-      "source": "github"
-    },
-    "861d4c5ecdfff7a8": {
-      "date": "2026-07-28",
-      "title": "huggingface / speech-to-speech",
-      "source": "github"
-    },
-    "543fba56e9cf616a": {
-      "date": "2026-07-28",
-      "title": "virgiliojr94 / book-to-skill",
-      "source": "github"
-    },
-    "8ad77482faae9799": {
-      "date": "2026-07-28",
-      "title": "paperswithbacktest / awesome-systematic-trading",
-      "source": "github"
-    },
-    "2b9d770ccfd92a6b": {
-      "date": "2026-07-28",
-      "title": "microsoft / agent-governance-toolkit",
-      "source": "github"
-    },
     "549630efb5b39c3c": {
       "date": "2026-07-29",
       "title": "KOReader",
@@ -4911,6 +4746,171 @@
       "date": "2026-08-27",
       "title": "K-Dense-AI / scientific-agent-skills",
       "source": "github"
+    },
+    "58be3312c478c194": {
+      "date": "2026-08-28",
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "source": "hackernews"
+    },
+    "989750ed4a620318": {
+      "date": "2026-08-28",
+      "title": "Microduck",
+      "source": "hackernews"
+    },
+    "d61a57e1a09bd47a": {
+      "date": "2026-08-28",
+      "title": "Small Models Have Arrived",
+      "source": "hackernews"
+    },
+    "e49de4befaef3f4b": {
+      "date": "2026-08-28",
+      "title": "507 Mechanical Movements",
+      "source": "hackernews"
+    },
+    "23fd80ee52affeeb": {
+      "date": "2026-08-28",
+      "title": "Gemini-3.5-Transcribe",
+      "source": "hackernews"
+    },
+    "a6e6631dd6a622e0": {
+      "date": "2026-08-28",
+      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "source": "hackernews"
+    },
+    "0f84e108ec78ccf6": {
+      "date": "2026-08-28",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "source": "hackernews"
+    },
+    "c39310a30b0203c9": {
+      "date": "2026-08-28",
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "source": "hackernews"
+    },
+    "0e9dfa1765d265b4": {
+      "date": "2026-08-28",
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "source": "hackernews"
+    },
+    "306cce44250bb416": {
+      "date": "2026-08-28",
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "source": "hackernews"
+    },
+    "ea06c6ef84f59fe0": {
+      "date": "2026-08-28",
+      "title": "HFlow",
+      "source": "producthunt"
+    },
+    "eccc5ba0bca7e352": {
+      "date": "2026-08-28",
+      "title": "Gemini 3.5 Transcribe",
+      "source": "producthunt"
+    },
+    "711a57e7498b9be7": {
+      "date": "2026-08-28",
+      "title": "The Million Sad Ducks",
+      "source": "producthunt"
+    },
+    "eb27a781b5596eec": {
+      "date": "2026-08-28",
+      "title": "Kraa 2.0",
+      "source": "producthunt"
+    },
+    "3ef1be024386ea71": {
+      "date": "2026-08-28",
+      "title": "Qwen3.8-Flash-Next",
+      "source": "producthunt"
+    },
+    "d877cff050d8e365": {
+      "date": "2026-08-28",
+      "title": "Cobalt",
+      "source": "producthunt"
+    },
+    "2c6f4d1e64f70c1d": {
+      "date": "2026-08-28",
+      "title": "Eventually",
+      "source": "producthunt"
+    },
+    "8fc22d925dffcae7": {
+      "date": "2026-08-28",
+      "title": "Ticket Fairy CLI",
+      "source": "producthunt"
+    },
+    "c0fb14db86dd87eb": {
+      "date": "2026-08-28",
+      "title": "bilawalsidhu / gods-eye-view",
+      "source": "github"
+    },
+    "c6c92ccd349560e8": {
+      "date": "2026-08-28",
+      "title": "zedeus / nitter",
+      "source": "github"
+    },
+    "7ee06cf44ceed965": {
+      "date": "2026-08-28",
+      "title": "JetBrains / go-modern-guidelines",
+      "source": "github"
+    },
+    "f08d8cf2c7baf95f": {
+      "date": "2026-08-28",
+      "title": "thedotmack / claude-mem",
+      "source": "github"
+    },
+    "7597a814a95abab6": {
+      "date": "2026-08-28",
+      "title": "google / googletest",
+      "source": "github"
+    },
+    "8c7115131731ac36": {
+      "date": "2026-08-28",
+      "title": "I'm 12. A senior dev broke my app. Then he became User #001",
+      "source": "devto"
+    },
+    "e2a820c2a4b93845": {
+      "date": "2026-08-28",
+      "title": "Velocidade de entrega e custo de manutenção pós IA",
+      "source": "devto"
+    },
+    "31d6520118193580": {
+      "date": "2026-08-28",
+      "title": "The agent posted successfully. To the wrong account.",
+      "source": "devto"
+    },
+    "a9d4faf5da4111ae": {
+      "date": "2026-08-28",
+      "title": "NexPath Review: The Prompt Quality Layer for Cursor, Windsurf and Claude Code",
+      "source": "devto"
+    },
+    "45ff7b5db8d3c05c": {
+      "date": "2026-08-28",
+      "title": "Stratagems #25: Derek Changed the Delay. The AI Didn't Flinch.",
+      "source": "devto"
+    },
+    "1a912c9064452499": {
+      "date": "2026-08-28",
+      "title": "Nobody Argued For Your Stack",
+      "source": "devto"
+    },
+    "5b8704a681992d9a": {
+      "date": "2026-08-28",
+      "title": "Three small design decisions in a \"toggle effects via CSS class\" library, and the tradeoffs behind t",
+      "source": "devto"
+    },
+    "22610ede6a25926d": {
+      "date": "2026-08-28",
+      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
+      "source": "devto"
+    },
+    "81bf57cfd3e563ad": {
+      "date": "2026-08-28",
+      "title": "Opus 5: How to Review Generated Code",
+      "source": "devto"
+    },
+    "9222dddf9e2c6347": {
+      "date": "2026-08-28",
+      "title": "Fast CLI static site generator I've been working on",
+      "source": "devto"
     }
   }
 }
