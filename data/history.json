@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-28T06:19:37.979037",
+  "last_updated": "2026-08-29T03:52:57.901528",
   "sent_items": {
-    "549630efb5b39c3c": {
-      "date": "2026-07-29",
-      "title": "KOReader",
-      "source": "hackernews"
-    },
-    "e50aac1017d1f915": {
-      "date": "2026-07-29",
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "source": "hackernews"
-    },
-    "377f5ac875144055": {
-      "date": "2026-07-29",
-      "title": "Superlogical",
-      "source": "hackernews"
-    },
-    "bdb17025d67218b2": {
-      "date": "2026-07-29",
-      "title": "Kimi K3-256k",
-      "source": "hackernews"
-    },
-    "92e6cbdb00f77163": {
-      "date": "2026-07-29",
-      "title": "The coolest use for the Vision Pro",
-      "source": "hackernews"
-    },
-    "45ee50f08ad37dbc": {
-      "date": "2026-07-29",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "source": "hackernews"
-    },
-    "77fdc712014a2ba2": {
-      "date": "2026-07-29",
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "source": "hackernews"
-    },
-    "1bb6a0f5101fa13b": {
-      "date": "2026-07-29",
-      "title": "AI's top startups are barely publishing their research",
-      "source": "hackernews"
-    },
-    "baa2ee0191ec5cb1": {
-      "date": "2026-07-29",
-      "title": "The Cold Email",
-      "source": "hackernews"
-    },
-    "69e23fb3bf0c229b": {
-      "date": "2026-07-29",
-      "title": "GitHub is the wrong shape for this new world",
-      "source": "hackernews"
-    },
-    "e095704304933c54": {
-      "date": "2026-07-29",
-      "title": "Vela",
-      "source": "producthunt"
-    },
-    "a74bd16a9c43c39d": {
-      "date": "2026-07-29",
-      "title": "Epilude",
-      "source": "producthunt"
-    },
-    "3993fa26004a7247": {
-      "date": "2026-07-29",
-      "title": "Task Monki",
-      "source": "producthunt"
-    },
-    "97381e6727806b5d": {
-      "date": "2026-07-29",
-      "title": "Bo AI",
-      "source": "producthunt"
-    },
-    "4cdb265c45c42eea": {
-      "date": "2026-07-29",
-      "title": "MemoryCustodian",
-      "source": "producthunt"
-    },
-    "b91e33822245445c": {
-      "date": "2026-07-29",
-      "title": "SceneNote",
-      "source": "producthunt"
-    },
-    "ce4a87ec05c410e3": {
-      "date": "2026-07-29",
-      "title": "AgentQuartz",
-      "source": "producthunt"
-    },
-    "f11b3e1ee56d64f2": {
-      "date": "2026-07-29",
-      "title": "Totem",
-      "source": "producthunt"
-    },
-    "06263a56498ba3c0": {
-      "date": "2026-07-29",
-      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "source": "devto"
-    },
-    "f06849e386823599": {
-      "date": "2026-07-29",
-      "title": "\"I Haven't Written Code in 8 Months. I've Never Built More.\"",
-      "source": "devto"
-    },
-    "33d98ff11a5224bc": {
-      "date": "2026-07-29",
-      "title": "What Replacing Calendly Taught Me About Trusting Open Source",
-      "source": "devto"
-    },
-    "4a26052d1746d340": {
-      "date": "2026-07-29",
-      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
-      "source": "devto"
-    },
-    "a313d8ee30da4102": {
-      "date": "2026-07-29",
-      "title": "How I Made JavaScript Execution Visual and Rewindable (DSA View View 👀👀)",
-      "source": "devto"
-    },
-    "7dddd82d86943683": {
-      "date": "2026-07-29",
-      "title": "The 400 I Didn't Have to Write",
-      "source": "devto"
-    },
-    "bfebc774f1e83500": {
-      "date": "2026-07-29",
-      "title": "The Freeze Fee: What FrozenDictionary Charges and When It Pays",
-      "source": "devto"
-    },
-    "e645ad64673fa42b": {
-      "date": "2026-07-29",
-      "title": "Why Kimi K3 Still Can't Do What Einstein Did",
-      "source": "devto"
-    },
-    "01f270ca2b86deeb": {
-      "date": "2026-07-29",
-      "title": "Building Rugby Apps - From Fan Tools To Training Platforms",
-      "source": "devto"
-    },
-    "a06d19977d4da651": {
-      "date": "2026-07-29",
-      "title": "The Silent iOS 17 Crash Hiding in `@Dependency` and `withTaskGroup`",
-      "source": "devto"
-    },
-    "fb1b022f7f371ab2": {
-      "date": "2026-07-29",
-      "title": "grokability / snipe-it",
-      "source": "github"
-    },
-    "80c1b5a5a28d4577": {
-      "date": "2026-07-29",
-      "title": "deepfakes / faceswap",
-      "source": "github"
-    },
-    "104b57e9a4316877": {
-      "date": "2026-07-29",
-      "title": "microsoft / VibeVoice",
-      "source": "github"
-    },
-    "2c86d2ef64618dca": {
-      "date": "2026-07-29",
-      "title": "different-ai / openwork",
-      "source": "github"
-    },
-    "69643613bb119cbc": {
-      "date": "2026-07-29",
-      "title": "MoonshotAI / FlashKDA",
-      "source": "github"
-    },
-    "6bf20bedea38ea7d": {
-      "date": "2026-07-29",
-      "title": "NanmiCoder / MediaCrawler",
-      "source": "github"
-    },
-    "c94926067e8d4023": {
-      "date": "2026-07-29",
-      "title": "maderix / ANE",
-      "source": "github"
-    },
     "925e5b650ff4d143": {
       "date": "2026-07-30",
       "title": "UEFA and its national associations will not participate in FIFA competitions",
@@ -4911,6 +4736,166 @@
       "date": "2026-08-28",
       "title": "Fast CLI static site generator I've been working on",
       "source": "devto"
+    },
+    "74ae9e994eb8ccf6": {
+      "date": "2026-08-29",
+      "title": "GUIs should be fully keyboard-driven",
+      "source": "hackernews"
+    },
+    "85d677ced8012c42": {
+      "date": "2026-08-29",
+      "title": "Htmx 4.0",
+      "source": "hackernews"
+    },
+    "09dbd2add18a3092": {
+      "date": "2026-08-29",
+      "title": "U.S. sanctions against the A/I Collective",
+      "source": "hackernews"
+    },
+    "4ca22bea27f65e69": {
+      "date": "2026-08-29",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "source": "hackernews"
+    },
+    "e1146483aea35c4b": {
+      "date": "2026-08-29",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "source": "hackernews"
+    },
+    "b4bdc8f156c5c7d4": {
+      "date": "2026-08-29",
+      "title": "9th Circuit sides with states in Kalshi gambling fight",
+      "source": "hackernews"
+    },
+    "9d6bd8d36d0a45dd": {
+      "date": "2026-08-29",
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "source": "hackernews"
+    },
+    "c4beb1b3e39287e9": {
+      "date": "2026-08-29",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "source": "hackernews"
+    },
+    "3b2887a66a01672f": {
+      "date": "2026-08-29",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "source": "hackernews"
+    },
+    "4c5d2d213d9f8b41": {
+      "date": "2026-08-29",
+      "title": "Monzo Stand-In",
+      "source": "hackernews"
+    },
+    "98e6114a5a17745e": {
+      "date": "2026-08-29",
+      "title": "Gemini Omni 1.1 Flash",
+      "source": "producthunt"
+    },
+    "7865a421d2a151f1": {
+      "date": "2026-08-29",
+      "title": "Almanac",
+      "source": "producthunt"
+    },
+    "92b8fa59a6843995": {
+      "date": "2026-08-29",
+      "title": "Microduck",
+      "source": "producthunt"
+    },
+    "721589268b22fc92": {
+      "date": "2026-08-29",
+      "title": "AureaCam",
+      "source": "producthunt"
+    },
+    "62368ada59ee2f64": {
+      "date": "2026-08-29",
+      "title": "Spline V2",
+      "source": "producthunt"
+    },
+    "e6b9cee054ea4394": {
+      "date": "2026-08-29",
+      "title": "Play with Putty",
+      "source": "producthunt"
+    },
+    "dc242d2bc59be543": {
+      "date": "2026-08-29",
+      "title": "Fide Island",
+      "source": "producthunt"
+    },
+    "43fcc0f0baf18fe4": {
+      "date": "2026-08-29",
+      "title": "screenpipe",
+      "source": "producthunt"
+    },
+    "5c94f1adbb7b0042": {
+      "date": "2026-08-29",
+      "title": "What was your win this week?!",
+      "source": "devto"
+    },
+    "95325858f2d71aeb": {
+      "date": "2026-08-29",
+      "title": "Your AI Remembers Everything and Trusts All of It",
+      "source": "devto"
+    },
+    "ce9b9a16a3bf2ae5": {
+      "date": "2026-08-29",
+      "title": "🗓️ Monthly Dev Report: August 2026",
+      "source": "devto"
+    },
+    "4dc7031e5cc876bd": {
+      "date": "2026-08-29",
+      "title": "Go Doesn't Force Clean Architecture. That's Your Job.",
+      "source": "devto"
+    },
+    "99f7ac02538e47c2": {
+      "date": "2026-08-29",
+      "title": "16 Posts, Started Commenting, then got the Shield",
+      "source": "devto"
+    },
+    "35a76093d6e8da6a": {
+      "date": "2026-08-29",
+      "title": "How BitTorrent Turned Every Downloader Into a Server",
+      "source": "devto"
+    },
+    "02c22dc4eff5943f": {
+      "date": "2026-08-29",
+      "title": "The Matrix Wasn't A Battery Farm. It Was A GPU Cluster Made Of Human Brains.",
+      "source": "devto"
+    },
+    "1c656aca9417dc11": {
+      "date": "2026-08-29",
+      "title": "What two months of interviewing taught me about the 2026 tech job market",
+      "source": "devto"
+    },
+    "56750041f4c9f6e7": {
+      "date": "2026-08-29",
+      "title": "How a Strands agent took Claude Opus 5 from 30% to 99.95% on ARC-AGI-3",
+      "source": "devto"
+    },
+    "473f1abe5e0cb911": {
+      "date": "2026-08-29",
+      "title": "Developers that brand AI as slop will be left behind",
+      "source": "devto"
+    },
+    "46e24096af5aa5e6": {
+      "date": "2026-08-29",
+      "title": "abhigyanpatwari / GitNexus",
+      "source": "github"
+    },
+    "0ba40d78bf1a7950": {
+      "date": "2026-08-29",
+      "title": "abi / screenshot-to-code",
+      "source": "github"
+    },
+    "388733e392d2ca27": {
+      "date": "2026-08-29",
+      "title": "NationalSecurityAgency / ghidra",
+      "source": "github"
+    },
+    "a84d370951f30abb": {
+      "date": "2026-08-29",
+      "title": "swoole / typephp",
+      "source": "github"
     }
   }
 }
