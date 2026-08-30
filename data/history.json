@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-29T03:52:57.901528",
+  "last_updated": "2026-08-30T00:41:09.858567",
   "sent_items": {
-    "925e5b650ff4d143": {
-      "date": "2026-07-30",
-      "title": "UEFA and its national associations will not participate in FIFA competitions",
-      "source": "hackernews"
-    },
-    "9f753904c4945eea": {
-      "date": "2026-07-30",
-      "title": "Read this before you buy that TV streaming stick",
-      "source": "hackernews"
-    },
-    "294161fcfd13af80": {
-      "date": "2026-07-30",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "source": "hackernews"
-    },
-    "56605925938a4b46": {
-      "date": "2026-07-30",
-      "title": "Stacked PRs are now live on GitHub",
-      "source": "hackernews"
-    },
-    "7baf6e778facb5a4": {
-      "date": "2026-07-30",
-      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-      "source": "hackernews"
-    },
-    "5826dc5ad56aaba4": {
-      "date": "2026-07-30",
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "source": "hackernews"
-    },
-    "dba5a92f23d0cce0": {
-      "date": "2026-07-30",
-      "title": "CodePen 2.0",
-      "source": "hackernews"
-    },
-    "9a18eaaf33c48e09": {
-      "date": "2026-07-30",
-      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
-      "source": "hackernews"
-    },
-    "dee0daa0ffa3272c": {
-      "date": "2026-07-30",
-      "title": "I flagged two research papers for fake authors and both were accepted as orals",
-      "source": "hackernews"
-    },
-    "5f8dc2b2c70ad516": {
-      "date": "2026-07-30",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "source": "hackernews"
-    },
-    "d31a312cf647369c": {
-      "date": "2026-07-30",
-      "title": "Focus Room",
-      "source": "producthunt"
-    },
-    "0a838b05cf778814": {
-      "date": "2026-07-30",
-      "title": "Yap",
-      "source": "producthunt"
-    },
-    "63ee4f0888b216c2": {
-      "date": "2026-07-30",
-      "title": "Pally",
-      "source": "producthunt"
-    },
-    "9249db2ec9ca04f6": {
-      "date": "2026-07-30",
-      "title": "Claude Code usage tracking by LangWatch",
-      "source": "producthunt"
-    },
-    "7150472d9770ad9c": {
-      "date": "2026-07-30",
-      "title": "SKI",
-      "source": "producthunt"
-    },
-    "bb7734bf26324c33": {
-      "date": "2026-07-30",
-      "title": "docktor",
-      "source": "producthunt"
-    },
-    "1c1fe7be3d34f6a9": {
-      "date": "2026-07-30",
-      "title": "Phantom Voice",
-      "source": "producthunt"
-    },
-    "bb702610b385f88b": {
-      "date": "2026-07-30",
-      "title": "Sorinai",
-      "source": "producthunt"
-    },
-    "cd3191dc0990849a": {
-      "date": "2026-07-30",
-      "title": "Congrats to the DEV Weekend Challenge: Passion Edition Winners!",
-      "source": "devto"
-    },
-    "a1bd84ff301886cf": {
-      "date": "2026-07-30",
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "source": "devto"
-    },
-    "d6522bc432345e0a": {
-      "date": "2026-07-30",
-      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
-      "source": "devto"
-    },
-    "edebb5192d2a9596": {
-      "date": "2026-07-30",
-      "title": "Does it still make sense to learn how to code?",
-      "source": "devto"
-    },
-    "3aee2e12d998712e": {
-      "date": "2026-07-30",
-      "title": "From Open Source to Paid Product: Is AI Accelerating the Shift?",
-      "source": "devto"
-    },
-    "3841be615430d337": {
-      "date": "2026-07-30",
-      "title": "You Know What Happens When There's a Bug in Authentication? Absolutely Nothing.",
-      "source": "devto"
-    },
-    "14c18a52c45ad361": {
-      "date": "2026-07-30",
-      "title": "What Actually Happens After You Send a Webhook",
-      "source": "devto"
-    },
-    "53fe432cbd3426e8": {
-      "date": "2026-07-30",
-      "title": "Emergent Design & Gall's Law: When Complex Coding Problems Dissolve Instead of Being Solved",
-      "source": "devto"
-    },
-    "91142f27f652542e": {
-      "date": "2026-07-30",
-      "title": "I tried to compile TypeScript into a native binary with scriptc",
-      "source": "devto"
-    },
-    "671bc2efa5509045": {
-      "date": "2026-07-30",
-      "title": "Array methods are eager. Iterator helpers are lazy. Here's why that matters.",
-      "source": "devto"
-    },
-    "1057d7f3dcb63c1c": {
-      "date": "2026-07-30",
-      "title": "WhiskeySockets / Baileys",
-      "source": "github"
-    },
-    "92a38e4bf3c74440": {
-      "date": "2026-07-30",
-      "title": "dotnet / aspnetcore",
-      "source": "github"
-    },
-    "2cd560aef18e9807": {
-      "date": "2026-07-30",
-      "title": "microsoft / PowerToys",
-      "source": "github"
-    },
-    "750b405ab3402451": {
-      "date": "2026-07-30",
-      "title": "agavra / tuicr",
-      "source": "github"
-    },
     "3e8241c068c3a7ca": {
       "date": "2026-07-31",
       "title": "Elevators",
@@ -4895,6 +4735,176 @@
     "a84d370951f30abb": {
       "date": "2026-08-29",
       "title": "swoole / typephp",
+      "source": "github"
+    },
+    "58df2031e9a52aab": {
+      "date": "2026-08-30",
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "source": "hackernews"
+    },
+    "800ca0c473afb87a": {
+      "date": "2026-08-30",
+      "title": "Hy4 preview",
+      "source": "hackernews"
+    },
+    "84a622800e590e0f": {
+      "date": "2026-08-30",
+      "title": "SQLite as a Document Database (2020)",
+      "source": "hackernews"
+    },
+    "467ac1f58c8bd628": {
+      "date": "2026-08-30",
+      "title": "Nancy Grace Roman Space Telescope",
+      "source": "hackernews"
+    },
+    "f5b51884348ebcd1": {
+      "date": "2026-08-30",
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "source": "hackernews"
+    },
+    "788d2dd683c75f74": {
+      "date": "2026-08-30",
+      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+      "source": "hackernews"
+    },
+    "31ee698076ee2c90": {
+      "date": "2026-08-30",
+      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+      "source": "hackernews"
+    },
+    "8a90933f67664083": {
+      "date": "2026-08-30",
+      "title": "Domain-Driven Agents",
+      "source": "hackernews"
+    },
+    "f2b37baa18b1b873": {
+      "date": "2026-08-30",
+      "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
+      "source": "hackernews"
+    },
+    "6fe06c1791068d0b": {
+      "date": "2026-08-30",
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "source": "hackernews"
+    },
+    "c769540fdaf49b92": {
+      "date": "2026-08-30",
+      "title": "Cohere Parse 5",
+      "source": "producthunt"
+    },
+    "b628794354349543": {
+      "date": "2026-08-30",
+      "title": "God’s Eye View",
+      "source": "producthunt"
+    },
+    "6e4ba8fcaaaa9a4f": {
+      "date": "2026-08-30",
+      "title": "seendiff",
+      "source": "producthunt"
+    },
+    "2190a0db990e54af": {
+      "date": "2026-08-30",
+      "title": "Einfall",
+      "source": "producthunt"
+    },
+    "2bf90e371c31ed1b": {
+      "date": "2026-08-30",
+      "title": "Staats",
+      "source": "producthunt"
+    },
+    "a69dcc73b04e9f86": {
+      "date": "2026-08-30",
+      "title": "Mossy",
+      "source": "producthunt"
+    },
+    "0b963caf1fe497af": {
+      "date": "2026-08-30",
+      "title": "Lubb",
+      "source": "producthunt"
+    },
+    "d67379909f2ed0d4": {
+      "date": "2026-08-30",
+      "title": "WIT",
+      "source": "producthunt"
+    },
+    "699ed7a44bcd52de": {
+      "date": "2026-08-30",
+      "title": "What Happens After You Win a DEV Challenge? A Complete Guide to Getting Paid",
+      "source": "devto"
+    },
+    "2a7dfcae9c931a89": {
+      "date": "2026-08-30",
+      "title": "I Asked for a Portfolio but Got a Filing Cabinet",
+      "source": "devto"
+    },
+    "b79524d2e098c926": {
+      "date": "2026-08-30",
+      "title": "Gemma 4 in Pure JAX: What Ports from TPU to GPU, and What Doesn't",
+      "source": "devto"
+    },
+    "b5b9d5cea6ebe593": {
+      "date": "2026-08-30",
+      "title": "I’m Looking for the Right Problem, Not the Right Job Title — Could It Be You?",
+      "source": "devto"
+    },
+    "1410ea24a18120d3": {
+      "date": "2026-08-30",
+      "title": "MCP C# Per-Request Client Capabilities: Read the Request, Not the Server",
+      "source": "devto"
+    },
+    "f04a4325f9c1882f": {
+      "date": "2026-08-30",
+      "title": "I Googled Myself for 20 Minutes and Found My Home Address, My Mom's Maiden Name, and My Dog",
+      "source": "devto"
+    },
+    "9bf4bdedc0a0735d": {
+      "date": "2026-08-30",
+      "title": "I failed a \"design a document editor\" interview, so I built one",
+      "source": "devto"
+    },
+    "0da315692a3fa472": {
+      "date": "2026-08-30",
+      "title": "Your Tests Were Green Because the Gate Was Never Wired In",
+      "source": "devto"
+    },
+    "724af00530a62c0d": {
+      "date": "2026-08-30",
+      "title": "From “Can I Do This?” to Becoming Part of the Team: Lessons From My Apprenticeship at ISRO",
+      "source": "devto"
+    },
+    "9e4e662686943e4a": {
+      "date": "2026-08-30",
+      "title": "The Most Important AI Agent Design Choice: Don’t Let the Model Be the Final Authority",
+      "source": "devto"
+    },
+    "c2f4cce08f408ce8": {
+      "date": "2026-08-30",
+      "title": "THU-MAIC / OpenMAIC",
+      "source": "github"
+    },
+    "d2f39386e20eb773": {
+      "date": "2026-08-30",
+      "title": "p-e-w / heretic",
+      "source": "github"
+    },
+    "aca988ca8dd4e6fa": {
+      "date": "2026-08-30",
+      "title": "bigskysoftware / htmx",
+      "source": "github"
+    },
+    "7e39ec2390d0765a": {
+      "date": "2026-08-30",
+      "title": "ComposioHQ / awesome-claude-skills",
+      "source": "github"
+    },
+    "a1c760c91a2498ee": {
+      "date": "2026-08-30",
+      "title": "every-app / open-seo",
+      "source": "github"
+    },
+    "85717f608dd95ad7": {
+      "date": "2026-08-30",
+      "title": "Osmantic / ODS",
       "source": "github"
     }
   }
