@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-30T00:41:09.858567",
+  "last_updated": "2026-08-31T00:50:52.284446",
   "sent_items": {
-    "3e8241c068c3a7ca": {
-      "date": "2026-07-31",
-      "title": "Elevators",
-      "source": "hackernews"
-    },
-    "853327189d11dc3d": {
-      "date": "2026-07-31",
-      "title": "qm",
-      "source": "hackernews"
-    },
-    "024168c012af71c0": {
-      "date": "2026-07-31",
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "source": "hackernews"
-    },
-    "08cc1fad969c8b95": {
-      "date": "2026-07-31",
-      "title": "Big Food vs. the People",
-      "source": "hackernews"
-    },
-    "162cdeed53c6fddd": {
-      "date": "2026-07-31",
-      "title": "Golang proposal: container/: generic collection types",
-      "source": "hackernews"
-    },
-    "104e273bc7a7b2b3": {
-      "date": "2026-07-31",
-      "title": "Twenty-five years ago it was cryptography, today it's model weights",
-      "source": "hackernews"
-    },
-    "69b5b9d520b5a923": {
-      "date": "2026-07-31",
-      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-      "source": "hackernews"
-    },
-    "4faf146ab0703fea": {
-      "date": "2026-07-31",
-      "title": "Progressive Web Components",
-      "source": "hackernews"
-    },
-    "187404f26d017607": {
-      "date": "2026-07-31",
-      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-      "source": "hackernews"
-    },
-    "8f4cbc4f40074d3d": {
-      "date": "2026-07-31",
-      "title": "The Absurdity of Albert Camus",
-      "source": "hackernews"
-    },
-    "837eddf5a9c8b6f3": {
-      "date": "2026-07-31",
-      "title": "MiniMax H3",
-      "source": "producthunt"
-    },
-    "335c0a9fc1f0ed83": {
-      "date": "2026-07-31",
-      "title": "Cleanlist AI",
-      "source": "producthunt"
-    },
-    "08ba3357cff2edd4": {
-      "date": "2026-07-31",
-      "title": "mectrics",
-      "source": "producthunt"
-    },
-    "c809cf6bc34361ea": {
-      "date": "2026-07-31",
-      "title": "DepthData",
-      "source": "producthunt"
-    },
-    "5da8f463579a43e6": {
-      "date": "2026-07-31",
-      "title": "Gemini Robotics 2",
-      "source": "producthunt"
-    },
-    "4df32cf643871926": {
-      "date": "2026-07-31",
-      "title": "Poth Labs",
-      "source": "producthunt"
-    },
-    "dadff0911e3944bf": {
-      "date": "2026-07-31",
-      "title": "Screencap",
-      "source": "producthunt"
-    },
-    "86b552b0220c9652": {
-      "date": "2026-07-31",
-      "title": "witr",
-      "source": "producthunt"
-    },
-    "7445d3b513aec3d0": {
-      "date": "2026-07-31",
-      "title": "zhaoxuya520 / reverse-skill",
-      "source": "github"
-    },
-    "81f110db762452f4": {
-      "date": "2026-07-31",
-      "title": "chatwoot / chatwoot",
-      "source": "github"
-    },
-    "e46fc4b3de8850fd": {
-      "date": "2026-07-31",
-      "title": "usekaneo / kaneo",
-      "source": "github"
-    },
-    "46d3fee174b7b1b7": {
-      "date": "2026-07-31",
-      "title": "geo-tp / ESP32-Bit-Pirate",
-      "source": "github"
-    },
-    "3d02601f339f3f68": {
-      "date": "2026-07-31",
-      "title": "Dev Opportunity Radar #10: OpenAI Student Collective, Develop for Good, MLH Global Hack Week & Learn",
-      "source": "devto"
-    },
-    "4cccc93931f28374": {
-      "date": "2026-07-31",
-      "title": "What was your win this week?",
-      "source": "devto"
-    },
-    "8be6015f02b56c19": {
-      "date": "2026-07-31",
-      "title": "Your RAG copilot can't count — stop letting it try",
-      "source": "devto"
-    },
-    "f5c1f62e994eabcb": {
-      "date": "2026-07-31",
-      "title": "ratatop day 3: disks, statvfs, and my first unsafe block",
-      "source": "devto"
-    },
-    "cca5e42e6db0bc93": {
-      "date": "2026-07-31",
-      "title": "Fixing Exact Package Search Relevance in npmx",
-      "source": "devto"
-    },
-    "b85ece9aaae3c66d": {
-      "date": "2026-07-31",
-      "title": "Hardening an AI coding agent: the failures, and the code that fixed them",
-      "source": "devto"
-    },
-    "72e93ccbdc36c66e": {
-      "date": "2026-07-31",
-      "title": "Collaborative Filtering: How Computers Find Your Next Favourite Thing",
-      "source": "devto"
-    },
-    "74d2f1268e711e53": {
-      "date": "2026-07-31",
-      "title": "How I Put My Agent in CI to Automate Release Notes",
-      "source": "devto"
-    },
-    "140752027af1bb0d": {
-      "date": "2026-07-31",
-      "title": "Claude Code + OpenRouter: The Setup Guide That Actually Explains Things",
-      "source": "devto"
-    },
-    "f039ae40894f45d0": {
-      "date": "2026-07-31",
-      "title": "AI-Assisted Engineering: Faster to Build Isn't Cheaper to Own",
-      "source": "devto"
-    },
     "4eb49727745a52f2": {
       "date": "2026-08-01",
       "title": "NudgeForMe",
@@ -4905,6 +4745,186 @@
     "85717f608dd95ad7": {
       "date": "2026-08-30",
       "title": "Osmantic / ODS",
+      "source": "github"
+    },
+    "5f4bc58220d5cbd6": {
+      "date": "2026-08-31",
+      "title": "Creepy Crawlies",
+      "source": "hackernews"
+    },
+    "0cd9beaaa19a0888": {
+      "date": "2026-08-31",
+      "title": "Hacking IKEA Furniture",
+      "source": "hackernews"
+    },
+    "e236fdb910aca5bd": {
+      "date": "2026-08-31",
+      "title": "Haiku R1/beta6 has been released",
+      "source": "hackernews"
+    },
+    "5b6339e08d37f48a": {
+      "date": "2026-08-31",
+      "title": "“I just chose words carefully”",
+      "source": "hackernews"
+    },
+    "a5720b79eeeb0f39": {
+      "date": "2026-08-31",
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "source": "hackernews"
+    },
+    "7a007121b956cde7": {
+      "date": "2026-08-31",
+      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+      "source": "hackernews"
+    },
+    "ae7306b88dfa8664": {
+      "date": "2026-08-31",
+      "title": "Sort branches by last commit date",
+      "source": "hackernews"
+    },
+    "d4338b1abd099073": {
+      "date": "2026-08-31",
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "source": "hackernews"
+    },
+    "acca2521df606941": {
+      "date": "2026-08-31",
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "source": "hackernews"
+    },
+    "0634cfe723649249": {
+      "date": "2026-08-31",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "source": "hackernews"
+    },
+    "9f4a334687f1a86b": {
+      "date": "2026-08-31",
+      "title": "Topview Motion Studio",
+      "source": "producthunt"
+    },
+    "065d817047ed3a3f": {
+      "date": "2026-08-31",
+      "title": "Superagent",
+      "source": "producthunt"
+    },
+    "c15b3e9bb9baca6e": {
+      "date": "2026-08-31",
+      "title": "RIP MY BUILD",
+      "source": "producthunt"
+    },
+    "7bd8181e8a257e9e": {
+      "date": "2026-08-31",
+      "title": "oMLX",
+      "source": "producthunt"
+    },
+    "ef9c563e106ba211": {
+      "date": "2026-08-31",
+      "title": "Retro Y2K Theme",
+      "source": "producthunt"
+    },
+    "94d12dc43f38ac46": {
+      "date": "2026-08-31",
+      "title": "Maritime",
+      "source": "producthunt"
+    },
+    "1118ddc381f0b1a5": {
+      "date": "2026-08-31",
+      "title": "Prequel",
+      "source": "producthunt"
+    },
+    "6b3f60e383cd7505": {
+      "date": "2026-08-31",
+      "title": "Skud",
+      "source": "producthunt"
+    },
+    "c5c03b0b6e79a21d": {
+      "date": "2026-08-31",
+      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
+      "source": "devto"
+    },
+    "c9fad819dad8d79c": {
+      "date": "2026-08-31",
+      "title": "I gave an AI agent a production rollback button — then spent the hackathon trying to trick it into p",
+      "source": "devto"
+    },
+    "8f4f289e1042beae": {
+      "date": "2026-08-31",
+      "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
+      "source": "devto"
+    },
+    "eef481cc38b762c6": {
+      "date": "2026-08-31",
+      "title": "Git Said It Succeeded. The State Said Otherwise.",
+      "source": "devto"
+    },
+    "a7fe4e624af78067": {
+      "date": "2026-08-31",
+      "title": "IND-TECH WEEKLY #1: Jio Files for India's Biggest-Ever IPO, Navi Bags $100M, and What Devs Should Kn",
+      "source": "devto"
+    },
+    "5a2b15e3f6b8818d": {
+      "date": "2026-08-31",
+      "title": "Delta encoding multiplayer game state",
+      "source": "devto"
+    },
+    "7526cfe86081d996": {
+      "date": "2026-08-31",
+      "title": "Tell Me About You",
+      "source": "devto"
+    },
+    "981883f6f39c2e48": {
+      "date": "2026-08-31",
+      "title": "Bugs Are Innocent Until Reproduced: Building Verdict, an Evidence-First Agent Harness",
+      "source": "devto"
+    },
+    "b37ffe57241dbf2f": {
+      "date": "2026-08-31",
+      "title": "My Commit Said \"Stop Trusting the Receipt.\" That Is the Commit Where the Trusting Started.",
+      "source": "devto"
+    },
+    "33e8b1adc416fe2a": {
+      "date": "2026-08-31",
+      "title": "The undo has to exist before the write does",
+      "source": "devto"
+    },
+    "2db83a025fb2e599": {
+      "date": "2026-08-31",
+      "title": "unclecode / crawl4ai",
+      "source": "github"
+    },
+    "cb3eddfe11b539d1": {
+      "date": "2026-08-31",
+      "title": "mvanhorn / last30days-skill",
+      "source": "github"
+    },
+    "4fa3a55b3f08f940": {
+      "date": "2026-08-31",
+      "title": "majd / ipatool",
+      "source": "github"
+    },
+    "396cb5e37f289675": {
+      "date": "2026-08-31",
+      "title": "punkpeye / awesome-mcp-servers",
+      "source": "github"
+    },
+    "98f03e4745eeb751": {
+      "date": "2026-08-31",
+      "title": "checkstyle / checkstyle",
+      "source": "github"
+    },
+    "69d36549b62c1e34": {
+      "date": "2026-08-31",
+      "title": "pollen-robotics / microduck_rl",
+      "source": "github"
+    },
+    "32aa3c814e098f24": {
+      "date": "2026-08-31",
+      "title": "handsomestWei / patent-disclosure-skill",
+      "source": "github"
+    },
+    "f375b5f99caab788": {
+      "date": "2026-08-31",
+      "title": "corsairdev / corsair",
       "source": "github"
     }
   }
