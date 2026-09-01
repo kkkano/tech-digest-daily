@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-31T00:50:52.284446",
+  "last_updated": "2026-09-01T01:25:43.906390",
   "sent_items": {
-    "4eb49727745a52f2": {
-      "date": "2026-08-01",
-      "title": "NudgeForMe",
-      "source": "producthunt"
-    },
-    "ddde8478eede37b4": {
-      "date": "2026-08-01",
-      "title": "DeepSeek-V4-Flash-0731",
-      "source": "producthunt"
-    },
-    "d2bf65ecd76b0e23": {
-      "date": "2026-08-01",
-      "title": "Yamanote 3D",
-      "source": "producthunt"
-    },
-    "61ca52a90c00a787": {
-      "date": "2026-08-01",
-      "title": "Tandem",
-      "source": "producthunt"
-    },
-    "7086ecc66ffda31f": {
-      "date": "2026-08-01",
-      "title": "Kopai",
-      "source": "producthunt"
-    },
-    "437770a271d95fd6": {
-      "date": "2026-08-01",
-      "title": "SyncStaq",
-      "source": "producthunt"
-    },
-    "9edd83739bad6894": {
-      "date": "2026-08-01",
-      "title": "AgentMicro",
-      "source": "producthunt"
-    },
-    "b3adcaec08be542c": {
-      "date": "2026-08-01",
-      "title": "The Art of 64-bit Assembly",
-      "source": "hackernews"
-    },
-    "6dbc532b9ee90b10": {
-      "date": "2026-08-01",
-      "title": "Diátaxis",
-      "source": "hackernews"
-    },
-    "e4e5f3b9e7d18f7c": {
-      "date": "2026-08-01",
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "source": "hackernews"
-    },
-    "e836b9e1bee1a1d8": {
-      "date": "2026-08-01",
-      "title": "Just because a game is on disc doesn't mean it will work in the future",
-      "source": "hackernews"
-    },
-    "1746f99df19d101b": {
-      "date": "2026-08-01",
-      "title": "Seedance 2.5",
-      "source": "hackernews"
-    },
-    "2af7715e9dc023ef": {
-      "date": "2026-08-01",
-      "title": "AI financial advice is surprisingly good if you ask the right questions",
-      "source": "hackernews"
-    },
-    "cbcaf7d982754c40": {
-      "date": "2026-08-01",
-      "title": "But can your calculator run Linux?",
-      "source": "hackernews"
-    },
-    "52bd84de9cfe9cf5": {
-      "date": "2026-08-01",
-      "title": "CISA Alert: Water Sector PLC Targeting",
-      "source": "hackernews"
-    },
-    "9c0337b2fa8c8052": {
-      "date": "2026-08-01",
-      "title": "Unraveling the mysteries of habit formation",
-      "source": "hackernews"
-    },
-    "f4c21b97a8105bfa": {
-      "date": "2026-08-01",
-      "title": "Stop fucking around with database commits and transactions",
-      "source": "hackernews"
-    },
-    "1304a8021347b716": {
-      "date": "2026-08-01",
-      "title": "Catbot: Custom Grammar Problem Fixed",
-      "source": "devto"
-    },
-    "c21a8620095039ee": {
-      "date": "2026-08-01",
-      "title": "CyberPanel's SSL Auto-Renewal Can Silently Fail — Here's the Fix",
-      "source": "devto"
-    },
-    "14c2b907fe3370a7": {
-      "date": "2026-08-01",
-      "title": "ratatop: the network box, and why your ISP lies with units",
-      "source": "devto"
-    },
-    "d5dd422248abd25b": {
-      "date": "2026-08-01",
-      "title": "I Learned Go in 3 Weeks. Yesterday, My Code Merged into k9s.",
-      "source": "devto"
-    },
-    "39a320ea08cab2a5": {
-      "date": "2026-08-01",
-      "title": "Introducing DevPub - Open Source Dev.to CLI Tool",
-      "source": "devto"
-    },
-    "a3707e06386d3446": {
-      "date": "2026-08-01",
-      "title": "Gravy Boat — a landing page with a CSS poutine you can drown in!",
-      "source": "devto"
-    },
-    "541d9d354471f223": {
-      "date": "2026-08-01",
-      "title": "Poutine: the true food of the gods",
-      "source": "devto"
-    },
-    "6e0d9d4c93ee08d5": {
-      "date": "2026-08-01",
-      "title": "Why Agent Evaluation Is Harder Than Model Evaluation",
-      "source": "devto"
-    },
-    "5d597406f6af7fa7": {
-      "date": "2026-08-01",
-      "title": "Pascal Programming",
-      "source": "devto"
-    },
-    "b78875220adbd23c": {
-      "date": "2026-08-01",
-      "title": "Dev log #14 Hardening the DHT against Eclipse attacks and the endless battle with flaky p2p tests",
-      "source": "devto"
-    },
-    "4e308eb7afe62c72": {
-      "date": "2026-08-01",
-      "title": "microsoft / generative-ai-for-beginners",
-      "source": "github"
-    },
-    "e82f8ca3ecc61b6c": {
-      "date": "2026-08-01",
-      "title": "github / gh-stack",
-      "source": "github"
-    },
-    "51b3fb36b568ae94": {
-      "date": "2026-08-01",
-      "title": "abus-aikorea / voice-pro",
-      "source": "github"
-    },
-    "7026d70d272e7f07": {
-      "date": "2026-08-01",
-      "title": "iv-org / invidious",
-      "source": "github"
-    },
-    "19b144cbaabc3122": {
-      "date": "2026-08-01",
-      "title": "microsoft / TRELLIS.2",
-      "source": "github"
-    },
-    "b88ceb3d1250fce4": {
-      "date": "2026-08-01",
-      "title": "NomaDamas / k-skill",
-      "source": "github"
-    },
-    "8715d70f7c6f5657": {
-      "date": "2026-08-01",
-      "title": "bytedance / deer-flow",
-      "source": "github"
-    },
     "32c1beeee9a89277": {
       "date": "2026-08-02",
       "title": "Lumichats",
@@ -4925,6 +4755,161 @@
     "f375b5f99caab788": {
       "date": "2026-08-31",
       "title": "corsairdev / corsair",
+      "source": "github"
+    },
+    "49e3387c38cb4332": {
+      "date": "2026-09-01",
+      "title": "Playa Phone",
+      "source": "hackernews"
+    },
+    "5993b8458deca35e": {
+      "date": "2026-09-01",
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "source": "hackernews"
+    },
+    "61ab651f0f3630dd": {
+      "date": "2026-09-01",
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "source": "hackernews"
+    },
+    "ffc85844d1e29ad3": {
+      "date": "2026-09-01",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "source": "hackernews"
+    },
+    "b4df46d7f8ed18ff": {
+      "date": "2026-09-01",
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "source": "hackernews"
+    },
+    "d927ee262d2a45ad": {
+      "date": "2026-09-01",
+      "title": "'Mad honey' that can stop your heart is being sold online",
+      "source": "hackernews"
+    },
+    "438190435083254c": {
+      "date": "2026-09-01",
+      "title": "Run macOS Software on Linux",
+      "source": "hackernews"
+    },
+    "e4099104baaafca6": {
+      "date": "2026-09-01",
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "source": "hackernews"
+    },
+    "2f8c21d4bc78535c": {
+      "date": "2026-09-01",
+      "title": "Lion-man – the oldest confirmed statue ever discovered",
+      "source": "hackernews"
+    },
+    "df041ddeabc1f8f1": {
+      "date": "2026-09-01",
+      "title": "Carmack: Has early Scratch experience led to fulfilling careers?",
+      "source": "hackernews"
+    },
+    "f453d33420b284c1": {
+      "date": "2026-09-01",
+      "title": "Orato",
+      "source": "producthunt"
+    },
+    "9482609457348c36": {
+      "date": "2026-09-01",
+      "title": "EP–2350 FX–MIC",
+      "source": "producthunt"
+    },
+    "232fdfdc760e8ae6": {
+      "date": "2026-09-01",
+      "title": "Radar by Particle",
+      "source": "producthunt"
+    },
+    "23e8ed4c2dafd741": {
+      "date": "2026-09-01",
+      "title": "Ask My Wardrobe",
+      "source": "producthunt"
+    },
+    "39aed2a04a5bccd6": {
+      "date": "2026-09-01",
+      "title": "Tether",
+      "source": "producthunt"
+    },
+    "1262790b4d55238e": {
+      "date": "2026-09-01",
+      "title": "FrameOS",
+      "source": "producthunt"
+    },
+    "fbc5e9bdc1be442e": {
+      "date": "2026-09-01",
+      "title": "BrandMyLaptop",
+      "source": "producthunt"
+    },
+    "a1ea668fbb5b0236": {
+      "date": "2026-09-01",
+      "title": "How long does it take for you to write a dev.to article?",
+      "source": "devto"
+    },
+    "8ae3b9ba1c7954fd": {
+      "date": "2026-09-01",
+      "title": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution",
+      "source": "devto"
+    },
+    "febd40a4587627b0": {
+      "date": "2026-09-01",
+      "title": "I Tried to Beat Peter Norvig and Accidentally Became Ryan Gosling",
+      "source": "devto"
+    },
+    "f67521088f8f5af1": {
+      "date": "2026-09-01",
+      "title": "The Highway Is a Pasture",
+      "source": "devto"
+    },
+    "479c951725428344": {
+      "date": "2026-09-01",
+      "title": "Free AWS Certification for Students: The Complete Step-by-Step Guide",
+      "source": "devto"
+    },
+    "b58379d01b8fa622": {
+      "date": "2026-09-01",
+      "title": "Sessions vs JWTs: you are choosing how often you pay for state",
+      "source": "devto"
+    },
+    "af0ec46b0555cee4": {
+      "date": "2026-09-01",
+      "title": "Remember CLAIM-24? Here's what happened.",
+      "source": "devto"
+    },
+    "0bd1c3d16629d1d3": {
+      "date": "2026-09-01",
+      "title": "Badger: An E-Ink Badge I Use For Conferences",
+      "source": "devto"
+    },
+    "90558f9cb8908e87": {
+      "date": "2026-09-01",
+      "title": "My LLM Critic Flip-Flops on Every Run. That's Fine — Because a Frozenset Decides What's Fatal.",
+      "source": "devto"
+    },
+    "89cc9179a7141a8c": {
+      "date": "2026-09-01",
+      "title": "Dev log #19 WebRTC v2 flows, agentic orchestration, and a perfectly synced vault",
+      "source": "devto"
+    },
+    "1c3e1f88dc2dc347": {
+      "date": "2026-09-01",
+      "title": "k1tbyte / Wand-Enhancer",
+      "source": "github"
+    },
+    "73c10ecbf681fc5a": {
+      "date": "2026-09-01",
+      "title": "jingyaogong / minimind",
+      "source": "github"
+    },
+    "7445d3b513aec3d0": {
+      "date": "2026-09-01",
+      "title": "zhaoxuya520 / reverse-skill",
+      "source": "github"
+    },
+    "77dfe4fc1c3ceb1f": {
+      "date": "2026-09-01",
+      "title": "kaifcodec / user-scanner",
       "source": "github"
     }
   }
