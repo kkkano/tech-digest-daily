@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-01T01:25:43.906390",
+  "last_updated": "2026-09-02T00:31:59.516811",
   "sent_items": {
-    "32c1beeee9a89277": {
-      "date": "2026-08-02",
-      "title": "Lumichats",
-      "source": "producthunt"
-    },
-    "1a6ff91e68607086": {
-      "date": "2026-08-02",
-      "title": "Zen Whisper",
-      "source": "producthunt"
-    },
-    "c6ed412fd8e3211c": {
-      "date": "2026-08-02",
-      "title": "Termexo",
-      "source": "producthunt"
-    },
-    "604c3674f1535f2b": {
-      "date": "2026-08-02",
-      "title": "TimeOS 2.0",
-      "source": "producthunt"
-    },
-    "25f02cfc7dff6d4e": {
-      "date": "2026-08-02",
-      "title": "Bolcho AI",
-      "source": "producthunt"
-    },
-    "6b9ca32f570f30a0": {
-      "date": "2026-08-02",
-      "title": "Finamie",
-      "source": "producthunt"
-    },
-    "9532e25b2b6c3d53": {
-      "date": "2026-08-02",
-      "title": "Capptivo",
-      "source": "producthunt"
-    },
-    "8460c922d1138a9c": {
-      "date": "2026-08-02",
-      "title": "FreqWave EQ",
-      "source": "producthunt"
-    },
-    "2b74b16f01f00531": {
-      "date": "2026-08-02",
-      "title": "Karpathy’s Pelican",
-      "source": "hackernews"
-    },
-    "16972dfbed916810": {
-      "date": "2026-08-02",
-      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-      "source": "hackernews"
-    },
-    "c5526613cd5b12a2": {
-      "date": "2026-08-02",
-      "title": "Developers are attached to tools because tools encode trust",
-      "source": "hackernews"
-    },
-    "92b7df5d83d017e6": {
-      "date": "2026-08-02",
-      "title": "Note-Taking and Personal Knowledge Management",
-      "source": "hackernews"
-    },
-    "6eeb85308ab52e45": {
-      "date": "2026-08-02",
-      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-      "source": "hackernews"
-    },
-    "d9fccbcce6938f33": {
-      "date": "2026-08-02",
-      "title": "Read the Novels and Forget Everything Else",
-      "source": "hackernews"
-    },
-    "881914a9ef0b7899": {
-      "date": "2026-08-02",
-      "title": "Sharing an X11 Server Across Hosts with FamilyWild",
-      "source": "hackernews"
-    },
-    "717fb7c2aa16b780": {
-      "date": "2026-08-02",
-      "title": "Autoregressive Language Model on the 6502 Processor",
-      "source": "hackernews"
-    },
-    "19c461727804ec59": {
-      "date": "2026-08-02",
-      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-      "source": "hackernews"
-    },
-    "cb8d8f94d559cde6": {
-      "date": "2026-08-02",
-      "title": "AI poster wins Ohio State Fair contest",
-      "source": "hackernews"
-    },
-    "d7915b48122517ee": {
-      "date": "2026-08-02",
-      "title": "Programação Criativa: Vamos desenhar com código?",
-      "source": "devto"
-    },
-    "6cf1325dc700a6e8": {
-      "date": "2026-08-02",
-      "title": "Tonkotsu ramen in CSS",
-      "source": "devto"
-    },
-    "cd6d8cc2334d64e1": {
-      "date": "2026-08-02",
-      "title": "Solving Riverpod’s Family Provider Cache Dilemma with Signals & mapSignal",
-      "source": "devto"
-    },
-    "8db74332fbbb4c57": {
-      "date": "2026-08-02",
-      "title": "Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.",
-      "source": "devto"
-    },
-    "5a7476a088e0209d": {
-      "date": "2026-08-02",
-      "title": "I Turned Staff Interview Prep Into a Midnight Ramen Bowl 🍜",
-      "source": "devto"
-    },
-    "cd2cbd0133709a15": {
-      "date": "2026-08-02",
-      "title": "Dollars and rupees without Stripe: what building Skill Exchange's checkout taught me (PayPal + UPI)",
-      "source": "devto"
-    },
-    "6db5459ceb3864ca": {
-      "date": "2026-08-02",
-      "title": "The Bowl That Remembers: 3D CSS Art Edition 🥣",
-      "source": "devto"
-    },
-    "3b42c066b8a76a0a": {
-      "date": "2026-08-02",
-      "title": "Amma's Kitchen — A Love Letter to South Indian Comfort Food 🍛",
-      "source": "devto"
-    },
-    "97ff5b78aeea65ae": {
-      "date": "2026-08-02",
-      "title": "The Factory Class I Finally Deleted",
-      "source": "devto"
-    },
-    "fc3f8d8c45354a5e": {
-      "date": "2026-08-02",
-      "title": "I Loaded 8,956 Rows to Flip One Boolean",
-      "source": "devto"
-    },
-    "e67e2c38cce6781c": {
-      "date": "2026-08-02",
-      "title": "microsoft / AI-For-Beginners",
-      "source": "github"
-    },
-    "81fb0b6406ba5bb8": {
-      "date": "2026-08-02",
-      "title": "Panniantong / Agent-Reach",
-      "source": "github"
-    },
-    "0a2bc86ccd103adf": {
-      "date": "2026-08-02",
-      "title": "HarbourMasters / Lighthouse",
-      "source": "github"
-    },
-    "016bf4c0be9de95f": {
-      "date": "2026-08-02",
-      "title": "antirez / ds4",
-      "source": "github"
-    },
-    "af92210f8dd30ccf": {
-      "date": "2026-08-02",
-      "title": "esengine / DeepSeek-Reasonix",
-      "source": "github"
-    },
     "3214ba740373438c": {
       "date": "2026-08-03",
       "title": "Devtools must be open source",
@@ -4910,6 +4745,176 @@
     "77dfe4fc1c3ceb1f": {
       "date": "2026-09-01",
       "title": "kaifcodec / user-scanner",
+      "source": "github"
+    },
+    "9c85c9bd084d8cf2": {
+      "date": "2026-09-02",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "source": "hackernews"
+    },
+    "0c0e53e25ccd14b6": {
+      "date": "2026-09-02",
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "source": "hackernews"
+    },
+    "b0db8e0cc259cc08": {
+      "date": "2026-09-02",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "source": "hackernews"
+    },
+    "b6ea22059185e445": {
+      "date": "2026-09-02",
+      "title": "Hang on to Your Firefox",
+      "source": "hackernews"
+    },
+    "5e19fc99b3e9d51e": {
+      "date": "2026-09-02",
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "source": "hackernews"
+    },
+    "7f8c00ff0ed4b285": {
+      "date": "2026-09-02",
+      "title": "The creator of Jujutsu has joined ERSC",
+      "source": "hackernews"
+    },
+    "3ea91221046e3645": {
+      "date": "2026-09-02",
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+      "source": "hackernews"
+    },
+    "92726ead6c3a3bb9": {
+      "date": "2026-09-02",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "source": "hackernews"
+    },
+    "a553916b2dbdbf16": {
+      "date": "2026-09-02",
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "source": "hackernews"
+    },
+    "0a53be2cff64db2f": {
+      "date": "2026-09-02",
+      "title": "The efficient frontier of LLM inference",
+      "source": "hackernews"
+    },
+    "a8bda05ff6c95733": {
+      "date": "2026-09-02",
+      "title": "Creatium Coach",
+      "source": "producthunt"
+    },
+    "747c351ec1ff9746": {
+      "date": "2026-09-02",
+      "title": "Computable GPU Index (CGI)",
+      "source": "producthunt"
+    },
+    "986a53dbb607812f": {
+      "date": "2026-09-02",
+      "title": "Sider Code",
+      "source": "producthunt"
+    },
+    "6533afef460d6bcf": {
+      "date": "2026-09-02",
+      "title": "Gauth AI Course",
+      "source": "producthunt"
+    },
+    "4feba910bdaf0041": {
+      "date": "2026-09-02",
+      "title": "Naseem",
+      "source": "producthunt"
+    },
+    "559f8bf2d763a9a4": {
+      "date": "2026-09-02",
+      "title": "Happy Shrimp",
+      "source": "producthunt"
+    },
+    "da346616d954461e": {
+      "date": "2026-09-02",
+      "title": "Sourclip 2.0",
+      "source": "producthunt"
+    },
+    "91565c4394e9aa06": {
+      "date": "2026-09-02",
+      "title": "Folio",
+      "source": "producthunt"
+    },
+    "17265eef5616eef4": {
+      "date": "2026-09-02",
+      "title": "How to Design AI Evaluations You Can Actually Trust",
+      "source": "devto"
+    },
+    "77f89f5f31be2415": {
+      "date": "2026-09-02",
+      "title": "What happens to technical debt when AI makes code cheap?",
+      "source": "devto"
+    },
+    "6c90855cfcd1839a": {
+      "date": "2026-09-02",
+      "title": "React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is",
+      "source": "devto"
+    },
+    "dd1a793345c18b99": {
+      "date": "2026-09-02",
+      "title": "# The CI/CD Pipeline That Was Lying to Us: A Deploy Debugging Story",
+      "source": "devto"
+    },
+    "c80b15ef9ee5d155": {
+      "date": "2026-09-02",
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "source": "devto"
+    },
+    "3c53aec74abe14fe": {
+      "date": "2026-09-02",
+      "title": "Who watches the watchdog? The boring work behind a monitoring SaaS",
+      "source": "devto"
+    },
+    "e6e806d9797587ff": {
+      "date": "2026-09-02",
+      "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
+      "source": "devto"
+    },
+    "0327c6d4bb262b96": {
+      "date": "2026-09-02",
+      "title": "I raced six models against each other on DigitalOcean Inference. The cheapest one won.",
+      "source": "devto"
+    },
+    "df9ebbd4bc660a61": {
+      "date": "2026-09-02",
+      "title": "Block Zero: Oh, no! Claude, Kiro and I over-engineered the throwaway.",
+      "source": "devto"
+    },
+    "125d5c0649e55efb": {
+      "date": "2026-09-02",
+      "title": "How the internet actually works, and why nobody is in charge of it",
+      "source": "devto"
+    },
+    "8db079bd93fad46c": {
+      "date": "2026-09-02",
+      "title": "Gitlawb / openclaude",
+      "source": "github"
+    },
+    "ec80d71bb50f6b19": {
+      "date": "2026-09-02",
+      "title": "Imbad0202 / academic-research-skills",
+      "source": "github"
+    },
+    "7026d70d272e7f07": {
+      "date": "2026-09-02",
+      "title": "iv-org / invidious",
+      "source": "github"
+    },
+    "3a55db0d85d4aae8": {
+      "date": "2026-09-02",
+      "title": "browser-use / video-use",
+      "source": "github"
+    },
+    "4b4cf6b011e27df5": {
+      "date": "2026-09-02",
+      "title": "VoltAgent / awesome-design-md",
+      "source": "github"
+    },
+    "762b8c3b74e9dd22": {
+      "date": "2026-09-02",
+      "title": "averygan / reclip",
       "source": "github"
     }
   }
