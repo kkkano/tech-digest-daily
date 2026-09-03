@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-02T00:31:59.516811",
+  "last_updated": "2026-09-03T00:37:46.749803",
   "sent_items": {
-    "3214ba740373438c": {
-      "date": "2026-08-03",
-      "title": "Devtools must be open source",
-      "source": "hackernews"
-    },
-    "30d77a4659122309": {
-      "date": "2026-08-03",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "source": "hackernews"
-    },
-    "d97d146533265046": {
-      "date": "2026-08-03",
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "source": "hackernews"
-    },
-    "8c698391e507e41c": {
-      "date": "2026-08-03",
-      "title": "LLMs reward expertise",
-      "source": "hackernews"
-    },
-    "59e237f6d6e2521c": {
-      "date": "2026-08-03",
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "source": "hackernews"
-    },
-    "d60d84419cb39548": {
-      "date": "2026-08-03",
-      "title": "200 Milliseconds",
-      "source": "hackernews"
-    },
-    "64a915705c9adadd": {
-      "date": "2026-08-03",
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "source": "hackernews"
-    },
-    "12875db19e51393e": {
-      "date": "2026-08-03",
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "source": "hackernews"
-    },
-    "86bf0a0153ea3d73": {
-      "date": "2026-08-03",
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "source": "hackernews"
-    },
-    "d9ed31a815928db6": {
-      "date": "2026-08-03",
-      "title": "Battle of the Beams",
-      "source": "hackernews"
-    },
-    "0a5bfc5da5361480": {
-      "date": "2026-08-03",
-      "title": "Inventory",
-      "source": "producthunt"
-    },
-    "3d7a930173ef71b4": {
-      "date": "2026-08-03",
-      "title": "AgentSky",
-      "source": "producthunt"
-    },
-    "fd660779c6ec4fb2": {
-      "date": "2026-08-03",
-      "title": "mpai",
-      "source": "producthunt"
-    },
-    "033c0cd9d6ad6b0b": {
-      "date": "2026-08-03",
-      "title": "claudemon",
-      "source": "producthunt"
-    },
-    "fde52a512f2a1610": {
-      "date": "2026-08-03",
-      "title": "Plethora",
-      "source": "producthunt"
-    },
-    "4d4f26f4598cc628": {
-      "date": "2026-08-03",
-      "title": "Ctruh Studio",
-      "source": "producthunt"
-    },
-    "2300f9259ca68227": {
-      "date": "2026-08-03",
-      "title": "The Garden of Mind",
-      "source": "producthunt"
-    },
-    "0c73959f2b433e82": {
-      "date": "2026-08-03",
-      "title": "Appllama",
-      "source": "producthunt"
-    },
-    "4ef520490da8df3b": {
-      "date": "2026-08-03",
-      "title": "firecrawl / pdf-inspector",
-      "source": "github"
-    },
-    "5be9284bd6d1ce37": {
-      "date": "2026-08-03",
-      "title": "donnemartin / system-design-primer",
-      "source": "github"
-    },
-    "8e0001db8f8344fb": {
-      "date": "2026-08-03",
-      "title": "Alishahryar1 / free-claude-code",
-      "source": "github"
-    },
-    "a42982e762cc487e": {
-      "date": "2026-08-03",
-      "title": "livekit / agents",
-      "source": "github"
-    },
-    "2cf1e2b4a65f7d44": {
-      "date": "2026-08-03",
-      "title": "How would you decide, whether the content is good or bad?",
-      "source": "devto"
-    },
-    "3f2620a8f9bf9c65": {
-      "date": "2026-08-03",
-      "title": "Khachapuri: Georgian Cheese Bread in Pure CSS",
-      "source": "devto"
-    },
-    "32d6b8689029f213": {
-      "date": "2026-08-03",
-      "title": "What are your goals for the week? #190",
-      "source": "devto"
-    },
-    "ed2abc3a329e43ad": {
-      "date": "2026-08-03",
-      "title": "dev.to's Dashboard Can't Count Its Own Posts",
-      "source": "devto"
-    },
-    "83de29bacba910db": {
-      "date": "2026-08-03",
-      "title": "We’re Giving AI Agents More Tools. What Happens When the Boundaries Fail?",
-      "source": "devto"
-    },
-    "db711099f871a46e": {
-      "date": "2026-08-03",
-      "title": "I Let an AI Orb Judge My Facial Expressions While I Code, and Here's What Happened",
-      "source": "devto"
-    },
-    "466aa3117cebcdcb": {
-      "date": "2026-08-03",
-      "title": "Pair Programming Earned a Lighter Code Review. AI Hasn't.",
-      "source": "devto"
-    },
-    "d17844ce10107454": {
-      "date": "2026-08-03",
-      "title": "Why Developer Experience (DevEx) Dies in the Backlog?",
-      "source": "devto"
-    },
-    "884f9b344bbe3388": {
-      "date": "2026-08-03",
-      "title": "The Feature Flag That Needed a Restart",
-      "source": "devto"
-    },
-    "04887c679914106e": {
-      "date": "2026-08-03",
-      "title": "I Counted the Assertions in Our Test Suite. I Wish I Hadn't.",
-      "source": "devto"
-    },
     "0f5b780070214dcb": {
       "date": "2026-08-04",
       "title": "ZapDigits MCP",
@@ -4915,6 +4755,191 @@
     "762b8c3b74e9dd22": {
       "date": "2026-09-02",
       "title": "averygan / reclip",
+      "source": "github"
+    },
+    "8830159e65b07b53": {
+      "date": "2026-09-03",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "source": "hackernews"
+    },
+    "9148fb3881814e2b": {
+      "date": "2026-09-03",
+      "title": "Muse Spark 1.3",
+      "source": "hackernews"
+    },
+    "ff151594d7a955d9": {
+      "date": "2026-09-03",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "source": "hackernews"
+    },
+    "eb6cf122182b8795": {
+      "date": "2026-09-03",
+      "title": "Google avoids a breakup of its ad tech business",
+      "source": "hackernews"
+    },
+    "788f87ef4fec80ec": {
+      "date": "2026-09-03",
+      "title": "Fable 5.1 World Modeling",
+      "source": "hackernews"
+    },
+    "ec5ea5eb3e4f0f20": {
+      "date": "2026-09-03",
+      "title": "Reverse Engineering Unknown File Formats with ImHex",
+      "source": "hackernews"
+    },
+    "acff256c50db3a57": {
+      "date": "2026-09-03",
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "source": "hackernews"
+    },
+    "00814b0ec62a0cf9": {
+      "date": "2026-09-03",
+      "title": "Holden's Lightning Flight",
+      "source": "hackernews"
+    },
+    "0cd3d05ff8a1b39a": {
+      "date": "2026-09-03",
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "source": "hackernews"
+    },
+    "9882c997b096ed0f": {
+      "date": "2026-09-03",
+      "title": "Reflections on Americans' Net Worth",
+      "source": "hackernews"
+    },
+    "aae5275743b4b18f": {
+      "date": "2026-09-03",
+      "title": "Monid",
+      "source": "producthunt"
+    },
+    "00c4ba4e7009959a": {
+      "date": "2026-09-03",
+      "title": "Roadie",
+      "source": "producthunt"
+    },
+    "2ba8b62ca537ac51": {
+      "date": "2026-09-03",
+      "title": "GhostReply",
+      "source": "producthunt"
+    },
+    "41a3fe9d2c468511": {
+      "date": "2026-09-03",
+      "title": "Stitch AI by Dynamic Mockups",
+      "source": "producthunt"
+    },
+    "e493d015dc842a7b": {
+      "date": "2026-09-03",
+      "title": "OpenClaw 2.0",
+      "source": "producthunt"
+    },
+    "2595d48f632c625d": {
+      "date": "2026-09-03",
+      "title": "Doop",
+      "source": "producthunt"
+    },
+    "33c408c31730a5ff": {
+      "date": "2026-09-03",
+      "title": "Dynamic Edge",
+      "source": "producthunt"
+    },
+    "770c02f84a8378ea": {
+      "date": "2026-09-03",
+      "title": "What do you build when you can build anything?",
+      "source": "devto"
+    },
+    "9aa7c28807722a4a": {
+      "date": "2026-09-03",
+      "title": "Execution Trees, Not More Logs: A Better Debugging Model for AI Agents",
+      "source": "devto"
+    },
+    "f98fbd2f701a97de": {
+      "date": "2026-09-03",
+      "title": "Designing a Webhook Delivery System for 10 Million Events a Day",
+      "source": "devto"
+    },
+    "d300dd45aa46e6b0": {
+      "date": "2026-09-03",
+      "title": "I Tried Pair Programming With Three Different AI Tools For a Month",
+      "source": "devto"
+    },
+    "97579c1ddb115d80": {
+      "date": "2026-09-03",
+      "title": "My AI Gateway Added 400ms to Every Request. Here's Where It Went",
+      "source": "devto"
+    },
+    "8094ee6d9cb794ae": {
+      "date": "2026-09-03",
+      "title": "Learn Number of Islands, Invert Binary Tree, and Course Schedule with Step-by-Step Visualization in ",
+      "source": "devto"
+    },
+    "81bbfcf2d535e168": {
+      "date": "2026-09-03",
+      "title": "Why I'm Building ShrekOS When Containers Already Exist",
+      "source": "devto"
+    },
+    "62461da680625da6": {
+      "date": "2026-09-03",
+      "title": "I Found 3 Security Vulnerabilities in My Own AI Agent's Tool Access",
+      "source": "devto"
+    },
+    "d4583320fd2ba133": {
+      "date": "2026-09-03",
+      "title": "Another new quality moderation feature! I'm excited to see how this shifts the feed in the coming we",
+      "source": "devto"
+    },
+    "d4e98d20ca86e382": {
+      "date": "2026-09-03",
+      "title": "🌟 The CI Gate Rejected the Terraform Change—but the LLM Still Ran",
+      "source": "devto"
+    },
+    "c7f5556eba608ddd": {
+      "date": "2026-09-03",
+      "title": "fmtlib / fmt",
+      "source": "github"
+    },
+    "17a133fee8f3ef38": {
+      "date": "2026-09-03",
+      "title": "google-research / timesfm",
+      "source": "github"
+    },
+    "9660013ea25c5cd2": {
+      "date": "2026-09-03",
+      "title": "debpalash / VoiceStudio",
+      "source": "github"
+    },
+    "e60d19bcbc87ff4d": {
+      "date": "2026-09-03",
+      "title": "sngyai / Sequoia-X",
+      "source": "github"
+    },
+    "b4212d4b4d442e7e": {
+      "date": "2026-09-03",
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "source": "github"
+    },
+    "9b3165d8618fc678": {
+      "date": "2026-09-03",
+      "title": "superlinked / sie",
+      "source": "github"
+    },
+    "f798f6349b394f49": {
+      "date": "2026-09-03",
+      "title": "pacifio / atlas",
+      "source": "github"
+    },
+    "5cd08d05ac6c4ae5": {
+      "date": "2026-09-03",
+      "title": "zyronon / TypeWords",
+      "source": "github"
+    },
+    "2412889dd3a83a7b": {
+      "date": "2026-09-03",
+      "title": "vercel-labs / portless",
+      "source": "github"
+    },
+    "786d914db71c331d": {
+      "date": "2026-09-03",
+      "title": "blader / humanizer",
       "source": "github"
     }
   }
