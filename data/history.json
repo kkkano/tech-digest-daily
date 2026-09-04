@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-03T00:37:46.749803",
+  "last_updated": "2026-09-04T00:22:21.952793",
   "sent_items": {
-    "0f5b780070214dcb": {
-      "date": "2026-08-04",
-      "title": "ZapDigits MCP",
-      "source": "producthunt"
-    },
-    "1e06de55f4be6ce5": {
-      "date": "2026-08-04",
-      "title": "Stynar",
-      "source": "producthunt"
-    },
-    "75b78a3d9a7d6570": {
-      "date": "2026-08-04",
-      "title": "Vinyl for Mac",
-      "source": "producthunt"
-    },
-    "db5724b6b015e9df": {
-      "date": "2026-08-04",
-      "title": "MOTHER",
-      "source": "producthunt"
-    },
-    "147e23403f541021": {
-      "date": "2026-08-04",
-      "title": "Dashi Metrics",
-      "source": "producthunt"
-    },
-    "0faae21a7c93a7ff": {
-      "date": "2026-08-04",
-      "title": "AirProof AI",
-      "source": "producthunt"
-    },
-    "ca9db84a0d2ae354": {
-      "date": "2026-08-04",
-      "title": "Snipplet",
-      "source": "producthunt"
-    },
-    "a89dd98792fbd968": {
-      "date": "2026-08-04",
-      "title": "SpeakoFlow",
-      "source": "producthunt"
-    },
-    "cbf36375fce6642f": {
-      "date": "2026-08-04",
-      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-      "source": "hackernews"
-    },
-    "c7e6d9e0d8e1c1bf": {
-      "date": "2026-08-04",
-      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "source": "hackernews"
-    },
-    "4826195d4c7d357f": {
-      "date": "2026-08-04",
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "source": "hackernews"
-    },
-    "662b5f913fcdaf17": {
-      "date": "2026-08-04",
-      "title": "Waymo in Dallas",
-      "source": "hackernews"
-    },
-    "e2e8a751aa4cd7a3": {
-      "date": "2026-08-04",
-      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-      "source": "hackernews"
-    },
-    "8097b6823a4f24ab": {
-      "date": "2026-08-04",
-      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "source": "hackernews"
-    },
-    "1c2d5afa08761324": {
-      "date": "2026-08-04",
-      "title": "Gwern reties from fulltime writing to launch Guardian Angel Inc",
-      "source": "hackernews"
-    },
-    "ed218b9fc9ec18ed": {
-      "date": "2026-08-04",
-      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-      "source": "hackernews"
-    },
-    "2069796da4721147": {
-      "date": "2026-08-04",
-      "title": "Video2NAND – Abusing video codecs for great computational power",
-      "source": "hackernews"
-    },
-    "4679f18cd1afef0f": {
-      "date": "2026-08-04",
-      "title": "We finally learned to center a div, then browsers added sidebars",
-      "source": "hackernews"
-    },
-    "2ffc3aecb62b082d": {
-      "date": "2026-08-04",
-      "title": "Stop Calling Everything Impostor Syndrome: The Myth of \"Just Push Harder\"",
-      "source": "devto"
-    },
-    "a8861a9b30d734a9": {
-      "date": "2026-08-04",
-      "title": "Damn Popovers",
-      "source": "devto"
-    },
-    "9e7b5db9566c3000": {
-      "date": "2026-08-04",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "90984ac2d725a390": {
-      "date": "2026-08-04",
-      "title": "Interviewing off leetcode you already memorized isn't cheating, it's the job",
-      "source": "devto"
-    },
-    "e78160eacdfb3d9a": {
-      "date": "2026-08-04",
-      "title": "Understanding Over Origin: The Missing Friction",
-      "source": "devto"
-    },
-    "cbbe584a395d1061": {
-      "date": "2026-08-04",
-      "title": "I Hashed Every Word Twice to Count It Once",
-      "source": "devto"
-    },
-    "5eec5986331f4174": {
-      "date": "2026-08-04",
-      "title": "7.8 MB of Keys I Allocated Just to Throw Away",
-      "source": "devto"
-    },
-    "ca25ff9ebee18da5": {
-      "date": "2026-08-04",
-      "title": "Your browser renders everything, even what you can't see — `content-visibility: auto` fixes that",
-      "source": "devto"
-    },
-    "b00ff997a1f21ed3": {
-      "date": "2026-08-04",
-      "title": "Channels SDK: How to bring your Agent to any Channel (Slack, Microsoft Teams)",
-      "source": "devto"
-    },
-    "26d436d8aa346408": {
-      "date": "2026-08-04",
-      "title": "Git Diff for Human Reasoning",
-      "source": "devto"
-    },
-    "4f8373d66b0b5b23": {
-      "date": "2026-08-04",
-      "title": "uber / ADR",
-      "source": "github"
-    },
-    "91014a4cbd784884": {
-      "date": "2026-08-04",
-      "title": "cypress-io / cypress",
-      "source": "github"
-    },
-    "cfdfd9911bfeec1f": {
-      "date": "2026-08-04",
-      "title": "webpack / webpack",
-      "source": "github"
-    },
-    "2e6363345ba2af4a": {
-      "date": "2026-08-04",
-      "title": "gabime / spdlog",
-      "source": "github"
-    },
-    "a1027f6b7d36d22a": {
-      "date": "2026-08-04",
-      "title": "denoland / deno",
-      "source": "github"
-    },
-    "eea0e619ec07671d": {
-      "date": "2026-08-04",
-      "title": "angular / angular",
-      "source": "github"
-    },
-    "3612263b02aa7e3a": {
-      "date": "2026-08-04",
-      "title": "tailwindlabs / tailwindcss",
-      "source": "github"
-    },
     "8d7cedf02ad4b855": {
       "date": "2026-08-05",
       "title": "Discovery Loop",
@@ -4940,6 +4765,161 @@
     "786d914db71c331d": {
       "date": "2026-09-03",
       "title": "blader / humanizer",
+      "source": "github"
+    },
+    "bd1b0b7f2fa5f635": {
+      "date": "2026-09-04",
+      "title": ".name Termination",
+      "source": "hackernews"
+    },
+    "1b6b443c0aff36e8": {
+      "date": "2026-09-04",
+      "title": "GPT-6 Astra",
+      "source": "hackernews"
+    },
+    "3efa566bf05e6e8c": {
+      "date": "2026-09-04",
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "source": "hackernews"
+    },
+    "d055f5ec31ebc871": {
+      "date": "2026-09-04",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "source": "hackernews"
+    },
+    "166c7daaa257c653": {
+      "date": "2026-09-04",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "source": "hackernews"
+    },
+    "497eb0b45fab2fc0": {
+      "date": "2026-09-04",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "source": "hackernews"
+    },
+    "26242179ba903935": {
+      "date": "2026-09-04",
+      "title": "The largest electric aircraft just flew [video]",
+      "source": "hackernews"
+    },
+    "8a7d120c003047c9": {
+      "date": "2026-09-04",
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "source": "hackernews"
+    },
+    "d88bb5bab6e499ad": {
+      "date": "2026-09-04",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "source": "hackernews"
+    },
+    "e8c78c3cdefa4614": {
+      "date": "2026-09-04",
+      "title": "GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
+      "source": "hackernews"
+    },
+    "c34e1b147402f5f8": {
+      "date": "2026-09-04",
+      "title": "Fillo",
+      "source": "producthunt"
+    },
+    "4f97ceccff714c9a": {
+      "date": "2026-09-04",
+      "title": "Nex",
+      "source": "producthunt"
+    },
+    "a094b106272cf3d9": {
+      "date": "2026-09-04",
+      "title": "CodeLook",
+      "source": "producthunt"
+    },
+    "60daef4c6698af07": {
+      "date": "2026-09-04",
+      "title": "Readr",
+      "source": "producthunt"
+    },
+    "198c91f5f5933a33": {
+      "date": "2026-09-04",
+      "title": "Causal",
+      "source": "producthunt"
+    },
+    "8e1a6b35f6887771": {
+      "date": "2026-09-04",
+      "title": "Tidy",
+      "source": "producthunt"
+    },
+    "e9dab6a0ce048dfe": {
+      "date": "2026-09-04",
+      "title": "Thaw",
+      "source": "producthunt"
+    },
+    "15e8007373b678d2": {
+      "date": "2026-09-04",
+      "title": "Blume.codes",
+      "source": "producthunt"
+    },
+    "62ef4cb92bb39622": {
+      "date": "2026-09-04",
+      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
+      "source": "devto"
+    },
+    "4ea9acd3fdf1f476": {
+      "date": "2026-09-04",
+      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
+      "source": "devto"
+    },
+    "9da6d7d380de8203": {
+      "date": "2026-09-04",
+      "title": "AI-assisted genealogy",
+      "source": "devto"
+    },
+    "8e567e01e0d9b054": {
+      "date": "2026-09-04",
+      "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
+      "source": "devto"
+    },
+    "e79304a7cd184007": {
+      "date": "2026-09-04",
+      "title": "The extraction returned zero memories, and nothing screamed",
+      "source": "devto"
+    },
+    "368f0e3c213f120b": {
+      "date": "2026-09-04",
+      "title": "My Dev.to CLI Got Its First Community PR. Image Uploads From Terminal.",
+      "source": "devto"
+    },
+    "3cf2be80e4ab989c": {
+      "date": "2026-09-04",
+      "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with",
+      "source": "devto"
+    },
+    "6cadbd90c037f45d": {
+      "date": "2026-09-04",
+      "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
+      "source": "devto"
+    },
+    "96f05956dcbdb215": {
+      "date": "2026-09-04",
+      "title": "Four Ways Your Background Job Disappears (And How to Stop Each One)",
+      "source": "devto"
+    },
+    "cdf649762481c848": {
+      "date": "2026-09-04",
+      "title": "Forensic Receipts: From Trusted to Proven",
+      "source": "devto"
+    },
+    "1ae169fb23a902a7": {
+      "date": "2026-09-04",
+      "title": "mattpocock / skills",
+      "source": "github"
+    },
+    "4ea29adcea71be3d": {
+      "date": "2026-09-04",
+      "title": "ByteByteGoHq / system-design-101",
+      "source": "github"
+    },
+    "2f51b72af43a25a9": {
+      "date": "2026-09-04",
+      "title": "magnitudedev / magnitude",
       "source": "github"
     }
   }
