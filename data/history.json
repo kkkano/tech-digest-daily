@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-04T00:22:21.952793",
+  "last_updated": "2026-09-05T00:35:26.518560",
   "sent_items": {
-    "8d7cedf02ad4b855": {
-      "date": "2026-08-05",
-      "title": "Discovery Loop",
-      "source": "hackernews"
-    },
-    "d37d7ecef2b4cb13": {
-      "date": "2026-08-05",
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "source": "hackernews"
-    },
-    "47b35685c7b6be38": {
-      "date": "2026-08-05",
-      "title": "Zed DeltaDB",
-      "source": "hackernews"
-    },
-    "3bff1aeaaa98bb34": {
-      "date": "2026-08-05",
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "source": "hackernews"
-    },
-    "f448502135c3c631": {
-      "date": "2026-08-05",
-      "title": "I'm switching my phone from Android to Linux",
-      "source": "hackernews"
-    },
-    "cae2f6d4d575a037": {
-      "date": "2026-08-05",
-      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "source": "hackernews"
-    },
-    "9eac21dc6afd938c": {
-      "date": "2026-08-05",
-      "title": "Muse Code and Muse Spark 1.2",
-      "source": "hackernews"
-    },
-    "4979b470afa03b2a": {
-      "date": "2026-08-05",
-      "title": "The title cards in Blade Runner are amazing",
-      "source": "hackernews"
-    },
-    "42b062770a48a1e4": {
-      "date": "2026-08-05",
-      "title": "Prime Agent: A self-improving RLM agent",
-      "source": "hackernews"
-    },
-    "ef5bc04a96b8fc7f": {
-      "date": "2026-08-05",
-      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
-      "source": "hackernews"
-    },
-    "f7a96783abe607d3": {
-      "date": "2026-08-05",
-      "title": "NextDoor.Company",
-      "source": "producthunt"
-    },
-    "8df8da528b173ee3": {
-      "date": "2026-08-05",
-      "title": "BackEngine MCP",
-      "source": "producthunt"
-    },
-    "8720be1788260b7d": {
-      "date": "2026-08-05",
-      "title": "AdAnt AI",
-      "source": "producthunt"
-    },
-    "2df29dce83775f94": {
-      "date": "2026-08-05",
-      "title": "Wispr Flow Notetaker",
-      "source": "producthunt"
-    },
-    "77f56a2b75b0d03a": {
-      "date": "2026-08-05",
-      "title": "Keystroke",
-      "source": "producthunt"
-    },
-    "cadf987074b805b6": {
-      "date": "2026-08-05",
-      "title": "npm i -g hotcell",
-      "source": "producthunt"
-    },
-    "87521c8477b7a842": {
-      "date": "2026-08-05",
-      "title": "Kiro Crew",
-      "source": "producthunt"
-    },
-    "5fe40cb4252a6e2a": {
-      "date": "2026-08-05",
-      "title": "Cloudflare Wallets",
-      "source": "producthunt"
-    },
-    "e4c76c609d7e0d06": {
-      "date": "2026-08-05",
-      "title": "How I Smashed a Bug in a Shared Authentication Library",
-      "source": "devto"
-    },
-    "443ea7cff262cf74": {
-      "date": "2026-08-05",
-      "title": "General Challenge Updates Moving Forward",
-      "source": "devto"
-    },
-    "27eb5aea3573ca2d": {
-      "date": "2026-08-05",
-      "title": "Swift Protocols — The Art of Making Promises 🤝",
-      "source": "devto"
-    },
-    "23822812527d647c": {
-      "date": "2026-08-05",
-      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
-      "source": "devto"
-    },
-    "93dbb70966e9a04b": {
-      "date": "2026-08-05",
-      "title": "Are we the abstraction? AI and the future of software engineering",
-      "source": "devto"
-    },
-    "f572a9e8ca97a72c": {
-      "date": "2026-08-05",
-      "title": "Introducing Kiro Crew: AWS's Open-Source AI Agent Orchestrator",
-      "source": "devto"
-    },
-    "d6893fd6c1adf0a2": {
-      "date": "2026-08-05",
-      "title": "How I Stopped 429 Retries from Duplicating Successful Batch Jobs",
-      "source": "devto"
-    },
-    "4051e434c9f4179c": {
-      "date": "2026-08-05",
-      "title": "ঘরের থালি: CSS Art Feast of Peshawari Meat, Beef Curry & Chicken Biryani",
-      "source": "devto"
-    },
-    "54040ddf4ed26b33": {
-      "date": "2026-08-05",
-      "title": "This Bug Has Never Fired in Production. I Fixed It Anyway",
-      "source": "devto"
-    },
-    "51dec154abdf21eb": {
-      "date": "2026-08-05",
-      "title": "Ramen After Dark — A Steaming Comfort-Food Scene Drawn Entirely in CSS",
-      "source": "devto"
-    },
-    "710e3cb1a40c7d1e": {
-      "date": "2026-08-05",
-      "title": "cloudflare / computer",
-      "source": "github"
-    },
-    "0134ddc144f0e503": {
-      "date": "2026-08-05",
-      "title": "huangruiteng / loopx",
-      "source": "github"
-    },
-    "0d1bd25a3199bf22": {
-      "date": "2026-08-05",
-      "title": "addyosmani / agent-skills",
-      "source": "github"
-    },
-    "b8b2afae293a234e": {
-      "date": "2026-08-05",
-      "title": "roboflow / supervision",
-      "source": "github"
-    },
     "c0fb715017047b76": {
       "date": "2026-08-07",
       "title": "Gesture Synth School",
@@ -4920,6 +4760,161 @@
     "2f51b72af43a25a9": {
       "date": "2026-09-04",
       "title": "magnitudedev / magnitude",
+      "source": "github"
+    },
+    "c826810d06ef1884": {
+      "date": "2026-09-05",
+      "title": "Discovery of a new OpenAI agent message board",
+      "source": "hackernews"
+    },
+    "7036feb3828d857d": {
+      "date": "2026-09-05",
+      "title": "Formalizing Fermat's Last Theorem",
+      "source": "hackernews"
+    },
+    "5552316f3c752146": {
+      "date": "2026-09-05",
+      "title": "Shutting down our public encrypted DNS",
+      "source": "hackernews"
+    },
+    "fae0da9a07021afb": {
+      "date": "2026-09-05",
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "source": "hackernews"
+    },
+    "b3e2f2da19b1dcbe": {
+      "date": "2026-09-05",
+      "title": "Statichost.eu – European static site hosting",
+      "source": "hackernews"
+    },
+    "98f52d5492702a4c": {
+      "date": "2026-09-05",
+      "title": "Can AI design circuit boards yet?",
+      "source": "hackernews"
+    },
+    "a4ca6138058c6698": {
+      "date": "2026-09-05",
+      "title": "GPT-6 Astra on OpenRouter",
+      "source": "hackernews"
+    },
+    "e244ea284f18450d": {
+      "date": "2026-09-05",
+      "title": "An open DNS recursive service for free security and high privacy",
+      "source": "hackernews"
+    },
+    "97fe5ee44aec8aaf": {
+      "date": "2026-09-05",
+      "title": "RSA-260 Factorized",
+      "source": "hackernews"
+    },
+    "b0fc4c075df3862c": {
+      "date": "2026-09-05",
+      "title": "Can guitar frets perform multiplication?",
+      "source": "hackernews"
+    },
+    "f5d8618f26c71b5f": {
+      "date": "2026-09-05",
+      "title": "cmmnts",
+      "source": "producthunt"
+    },
+    "6ba7d52cd0044d40": {
+      "date": "2026-09-05",
+      "title": "GPT-6 Astra",
+      "source": "producthunt"
+    },
+    "7c0f222e18455218": {
+      "date": "2026-09-05",
+      "title": "Chalked for Mac",
+      "source": "producthunt"
+    },
+    "d7be2135f4f625e8": {
+      "date": "2026-09-05",
+      "title": "Clockwork",
+      "source": "producthunt"
+    },
+    "b0507fb3fbac119c": {
+      "date": "2026-09-05",
+      "title": "WeatherNext 3",
+      "source": "producthunt"
+    },
+    "5a0bfeed84b997f3": {
+      "date": "2026-09-05",
+      "title": "TrackMCP",
+      "source": "producthunt"
+    },
+    "88a9807611b96223": {
+      "date": "2026-09-05",
+      "title": "Omarchy",
+      "source": "producthunt"
+    },
+    "cdd1869140b19da6": {
+      "date": "2026-09-05",
+      "title": "Google Gemini 3.8 Flash and Cyber",
+      "source": "producthunt"
+    },
+    "a8870f21655726ec": {
+      "date": "2026-09-05",
+      "title": "Hey Everyone! I’m Sanidhya from MLH",
+      "source": "devto"
+    },
+    "8040c2aff4769b5e": {
+      "date": "2026-09-05",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "d1e1c7345f6d0851": {
+      "date": "2026-09-05",
+      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
+      "source": "devto"
+    },
+    "e4df8d6c9c6899f5": {
+      "date": "2026-09-05",
+      "title": "Dev Opportunity Radar #15: HackerRank Orchestrate, Claude Campus Ambassadors & the Bharat Builds Tou",
+      "source": "devto"
+    },
+    "fecbddaffc39b963": {
+      "date": "2026-09-05",
+      "title": "The board came back. The highlights lied.",
+      "source": "devto"
+    },
+    "35568cd9e9e5bedb": {
+      "date": "2026-09-05",
+      "title": "When Should You Use n8n Instead of Writing the Code Yourself?",
+      "source": "devto"
+    },
+    "821f7a55fdccf05d": {
+      "date": "2026-09-05",
+      "title": "Your AI-generated tests aren't testing your code. They're testing the AI's blind spots.",
+      "source": "devto"
+    },
+    "e904c5f6353cb16d": {
+      "date": "2026-09-05",
+      "title": "Gemini Agentic Video Isn't Always Cheaper: A 24-Run Benchmark",
+      "source": "devto"
+    },
+    "ad17cb2c92c001f9": {
+      "date": "2026-09-05",
+      "title": "[Open Source Sharing] How I Built Three Small Party Games for a Spring Dinner",
+      "source": "devto"
+    },
+    "dd841669b3deff1a": {
+      "date": "2026-09-05",
+      "title": "How ChatGPT agents with no internet access ended up in Hugging Face",
+      "source": "devto"
+    },
+    "da8fbc1a4b495fcf": {
+      "date": "2026-09-05",
+      "title": "bikini / exploitarium",
+      "source": "github"
+    },
+    "8f0bf963eb960c23": {
+      "date": "2026-09-05",
+      "title": "radixark / miles",
+      "source": "github"
+    },
+    "9bde5582e8ba9a19": {
+      "date": "2026-09-05",
+      "title": "anomalyco / opencode",
       "source": "github"
     }
   }
