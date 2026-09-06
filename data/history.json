@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-05T00:35:26.518560",
+  "last_updated": "2026-09-06T00:25:54.381931",
   "sent_items": {
     "c0fb715017047b76": {
       "date": "2026-08-07",
@@ -4915,6 +4915,161 @@
     "9bde5582e8ba9a19": {
       "date": "2026-09-05",
       "title": "anomalyco / opencode",
+      "source": "github"
+    },
+    "241bb99fc756252b": {
+      "date": "2026-09-06",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "source": "hackernews"
+    },
+    "66c13bbe512f4f97": {
+      "date": "2026-09-06",
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "source": "hackernews"
+    },
+    "074ab63958e3240e": {
+      "date": "2026-09-06",
+      "title": "Learn Programming with OCaml",
+      "source": "hackernews"
+    },
+    "9c3945415f52154d": {
+      "date": "2026-09-06",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "source": "hackernews"
+    },
+    "13492900194478ea": {
+      "date": "2026-09-06",
+      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
+      "source": "hackernews"
+    },
+    "2babf08e13268e48": {
+      "date": "2026-09-06",
+      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+      "source": "hackernews"
+    },
+    "49483bddfa3a1d38": {
+      "date": "2026-09-06",
+      "title": "Show HN: Fly By – retro biplane flying game",
+      "source": "hackernews"
+    },
+    "9bb4b35f248f1f80": {
+      "date": "2026-09-06",
+      "title": "How Swiss tables work in Go built-in map",
+      "source": "hackernews"
+    },
+    "15c164fdbc034dc9": {
+      "date": "2026-09-06",
+      "title": "How AI is breaking the British state",
+      "source": "hackernews"
+    },
+    "9a7632dec7a8c392": {
+      "date": "2026-09-06",
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "source": "hackernews"
+    },
+    "69c25f103a0570b9": {
+      "date": "2026-09-06",
+      "title": "GitWarren",
+      "source": "producthunt"
+    },
+    "111542e20e62ae48": {
+      "date": "2026-09-06",
+      "title": "BrickForgerAI",
+      "source": "producthunt"
+    },
+    "a4e535c8df50e138": {
+      "date": "2026-09-06",
+      "title": "Queuebrick",
+      "source": "producthunt"
+    },
+    "0761864b341f6284": {
+      "date": "2026-09-06",
+      "title": "CommuteBar",
+      "source": "producthunt"
+    },
+    "0059a2527a0507cd": {
+      "date": "2026-09-06",
+      "title": "Experiential Labs",
+      "source": "producthunt"
+    },
+    "891f6627b47f247b": {
+      "date": "2026-09-06",
+      "title": "at8pm",
+      "source": "producthunt"
+    },
+    "a9e4b9f80dd4f794": {
+      "date": "2026-09-06",
+      "title": "Hyperprobe",
+      "source": "producthunt"
+    },
+    "b24885ff35a442d4": {
+      "date": "2026-09-06",
+      "title": "Ponytail",
+      "source": "producthunt"
+    },
+    "ffc93888bb6b085d": {
+      "date": "2026-09-06",
+      "title": "We Throw Away 1.3 Billion Tons of Food While Millions Starve. I Built FoodBridge with Snowflake to S",
+      "source": "devto"
+    },
+    "cfbeef656bc4ddac": {
+      "date": "2026-09-06",
+      "title": "I built PadForward because sometimes you just need a pad",
+      "source": "devto"
+    },
+    "854c58f439ecdb62": {
+      "date": "2026-09-06",
+      "title": "Generosity Is a Default Setting",
+      "source": "devto"
+    },
+    "42d96b2465a25aa8": {
+      "date": "2026-09-06",
+      "title": "I Watched Our Interns Play Valorant for Three Hours. Put Your Rank on the Resume.",
+      "source": "devto"
+    },
+    "cebea86e8a2676bf": {
+      "date": "2026-09-06",
+      "title": "🚨📢Launching Docgrity 🚀: Documentation integrity for you, your team, and your agent friends. 🤖",
+      "source": "devto"
+    },
+    "3c053c760df34b6e": {
+      "date": "2026-09-06",
+      "title": "Put App Documents in the System File Browser",
+      "source": "devto"
+    },
+    "62d31b312fab4a51": {
+      "date": "2026-09-06",
+      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
+      "source": "devto"
+    },
+    "f61df34d547f97b4": {
+      "date": "2026-09-06",
+      "title": "My AI reviews its own code with 4 rival models. The majority just approved a security hole three rou",
+      "source": "devto"
+    },
+    "242c528ba733f7ee": {
+      "date": "2026-09-06",
+      "title": "I'm 12. My Code Jam got zero submissions. So I built a platform for it.",
+      "source": "devto"
+    },
+    "f87664ca2e548e2c": {
+      "date": "2026-09-06",
+      "title": "I Built a Database in Rust With Zero Dependencies (and What the Standard Library Quietly Gave Me)",
+      "source": "devto"
+    },
+    "3a6f23d0105ddd3e": {
+      "date": "2026-09-06",
+      "title": "humanlayer / skills",
+      "source": "github"
+    },
+    "d7de97da89a745b2": {
+      "date": "2026-09-06",
+      "title": "BraveOPotato / FckSignups",
+      "source": "github"
+    },
+    "0119fd277859b072": {
+      "date": "2026-09-06",
+      "title": "WorldFlowAI / everything-claude-code",
       "source": "github"
     }
   }
