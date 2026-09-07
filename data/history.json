@@ -1,332 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-06T00:25:54.381931",
+  "last_updated": "2026-09-07T00:33:08.267237",
   "sent_items": {
-    "c0fb715017047b76": {
-      "date": "2026-08-07",
-      "title": "Gesture Synth School",
-      "source": "producthunt"
-    },
-    "e5ac93b8c12d03d6": {
-      "date": "2026-08-07",
-      "title": "Shieldstral",
-      "source": "producthunt"
-    },
-    "e709b026f2c0dc62": {
-      "date": "2026-08-07",
-      "title": "Ododok",
-      "source": "producthunt"
-    },
-    "60e4ed0b0d37b484": {
-      "date": "2026-08-07",
-      "title": "Chute",
-      "source": "producthunt"
-    },
-    "f8dbf11b753ee758": {
-      "date": "2026-08-07",
-      "title": "Annotate",
-      "source": "producthunt"
-    },
-    "86c76b7183a37fdc": {
-      "date": "2026-08-07",
-      "title": "Aveiro",
-      "source": "producthunt"
-    },
-    "ca96b6ce9b7f6538": {
-      "date": "2026-08-07",
-      "title": "Website to Markdown API",
-      "source": "producthunt"
-    },
-    "b19f91df5ef61b4e": {
-      "date": "2026-08-07",
-      "title": "Mario Meets Pareto",
-      "source": "hackernews"
-    },
-    "dac781ad7a574503": {
-      "date": "2026-08-07",
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "source": "hackernews"
-    },
-    "bd4d76abfd2226cc": {
-      "date": "2026-08-07",
-      "title": "Taste Is All That's Left",
-      "source": "hackernews"
-    },
-    "92027934d2df4e68": {
-      "date": "2026-08-07",
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-      "source": "hackernews"
-    },
-    "dc4fd5ffb0569f79": {
-      "date": "2026-08-07",
-      "title": "Herdr is joining Y Combinator. The runtime stays open",
-      "source": "hackernews"
-    },
-    "7d097087a4f55616": {
-      "date": "2026-08-07",
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "source": "hackernews"
-    },
-    "4fe53e355d185a68": {
-      "date": "2026-08-07",
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "source": "hackernews"
-    },
-    "9154fd6b71ea4c1e": {
-      "date": "2026-08-07",
-      "title": "I stopped trusting USB-C cable labels and started testing them",
-      "source": "hackernews"
-    },
-    "3f1dab2cb5b9bc58": {
-      "date": "2026-08-07",
-      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "source": "hackernews"
-    },
-    "796742e574b2a4e5": {
-      "date": "2026-08-07",
-      "title": "New Orleans will use AI to answer 911 calls instead of a human",
-      "source": "hackernews"
-    },
-    "5102252263a88826": {
-      "date": "2026-08-07",
-      "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
-      "source": "devto"
-    },
-    "c17b4f2633542bc1": {
-      "date": "2026-08-07",
-      "title": "I Recreated Management With AI: 9 Things I Do Differently",
-      "source": "devto"
-    },
-    "a4551ca54fd3b338": {
-      "date": "2026-08-07",
-      "title": "I Spent a Day With Kiro Crew. Here's What It Actually Does.",
-      "source": "devto"
-    },
-    "81cbe5cbca519e17": {
-      "date": "2026-08-07",
-      "title": "Opus 5: Delete your CLAUDE.md?",
-      "source": "devto"
-    },
-    "66cfc933464719ed": {
-      "date": "2026-08-07",
-      "title": "This is a submission for [Frontend Challenge - Comfort Food Edition, Perfect Landing] 😊",
-      "source": "devto"
-    },
-    "0c1e4a97b9a86a3f": {
-      "date": "2026-08-07",
-      "title": "I Replaced kube-proxy with eBPF in Production (And Why My Monitoring Went Blind for 6 Hours)",
-      "source": "devto"
-    },
-    "161745cab60ec1e9": {
-      "date": "2026-08-07",
-      "title": "What Developer Experience Actually Means",
-      "source": "devto"
-    },
-    "0a65b267f5c014ab": {
-      "date": "2026-08-07",
-      "title": "Dev log #15 Refining the Craft: A week of Neovim UI hacking and portfolio architecture",
-      "source": "devto"
-    },
-    "5578a1eda0be0c04": {
-      "date": "2026-08-07",
-      "title": "The Crash JavaScript Couldn't Catch: Fixing Android Native Crashes in a React Native App",
-      "source": "devto"
-    },
-    "3685e7e687ef2667": {
-      "date": "2026-08-07",
-      "title": "My First Paying Customer Failed 4 Times: Quality Is Not a Final Check",
-      "source": "devto"
-    },
-    "9f192d1849d45b01": {
-      "date": "2026-08-07",
-      "title": "goauthentik / authentik",
-      "source": "github"
-    },
-    "df6e390c235a42a2": {
-      "date": "2026-08-07",
-      "title": "google / guava",
-      "source": "github"
-    },
-    "7bd0775c5ce4ee5c": {
-      "date": "2026-08-07",
-      "title": "TapXWorld / ChinaTextbook",
-      "source": "github"
-    },
-    "2f5b9452f2dfd7d0": {
-      "date": "2026-08-07",
-      "title": "Significant-Gravitas / AutoGPT",
-      "source": "github"
-    },
-    "2e39f74301c7f0d2": {
-      "date": "2026-08-07",
-      "title": "DataBlur",
-      "source": "producthunt"
-    },
-    "05236b338b752be1": {
-      "date": "2026-08-07",
-      "title": "ShootClip",
-      "source": "producthunt"
-    },
-    "526dd679288e25b1": {
-      "date": "2026-08-07",
-      "title": "Blueberry",
-      "source": "producthunt"
-    },
-    "b105330180f3a437": {
-      "date": "2026-08-07",
-      "title": "Rescript for Desktop",
-      "source": "producthunt"
-    },
-    "9702f87280c9c4d6": {
-      "date": "2026-08-07",
-      "title": "Merge",
-      "source": "producthunt"
-    },
-    "e1922af2afb75b83": {
-      "date": "2026-08-07",
-      "title": "Soloop",
-      "source": "producthunt"
-    },
-    "84192075b6605656": {
-      "date": "2026-08-07",
-      "title": "Prompt Bridge",
-      "source": "producthunt"
-    },
-    "7072d9c4c23e8d9e": {
-      "date": "2026-08-07",
-      "title": "DeepSeek V4 Flash 0731",
-      "source": "hackernews"
-    },
-    "99c5fc173e86b393": {
-      "date": "2026-08-07",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "source": "hackernews"
-    },
-    "6ed73fb0dd97c3b1": {
-      "date": "2026-08-07",
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "source": "hackernews"
-    },
-    "f222ab795a8b0a89": {
-      "date": "2026-08-07",
-      "title": "Assembly Hall of Shame",
-      "source": "hackernews"
-    },
-    "08c06a38d78616a1": {
-      "date": "2026-08-07",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "source": "hackernews"
-    },
-    "f05e07c94926179a": {
-      "date": "2026-08-07",
-      "title": "An all-sky map of half a million supermassive black holes",
-      "source": "hackernews"
-    },
-    "d8c1504d1e356d0c": {
-      "date": "2026-08-07",
-      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-      "source": "hackernews"
-    },
-    "0b45378172f2c26b": {
-      "date": "2026-08-07",
-      "title": "Carl's Required Reading",
-      "source": "hackernews"
-    },
-    "6261db6c664affc6": {
-      "date": "2026-08-07",
-      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-      "source": "hackernews"
-    },
-    "7829fcdafb902a1e": {
-      "date": "2026-08-07",
-      "title": "Guarded Methods in OCaml",
-      "source": "hackernews"
-    },
-    "ab78ed3e629e5469": {
-      "date": "2026-08-07",
-      "title": "What was your win this week?",
-      "source": "devto"
-    },
-    "93048ac6ebf563c9": {
-      "date": "2026-08-07",
-      "title": "The Year I Started Leaving Breadcrumbs Instead of Notes",
-      "source": "devto"
-    },
-    "9c07ec53d4f61988": {
-      "date": "2026-08-07",
-      "title": "ratatop: the process table, and the parentheses that ruin everything",
-      "source": "devto"
-    },
-    "bbd6724799e6e36c": {
-      "date": "2026-08-07",
-      "title": "linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀",
-      "source": "devto"
-    },
-    "68efad4dcc7179b2": {
-      "date": "2026-08-07",
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "source": "devto"
-    },
-    "dc37a2d2e2fd1e52": {
-      "date": "2026-08-07",
-      "title": "I Found Two Bugs in Zulip. The Maintainers Had Filed Both Two Weeks Earlier.",
-      "source": "devto"
-    },
-    "4dd5f51c5fdc5716": {
-      "date": "2026-08-07",
-      "title": "How Kiro Crew's Cron Jobs Replaced 4 Hours of Weekly Toil",
-      "source": "devto"
-    },
-    "6f4494bd409d7c7c": {
-      "date": "2026-08-07",
-      "title": "I Thought Building Agent Observability Was a Detector Problem. I Was Wrong.",
-      "source": "devto"
-    },
-    "e3a22662509caa5e": {
-      "date": "2026-08-07",
-      "title": "Aged Care Does Not Need More AI",
-      "source": "devto"
-    },
-    "3544e78c09ad8131": {
-      "date": "2026-08-07",
-      "title": "Multi-Repo to Monorepo: How I Automated 6 Go Microservice Releases and Then Made It 15x Faster",
-      "source": "devto"
-    },
-    "fd5ece9fb4227a5e": {
-      "date": "2026-08-07",
-      "title": "PrimeIntellect-ai / prime-agent",
-      "source": "github"
-    },
-    "a7f9890fb36a6a88": {
-      "date": "2026-08-07",
-      "title": "semantica-agi / semantica",
-      "source": "github"
-    },
-    "5fa324d6510a1f1b": {
-      "date": "2026-08-07",
-      "title": "666ghj / MiroFish",
-      "source": "github"
-    },
-    "babd5456309a43a6": {
-      "date": "2026-08-07",
-      "title": "jdx / mise",
-      "source": "github"
-    },
-    "6125ba6588eb10b8": {
-      "date": "2026-08-07",
-      "title": "unclebob / swarm-forge",
-      "source": "github"
-    },
-    "0ab654e456c47753": {
-      "date": "2026-08-07",
-      "title": "denoland / celld",
-      "source": "github"
-    },
-    "7b86631926e7e6f3": {
-      "date": "2026-08-07",
-      "title": "K2SOsint / Legendary_OSINT",
-      "source": "github"
-    },
     "482fdf4e3a0eb7bf": {
       "date": "2026-08-08",
       "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
@@ -5070,6 +4745,151 @@
     "0119fd277859b072": {
       "date": "2026-09-06",
       "title": "WorldFlowAI / everything-claude-code",
+      "source": "github"
+    },
+    "1759500f645bb398": {
+      "date": "2026-09-07",
+      "title": "Your intellectual fly is open (2025)",
+      "source": "hackernews"
+    },
+    "10e69cd3e2208a54": {
+      "date": "2026-09-07",
+      "title": "Asahi Linux on M3",
+      "source": "hackernews"
+    },
+    "c049e4de41cb49ac": {
+      "date": "2026-09-07",
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "source": "hackernews"
+    },
+    "02ac4380a1b38984": {
+      "date": "2026-09-07",
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "source": "hackernews"
+    },
+    "7ded3e91ccd1bd1e": {
+      "date": "2026-09-07",
+      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+      "source": "hackernews"
+    },
+    "5f0d51b46dced628": {
+      "date": "2026-09-07",
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "source": "hackernews"
+    },
+    "1f11cbd5b32484d4": {
+      "date": "2026-09-07",
+      "title": "Making a Python interpreter in 1024 bytes",
+      "source": "hackernews"
+    },
+    "72c0b914c5bb649f": {
+      "date": "2026-09-07",
+      "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials (2011)",
+      "source": "hackernews"
+    },
+    "3bc5c49d56d82f93": {
+      "date": "2026-09-07",
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "source": "hackernews"
+    },
+    "df5be31d5497cded": {
+      "date": "2026-09-07",
+      "title": "Reverse engineering the storage format for an undocumented database",
+      "source": "hackernews"
+    },
+    "58010b61f2b92f9e": {
+      "date": "2026-09-07",
+      "title": "Kit by Speakeasy",
+      "source": "producthunt"
+    },
+    "db0e76466dc21fce": {
+      "date": "2026-09-07",
+      "title": "Agentic Video Understanding in Gemini",
+      "source": "producthunt"
+    },
+    "858968678fe1ec6a": {
+      "date": "2026-09-07",
+      "title": "H3 Max by fal",
+      "source": "producthunt"
+    },
+    "7bdd3601f8ab9089": {
+      "date": "2026-09-07",
+      "title": "Reflexio",
+      "source": "producthunt"
+    },
+    "16ecb6b6ed472cad": {
+      "date": "2026-09-07",
+      "title": "I Built a Version Bump Tool in Rust That Is 10,000x Faster Than Its Python Counterparts.",
+      "source": "devto"
+    },
+    "df1783a6bdcf9293": {
+      "date": "2026-09-07",
+      "title": "The Same Day, 180 Times: How Does the Unglamorous Machinery of Locking In Actually Work?",
+      "source": "devto"
+    },
+    "7e9938482e194986": {
+      "date": "2026-09-07",
+      "title": "Markov Chain Monte Carlo: the 1953 algorithm hiding under modern AI",
+      "source": "devto"
+    },
+    "c95bef62dd3f2f75": {
+      "date": "2026-09-07",
+      "title": "My Grandmother Ran Ajo. I Built the Version Where the Pot Can't Walk Away",
+      "source": "devto"
+    },
+    "110d3f9ea4ccba4d": {
+      "date": "2026-09-07",
+      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletpr",
+      "source": "devto"
+    },
+    "25b59ea238d6d0ac": {
+      "date": "2026-09-07",
+      "title": "You write one kind sentence. I donate a dime. A blockchain makes sure I do.",
+      "source": "devto"
+    },
+    "1472c8817408672d": {
+      "date": "2026-09-07",
+      "title": "Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches",
+      "source": "devto"
+    },
+    "f0a613d404e63932": {
+      "date": "2026-09-07",
+      "title": "Posting from a shed with one bar of signal: an offline write queue in plain JS",
+      "source": "devto"
+    },
+    "e06c2b4463876cfd": {
+      "date": "2026-09-07",
+      "title": "Remembering Why We Code: Dropping AI for Fundamental Learning",
+      "source": "devto"
+    },
+    "d4958e65cc59e8d4": {
+      "date": "2026-09-07",
+      "title": "Your audit log is probably lying to you. Postgres 18 fixes it in one statement.",
+      "source": "devto"
+    },
+    "e60f6498c318c48b": {
+      "date": "2026-09-07",
+      "title": "openai / skills",
+      "source": "github"
+    },
+    "eeb7198dc2eb3375": {
+      "date": "2026-09-07",
+      "title": "llvm / llvm-project",
+      "source": "github"
+    },
+    "7344796a1c663646": {
+      "date": "2026-09-07",
+      "title": "coreyhaines31 / marketingskills",
+      "source": "github"
+    },
+    "322dcd7e9a66cb86": {
+      "date": "2026-09-07",
+      "title": "aipoch / open-science",
+      "source": "github"
+    },
+    "ccf10a9ea33b3491": {
+      "date": "2026-09-07",
+      "title": "OpenWhispr / openwhispr",
       "source": "github"
     }
   }
