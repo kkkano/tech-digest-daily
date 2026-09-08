@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-07T00:33:08.267237",
+  "last_updated": "2026-09-08T00:53:42.328369",
   "sent_items": {
-    "482fdf4e3a0eb7bf": {
-      "date": "2026-08-08",
-      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-      "source": "hackernews"
-    },
-    "ea121f25d18711ce": {
-      "date": "2026-08-08",
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "source": "hackernews"
-    },
-    "a883b083f3d8a86d": {
-      "date": "2026-08-08",
-      "title": "A domain can now say it is for sale, in DNS",
-      "source": "hackernews"
-    },
-    "c4c593837e6d495c": {
-      "date": "2026-08-08",
-      "title": "Fastmail offers EU data region",
-      "source": "hackernews"
-    },
-    "abdc68130cebc26d": {
-      "date": "2026-08-08",
-      "title": "LinkedIn Feed Blocker",
-      "source": "hackernews"
-    },
-    "2d193cba6f4e8dfd": {
-      "date": "2026-08-08",
-      "title": "Can Intel finally beat ARM on performance per Watt?",
-      "source": "hackernews"
-    },
-    "6db0bbb1c6af502d": {
-      "date": "2026-08-08",
-      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-      "source": "hackernews"
-    },
-    "7b9e4df6ad0b1391": {
-      "date": "2026-08-08",
-      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
-      "source": "hackernews"
-    },
-    "544667de7d520ee0": {
-      "date": "2026-08-08",
-      "title": "Preventing Misfolding by Preventing Folding",
-      "source": "hackernews"
-    },
-    "378cf497bb609814": {
-      "date": "2026-08-08",
-      "title": "Making difficulty curves in games",
-      "source": "hackernews"
-    },
-    "cc0850cf5e0e5eb1": {
-      "date": "2026-08-08",
-      "title": "Toolport",
-      "source": "producthunt"
-    },
-    "9ed0a10c7f60579a": {
-      "date": "2026-08-08",
-      "title": "Hexis",
-      "source": "producthunt"
-    },
-    "727a01bbb8ed20ab": {
-      "date": "2026-08-08",
-      "title": "AstraPixels",
-      "source": "producthunt"
-    },
-    "fcd808e501953b4f": {
-      "date": "2026-08-08",
-      "title": "Rindler",
-      "source": "producthunt"
-    },
-    "724ab43f9b4a28cc": {
-      "date": "2026-08-08",
-      "title": "Progress AI Observability",
-      "source": "producthunt"
-    },
-    "9b35f034cfea909c": {
-      "date": "2026-08-08",
-      "title": "Into the void",
-      "source": "devto"
-    },
-    "5a27c56af4fcdad9": {
-      "date": "2026-08-08",
-      "title": "Swift Protocols — Opaque Return Types and the Mystery of `some` 🔮",
-      "source": "devto"
-    },
-    "6e6b4a5bc2144303": {
-      "date": "2026-08-08",
-      "title": "I Know the Recipe. I Miss the Winter Kitchen.",
-      "source": "devto"
-    },
-    "f00c6025347c7bcf": {
-      "date": "2026-08-08",
-      "title": "I Explained My Code While Writing It on Camera. Here’s What Surprised Me",
-      "source": "devto"
-    },
-    "a421f72117ff05de": {
-      "date": "2026-08-08",
-      "title": "I Put a Canary Token in My Resume and Caught a Company Stalking Me",
-      "source": "devto"
-    },
-    "40503d8f8a09c6b3": {
-      "date": "2026-08-08",
-      "title": "Who Named This ReAct? I'd Like to Speak to the Manager.",
-      "source": "devto"
-    },
-    "e62179b1d45106f1": {
-      "date": "2026-08-08",
-      "title": "Week 9: Verifying the Token",
-      "source": "devto"
-    },
-    "13f763427d233026": {
-      "date": "2026-08-08",
-      "title": "AI Won't Kill Your AI Won't Kill Your Motivation. But Mediocrity Might.",
-      "source": "devto"
-    },
-    "866727ac24a7b7e5": {
-      "date": "2026-08-08",
-      "title": "Every Test Can Name Why It Exists",
-      "source": "devto"
-    },
-    "71a9d7e07d29eaae": {
-      "date": "2026-08-08",
-      "title": "Our Token Counter Took 26 Seconds on a Single Prompt",
-      "source": "devto"
-    },
-    "69c7eb76fe0b1fcc": {
-      "date": "2026-08-08",
-      "title": "google / skills",
-      "source": "github"
-    },
-    "afdace39e7492d8a": {
-      "date": "2026-08-08",
-      "title": "TauricResearch / TradingAgents",
-      "source": "github"
-    },
-    "b4c1f3891d0e98fc": {
-      "date": "2026-08-08",
-      "title": "LadybirdBrowser / ladybird",
-      "source": "github"
-    },
-    "66a6bfb667a601ed": {
-      "date": "2026-08-08",
-      "title": "litu54 / DevOps-Interview-Guide",
-      "source": "github"
-    },
-    "0e9d524ba522c191": {
-      "date": "2026-08-08",
-      "title": "bannedbook / fanqiang",
-      "source": "github"
-    },
     "bc7e331fcbd972f3": {
       "date": "2026-08-09",
       "title": "Workflo",
@@ -4890,6 +4740,181 @@
     "ccf10a9ea33b3491": {
       "date": "2026-09-07",
       "title": "OpenWhispr / openwhispr",
+      "source": "github"
+    },
+    "ca113981b2328a1b": {
+      "date": "2026-09-08",
+      "title": "WeatherNext 3",
+      "source": "hackernews"
+    },
+    "a7cdf5e2d7c4a03f": {
+      "date": "2026-09-08",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "source": "hackernews"
+    },
+    "6b6cf87e682f5740": {
+      "date": "2026-09-08",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "source": "hackernews"
+    },
+    "9fa15a3694ebaeb8": {
+      "date": "2026-09-08",
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "source": "hackernews"
+    },
+    "cd5193c000aad2ad": {
+      "date": "2026-09-08",
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "source": "hackernews"
+    },
+    "fc549e1af5287cd1": {
+      "date": "2026-09-08",
+      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+      "source": "hackernews"
+    },
+    "9a421d318454b8ab": {
+      "date": "2026-09-08",
+      "title": "Working on Economics with Fable 5",
+      "source": "hackernews"
+    },
+    "067a9da64eb95841": {
+      "date": "2026-09-08",
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "source": "hackernews"
+    },
+    "17360fb73b95417c": {
+      "date": "2026-09-08",
+      "title": "Show HN: I built an aesthetically pleasing puzzle",
+      "source": "hackernews"
+    },
+    "2448c5c2273308e3": {
+      "date": "2026-09-08",
+      "title": "TALA Is Open-Source",
+      "source": "hackernews"
+    },
+    "17f71c7f049f1854": {
+      "date": "2026-09-08",
+      "title": "Assist",
+      "source": "producthunt"
+    },
+    "b9131afb81bf9b26": {
+      "date": "2026-09-08",
+      "title": "Remind",
+      "source": "producthunt"
+    },
+    "5d645167132c95a7": {
+      "date": "2026-09-08",
+      "title": "Tucky",
+      "source": "producthunt"
+    },
+    "68d05165a213dce9": {
+      "date": "2026-09-08",
+      "title": "Airuncode",
+      "source": "producthunt"
+    },
+    "a36c40789e28544d": {
+      "date": "2026-09-08",
+      "title": "Clipnote",
+      "source": "producthunt"
+    },
+    "1c67076c2568fcb5": {
+      "date": "2026-09-08",
+      "title": "Scriptly",
+      "source": "producthunt"
+    },
+    "6f26541ea061bb59": {
+      "date": "2026-09-08",
+      "title": "From AI Solutions to Shared Knowledge: Building an MCP for the Community",
+      "source": "devto"
+    },
+    "f40e641f32567a41": {
+      "date": "2026-09-08",
+      "title": "Dozens of Resumes, One Call From an Old Colleague",
+      "source": "devto"
+    },
+    "4f88904a8c229a1d": {
+      "date": "2026-09-08",
+      "title": "Happen to Have? Answer One Before You Ask One",
+      "source": "devto"
+    },
+    "19fd19a3de671f14": {
+      "date": "2026-09-08",
+      "title": "ReachAloud: I built a multilingual voice tool that reads emergency alerts aloud for people who can't",
+      "source": "devto"
+    },
+    "e84251fd32e5552a": {
+      "date": "2026-09-08",
+      "title": "Charitas Clew: Bureaucracy is heavy. Let's build the counterweight.",
+      "source": "devto"
+    },
+    "326b93d002cedf14": {
+      "date": "2026-09-08",
+      "title": "Web Workers in JavaScript: The Complete Guide",
+      "source": "devto"
+    },
+    "8f571dc5f5e988c6": {
+      "date": "2026-09-08",
+      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
+      "source": "devto"
+    },
+    "dffaf0022f5557d3": {
+      "date": "2026-09-08",
+      "title": "The AI agent cost guides say $200 a month. Mine has cost $5.",
+      "source": "devto"
+    },
+    "191c0ff12599ef3b": {
+      "date": "2026-09-08",
+      "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my",
+      "source": "devto"
+    },
+    "5d4cd5700dbbce65": {
+      "date": "2026-09-08",
+      "title": "Nobody Checks Whether the Guardrail Is Running",
+      "source": "devto"
+    },
+    "1c708e2373cec766": {
+      "date": "2026-09-08",
+      "title": "heygen-com / hyperframes",
+      "source": "github"
+    },
+    "33054ecb8bf0f855": {
+      "date": "2026-09-08",
+      "title": "microsoft / markitdown",
+      "source": "github"
+    },
+    "1bcf0237559db521": {
+      "date": "2026-09-08",
+      "title": "mksglu / context-mode",
+      "source": "github"
+    },
+    "1fbaa3734f80967a": {
+      "date": "2026-09-08",
+      "title": "jo-inc / camofox-browser",
+      "source": "github"
+    },
+    "24c6bd1d49373135": {
+      "date": "2026-09-08",
+      "title": "MoonTechLab / LunaTV",
+      "source": "github"
+    },
+    "b78843cbbd770d80": {
+      "date": "2026-09-08",
+      "title": "The-Swarm-Corporation / AutoHedge",
+      "source": "github"
+    },
+    "8715d70f7c6f5657": {
+      "date": "2026-09-08",
+      "title": "bytedance / deer-flow",
+      "source": "github"
+    },
+    "3e5bc6114122e8e4": {
+      "date": "2026-09-08",
+      "title": "lightpanda-io / browser",
+      "source": "github"
+    },
+    "f3ea32c160be052c": {
+      "date": "2026-09-08",
+      "title": "pascalorg / editor",
       "source": "github"
     }
   }
