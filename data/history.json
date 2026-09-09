@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-08T00:53:42.328369",
+  "last_updated": "2026-09-09T00:45:31.287831",
   "sent_items": {
-    "bc7e331fcbd972f3": {
-      "date": "2026-08-09",
-      "title": "Workflo",
-      "source": "producthunt"
-    },
-    "1b6e4ea6cd7b4d25": {
-      "date": "2026-08-09",
-      "title": "DocsAlot CLI",
-      "source": "producthunt"
-    },
-    "c0572936159eb9aa": {
-      "date": "2026-08-09",
-      "title": "Argos",
-      "source": "producthunt"
-    },
-    "40b102f84f9de363": {
-      "date": "2026-08-09",
-      "title": "DuckDisk",
-      "source": "producthunt"
-    },
-    "7080cdcb3c418976": {
-      "date": "2026-08-09",
-      "title": "ConferenceGrid",
-      "source": "producthunt"
-    },
-    "309357ee071bc2e5": {
-      "date": "2026-08-09",
-      "title": "VoiceOS App Store",
-      "source": "producthunt"
-    },
-    "71835aafd4208675": {
-      "date": "2026-08-09",
-      "title": "Soup CLI",
-      "source": "producthunt"
-    },
-    "e59cbb1632148cf1": {
-      "date": "2026-08-09",
-      "title": "Good Assistant 2",
-      "source": "producthunt"
-    },
-    "b8833e2e23524bdc": {
-      "date": "2026-08-09",
-      "title": "Mea Culpa – Dark Hours",
-      "source": "hackernews"
-    },
-    "dd94114e1e0a7347": {
-      "date": "2026-08-09",
-      "title": "How I use LLMs to learn complex topics",
-      "source": "hackernews"
-    },
-    "eb5cbeebc7423c53": {
-      "date": "2026-08-09",
-      "title": "Cool URIs Don't Change (1998)",
-      "source": "hackernews"
-    },
-    "c4b7521898c37f98": {
-      "date": "2026-08-09",
-      "title": "Taxi drivers rarely die of Alzheimer's",
-      "source": "hackernews"
-    },
-    "726c5c34d778ed45": {
-      "date": "2026-08-09",
-      "title": "OpenChamber: An Agentic Development Environment",
-      "source": "hackernews"
-    },
-    "4c74710d48b194a8": {
-      "date": "2026-08-09",
-      "title": "The Hacker's Renaissance",
-      "source": "hackernews"
-    },
-    "10af8ac6d73b26b5": {
-      "date": "2026-08-09",
-      "title": "The tragedy of the commons, AI edition",
-      "source": "hackernews"
-    },
-    "22fe051caa07502a": {
-      "date": "2026-08-09",
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "source": "hackernews"
-    },
-    "c4f383e6dd6d14c0": {
-      "date": "2026-08-09",
-      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
-      "source": "hackernews"
-    },
-    "e659324037989519": {
-      "date": "2026-08-09",
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "source": "hackernews"
-    },
-    "9df15693a325a4df": {
-      "date": "2026-08-09",
-      "title": "vitali87 / code-graph-rag",
-      "source": "github"
-    },
-    "5c6b792d638db986": {
-      "date": "2026-08-09",
-      "title": "pranshuparmar / witr",
-      "source": "github"
-    },
-    "ebb1d052d7691b41": {
-      "date": "2026-08-09",
-      "title": "google-deepmind / weathernext",
-      "source": "github"
-    },
-    "4ec6d5af71eebc5a": {
-      "date": "2026-08-09",
-      "title": "ZhuLinsen / daily_stock_analysis",
-      "source": "github"
-    },
-    "cfd080a015af43f1": {
-      "date": "2026-08-09",
-      "title": "Comfy-Org / ComfyUI",
-      "source": "github"
-    },
-    "366a0618b79f3f5d": {
-      "date": "2026-08-09",
-      "title": "harveyai / harvey-labs",
-      "source": "github"
-    },
-    "fee2f0fe7d27e545": {
-      "date": "2026-08-09",
-      "title": "Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.",
-      "source": "devto"
-    },
-    "1fc16c1b9b262974": {
-      "date": "2026-08-09",
-      "title": "🛻CSS Art: Smoothie Food Truck",
-      "source": "devto"
-    },
-    "a50b750af22a82e3": {
-      "date": "2026-08-09",
-      "title": "I measured his app with his own code. He measured my claim with his own corpus.",
-      "source": "devto"
-    },
-    "b80d61a1c673b8fc": {
-      "date": "2026-08-09",
-      "title": "Which parts of this are real? Should be a question with an answer",
-      "source": "devto"
-    },
-    "25a018b967ad81fd": {
-      "date": "2026-08-09",
-      "title": "🏦 Vaya: an AI loan advisor that asks whether you can still afford to live",
-      "source": "devto"
-    },
-    "2789e448981879ef": {
-      "date": "2026-08-09",
-      "title": "Restate's Single Binary vs Temporal's Cluster: When the Lighter Engine Wins",
-      "source": "devto"
-    },
-    "66448213c7b4dd65": {
-      "date": "2026-08-09",
-      "title": "Surviving the AI Bubble With Two Pieces of Junk From Amazon",
-      "source": "devto"
-    },
-    "8ae1f20c5df791bc": {
-      "date": "2026-08-09",
-      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
-      "source": "devto"
-    },
-    "1d93487500ac4cf8": {
-      "date": "2026-08-09",
-      "title": "Rasa Kenangan — Immersive Scroll Narrative Landing Page",
-      "source": "devto"
-    },
-    "c25dc9e46c7624a4": {
-      "date": "2026-08-09",
-      "title": "I Built Scenario Packs for Agent Regression Testing. The Integration, Not the Judge, Broke Me.",
-      "source": "devto"
-    },
     "3f4b51b0e9d78667": {
       "date": "2026-08-10",
       "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
@@ -4915,6 +4745,161 @@
     "f3ea32c160be052c": {
       "date": "2026-09-08",
       "title": "pascalorg / editor",
+      "source": "github"
+    },
+    "d9dc9aa87fd5c0c9": {
+      "date": "2026-09-09",
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "source": "hackernews"
+    },
+    "b4383194e44b1ecc": {
+      "date": "2026-09-09",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "source": "hackernews"
+    },
+    "4208044b3e12d054": {
+      "date": "2026-09-09",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "source": "hackernews"
+    },
+    "e031e020aa25c04c": {
+      "date": "2026-09-09",
+      "title": "DaVinci Resolve 21.1",
+      "source": "hackernews"
+    },
+    "0441eae7bf1b3252": {
+      "date": "2026-09-09",
+      "title": "Muse – Meta’s personal AI agent",
+      "source": "hackernews"
+    },
+    "4c568d6cded0f921": {
+      "date": "2026-09-09",
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "source": "hackernews"
+    },
+    "7107a2df334996e7": {
+      "date": "2026-09-09",
+      "title": "How to build a printer",
+      "source": "hackernews"
+    },
+    "fd17cfecbc9665e6": {
+      "date": "2026-09-09",
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "source": "hackernews"
+    },
+    "0798857ddebbebab": {
+      "date": "2026-09-09",
+      "title": "A Topological Picture Book, Rendered",
+      "source": "hackernews"
+    },
+    "65f47e2f820391c7": {
+      "date": "2026-09-09",
+      "title": "The Microeconomics of Artificial Intelligence (2025)",
+      "source": "hackernews"
+    },
+    "062ecbc56a3c5d87": {
+      "date": "2026-09-09",
+      "title": "Catenary",
+      "source": "producthunt"
+    },
+    "266dec25f5d372f5": {
+      "date": "2026-09-09",
+      "title": "Tables.so",
+      "source": "producthunt"
+    },
+    "d5ca5f2e9379d6e0": {
+      "date": "2026-09-09",
+      "title": "Dictantor",
+      "source": "producthunt"
+    },
+    "7086ecc66ffda31f": {
+      "date": "2026-09-09",
+      "title": "Kopai",
+      "source": "producthunt"
+    },
+    "be9667dff98193fc": {
+      "date": "2026-09-09",
+      "title": "Knockin'",
+      "source": "producthunt"
+    },
+    "c0c68a96529ce7e3": {
+      "date": "2026-09-09",
+      "title": "Lyrimuse",
+      "source": "producthunt"
+    },
+    "89eae79648d31a0d": {
+      "date": "2026-09-09",
+      "title": "bonds",
+      "source": "producthunt"
+    },
+    "ee29cae57823e8f2": {
+      "date": "2026-09-09",
+      "title": "Trancy Air",
+      "source": "producthunt"
+    },
+    "ddeb1a1100e1d55b": {
+      "date": "2026-09-09",
+      "title": "Most 'AI Agents' Are Just If-Statements in a Trench Coat",
+      "source": "devto"
+    },
+    "057629ebdce19831": {
+      "date": "2026-09-09",
+      "title": "Has AI Made You A Lazier Developer? Be Honest.",
+      "source": "devto"
+    },
+    "22ff900154751e60": {
+      "date": "2026-09-09",
+      "title": "🟣 Ever Fluorescent: Live Again!",
+      "source": "devto"
+    },
+    "c45fcf782a35a5e2": {
+      "date": "2026-09-09",
+      "title": "Networking is Hard but easy to think about.",
+      "source": "devto"
+    },
+    "3e722fae2c536191": {
+      "date": "2026-09-09",
+      "title": "Wiring a Reachy Mini into OpenClaw without trusting the robot",
+      "source": "devto"
+    },
+    "699d556c1da78dad": {
+      "date": "2026-09-09",
+      "title": "The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thunderbolt One",
+      "source": "devto"
+    },
+    "3eb08a06bd77ec81": {
+      "date": "2026-09-09",
+      "title": "What Happens When You Type a URL: Answer It With Three Interactive Simulators",
+      "source": "devto"
+    },
+    "8b43077627109789": {
+      "date": "2026-09-09",
+      "title": "Angular DataGrid: A Free, Open-Source AG Grid Alternative Built for Scale",
+      "source": "devto"
+    },
+    "34debf9d32b3fcda": {
+      "date": "2026-09-09",
+      "title": "The Desktop Looked Right: 2,093 Parse Errors a Boot, and 10.9 Seconds That Weren't Doing Anything",
+      "source": "devto"
+    },
+    "67f830494c32bbc9": {
+      "date": "2026-09-09",
+      "title": "You Don't Need Kubernetes to Become a DevOps Engineer: The Learning Path I Wish I Had",
+      "source": "devto"
+    },
+    "ee7d6f2f5cec7fb9": {
+      "date": "2026-09-09",
+      "title": "ayghri / i-have-adhd",
+      "source": "github"
+    },
+    "c3257d531a3c4d89": {
+      "date": "2026-09-09",
+      "title": "obra / superpowers",
+      "source": "github"
+    },
+    "661963add6d5f89f": {
+      "date": "2026-09-09",
+      "title": "viarotel-org / escrcpy",
       "source": "github"
     }
   }
