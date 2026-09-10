@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-09T00:45:31.287831",
+  "last_updated": "2026-09-10T00:47:15.193077",
   "sent_items": {
-    "3f4b51b0e9d78667": {
-      "date": "2026-08-10",
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "source": "hackernews"
-    },
-    "49d99e09b3af488a": {
-      "date": "2026-08-10",
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "source": "hackernews"
-    },
-    "a6dccbbdc714bdf5": {
-      "date": "2026-08-10",
-      "title": "Sonic Pi v5",
-      "source": "hackernews"
-    },
-    "b48991e9443b46c4": {
-      "date": "2026-08-10",
-      "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
-      "source": "hackernews"
-    },
-    "c93a79f807e13f68": {
-      "date": "2026-08-10",
-      "title": "Exploiting System Management Mode with a very long interrupt",
-      "source": "hackernews"
-    },
-    "9264bf4ae1a10e7f": {
-      "date": "2026-08-10",
-      "title": "Rust SIMD on the GPU",
-      "source": "hackernews"
-    },
-    "bd6197a1b1b66042": {
-      "date": "2026-08-10",
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "source": "hackernews"
-    },
-    "dc264893595eec75": {
-      "date": "2026-08-10",
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "source": "hackernews"
-    },
-    "c6722278db09c861": {
-      "date": "2026-08-10",
-      "title": "Publishing Schematics Before \"Open Source\" Was a Word",
-      "source": "hackernews"
-    },
-    "d391f79699f3d81e": {
-      "date": "2026-08-10",
-      "title": "Confessions of a Long-Distance Sailor",
-      "source": "hackernews"
-    },
-    "1a9c3f2354b1d8ff": {
-      "date": "2026-08-10",
-      "title": "SecondBrain Note by GenSpark",
-      "source": "producthunt"
-    },
-    "74118be369932447": {
-      "date": "2026-08-10",
-      "title": "Vidaya",
-      "source": "producthunt"
-    },
-    "9e18f55f46a5b880": {
-      "date": "2026-08-10",
-      "title": "AI Group Call",
-      "source": "producthunt"
-    },
-    "8b63a506a140c426": {
-      "date": "2026-08-10",
-      "title": "Gutta",
-      "source": "producthunt"
-    },
-    "47867c5899729330": {
-      "date": "2026-08-10",
-      "title": "Remix",
-      "source": "producthunt"
-    },
-    "c5a61356678ee104": {
-      "date": "2026-08-10",
-      "title": "Prime Agent",
-      "source": "producthunt"
-    },
-    "065a57c98e91dce3": {
-      "date": "2026-08-10",
-      "title": "radiusHQ",
-      "source": "producthunt"
-    },
-    "f1bdf7d3fda0c1d8": {
-      "date": "2026-08-10",
-      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
-      "source": "devto"
-    },
-    "b5e80fb41444e2a9": {
-      "date": "2026-08-10",
-      "title": "I Joined dev.to because...",
-      "source": "devto"
-    },
-    "de882e7d41bf88bc": {
-      "date": "2026-08-10",
-      "title": "You Don't Have an AI Problem You Have a Thinking Problem.",
-      "source": "devto"
-    },
-    "4fa728254e4f35ec": {
-      "date": "2026-08-10",
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "source": "devto"
-    },
-    "ecd786318f71a29f": {
-      "date": "2026-08-10",
-      "title": "What Would You Tell Someone Early in Their Career?",
-      "source": "devto"
-    },
-    "6d74b8abfccc0798": {
-      "date": "2026-08-10",
-      "title": "My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲",
-      "source": "devto"
-    },
-    "7ddfd7dfc3389324": {
-      "date": "2026-08-10",
-      "title": "Daal Bhaath Chokha: Home, Jharkhand (CSS Art)",
-      "source": "devto"
-    },
-    "cff0837414596c79": {
-      "date": "2026-08-10",
-      "title": "Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are",
-      "source": "devto"
-    },
-    "49bde3ae3bfb9d98": {
-      "date": "2026-08-10",
-      "title": "Three Clouds, Three Native Agents",
-      "source": "devto"
-    },
-    "df57c71de51d152b": {
-      "date": "2026-08-10",
-      "title": "Fixing a Silent Cache Bug in npmx.dev",
-      "source": "devto"
-    },
-    "e596fc31d0dc4f76": {
-      "date": "2026-08-10",
-      "title": "paperclipai / paperclip",
-      "source": "github"
-    },
-    "361d8d37c3971cf9": {
-      "date": "2026-08-10",
-      "title": "ruvnet / RuView",
-      "source": "github"
-    },
-    "5d466100c8b3862c": {
-      "date": "2026-08-10",
-      "title": "danielmiessler / LifeOS",
-      "source": "github"
-    },
-    "49a1c7e387a4e695": {
-      "date": "2026-08-10",
-      "title": "firecrawl / firecrawl",
-      "source": "github"
-    },
     "6a457ad709cce9f6": {
       "date": "2026-08-11",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
@@ -4901,6 +4746,171 @@
       "date": "2026-09-09",
       "title": "viarotel-org / escrcpy",
       "source": "github"
+    },
+    "9957c79ffef38007": {
+      "date": "2026-09-10",
+      "title": "Shopify acquires Tailwind",
+      "source": "hackernews"
+    },
+    "97a283893ecfb338": {
+      "date": "2026-09-10",
+      "title": "iPhone Duo",
+      "source": "hackernews"
+    },
+    "7c8805d4b4f17b69": {
+      "date": "2026-09-10",
+      "title": "AirPods 5",
+      "source": "hackernews"
+    },
+    "51f7db6b771801e8": {
+      "date": "2026-09-10",
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "source": "hackernews"
+    },
+    "bd1732c25d87d73b": {
+      "date": "2026-09-10",
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "source": "hackernews"
+    },
+    "8b9c58deed220c97": {
+      "date": "2026-09-10",
+      "title": "No Man's Sky Cosmos",
+      "source": "hackernews"
+    },
+    "7922e225670bec56": {
+      "date": "2026-09-10",
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "source": "hackernews"
+    },
+    "2899961cd8f9f0be": {
+      "date": "2026-09-10",
+      "title": "Apple Watch Series 12",
+      "source": "hackernews"
+    },
+    "8b2b7a6a8886c77b": {
+      "date": "2026-09-10",
+      "title": "Growing proof that autonomous cars save lives",
+      "source": "hackernews"
+    },
+    "cd7b6c7ea798bd97": {
+      "date": "2026-09-10",
+      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+      "source": "hackernews"
+    },
+    "1e137dc58bd24ac3": {
+      "date": "2026-09-10",
+      "title": "Muse by Meta",
+      "source": "producthunt"
+    },
+    "9e21b75e9d4a878e": {
+      "date": "2026-09-10",
+      "title": "Frigade Assist API",
+      "source": "producthunt"
+    },
+    "963f5e4b1b7f7823": {
+      "date": "2026-09-10",
+      "title": "WorkID.ai",
+      "source": "producthunt"
+    },
+    "4c0ede29a25ded13": {
+      "date": "2026-09-10",
+      "title": "Diiverge",
+      "source": "producthunt"
+    },
+    "78cba5a399aa0bb4": {
+      "date": "2026-09-10",
+      "title": "GoModel",
+      "source": "producthunt"
+    },
+    "6ac43648e6e26038": {
+      "date": "2026-09-10",
+      "title": "AlphaGenome Atlas",
+      "source": "producthunt"
+    },
+    "95589bb617edc987": {
+      "date": "2026-09-10",
+      "title": "DuckFightClub",
+      "source": "producthunt"
+    },
+    "34967cc49afa3eb2": {
+      "date": "2026-09-10",
+      "title": "Tencent / teamai-cli",
+      "source": "github"
+    },
+    "7a4b3790492aaeb5": {
+      "date": "2026-09-10",
+      "title": "earthtojake / text-to-cad",
+      "source": "github"
+    },
+    "afdace39e7492d8a": {
+      "date": "2026-09-10",
+      "title": "TauricResearch / TradingAgents",
+      "source": "github"
+    },
+    "e0a677875e2d809f": {
+      "date": "2026-09-10",
+      "title": "liquidslr / system-design-notes",
+      "source": "github"
+    },
+    "8c9e20fc0efe6fec": {
+      "date": "2026-09-10",
+      "title": "openai / plugins",
+      "source": "github"
+    },
+    "a74679813d6844b1": {
+      "date": "2026-09-10",
+      "title": "vastsa / PI-Desktop",
+      "source": "github"
+    },
+    "a0fa28f11d9edfa1": {
+      "date": "2026-09-10",
+      "title": "I let AI write 100% of my code for 30 days. Here's what broke.",
+      "source": "devto"
+    },
+    "dea220e8a9b23965": {
+      "date": "2026-09-10",
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA ",
+      "source": "devto"
+    },
+    "135bfbe44816ed26": {
+      "date": "2026-09-10",
+      "title": "My OSS Projects: AngleSharp",
+      "source": "devto"
+    },
+    "b5e503de9c9a8c50": {
+      "date": "2026-09-10",
+      "title": "4 pitfalls of loop engineering (and how to fix them)",
+      "source": "devto"
+    },
+    "f633e28124a883c2": {
+      "date": "2026-09-10",
+      "title": "The Verification Bottleneck in AI-Generated Software",
+      "source": "devto"
+    },
+    "f6a1e49218b5d3f8": {
+      "date": "2026-09-10",
+      "title": "I Hid a Rule in CLAUDE.md. Only One Reviewer Could Prove It Read It.",
+      "source": "devto"
+    },
+    "973e4c4874ff416a": {
+      "date": "2026-09-10",
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "source": "devto"
+    },
+    "2d2a1209984c01b8": {
+      "date": "2026-09-10",
+      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
+      "source": "devto"
+    },
+    "36a597f7e34509fd": {
+      "date": "2026-09-10",
+      "title": "Beyond Black-Box Concurrency: Streamless Event Transformers, Telemetry, and the End of Stream-Whacki",
+      "source": "devto"
+    },
+    "836d0215ec313ab6": {
+      "date": "2026-09-10",
+      "title": "AI psychosis might be a result of subscription fatigue",
+      "source": "devto"
     }
   }
 }
