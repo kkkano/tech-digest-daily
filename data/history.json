@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-10T00:47:15.193077",
+  "last_updated": "2026-09-11T00:44:29.407827",
   "sent_items": {
-    "6a457ad709cce9f6": {
-      "date": "2026-08-11",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "source": "hackernews"
-    },
-    "01ed58edb8ffe7b8": {
-      "date": "2026-08-11",
-      "title": "Mojo 1.0",
-      "source": "hackernews"
-    },
-    "875555974265e36b": {
-      "date": "2026-08-11",
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "source": "hackernews"
-    },
-    "9810393c5d6615b7": {
-      "date": "2026-08-11",
-      "title": "Compression is prediction",
-      "source": "hackernews"
-    },
-    "0961e00024d2451e": {
-      "date": "2026-08-11",
-      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-      "source": "hackernews"
-    },
-    "39c0907ab4edff65": {
-      "date": "2026-08-11",
-      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "source": "hackernews"
-    },
-    "d9030d0c100bce92": {
-      "date": "2026-08-11",
-      "title": "Making holograms with a pen plotter",
-      "source": "hackernews"
-    },
-    "9f0fe248997547f5": {
-      "date": "2026-08-11",
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "source": "hackernews"
-    },
-    "eb09a686e6a44344": {
-      "date": "2026-08-11",
-      "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "source": "hackernews"
-    },
-    "87c9acba5c380cb9": {
-      "date": "2026-08-11",
-      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
-      "source": "hackernews"
-    },
-    "1dfc16ee390f401f": {
-      "date": "2026-08-11",
-      "title": "Gotcha",
-      "source": "producthunt"
-    },
-    "c4d4a37239d7f858": {
-      "date": "2026-08-11",
-      "title": "Lexi",
-      "source": "producthunt"
-    },
-    "03aa291133e15d5d": {
-      "date": "2026-08-11",
-      "title": "VoiceGecko",
-      "source": "producthunt"
-    },
-    "ff8142a34b4858c1": {
-      "date": "2026-08-11",
-      "title": "Continuum",
-      "source": "producthunt"
-    },
-    "df38d51d0c858b78": {
-      "date": "2026-08-11",
-      "title": "bb",
-      "source": "producthunt"
-    },
-    "c0312cd374dbd04e": {
-      "date": "2026-08-11",
-      "title": "Bullet",
-      "source": "producthunt"
-    },
-    "8e19a777197fe75a": {
-      "date": "2026-08-11",
-      "title": "Xirp",
-      "source": "producthunt"
-    },
-    "a45fbfe3a341d73a": {
-      "date": "2026-08-11",
-      "title": "Tines 3B",
-      "source": "producthunt"
-    },
-    "c95198328f6a5f50": {
-      "date": "2026-08-11",
-      "title": "How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search",
-      "source": "devto"
-    },
-    "0ba014dd12fe6157": {
-      "date": "2026-08-11",
-      "title": "Adrak Chai & Samosa — Comfort Food Edition (Corporate Tech Office Tea Break)",
-      "source": "devto"
-    },
-    "a31a488718c7f672": {
-      "date": "2026-08-11",
-      "title": "Nuxt 4.5 SSR Streaming Is Kind Of A Big Deal",
-      "source": "devto"
-    },
-    "8ba001642f31d85b": {
-      "date": "2026-08-11",
-      "title": "Ignition: Flashing 2,300 conference badges with Temporal",
-      "source": "devto"
-    },
-    "b7aff8d3bde44d7e": {
-      "date": "2026-08-11",
-      "title": "Porting a Python PEG parser to Rust in 72 hours, and actually proving it worked",
-      "source": "devto"
-    },
-    "82cff15334c56709": {
-      "date": "2026-08-11",
-      "title": "Three Pastry Chefs Walk Into a Kitchen",
-      "source": "devto"
-    },
-    "10d6a1db92ed2468": {
-      "date": "2026-08-11",
-      "title": "Dev log #16 Typographic Hierarchy and the Great Obsidian Purge",
-      "source": "devto"
-    },
-    "07e82da4b566074b": {
-      "date": "2026-08-11",
-      "title": "Write down every guarantee before you write any code",
-      "source": "devto"
-    },
-    "30e3b80c69dde530": {
-      "date": "2026-08-11",
-      "title": "Donut Panic 🍩 — Building an Interactive CSS-Only Donut",
-      "source": "devto"
-    },
-    "bb237380cd58345c": {
-      "date": "2026-08-11",
-      "title": "Vada Pav - An Interactive Landing Page for Mumbai's Favorite Street Food",
-      "source": "devto"
-    },
-    "e2e3cda3fa2e6709": {
-      "date": "2026-08-11",
-      "title": "nvm-sh / nvm",
-      "source": "github"
-    },
-    "ea97e2f9b3078078": {
-      "date": "2026-08-11",
-      "title": "anthropics / skills",
-      "source": "github"
-    },
-    "e41e0f15f042a511": {
-      "date": "2026-08-11",
-      "title": "3b1b / manim",
-      "source": "github"
-    },
-    "d7dc32f00be2e8f5": {
-      "date": "2026-08-11",
-      "title": "stablyai / orca",
-      "source": "github"
-    },
-    "cf909fcdfc721ecc": {
-      "date": "2026-08-11",
-      "title": "huggingface / transformers",
-      "source": "github"
-    },
-    "db0a3545143e00a3": {
-      "date": "2026-08-11",
-      "title": "jaywcjlove / awesome-mac",
-      "source": "github"
-    },
-    "20703a86e2b01e24": {
-      "date": "2026-08-11",
-      "title": "calesthio / OpenMontage",
-      "source": "github"
-    },
     "8c6833d191499aa9": {
       "date": "2026-08-12",
       "title": "Sidekick™",
@@ -4910,6 +4735,176 @@
     "836d0215ec313ab6": {
       "date": "2026-09-10",
       "title": "AI psychosis might be a result of subscription fatigue",
+      "source": "devto"
+    },
+    "1271c6f02490fc86": {
+      "date": "2026-09-11",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "source": "hackernews"
+    },
+    "e04e915ea184d365": {
+      "date": "2026-09-11",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "source": "hackernews"
+    },
+    "98b38ad8c04af763": {
+      "date": "2026-09-11",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "source": "hackernews"
+    },
+    "f75c9c257c658f05": {
+      "date": "2026-09-11",
+      "title": "Don't let anyone take away your big box of cables",
+      "source": "hackernews"
+    },
+    "7109052a26098014": {
+      "date": "2026-09-11",
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "source": "hackernews"
+    },
+    "7a83d367ae541a99": {
+      "date": "2026-09-11",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "source": "hackernews"
+    },
+    "080ef98309b19ae7": {
+      "date": "2026-09-11",
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "source": "hackernews"
+    },
+    "0f4979d2480b3442": {
+      "date": "2026-09-11",
+      "title": "OpenAI Agents API",
+      "source": "hackernews"
+    },
+    "a9e9446ba2c46795": {
+      "date": "2026-09-11",
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "source": "hackernews"
+    },
+    "c2a04af6bfc66950": {
+      "date": "2026-09-11",
+      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+      "source": "hackernews"
+    },
+    "b0b47e64f96d65cd": {
+      "date": "2026-09-11",
+      "title": "Vibe Eyes",
+      "source": "producthunt"
+    },
+    "60ef1ee6eef9d8f8": {
+      "date": "2026-09-11",
+      "title": "Modeinspect",
+      "source": "producthunt"
+    },
+    "c0f98e6f8ecb0a8e": {
+      "date": "2026-09-11",
+      "title": "Wealthfolio",
+      "source": "producthunt"
+    },
+    "db2e01fac7242cf0": {
+      "date": "2026-09-11",
+      "title": "Whip",
+      "source": "producthunt"
+    },
+    "97af8026640c2a02": {
+      "date": "2026-09-11",
+      "title": "Speechmark",
+      "source": "producthunt"
+    },
+    "db41e2818dbb309b": {
+      "date": "2026-09-11",
+      "title": "Desert Ant Labs",
+      "source": "producthunt"
+    },
+    "50620774502cec6f": {
+      "date": "2026-09-11",
+      "title": "Drive",
+      "source": "producthunt"
+    },
+    "30f45cd66d5520ce": {
+      "date": "2026-09-11",
+      "title": "alsk1992 / CloddsBot",
+      "source": "github"
+    },
+    "018703fab583e3d5": {
+      "date": "2026-09-11",
+      "title": "AlexsJones / llmfit",
+      "source": "github"
+    },
+    "09519de43606bab9": {
+      "date": "2026-09-11",
+      "title": "armory3d / armorpaint",
+      "source": "github"
+    },
+    "10942d97d561cb4c": {
+      "date": "2026-09-11",
+      "title": "diegosouzapw / OmniRoute",
+      "source": "github"
+    },
+    "d8699931bd0d7791": {
+      "date": "2026-09-11",
+      "title": "JustVugg / colibri",
+      "source": "github"
+    },
+    "885b91dee30db7b9": {
+      "date": "2026-09-11",
+      "title": "nashsu / llm_wiki",
+      "source": "github"
+    },
+    "7634ab012b3dcc8f": {
+      "date": "2026-09-11",
+      "title": "vercel-labs / skills",
+      "source": "github"
+    },
+    "0b4cc738886252dc": {
+      "date": "2026-09-11",
+      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
+      "source": "devto"
+    },
+    "f6a3554dd3757a88": {
+      "date": "2026-09-11",
+      "title": "AI Is Already Better at Coding Than Most Software Developers",
+      "source": "devto"
+    },
+    "f8684bb4dcfaf651": {
+      "date": "2026-09-11",
+      "title": "Paradox between Sharing your Accomplishments and Ego",
+      "source": "devto"
+    },
+    "7fec9c934a131858": {
+      "date": "2026-09-11",
+      "title": "Someone Spammed My DEV Post. I Traced It to a Wombat.",
+      "source": "devto"
+    },
+    "070e7b52d4d284c9": {
+      "date": "2026-09-11",
+      "title": "Show Me the Article You're Most Proud Of And I'll Read Every Single One of Them",
+      "source": "devto"
+    },
+    "c2aa599448f992f2": {
+      "date": "2026-09-11",
+      "title": "Admit it, you have a favorite AI (just like you have a favorite coworker)",
+      "source": "devto"
+    },
+    "df52422144b735cb": {
+      "date": "2026-09-11",
+      "title": "Down Is Kind, Slow Is Fatal: Circuit Breakers and the Three Links Around Them",
+      "source": "devto"
+    },
+    "a7211af7a05991a0": {
+      "date": "2026-09-11",
+      "title": "Stratagems #30: Lena Signed the Client. The AI Didn't Know It Was Being Audited.",
+      "source": "devto"
+    },
+    "4aa2c02cd89df0e7": {
+      "date": "2026-09-11",
+      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
+      "source": "devto"
+    },
+    "1ea5a45d11da6630": {
+      "date": "2026-09-11",
+      "title": "SQLite 3.53's self-healing index only repairs the rows you write to",
       "source": "devto"
     }
   }
