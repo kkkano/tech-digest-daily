@@ -1,192 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-11T00:44:29.407827",
+  "last_updated": "2026-09-12T00:49:20.024318",
   "sent_items": {
-    "8c6833d191499aa9": {
-      "date": "2026-08-12",
-      "title": "Sidekick™",
-      "source": "producthunt"
-    },
-    "5ed82f94679f459c": {
-      "date": "2026-08-12",
-      "title": "Swipe",
-      "source": "producthunt"
-    },
-    "a67cd04f053693a0": {
-      "date": "2026-08-12",
-      "title": "Media Sharing",
-      "source": "producthunt"
-    },
-    "d9320b467f75358e": {
-      "date": "2026-08-12",
-      "title": "LaraCopilot",
-      "source": "producthunt"
-    },
-    "14abcd01a23f7a63": {
-      "date": "2026-08-12",
-      "title": "Lettertrace",
-      "source": "producthunt"
-    },
-    "2b59900805188da8": {
-      "date": "2026-08-12",
-      "title": "Dograh",
-      "source": "producthunt"
-    },
-    "5020d229ca512ec8": {
-      "date": "2026-08-12",
-      "title": "Grok Bot",
-      "source": "producthunt"
-    },
-    "e929b4f82ec3b0dc": {
-      "date": "2026-08-12",
-      "title": "Cohesor",
-      "source": "producthunt"
-    },
-    "bc1f856e9a4a53eb": {
-      "date": "2026-08-12",
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "source": "hackernews"
-    },
-    "407e683521748e9d": {
-      "date": "2026-08-12",
-      "title": "DeepSeek V4 Pro 0813",
-      "source": "hackernews"
-    },
-    "e7aab50d2d4e6817": {
-      "date": "2026-08-12",
-      "title": "2026 Eclipse Webcams",
-      "source": "hackernews"
-    },
-    "4b3c0e16bb3f45a1": {
-      "date": "2026-08-12",
-      "title": "Qwen3.8-2.4T",
-      "source": "hackernews"
-    },
-    "692c0339583a4bc0": {
-      "date": "2026-08-12",
-      "title": "Grok 4.6",
-      "source": "hackernews"
-    },
-    "e5b265718d984b5c": {
-      "date": "2026-08-12",
-      "title": "Delta",
-      "source": "hackernews"
-    },
-    "77e1f40861c4f0b9": {
-      "date": "2026-08-12",
-      "title": "Tim King, AmigaDOS developer, has died",
-      "source": "hackernews"
-    },
-    "0f1dc2521dd594b1": {
-      "date": "2026-08-12",
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "source": "hackernews"
-    },
-    "16661ccc8ea1ffc9": {
-      "date": "2026-08-12",
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "source": "hackernews"
-    },
-    "da73e93036f713fc": {
-      "date": "2026-08-12",
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "source": "hackernews"
-    },
-    "895c96348c8882c7": {
-      "date": "2026-08-12",
-      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
-      "source": "devto"
-    },
-    "4afcb5a049ac13ea": {
-      "date": "2026-08-12",
-      "title": "I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First",
-      "source": "devto"
-    },
-    "0bac95036ad64909": {
-      "date": "2026-08-12",
-      "title": "The Next Evolution of Software Developers",
-      "source": "devto"
-    },
-    "64335e2f1eebd39f": {
-      "date": "2026-08-12",
-      "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
-      "source": "devto"
-    },
-    "d7d53b80ccae97ca": {
-      "date": "2026-08-12",
-      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
-      "source": "devto"
-    },
-    "8546c59f41b6ecaf": {
-      "date": "2026-08-12",
-      "title": "Stop Pretending To Do Domain-Driven Design",
-      "source": "devto"
-    },
-    "6ee22d713421f74d": {
-      "date": "2026-08-12",
-      "title": "Two AI agents checked the same script for a safety guard. One found it, one didn't. Both were right.",
-      "source": "devto"
-    },
-    "61e33e33dbc603bd": {
-      "date": "2026-08-12",
-      "title": "React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False",
-      "source": "devto"
-    },
-    "cdee8859ed5d9f68": {
-      "date": "2026-08-12",
-      "title": "is-kit Reached 50 Stars ⭐ Here’s How We Use It in Production",
-      "source": "devto"
-    },
-    "add552f2d0e8a1dd": {
-      "date": "2026-08-12",
-      "title": "My AI assistant tested a \"flip video public\" script on the real video. It cost us the premiere, perm",
-      "source": "devto"
-    },
-    "f0faec98f86e4fde": {
-      "date": "2026-08-12",
-      "title": "cathrynlavery / diagram-design",
-      "source": "github"
-    },
-    "bbfc2ca772d59109": {
-      "date": "2026-08-12",
-      "title": "macro-inc / macro",
-      "source": "github"
-    },
-    "26454b4b1f40da47": {
-      "date": "2026-08-12",
-      "title": "hugohe3 / ppt-master",
-      "source": "github"
-    },
-    "d7078bd140381c80": {
-      "date": "2026-08-12",
-      "title": "infiniflow / ragflow",
-      "source": "github"
-    },
-    "515eeefe62e349b0": {
-      "date": "2026-08-12",
-      "title": "NVIDIA-NeMo / Switchyard",
-      "source": "github"
-    },
-    "e413ca598b2e8b59": {
-      "date": "2026-08-12",
-      "title": "ZuodaoTech / everyone-can-use-english",
-      "source": "github"
-    },
-    "d5c3c51d6e6ce977": {
-      "date": "2026-08-12",
-      "title": "smicallef / spiderfoot",
-      "source": "github"
-    },
-    "84856bae44e50ca8": {
-      "date": "2026-08-12",
-      "title": "localsend / localsend",
-      "source": "github"
-    },
-    "9a4ea7a4f9427fb4": {
-      "date": "2026-08-12",
-      "title": "Lightricks / LTX-2",
-      "source": "github"
-    },
     "2a5c2f445201a4b0": {
       "date": "2026-08-13",
       "title": "Kin Health",
@@ -4906,6 +4721,181 @@
       "date": "2026-09-11",
       "title": "SQLite 3.53's self-healing index only repairs the rows you write to",
       "source": "devto"
+    },
+    "f899f3c7c1e34843": {
+      "date": "2026-09-12",
+      "title": "A misalignment of AI in mathematics",
+      "source": "hackernews"
+    },
+    "1222df1235d99690": {
+      "date": "2026-09-12",
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "source": "hackernews"
+    },
+    "79015f52d778effd": {
+      "date": "2026-09-12",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "source": "hackernews"
+    },
+    "a38ee2aa5a181f48": {
+      "date": "2026-09-12",
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "source": "hackernews"
+    },
+    "55e394a3889b5061": {
+      "date": "2026-09-12",
+      "title": "A Design Space Exploration of Async/Await",
+      "source": "hackernews"
+    },
+    "630f5fa0c1edafe8": {
+      "date": "2026-09-12",
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "source": "hackernews"
+    },
+    "8ae62f80b43a1f7a": {
+      "date": "2026-09-12",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "source": "hackernews"
+    },
+    "e6d80d878c87b20e": {
+      "date": "2026-09-12",
+      "title": "AlphaGenome maps 9B DNA variants",
+      "source": "hackernews"
+    },
+    "78b0a142e47b8d12": {
+      "date": "2026-09-12",
+      "title": "Project Blinkenlights",
+      "source": "hackernews"
+    },
+    "f15adbbd43d5d493": {
+      "date": "2026-09-12",
+      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "source": "hackernews"
+    },
+    "e98a664207a75083": {
+      "date": "2026-09-12",
+      "title": "chat-recall",
+      "source": "producthunt"
+    },
+    "c44eb9f56720e572": {
+      "date": "2026-09-12",
+      "title": "Formesign",
+      "source": "producthunt"
+    },
+    "09bc14de402ee089": {
+      "date": "2026-09-12",
+      "title": "Spaces",
+      "source": "producthunt"
+    },
+    "40aec0facc575cff": {
+      "date": "2026-09-12",
+      "title": "Jackalope",
+      "source": "producthunt"
+    },
+    "f50ac70cc866dcb7": {
+      "date": "2026-09-12",
+      "title": "Cadenya",
+      "source": "producthunt"
+    },
+    "a5eda7f2d35b72e4": {
+      "date": "2026-09-12",
+      "title": "GLYPH Immersive",
+      "source": "producthunt"
+    },
+    "b4ff0c7081d3e131": {
+      "date": "2026-09-12",
+      "title": "Devin Voice",
+      "source": "producthunt"
+    },
+    "d631da6d47d20727": {
+      "date": "2026-09-12",
+      "title": "Design Studio by Monday Merch",
+      "source": "producthunt"
+    },
+    "79cd82349230328b": {
+      "date": "2026-09-12",
+      "title": "Dev Opportunity Radar #16: $15K AI Agent Hackathon, AI Education Fellowship, and AWS Student Rewards",
+      "source": "devto"
+    },
+    "d195a9ee06b895f8": {
+      "date": "2026-09-12",
+      "title": "What was your win this week??",
+      "source": "devto"
+    },
+    "8a405f24989168ac": {
+      "date": "2026-09-12",
+      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
+      "source": "devto"
+    },
+    "14c23b51f9ac29e9": {
+      "date": "2026-09-12",
+      "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
+      "source": "devto"
+    },
+    "bd1e21aeef779477": {
+      "date": "2026-09-12",
+      "title": "I Wrote 238 Specs and Never Read One Again",
+      "source": "devto"
+    },
+    "12f08e4e2edbe5ee": {
+      "date": "2026-09-12",
+      "title": "My Agents Never Get Tired. I Do: On Satisficing",
+      "source": "devto"
+    },
+    "065b4c2822f7c354": {
+      "date": "2026-09-12",
+      "title": "AI-Generated Tests Can Make Coding Agents Worse. Here's How to Check Yours",
+      "source": "devto"
+    },
+    "cf56196eec94132d": {
+      "date": "2026-09-12",
+      "title": "Nexpath Review: Can an AI Prompt Quality Layer Make AI Coding Safer?",
+      "source": "devto"
+    },
+    "e7dce608af853882": {
+      "date": "2026-09-12",
+      "title": "TS Evidence Graph: Make Every SKILL Instruction 100% Enforced",
+      "source": "devto"
+    },
+    "eae4b3aace76badc": {
+      "date": "2026-09-12",
+      "title": "Valkey 9.1's hash field TTL triples memory use for the pattern its own docs show",
+      "source": "devto"
+    },
+    "6268b5fd7c3992e6": {
+      "date": "2026-09-12",
+      "title": "nab138 / iloader",
+      "source": "github"
+    },
+    "cc05accd67dc995f": {
+      "date": "2026-09-12",
+      "title": "melgarafael / DeskcommCRM",
+      "source": "github"
+    },
+    "42f7cef0ed4a92af": {
+      "date": "2026-09-12",
+      "title": "Sonarr / Sonarr",
+      "source": "github"
+    },
+    "352163fdbcdeb0ea": {
+      "date": "2026-09-12",
+      "title": "jihe520 / MathModelAgent",
+      "source": "github"
+    },
+    "380754eccc1abeb4": {
+      "date": "2026-09-12",
+      "title": "p1neappleXpress / OpenFlux",
+      "source": "github"
+    },
+    "3fe7b1b88b796590": {
+      "date": "2026-09-12",
+      "title": "jordan-gibbs / hyperresearch",
+      "source": "github"
+    },
+    "78ea4ce17c7615e5": {
+      "date": "2026-09-12",
+      "title": "alphaXiv / OpenResearch",
+      "source": "github"
     }
   }
 }
