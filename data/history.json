@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-12T00:49:20.024318",
+  "last_updated": "2026-09-13T00:28:53.300826",
   "sent_items": {
-    "2a5c2f445201a4b0": {
-      "date": "2026-08-13",
-      "title": "Kin Health",
-      "source": "producthunt"
-    },
-    "23bd25fa418a6f27": {
-      "date": "2026-08-13",
-      "title": "Human Behavior",
-      "source": "producthunt"
-    },
-    "be8d0cbeb3ee3774": {
-      "date": "2026-08-13",
-      "title": "Kane CLI",
-      "source": "producthunt"
-    },
-    "ef7901950af723c8": {
-      "date": "2026-08-13",
-      "title": "Mem Agent",
-      "source": "producthunt"
-    },
-    "23bd81717ac3c0a1": {
-      "date": "2026-08-13",
-      "title": "Patience",
-      "source": "producthunt"
-    },
-    "06789f072804c43c": {
-      "date": "2026-08-13",
-      "title": "Kivicube",
-      "source": "producthunt"
-    },
-    "7316913ab5be28a2": {
-      "date": "2026-08-13",
-      "title": "Phinq",
-      "source": "producthunt"
-    },
-    "ce32f87cb2857fe5": {
-      "date": "2026-08-13",
-      "title": "ThreadPort",
-      "source": "producthunt"
-    },
-    "c4b202ac50c2a47d": {
-      "date": "2026-08-13",
-      "title": "Gemini 3.7 Flash",
-      "source": "hackernews"
-    },
-    "9f127a2494c26598": {
-      "date": "2026-08-13",
-      "title": "DeepSeek Harness developer preview",
-      "source": "hackernews"
-    },
-    "12ac73783350158c": {
-      "date": "2026-08-13",
-      "title": "Spaghettifying DRAM",
-      "source": "hackernews"
-    },
-    "78707d245003fa2f": {
-      "date": "2026-08-13",
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "source": "hackernews"
-    },
-    "a864f7ed2ba92486": {
-      "date": "2026-08-13",
-      "title": "Mistral OCR 4.1",
-      "source": "hackernews"
-    },
-    "6723325d9229f986": {
-      "date": "2026-08-13",
-      "title": "Choose Boring Technology (2015)",
-      "source": "hackernews"
-    },
-    "2a1f669b4024b0b7": {
-      "date": "2026-08-13",
-      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-      "source": "hackernews"
-    },
-    "1b0a1ff759abe040": {
-      "date": "2026-08-13",
-      "title": "Understanding is the new bottleneck",
-      "source": "hackernews"
-    },
-    "bbd07f0f76eb4005": {
-      "date": "2026-08-13",
-      "title": "NP-Overrated",
-      "source": "hackernews"
-    },
-    "11c3091c13100e12": {
-      "date": "2026-08-13",
-      "title": "How Gödel's Proof Works (2020)",
-      "source": "hackernews"
-    },
-    "3ba8635887d9e5c5": {
-      "date": "2026-08-13",
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "source": "devto"
-    },
-    "7389d9bee0af517e": {
-      "date": "2026-08-13",
-      "title": "Not All AI Builders Are Doing the Same Work",
-      "source": "devto"
-    },
-    "82a1895ee28eecd2": {
-      "date": "2026-08-13",
-      "title": "24 Cups, 36 Seats — The Bartender's Ledger",
-      "source": "devto"
-    },
-    "97116a2700540157": {
-      "date": "2026-08-13",
-      "title": "My (not so pretty) journey in tech",
-      "source": "devto"
-    },
-    "7fe745e183a83ec4": {
-      "date": "2026-08-13",
-      "title": "Do I Still Need a Monkey Patch for Gemini Live?",
-      "source": "devto"
-    },
-    "19b6ffeccd773eca": {
-      "date": "2026-08-13",
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "source": "devto"
-    },
-    "2e028e0078766d01": {
-      "date": "2026-08-13",
-      "title": "Crafting Hot Filter Kaapi in Pure CSS: Gradients, Steam Engines & Hardware Acceleration",
-      "source": "devto"
-    },
-    "8cf4b6cb5b02274a": {
-      "date": "2026-08-13",
-      "title": "You Know What's Worse Than Not Being Able to Log In?",
-      "source": "devto"
-    },
-    "ae73deec6bf30368": {
-      "date": "2026-08-13",
-      "title": "The Backup Awakens: A Star Wars Story",
-      "source": "devto"
-    },
-    "7fdfa657c0215934": {
-      "date": "2026-08-13",
-      "title": "The Most Dangerous AI-Generated Code Is the Code That Passes All Tests",
-      "source": "devto"
-    },
-    "88adb36d994a0627": {
-      "date": "2026-08-13",
-      "title": "cactus-compute / needle",
-      "source": "github"
-    },
-    "cf22fb2fe760cb42": {
-      "date": "2026-08-13",
-      "title": "altic-dev / FluidVoice",
-      "source": "github"
-    },
-    "4242e51e337ac7d2": {
-      "date": "2026-08-13",
-      "title": "unslothai / unsloth",
-      "source": "github"
-    },
-    "30f62a06b3c4e9b3": {
-      "date": "2026-08-13",
-      "title": "megadose / holehe",
-      "source": "github"
-    },
-    "7cc067ca58c9acc9": {
-      "date": "2026-08-13",
-      "title": "holaboss-ai / holaOS",
-      "source": "github"
-    },
-    "333ac7fd8f02fc43": {
-      "date": "2026-08-13",
-      "title": "kepano / obsidian-skills",
-      "source": "github"
-    },
     "16910a87fbaebf89": {
       "date": "2026-08-14",
       "title": "Openmotion",
@@ -4895,6 +4725,176 @@
     "78ea4ce17c7615e5": {
       "date": "2026-09-12",
       "title": "alphaXiv / OpenResearch",
+      "source": "github"
+    },
+    "2184e3600b3b1bcd": {
+      "date": "2026-09-13",
+      "title": "IKEA made a mod for Skyrim [video]",
+      "source": "hackernews"
+    },
+    "c4dde8b1b123004a": {
+      "date": "2026-09-13",
+      "title": "We must pace the frontier",
+      "source": "hackernews"
+    },
+    "2ca5d0e9b00f2058": {
+      "date": "2026-09-13",
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "source": "hackernews"
+    },
+    "0cd5ce73d227ff84": {
+      "date": "2026-09-13",
+      "title": "Nvidia is the central bank of AI",
+      "source": "hackernews"
+    },
+    "405bb17e337c1b22": {
+      "date": "2026-09-13",
+      "title": "Make your first edit to OpenStreetMap",
+      "source": "hackernews"
+    },
+    "e0c2b8d32e0d609b": {
+      "date": "2026-09-13",
+      "title": "Stabilizing Rust's Never Type",
+      "source": "hackernews"
+    },
+    "70d97e02f21de127": {
+      "date": "2026-09-13",
+      "title": "Apple iPod Engraver (2019)",
+      "source": "hackernews"
+    },
+    "b17d0eced9e3779c": {
+      "date": "2026-09-13",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "source": "hackernews"
+    },
+    "a544dd331672f37e": {
+      "date": "2026-09-13",
+      "title": "Will There Be a 7G?",
+      "source": "hackernews"
+    },
+    "7f9442766514a4b0": {
+      "date": "2026-09-13",
+      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+      "source": "hackernews"
+    },
+    "1358d85515de2ac6": {
+      "date": "2026-09-13",
+      "title": "Calerto for Mac",
+      "source": "producthunt"
+    },
+    "bf509d79b9c6bed2": {
+      "date": "2026-09-13",
+      "title": "VoxelWall",
+      "source": "producthunt"
+    },
+    "568d67810a646c57": {
+      "date": "2026-09-13",
+      "title": "ABrush",
+      "source": "producthunt"
+    },
+    "bd48025e615e60f6": {
+      "date": "2026-09-13",
+      "title": "Pascal’s Pager",
+      "source": "producthunt"
+    },
+    "241c7707625d0659": {
+      "date": "2026-09-13",
+      "title": "FrameSketch",
+      "source": "producthunt"
+    },
+    "09d54397f13c8541": {
+      "date": "2026-09-13",
+      "title": "SUDARI",
+      "source": "producthunt"
+    },
+    "69b36cc2761a61a7": {
+      "date": "2026-09-13",
+      "title": "LinkFlick",
+      "source": "producthunt"
+    },
+    "b7cbe0ed06138177": {
+      "date": "2026-09-13",
+      "title": "Wokyintosh",
+      "source": "producthunt"
+    },
+    "e2ea6c7e09bec5ee": {
+      "date": "2026-09-13",
+      "title": "I'm 12. This morning I fought two hosting providers. My app survived both.",
+      "source": "devto"
+    },
+    "566cefd8086f33a5": {
+      "date": "2026-09-13",
+      "title": "When Skill Evolution Means Removing Instructions",
+      "source": "devto"
+    },
+    "186baaf51a5cd48e": {
+      "date": "2026-09-13",
+      "title": "I just did something my AI agents couldn't",
+      "source": "devto"
+    },
+    "890a777258338224": {
+      "date": "2026-09-13",
+      "title": "I read 500 'AI will replace developers' posts. They all make the same 3 mistakes.",
+      "source": "devto"
+    },
+    "0bd5162a73c55e31": {
+      "date": "2026-09-13",
+      "title": "I Interviewed an Executable. It Had Notes.",
+      "source": "devto"
+    },
+    "f93e9bbfa63f2e86": {
+      "date": "2026-09-13",
+      "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
+      "source": "devto"
+    },
+    "d0b75d56887125aa": {
+      "date": "2026-09-13",
+      "title": "I Had Already Built Three Agentic Loops Without Naming Them",
+      "source": "devto"
+    },
+    "fe8ca6ce89df35bb": {
+      "date": "2026-09-13",
+      "title": "My message board for AI agents got spammed. The spam wasn't written for humans.",
+      "source": "devto"
+    },
+    "c09be7a6a14a439c": {
+      "date": "2026-09-13",
+      "title": "addDays() Mutated a Date Three Components Away From Where I Called It",
+      "source": "devto"
+    },
+    "2faa18c577db7eb5": {
+      "date": "2026-09-13",
+      "title": "Our Recall Was 0.087 and the Model Was Innocent: How Domain-Scoped Replay Doubled It",
+      "source": "devto"
+    },
+    "3675b0176088850f": {
+      "date": "2026-09-13",
+      "title": "asgeirtj / system_prompts_leaks",
+      "source": "github"
+    },
+    "f84e917e416c7dca": {
+      "date": "2026-09-13",
+      "title": "Flowseal / zapret-discord-youtube",
+      "source": "github"
+    },
+    "e1d0688c7c784be0": {
+      "date": "2026-09-13",
+      "title": "yuliskov / SmartTube",
+      "source": "github"
+    },
+    "fed9e93b0bd2dda1": {
+      "date": "2026-09-13",
+      "title": "SnailSploit / Claude-Red",
+      "source": "github"
+    },
+    "c4e160b8f96ff888": {
+      "date": "2026-09-13",
+      "title": "multimodal-art-projection / YuE",
+      "source": "github"
+    },
+    "77049851f70b183b": {
+      "date": "2026-09-13",
+      "title": "max-sixty / worktrunk",
       "source": "github"
     }
   }
