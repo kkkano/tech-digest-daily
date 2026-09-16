@@ -1,127 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-15T01:06:38.781251",
+  "last_updated": "2026-09-16T00:59:47.388046",
   "sent_items": {
-    "cf930f9fab621c0f": {
-      "date": "2026-08-16",
-      "title": "Claude: System Prompts",
-      "source": "hackernews"
-    },
-    "3e6753416c3b9070": {
-      "date": "2026-08-16",
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "source": "hackernews"
-    },
-    "547ded5fe924020c": {
-      "date": "2026-08-16",
-      "title": "Models Are Getting Dumber on Purpose",
-      "source": "hackernews"
-    },
-    "41f2fc1010ceb37a": {
-      "date": "2026-08-16",
-      "title": "The AI Credit Resale Economy",
-      "source": "hackernews"
-    },
-    "3fa21f32114dc233": {
-      "date": "2026-08-16",
-      "title": "Protobuf has LSP support. You're welcome",
-      "source": "hackernews"
-    },
-    "9dc4317251915853": {
-      "date": "2026-08-16",
-      "title": "The Case Against Formal Verification, 50 Years Later",
-      "source": "hackernews"
-    },
-    "57aea0d2f6ab5819": {
-      "date": "2026-08-16",
-      "title": "Low-Tech Ceramic Water Filter",
-      "source": "hackernews"
-    },
-    "1df2ff4d540a42c4": {
-      "date": "2026-08-16",
-      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "source": "hackernews"
-    },
-    "70e3a85a0945c6e3": {
-      "date": "2026-08-16",
-      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-      "source": "hackernews"
-    },
-    "4a4a3e0210bae350": {
-      "date": "2026-08-16",
-      "title": "A quick look at zero-knowledge proofs",
-      "source": "hackernews"
-    },
-    "28cd0e7dd17d7f88": {
-      "date": "2026-08-16",
-      "title": "AirAlarm",
-      "source": "producthunt"
-    },
-    "fdedb47815e504dc": {
-      "date": "2026-08-16",
-      "title": "Chert",
-      "source": "producthunt"
-    },
-    "1d4496e0ddb2d0f5": {
-      "date": "2026-08-16",
-      "title": "Expeditione",
-      "source": "producthunt"
-    },
-    "3dd650989f01578c": {
-      "date": "2026-08-16",
-      "title": "basecamp / omarchy",
-      "source": "github"
-    },
-    "988d410025cf7bda": {
-      "date": "2026-08-16",
-      "title": "Pawford Academy — A SwiftUI Puppy Training App with ElevenLabs AI Voice 🐾🎓",
-      "source": "devto"
-    },
-    "69657b1159f0d740": {
-      "date": "2026-08-16",
-      "title": "Your Dog Can't Tell You Where It Hurts. MATCH_RECOGNIZE in Snowflake Can.",
-      "source": "devto"
-    },
-    "2518c91f2ca1a859": {
-      "date": "2026-08-16",
-      "title": "Paw & Order: upload your dog, and defend them against evidence generated from their own photo",
-      "source": "devto"
-    },
-    "5a2f573c7428f887": {
-      "date": "2026-08-16",
-      "title": "Feijoada Anonymous: a support group for people who miss Brazilian food",
-      "source": "devto"
-    },
-    "dfd5d5d384049fb3": {
-      "date": "2026-08-16",
-      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
-      "source": "devto"
-    },
-    "2e85a3aacdec075a": {
-      "date": "2026-08-16",
-      "title": "Kitchen-Sune: A Community Cookbook",
-      "source": "devto"
-    },
-    "fda67df8b3ef9577": {
-      "date": "2026-08-16",
-      "title": "I Can Finally Delete My max-height: 9999px Animation Hack",
-      "source": "devto"
-    },
-    "a80b9a2aa82fcd21": {
-      "date": "2026-08-16",
-      "title": "Claude Impact Lab LA: Community Changed the Code",
-      "source": "devto"
-    },
-    "47f0ae8ffc624bfa": {
-      "date": "2026-08-16",
-      "title": "How We Got an LLM to Draw Charts Without Ever Touching a Pixel",
-      "source": "devto"
-    },
-    "33e1070998d34ffc": {
-      "date": "2026-08-16",
-      "title": "🍣 Sushi RS: SVG Sushi Components for Rust Frontends.",
-      "source": "devto"
-    },
     "d316305f168247da": {
       "date": "2026-08-17",
       "title": "A Preview of DuckDB v2.0",
@@ -4910,6 +4790,176 @@
     "cf909fcdfc721ecc": {
       "date": "2026-09-15",
       "title": "huggingface / transformers",
+      "source": "github"
+    },
+    "f9bc345c257a4c33": {
+      "date": "2026-09-16",
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "source": "hackernews"
+    },
+    "6f7d07f4680cc41b": {
+      "date": "2026-09-16",
+      "title": "Introducing System One Models and Jev",
+      "source": "hackernews"
+    },
+    "2630112128806626": {
+      "date": "2026-09-16",
+      "title": "An Update on Wayback Machine Access",
+      "source": "hackernews"
+    },
+    "2bb653c70c81b015": {
+      "date": "2026-09-16",
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "source": "hackernews"
+    },
+    "f49d2b8b3c9d8095": {
+      "date": "2026-09-16",
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "source": "hackernews"
+    },
+    "f19e47e6a7d3c637": {
+      "date": "2026-09-16",
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "source": "hackernews"
+    },
+    "443b315ed21151c6": {
+      "date": "2026-09-16",
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "source": "hackernews"
+    },
+    "4bf12c040bb6a4b7": {
+      "date": "2026-09-16",
+      "title": "Chopping up books when they're physically too big",
+      "source": "hackernews"
+    },
+    "ab8f929a13fb90e8": {
+      "date": "2026-09-16",
+      "title": "Jean-Pierre Serre is 100 years old today",
+      "source": "hackernews"
+    },
+    "e13f2e9d1a5b83cc": {
+      "date": "2026-09-16",
+      "title": "Sierra digital cameras on the Apple II",
+      "source": "hackernews"
+    },
+    "4664a29357b7e8e4": {
+      "date": "2026-09-16",
+      "title": "Mailyte",
+      "source": "producthunt"
+    },
+    "89bbc9757aafdc62": {
+      "date": "2026-09-16",
+      "title": "Grimo AI",
+      "source": "producthunt"
+    },
+    "7429f50dc773f217": {
+      "date": "2026-09-16",
+      "title": "Multimodal Agents by Sierra",
+      "source": "producthunt"
+    },
+    "98fb85f8860ca7c0": {
+      "date": "2026-09-16",
+      "title": "Tangerine",
+      "source": "producthunt"
+    },
+    "7a563a625fb6624f": {
+      "date": "2026-09-16",
+      "title": "FATHER",
+      "source": "producthunt"
+    },
+    "fa84b809fd6e15ed": {
+      "date": "2026-09-16",
+      "title": "Thoughts for Mac",
+      "source": "producthunt"
+    },
+    "feebb1562d7b4e09": {
+      "date": "2026-09-16",
+      "title": "The Minimalist Entrepreneur Skills",
+      "source": "producthunt"
+    },
+    "d3f22d96c4a681a5": {
+      "date": "2026-09-16",
+      "title": "Narrative",
+      "source": "producthunt"
+    },
+    "8fd221f8ee15838f": {
+      "date": "2026-09-16",
+      "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer",
+      "source": "devto"
+    },
+    "90af0a47ec564123": {
+      "date": "2026-09-16",
+      "title": "The Quiet Weight of Working in Tech in the AI Era",
+      "source": "devto"
+    },
+    "4d1bb9083f86ccb7": {
+      "date": "2026-09-16",
+      "title": "How can I prevent my AI coding assistant from repeating fixed mistakes across sessions?",
+      "source": "devto"
+    },
+    "b40e0bb04bb147af": {
+      "date": "2026-09-16",
+      "title": "AI Didn't Remove the Engineering Work. It Just Made It Easier to Pretend You Did.",
+      "source": "devto"
+    },
+    "2b7ed3fe8b0c24c9": {
+      "date": "2026-09-16",
+      "title": "Resilient and Battle-Tested Are Not the Same Word",
+      "source": "devto"
+    },
+    "5e6f1c8d4ba4eee4": {
+      "date": "2026-09-16",
+      "title": "MVC, MVP, MVVM, MVVM-C, VIPER: one pattern wearing five outfits",
+      "source": "devto"
+    },
+    "b914f26bd0966d64": {
+      "date": "2026-09-16",
+      "title": "I Throttled My App to Slow 3G. Here's What My Tests Never Caught",
+      "source": "devto"
+    },
+    "ae9c6f3e2d77805a": {
+      "date": "2026-09-16",
+      "title": "🧩 Don't make Tech your entire personality.",
+      "source": "devto"
+    },
+    "30fbeebb286c749d": {
+      "date": "2026-09-16",
+      "title": "The Test Looked Redundant. The Ninth Bug Needed It.",
+      "source": "devto"
+    },
+    "5b525d8d050e6386": {
+      "date": "2026-09-16",
+      "title": "The Agent Said It Worked. I Asked the Kernel.",
+      "source": "devto"
+    },
+    "3ace28dd12ad4e20": {
+      "date": "2026-09-16",
+      "title": "Homebrew / BrewUI",
+      "source": "github"
+    },
+    "2d6bfe572fce3baf": {
+      "date": "2026-09-16",
+      "title": "danny-avila / LibreChat",
+      "source": "github"
+    },
+    "9f1698c8eec8e6cf": {
+      "date": "2026-09-16",
+      "title": "MG1937 / ASC",
+      "source": "github"
+    },
+    "0d1bd25a3199bf22": {
+      "date": "2026-09-16",
+      "title": "addyosmani / agent-skills",
+      "source": "github"
+    },
+    "104bec12c36ea90a": {
+      "date": "2026-09-16",
+      "title": "tonhowtf / omniget",
+      "source": "github"
+    },
+    "d37649da1014b56f": {
+      "date": "2026-09-16",
+      "title": "earendil-works / pi",
       "source": "github"
     }
   }
