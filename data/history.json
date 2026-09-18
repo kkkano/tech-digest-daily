@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-17T01:05:59.878816",
+  "last_updated": "2026-09-18T00:59:32.609517",
   "sent_items": {
-    "b3fd0a71c984768d": {
-      "date": "2026-08-18",
-      "title": "The Amazon tax",
-      "source": "hackernews"
-    },
-    "c294d917965a3989": {
-      "date": "2026-08-18",
-      "title": "Beware Management Consultants",
-      "source": "hackernews"
-    },
-    "d805c6dd5048ea0d": {
-      "date": "2026-08-18",
-      "title": "Using the railway network as a flatbed scanner",
-      "source": "hackernews"
-    },
-    "17404d99ec655847": {
-      "date": "2026-08-18",
-      "title": "Fixing a bricked Framework laptop",
-      "source": "hackernews"
-    },
-    "ce57d7f0f38eb7bc": {
-      "date": "2026-08-18",
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "source": "hackernews"
-    },
-    "f23fb6dcccc64a40": {
-      "date": "2026-08-18",
-      "title": "How does IKEA come up with names for its products?",
-      "source": "hackernews"
-    },
-    "3ad2d6198a4ff956": {
-      "date": "2026-08-18",
-      "title": "Being ambitious and being a dad",
-      "source": "hackernews"
-    },
-    "03d67884fc4dbb1e": {
-      "date": "2026-08-18",
-      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-      "source": "hackernews"
-    },
-    "fe0cff88bb38c696": {
-      "date": "2026-08-18",
-      "title": "Companies promote incompetent employees to management tolimit damage they can do",
-      "source": "hackernews"
-    },
-    "fb7fa64cffdff64c": {
-      "date": "2026-08-18",
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "source": "hackernews"
-    },
-    "79a72649ad5fbbbd": {
-      "date": "2026-08-18",
-      "title": "Controller AI",
-      "source": "producthunt"
-    },
-    "5a1ba7aef7dad120": {
-      "date": "2026-08-18",
-      "title": "Deepmark",
-      "source": "producthunt"
-    },
-    "3ade497109f5ed9b": {
-      "date": "2026-08-18",
-      "title": "LayerProof Matte 3.0",
-      "source": "producthunt"
-    },
-    "9b845810a6f67763": {
-      "date": "2026-08-18",
-      "title": "Taku AI",
-      "source": "producthunt"
-    },
-    "6c01d5c499484737": {
-      "date": "2026-08-18",
-      "title": "Shepherd Terminal",
-      "source": "producthunt"
-    },
-    "b5f6ad7699901445": {
-      "date": "2026-08-18",
-      "title": "monolog",
-      "source": "producthunt"
-    },
-    "2ab01992f2fd0bcc": {
-      "date": "2026-08-18",
-      "title": "Finch",
-      "source": "producthunt"
-    },
-    "642d6a62ea6a62c4": {
-      "date": "2026-08-18",
-      "title": "Dates by Agenda Hero",
-      "source": "producthunt"
-    },
-    "67a78ad910d50637": {
-      "date": "2026-08-18",
-      "title": "7 Productivity Tips That Sound Wrong (But Actually Work)",
-      "source": "devto"
-    },
-    "6347f642ccbf8f7d": {
-      "date": "2026-08-18",
-      "title": "My First Engineering Job Is Teaching Me Something I Didn't Expect",
-      "source": "devto"
-    },
-    "c45eeefda556a4f7": {
-      "date": "2026-08-18",
-      "title": "I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”",
-      "source": "devto"
-    },
-    "193053efcf9d64ae": {
-      "date": "2026-08-18",
-      "title": "The same Rust gave two different answers, and neither matched JavaScript",
-      "source": "devto"
-    },
-    "27f24cb33386aa01": {
-      "date": "2026-08-18",
-      "title": "How I Built a Kiro Crew App in 5 Minutes - Full Tutorial With Code",
-      "source": "devto"
-    },
-    "263ad89312168e75": {
-      "date": "2026-08-18",
-      "title": "COSP: The Prompting Trick Where Your LLM Grades Its Own Homework",
-      "source": "devto"
-    },
-    "29b90954d0629b65": {
-      "date": "2026-08-18",
-      "title": "How to Improve Playwright Test Coverage Using Agent Context",
-      "source": "devto"
-    },
-    "d9c3730b3c9f83a9": {
-      "date": "2026-08-18",
-      "title": "xUnit 4 ParallelMode.All: Protect Shared State from Test Races",
-      "source": "devto"
-    },
-    "d14bbc6dab743e0a": {
-      "date": "2026-08-18",
-      "title": "I Built a Lottery Simulator That Shows You Losing Money for 1000 Years",
-      "source": "devto"
-    },
-    "9b8465c018bc4b4c": {
-      "date": "2026-08-18",
-      "title": "My Uptime Monitor Was Set to Every 5 Minutes. In July It Ran 15 Times a Day.",
-      "source": "devto"
-    },
-    "c611600453f2b1d1": {
-      "date": "2026-08-18",
-      "title": "chaitanyagiri / munder-difflin",
-      "source": "github"
-    },
-    "91af1ab046d36261": {
-      "date": "2026-08-18",
-      "title": "volcengine / OpenViking",
-      "source": "github"
-    },
-    "9044a443cc06c171": {
-      "date": "2026-08-18",
-      "title": "NawfalMotii79 / PLFM_RADAR",
-      "source": "github"
-    },
-    "25b6d2f432b5af9b": {
-      "date": "2026-08-18",
-      "title": "genlayerlabs / genlayer-project-boilerplate",
-      "source": "github"
-    },
     "2f388a168f88be16": {
       "date": "2026-08-19",
       "title": "A joke domain purchase turned in geopolitical warfare",
@@ -4945,6 +4785,156 @@
     "846afa38c565e32e": {
       "date": "2026-09-17",
       "title": "supabase / supabase",
+      "source": "github"
+    },
+    "3525939fb908d174": {
+      "date": "2026-09-18",
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "source": "hackernews"
+    },
+    "294342cde7e97649": {
+      "date": "2026-09-18",
+      "title": "Astra for Law",
+      "source": "hackernews"
+    },
+    "6c90a6761f03e888": {
+      "date": "2026-09-18",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "source": "hackernews"
+    },
+    "38c8aa5739058998": {
+      "date": "2026-09-18",
+      "title": "Wax motor",
+      "source": "hackernews"
+    },
+    "51ea877eb6080618": {
+      "date": "2026-09-18",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "source": "hackernews"
+    },
+    "f1a971dfe2c2f23f": {
+      "date": "2026-09-18",
+      "title": "CrowdSec Source Code Leak",
+      "source": "hackernews"
+    },
+    "0af12fc17f1229f2": {
+      "date": "2026-09-18",
+      "title": "More than 100k people in Japan are now aged 100 or older",
+      "source": "hackernews"
+    },
+    "05b822e3a3563bfa": {
+      "date": "2026-09-18",
+      "title": "Flet 1.0 – Build cross-platform apps in Python",
+      "source": "hackernews"
+    },
+    "e5624fa01d6cf9c4": {
+      "date": "2026-09-18",
+      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "source": "hackernews"
+    },
+    "ed74cab222b449da": {
+      "date": "2026-09-18",
+      "title": "Amy by Jellyfish",
+      "source": "producthunt"
+    },
+    "0cb1f3ddf46e70ed": {
+      "date": "2026-09-18",
+      "title": "The Forge by Bob's Workshop",
+      "source": "producthunt"
+    },
+    "0a1c69aeddcd9701": {
+      "date": "2026-09-18",
+      "title": "MacSentinel",
+      "source": "producthunt"
+    },
+    "d2db420fe27f56ac": {
+      "date": "2026-09-18",
+      "title": "Pitchfire for Startups",
+      "source": "producthunt"
+    },
+    "ca9b48e2e27cdcdf": {
+      "date": "2026-09-18",
+      "title": "Figo",
+      "source": "producthunt"
+    },
+    "97199436bd7ed3d2": {
+      "date": "2026-09-18",
+      "title": "Zella",
+      "source": "producthunt"
+    },
+    "fdfa014f736c5223": {
+      "date": "2026-09-18",
+      "title": "TinyKPI",
+      "source": "producthunt"
+    },
+    "80275738bc4b8cfa": {
+      "date": "2026-09-18",
+      "title": "Bitrise Remote Dev Environments",
+      "source": "producthunt"
+    },
+    "8572ccab5345c71a": {
+      "date": "2026-09-18",
+      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
+      "source": "devto"
+    },
+    "c61e483f29cdc055": {
+      "date": "2026-09-18",
+      "title": "API Performance Testing: How to Design Realistic Tests",
+      "source": "devto"
+    },
+    "ce7f602d12dfd2ae": {
+      "date": "2026-09-18",
+      "title": "Git Bisect for Your Data",
+      "source": "devto"
+    },
+    "48dfba2108945afb": {
+      "date": "2026-09-18",
+      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
+      "source": "devto"
+    },
+    "36cd6c770ded3724": {
+      "date": "2026-09-18",
+      "title": "Show a model your old code and it writes your old bugs: 32 runs, 0% reuse",
+      "source": "devto"
+    },
+    "a5023166a7bc5886": {
+      "date": "2026-09-18",
+      "title": "My First AI Judge Interview: What Could Possibly Go Wrong?",
+      "source": "devto"
+    },
+    "774b304650acae2b": {
+      "date": "2026-09-18",
+      "title": "The Code I Couldn't Leave Alone",
+      "source": "devto"
+    },
+    "8f91dc705fb24261": {
+      "date": "2026-09-18",
+      "title": "Deno 2.6's minimum dependency age flag ignores year and month durations",
+      "source": "devto"
+    },
+    "2edfb3c73c9c83a4": {
+      "date": "2026-09-18",
+      "title": "The clipboard bridge that had to wait for the device",
+      "source": "devto"
+    },
+    "34bac38c0a9cb507": {
+      "date": "2026-09-18",
+      "title": "Frameworks Are Institutional Memory",
+      "source": "devto"
+    },
+    "373224bd194d7872": {
+      "date": "2026-09-18",
+      "title": "Tencent / BrowserSkill",
+      "source": "github"
+    },
+    "b271d174e634cf15": {
+      "date": "2026-09-18",
+      "title": "Tencent / WeKnora",
+      "source": "github"
+    },
+    "358f8118ec67b51f": {
+      "date": "2026-09-18",
+      "title": "cilium / cilium",
       "source": "github"
     }
   }
