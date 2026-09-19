@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-18T00:59:32.609517",
+  "last_updated": "2026-09-19T00:50:01.757292",
   "sent_items": {
-    "2f388a168f88be16": {
-      "date": "2026-08-19",
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "source": "hackernews"
-    },
-    "2bc42a21bd81d16d": {
-      "date": "2026-08-19",
-      "title": "OpenRouter is joining Stripe",
-      "source": "hackernews"
-    },
-    "6dbfb305b24b24d9": {
-      "date": "2026-08-19",
-      "title": "Go 1.27",
-      "source": "hackernews"
-    },
-    "e5784de24be7838f": {
-      "date": "2026-08-19",
-      "title": "Casio F-B100W-1A",
-      "source": "hackernews"
-    },
-    "fe82b57a4326b9bc": {
-      "date": "2026-08-19",
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "source": "hackernews"
-    },
-    "bde94133bc0310ca": {
-      "date": "2026-08-19",
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "source": "hackernews"
-    },
-    "85a66ff576918e59": {
-      "date": "2026-08-19",
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "source": "hackernews"
-    },
-    "a678b2801da4b109": {
-      "date": "2026-08-19",
-      "title": "DFlash 2: Keep Drafting Parallel",
-      "source": "hackernews"
-    },
-    "a9c639f41d2ee72e": {
-      "date": "2026-08-19",
-      "title": "Sol Loves to Cheat",
-      "source": "hackernews"
-    },
-    "c025ff40a8b3c02a": {
-      "date": "2026-08-19",
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "source": "hackernews"
-    },
-    "483fd0c2f19366c4": {
-      "date": "2026-08-19",
-      "title": "anyCreature by Gobkit",
-      "source": "producthunt"
-    },
-    "74bbfda82f0674f5": {
-      "date": "2026-08-19",
-      "title": "Origin by Cursor",
-      "source": "producthunt"
-    },
-    "1d38ba8e8b31d2c9": {
-      "date": "2026-08-19",
-      "title": "Edgemetry",
-      "source": "producthunt"
-    },
-    "2a7ccf40edffa2c7": {
-      "date": "2026-08-19",
-      "title": "Astute",
-      "source": "producthunt"
-    },
-    "a3946e1f3cae3720": {
-      "date": "2026-08-19",
-      "title": "Claude Watermark Remover",
-      "source": "producthunt"
-    },
-    "edd0f2ce2f8a9298": {
-      "date": "2026-08-19",
-      "title": "Basedash Public Sharing",
-      "source": "producthunt"
-    },
-    "b927fd5f234e9203": {
-      "date": "2026-08-19",
-      "title": "Expert Chase 2.0",
-      "source": "producthunt"
-    },
-    "c85cac6ad5001ed2": {
-      "date": "2026-08-19",
-      "title": "KiHub",
-      "source": "producthunt"
-    },
-    "e0dcb7607e8c6862": {
-      "date": "2026-08-19",
-      "title": "Engineering: Dreams, or Self-Actualization?",
-      "source": "devto"
-    },
-    "43bf793a48423ef3": {
-      "date": "2026-08-19",
-      "title": "Greatness Is Forged by Limitation",
-      "source": "devto"
-    },
-    "39d4a6260f741638": {
-      "date": "2026-08-19",
-      "title": "My AI Content Journey",
-      "source": "devto"
-    },
-    "79ed514c155d0ea5": {
-      "date": "2026-08-19",
-      "title": "11 Independent DevOps Learning Sites That Are Not Selling You a Certification",
-      "source": "devto"
-    },
-    "295654804279a52a": {
-      "date": "2026-08-19",
-      "title": "My QUIC transport had never once been executed. Here's what happened when I ran it.",
-      "source": "devto"
-    },
-    "a90e10e236423706": {
-      "date": "2026-08-19",
-      "title": "React useScrollLock Hook: Lock Body Scroll for Modals (2026)",
-      "source": "devto"
-    },
-    "3566141340675185": {
-      "date": "2026-08-19",
-      "title": "I Write Less Code Than I Used To. That May Be the Point.",
-      "source": "devto"
-    },
-    "9312406988ce90ed": {
-      "date": "2026-08-19",
-      "title": "I Deliberately Destroyed My Kubernetes Cluster at 2 AM. Here's What Died First.",
-      "source": "devto"
-    },
-    "7aaa25e47acc09ed": {
-      "date": "2026-08-19",
-      "title": "Agent Memory: Everything It Remembers Has the Same Authority, and That Is the Bug",
-      "source": "devto"
-    },
-    "95c95330dbeda6ae": {
-      "date": "2026-08-19",
-      "title": "Your idempotency test probably cannot fail",
-      "source": "devto"
-    },
-    "4feaa250a513cbd9": {
-      "date": "2026-08-19",
-      "title": "amadeusprotocol / node",
-      "source": "github"
-    },
-    "f453f701f0417821": {
-      "date": "2026-08-19",
-      "title": "marceloprates / prettymaps",
-      "source": "github"
-    },
     "0d38f47f0c0db046": {
       "date": "2026-08-20",
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
@@ -4935,6 +4785,176 @@
     "358f8118ec67b51f": {
       "date": "2026-09-18",
       "title": "cilium / cilium",
+      "source": "github"
+    },
+    "cd66d5678f4bbef2": {
+      "date": "2026-09-19",
+      "title": "Cloudflare Quick Tunnels",
+      "source": "hackernews"
+    },
+    "9a63d7d6c999e202": {
+      "date": "2026-09-19",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "source": "hackernews"
+    },
+    "46b5a546de98b3b5": {
+      "date": "2026-09-19",
+      "title": "How to Write with an LLM",
+      "source": "hackernews"
+    },
+    "629776ac3834ec9e": {
+      "date": "2026-09-19",
+      "title": "Saving another 100TB of RAM",
+      "source": "hackernews"
+    },
+    "dc264893595eec75": {
+      "date": "2026-09-19",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "source": "hackernews"
+    },
+    "319d64ba054c5a71": {
+      "date": "2026-09-19",
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "source": "hackernews"
+    },
+    "be7e24d9382eb5b6": {
+      "date": "2026-09-19",
+      "title": "Xcode 27.1 Beta Release Notes",
+      "source": "hackernews"
+    },
+    "f7b5abcff53c3abd": {
+      "date": "2026-09-19",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "source": "hackernews"
+    },
+    "a817a2a7da9f774f": {
+      "date": "2026-09-19",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "source": "hackernews"
+    },
+    "94f157e74dce42bc": {
+      "date": "2026-09-19",
+      "title": "The Farnese letter",
+      "source": "hackernews"
+    },
+    "502761c6b19ef795": {
+      "date": "2026-09-19",
+      "title": "Ari by Ariso",
+      "source": "producthunt"
+    },
+    "93528ddd7a8ea532": {
+      "date": "2026-09-19",
+      "title": "LokalBot",
+      "source": "producthunt"
+    },
+    "c725bbf4c4cf72c5": {
+      "date": "2026-09-19",
+      "title": "Wingman",
+      "source": "producthunt"
+    },
+    "ce93fe42a9bb8cf2": {
+      "date": "2026-09-19",
+      "title": "Wombo",
+      "source": "producthunt"
+    },
+    "4cab1de7eedce167": {
+      "date": "2026-09-19",
+      "title": "Holon",
+      "source": "producthunt"
+    },
+    "56410e9a6db58523": {
+      "date": "2026-09-19",
+      "title": "Buncha Games",
+      "source": "producthunt"
+    },
+    "91a389e22667ad71": {
+      "date": "2026-09-19",
+      "title": "StillTalk",
+      "source": "producthunt"
+    },
+    "c16dfb6632cf9f4d": {
+      "date": "2026-09-19",
+      "title": "Mela",
+      "source": "producthunt"
+    },
+    "6aa00d8ffb1da938": {
+      "date": "2026-09-19",
+      "title": "What was your win this week?!",
+      "source": "devto"
+    },
+    "d7fa97b41dc07dea": {
+      "date": "2026-09-19",
+      "title": "GMail, please let me hide delegated accounts on my iPhone",
+      "source": "devto"
+    },
+    "89e8a4b7156011bd": {
+      "date": "2026-09-19",
+      "title": "The beauty and terror of negative feedback",
+      "source": "devto"
+    },
+    "79b1437ddfa073ba": {
+      "date": "2026-09-19",
+      "title": "It's Got What Content Craves: Sanity, Built for the People of Idiocracy",
+      "source": "devto"
+    },
+    "c1bd8d73cc4828dc": {
+      "date": "2026-09-19",
+      "title": "Jev vs Claude: Who Wins?",
+      "source": "devto"
+    },
+    "2ddc4be164ac2297": {
+      "date": "2026-09-19",
+      "title": "Architecting Battery-Efficient Geofencing for Automated Sound Profiles",
+      "source": "devto"
+    },
+    "7fb6956a47b0c6c2": {
+      "date": "2026-09-19",
+      "title": "How to make a fool of yourself 101",
+      "source": "devto"
+    },
+    "336d504a06307080": {
+      "date": "2026-09-19",
+      "title": "164 disposable computers, one judging afternoon, and a question nobody had time to ask",
+      "source": "devto"
+    },
+    "a46afef2fc90e98d": {
+      "date": "2026-09-19",
+      "title": "Programming Is Mostly Learning How to Investigate Things",
+      "source": "devto"
+    },
+    "d5dc4b7b05fe8ea4": {
+      "date": "2026-09-19",
+      "title": "Testing Streaming AI Interfaces with Cypress Without Asserting Every Token",
+      "source": "devto"
+    },
+    "6c6123e1db3650aa": {
+      "date": "2026-09-19",
+      "title": "TencentCloud / Octop",
+      "source": "github"
+    },
+    "21d0ac56b11add59": {
+      "date": "2026-09-19",
+      "title": "Fission-AI / OpenSpec",
+      "source": "github"
+    },
+    "c48c82e47f720318": {
+      "date": "2026-09-19",
+      "title": "supermemoryai / supermemory",
+      "source": "github"
+    },
+    "d84de85bb3f0e980": {
+      "date": "2026-09-19",
+      "title": "tradesdontlie / tradingview-mcp",
+      "source": "github"
+    },
+    "7e0cdf3f57bc56a3": {
+      "date": "2026-09-19",
+      "title": "rustfs / rustfs",
+      "source": "github"
+    },
+    "e1859b05e6fcb91d": {
+      "date": "2026-09-19",
+      "title": "coder / coder",
       "source": "github"
     }
   }
