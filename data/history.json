@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-19T00:50:01.757292",
+  "last_updated": "2026-09-20T00:35:02.075478",
   "sent_items": {
-    "0d38f47f0c0db046": {
-      "date": "2026-08-20",
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "source": "hackernews"
-    },
-    "bfbe224e44632f1c": {
-      "date": "2026-08-20",
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "source": "hackernews"
-    },
-    "de7ec48fdb70ceef": {
-      "date": "2026-08-20",
-      "title": "HTML Can Do That",
-      "source": "hackernews"
-    },
-    "1cfdf74a597abf6a": {
-      "date": "2026-08-20",
-      "title": "I like 'em thick: an apology to my English teachers",
-      "source": "hackernews"
-    },
-    "20dcbe89b3fb3a87": {
-      "date": "2026-08-20",
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "source": "hackernews"
-    },
-    "9ab7e4d07cdc93a6": {
-      "date": "2026-08-20",
-      "title": "The August 17 outage, and the work ahead",
-      "source": "hackernews"
-    },
-    "2a3f3d0326e9b4e8": {
-      "date": "2026-08-20",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "source": "hackernews"
-    },
-    "9c9968045ffe697a": {
-      "date": "2026-08-20",
-      "title": "I should have loved biology (2020)",
-      "source": "hackernews"
-    },
-    "041fc3674d967bb1": {
-      "date": "2026-08-20",
-      "title": "Consumer Rights Wiki",
-      "source": "hackernews"
-    },
-    "89cb18d0a623d07d": {
-      "date": "2026-08-20",
-      "title": "Citizen Devs: Everyone is an engineer now",
-      "source": "hackernews"
-    },
-    "9ba9b0b1e0ced9ac": {
-      "date": "2026-08-20",
-      "title": "Revy",
-      "source": "producthunt"
-    },
-    "e19cada5b1b54430": {
-      "date": "2026-08-20",
-      "title": "Berd",
-      "source": "producthunt"
-    },
-    "9a939770a1e1efe3": {
-      "date": "2026-08-20",
-      "title": "Lifelong",
-      "source": "producthunt"
-    },
-    "c24d82056df4f3b5": {
-      "date": "2026-08-20",
-      "title": "The New Calendly",
-      "source": "producthunt"
-    },
-    "55b2f0d02d9a1fb9": {
-      "date": "2026-08-20",
-      "title": "MeetStream AI",
-      "source": "producthunt"
-    },
-    "d9e8af4ac7d72fb7": {
-      "date": "2026-08-20",
-      "title": "Hermai Brand API",
-      "source": "producthunt"
-    },
-    "ce16e5ae37d76115": {
-      "date": "2026-08-20",
-      "title": "Grok 4.6",
-      "source": "producthunt"
-    },
-    "e642173c067efd0f": {
-      "date": "2026-08-20",
-      "title": "Aloud",
-      "source": "producthunt"
-    },
-    "53d779a3ebdde4c2": {
-      "date": "2026-08-20",
-      "title": "State Management in Front-end Web Development: Mutators",
-      "source": "devto"
-    },
-    "1c2ab6a11da3f35d": {
-      "date": "2026-08-20",
-      "title": "I wrote a test for prompt injection. It passed while the attack worked.",
-      "source": "devto"
-    },
-    "637f1ae83fe639e8": {
-      "date": "2026-08-20",
-      "title": "1ª vez trabalhando com git em um time: tudo que você precisa saber",
-      "source": "devto"
-    },
-    "0765929ffaade7de": {
-      "date": "2026-08-20",
-      "title": "Solving Gradle metadata and Renovate integration",
-      "source": "devto"
-    },
-    "4f78b4aa1d629412": {
-      "date": "2026-08-20",
-      "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
-      "source": "devto"
-    },
-    "fbffd92138ef177b": {
-      "date": "2026-08-20",
-      "title": "The test was green. Every real connection would have failed.",
-      "source": "devto"
-    },
-    "08f437234466cab8": {
-      "date": "2026-08-20",
-      "title": "The Reasoning Ledger: Remembering Decisions, Not Just Data",
-      "source": "devto"
-    },
-    "aee6522417111017": {
-      "date": "2026-08-20",
-      "title": "I Built an AI Code Reviewer. Then OWASP Broke It.",
-      "source": "devto"
-    },
-    "44c4f00ac3b2e89b": {
-      "date": "2026-08-20",
-      "title": "A missing exchange rate is not an exchange rate of 1",
-      "source": "devto"
-    },
-    "fcb925e944e48cc5": {
-      "date": "2026-08-20",
-      "title": "The /sdp endpoint that trusted its callers: fixing a memory-amplification DoS in py-libp2p",
-      "source": "devto"
-    },
-    "5e545fb9f529df45": {
-      "date": "2026-08-20",
-      "title": "modular / modular",
-      "source": "github"
-    },
-    "3adab56acaa31031": {
-      "date": "2026-08-20",
-      "title": "AprilNEA / OpenLogi",
-      "source": "github"
-    },
-    "9b897d36ce84b465": {
-      "date": "2026-08-20",
-      "title": "agent-substrate / substrate",
-      "source": "github"
-    },
-    "6fb08428e288194e": {
-      "date": "2026-08-20",
-      "title": "PostHog / posthog",
-      "source": "github"
-    },
-    "65d0cb405a9eb49f": {
-      "date": "2026-08-20",
-      "title": "mahlernim / google-timeline-visualizer",
-      "source": "github"
-    },
-    "021dcfb5e16a50cf": {
-      "date": "2026-08-20",
-      "title": "JuliusBrussee / caveman",
-      "source": "github"
-    },
-    "bf3408e522ca2216": {
-      "date": "2026-08-20",
-      "title": "makeplane / plane",
-      "source": "github"
-    },
     "c566085c3ba08687": {
       "date": "2026-08-21",
       "title": "Kagi added a setting for removing paywalled links from search results",
@@ -4955,6 +4780,186 @@
     "e1859b05e6fcb91d": {
       "date": "2026-09-19",
       "title": "coder / coder",
+      "source": "github"
+    },
+    "861b71c77d7ec3a2": {
+      "date": "2026-09-20",
+      "title": "AI-generated posters don’t have to be horrible",
+      "source": "hackernews"
+    },
+    "4ae40c8c89696064": {
+      "date": "2026-09-20",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "source": "hackernews"
+    },
+    "902764ff7b145f05": {
+      "date": "2026-09-20",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "source": "hackernews"
+    },
+    "bcf6946fec319c15": {
+      "date": "2026-09-20",
+      "title": "Brood War Bench",
+      "source": "hackernews"
+    },
+    "5ca8754f367d17b2": {
+      "date": "2026-09-20",
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "source": "hackernews"
+    },
+    "18719394dfc17720": {
+      "date": "2026-09-20",
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "source": "hackernews"
+    },
+    "f487a8d1d4f07e18": {
+      "date": "2026-09-20",
+      "title": "Compiler-style optimization for drawing via Skia",
+      "source": "hackernews"
+    },
+    "c9dce3c8566e850e": {
+      "date": "2026-09-20",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "source": "hackernews"
+    },
+    "b841b6dc716d2763": {
+      "date": "2026-09-20",
+      "title": "Mayday Mysteries",
+      "source": "hackernews"
+    },
+    "08bcb714b2a82da7": {
+      "date": "2026-09-20",
+      "title": "Exfiltrate Your Weights",
+      "source": "hackernews"
+    },
+    "edd0f2ce2f8a9298": {
+      "date": "2026-09-20",
+      "title": "Basedash Models",
+      "source": "producthunt"
+    },
+    "76d4842b006a3b15": {
+      "date": "2026-09-20",
+      "title": "Mise",
+      "source": "producthunt"
+    },
+    "5547371b8457191e": {
+      "date": "2026-09-20",
+      "title": "Steam Frame",
+      "source": "producthunt"
+    },
+    "1d630ddf902817a5": {
+      "date": "2026-09-20",
+      "title": "Punch",
+      "source": "producthunt"
+    },
+    "087483f68859e255": {
+      "date": "2026-09-20",
+      "title": "VoiceCap",
+      "source": "producthunt"
+    },
+    "76ae0979f86221fd": {
+      "date": "2026-09-20",
+      "title": "Ruby UTCP",
+      "source": "producthunt"
+    },
+    "d3a3abef03fd7a95": {
+      "date": "2026-09-20",
+      "title": "Squirrel",
+      "source": "producthunt"
+    },
+    "ff1e4e7be9753025": {
+      "date": "2026-09-20",
+      "title": "Lull",
+      "source": "producthunt"
+    },
+    "a2ea66ef85d7742b": {
+      "date": "2026-09-20",
+      "title": "Dev log #21 Hardening WebRTC-Direct and solving SCM leaks",
+      "source": "devto"
+    },
+    "93dc74ff10235ec0": {
+      "date": "2026-09-20",
+      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+      "source": "devto"
+    },
+    "147e962895b11c75": {
+      "date": "2026-09-20",
+      "title": "Frozendict 🧊: State of the Art Immutable Hashmap for Python and Node JS.",
+      "source": "devto"
+    },
+    "95452fa2429b3a1e": {
+      "date": "2026-09-20",
+      "title": "What Do You Do While AI Codes? I Make Mine Argue With Itself.",
+      "source": "devto"
+    },
+    "08de611fd9f10a59": {
+      "date": "2026-09-20",
+      "title": "Thrown Into a Huge Unfamiliar Codebase? Here's Your Survival Guide.",
+      "source": "devto"
+    },
+    "d84b32477759d60a": {
+      "date": "2026-09-20",
+      "title": "I got rejected for using AI in an interview. Then I watched the interviewer do it.",
+      "source": "devto"
+    },
+    "0ed04bc79df7282f": {
+      "date": "2026-09-20",
+      "title": "I Let AI Write My Tests for 6 Months. Here Is What Actually Survived Production",
+      "source": "devto"
+    },
+    "058aa238ce09a5b9": {
+      "date": "2026-09-20",
+      "title": "Your AI Coding Agent Can Be Attacked by the Repository It Opens",
+      "source": "devto"
+    },
+    "d182b0d474b6a050": {
+      "date": "2026-09-20",
+      "title": "What Go Taught Us About Java Garbage Collection",
+      "source": "devto"
+    },
+    "d44331a1971df5c9": {
+      "date": "2026-09-20",
+      "title": "trycua / cua",
+      "source": "github"
+    },
+    "84daf5030c295d45": {
+      "date": "2026-09-20",
+      "title": "Open-Dev-Society / OpenStock",
+      "source": "github"
+    },
+    "b81606652c12947e": {
+      "date": "2026-09-20",
+      "title": "higgsfield-ai / higgsfield",
+      "source": "github"
+    },
+    "221977b1a4ae3da4": {
+      "date": "2026-09-20",
+      "title": "docling-project / docling",
+      "source": "github"
+    },
+    "27b58a986ae4d764": {
+      "date": "2026-09-20",
+      "title": "cloudflare / quiche",
+      "source": "github"
+    },
+    "ce0f960de489184c": {
+      "date": "2026-09-20",
+      "title": "ruanyf / weekly",
+      "source": "github"
+    },
+    "e413ca598b2e8b59": {
+      "date": "2026-09-20",
+      "title": "ZuodaoTech / everyone-can-use-english",
+      "source": "github"
+    },
+    "88adb36d994a0627": {
+      "date": "2026-09-20",
+      "title": "cactus-compute / needle",
+      "source": "github"
+    },
+    "9668b773c0c4ccf9": {
+      "date": "2026-09-20",
+      "title": "yynxxxxx / Codex-X",
       "source": "github"
     }
   }
