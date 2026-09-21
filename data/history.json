@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-20T00:35:02.075478",
+  "last_updated": "2026-09-21T00:43:00.574621",
   "sent_items": {
-    "c566085c3ba08687": {
-      "date": "2026-08-21",
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "source": "hackernews"
-    },
-    "237fce0ade9c5a44": {
-      "date": "2026-08-21",
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "source": "hackernews"
-    },
-    "406cdb9c473f07b9": {
-      "date": "2026-08-21",
-      "title": "Felony Bench",
-      "source": "hackernews"
-    },
-    "7d05548c0a1211f3": {
-      "date": "2026-08-21",
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "source": "hackernews"
-    },
-    "ee005c5c0e5c95a9": {
-      "date": "2026-08-21",
-      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "source": "hackernews"
-    },
-    "3b363ecc337da139": {
-      "date": "2026-08-21",
-      "title": "Kobo can run apps now",
-      "source": "hackernews"
-    },
-    "487dcd058245b141": {
-      "date": "2026-08-21",
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "source": "hackernews"
-    },
-    "874758b55ba55bf0": {
-      "date": "2026-08-21",
-      "title": "Scientists release biggest 2D map of the universe",
-      "source": "hackernews"
-    },
-    "6d507ab14d67ba20": {
-      "date": "2026-08-21",
-      "title": "I ran Photoshop on a £0.60 computer chip",
-      "source": "hackernews"
-    },
-    "336b42c2894b2720": {
-      "date": "2026-08-21",
-      "title": "How we made a text-to-speech model respond in sub-50 ms",
-      "source": "hackernews"
-    },
-    "99376cbd5d625f4c": {
-      "date": "2026-08-21",
-      "title": "Local",
-      "source": "producthunt"
-    },
-    "ae8f77eb0f38a91d": {
-      "date": "2026-08-21",
-      "title": "Lynqo",
-      "source": "producthunt"
-    },
-    "6dfc44b824ed6dd4": {
-      "date": "2026-08-21",
-      "title": "Surfdeck",
-      "source": "producthunt"
-    },
-    "6696d03e6fb90aa1": {
-      "date": "2026-08-21",
-      "title": "Wizstar",
-      "source": "producthunt"
-    },
-    "a0ab5979c49124cf": {
-      "date": "2026-08-21",
-      "title": "Actx0",
-      "source": "producthunt"
-    },
-    "f54b7663682d0811": {
-      "date": "2026-08-21",
-      "title": "Epho",
-      "source": "producthunt"
-    },
-    "aea289407207cf3d": {
-      "date": "2026-08-21",
-      "title": "fx (by Vercel)",
-      "source": "producthunt"
-    },
-    "18e193c142970bfd": {
-      "date": "2026-08-21",
-      "title": "Router by Ramp",
-      "source": "producthunt"
-    },
-    "e2b1bd402c56ce15": {
-      "date": "2026-08-21",
-      "title": "What was your win this week?!",
-      "source": "devto"
-    },
-    "1d973e372d476ae8": {
-      "date": "2026-08-21",
-      "title": "I Added Terminal Charts to My Dev.to CLI. Here's What My Data Looks Like.",
-      "source": "devto"
-    },
-    "c9363ee3d9486dec": {
-      "date": "2026-08-21",
-      "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
-      "source": "devto"
-    },
-    "9c335ca1adbc277c": {
-      "date": "2026-08-21",
-      "title": "My first website said \"Don't commit without context.\" I never committed it at all.",
-      "source": "devto"
-    },
-    "db5aeb54670bd984": {
-      "date": "2026-08-21",
-      "title": "How ChatGPT Serves 900 Million Users at a Time",
-      "source": "devto"
-    },
-    "1210b76d01160881": {
-      "date": "2026-08-21",
-      "title": "I Ran 157 Agent Plans Against a Real LLM. The Problem Wasn't Execution. It Was Planning.",
-      "source": "devto"
-    },
-    "db23c52b2a070889": {
-      "date": "2026-08-21",
-      "title": "The Third-Generation GUI Builder: One Workspace for Every Form",
-      "source": "devto"
-    },
-    "34dc75a334864e03": {
-      "date": "2026-08-21",
-      "title": "Fixing a null-body crash in the Formbricks survey SDK, found by Sentry",
-      "source": "devto"
-    },
-    "d1f63021d3dcf71b": {
-      "date": "2026-08-21",
-      "title": "The AI demo failed, but the database remembered half of it",
-      "source": "devto"
-    },
-    "8407f68d34ad691a": {
-      "date": "2026-08-21",
-      "title": "We tested \"tokenize before you compress\" against 452 configurations, and it mostly held up",
-      "source": "devto"
-    },
-    "056bb02146300a1b": {
-      "date": "2026-08-21",
-      "title": "microsoft / TypeScript",
-      "source": "github"
-    },
-    "a90d342e2181a927": {
-      "date": "2026-08-21",
-      "title": "affaan-m / ECC",
-      "source": "github"
-    },
-    "00d751d8c6f4efa9": {
-      "date": "2026-08-21",
-      "title": "TryGhost / Ghost",
-      "source": "github"
-    },
-    "9a16f8b0667e86a0": {
-      "date": "2026-08-21",
-      "title": "ruvnet / ruflo",
-      "source": "github"
-    },
-    "6dc9b530b3881335": {
-      "date": "2026-08-21",
-      "title": "apache / maka",
-      "source": "github"
-    },
-    "89a665d7fafbfdc7": {
-      "date": "2026-08-21",
-      "title": "protocolbuffers / protobuf",
-      "source": "github"
-    },
     "bf0ea94ccea4f92e": {
       "date": "2026-08-22",
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
@@ -4961,6 +4791,166 @@
       "date": "2026-09-20",
       "title": "yynxxxxx / Codex-X",
       "source": "github"
+    },
+    "9a048b65d02cf7ae": {
+      "date": "2026-09-21",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "source": "hackernews"
+    },
+    "97ac8e86b37c6d23": {
+      "date": "2026-09-21",
+      "title": "Qwen Image 2.1",
+      "source": "hackernews"
+    },
+    "f3741aa8158b8618": {
+      "date": "2026-09-21",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "source": "hackernews"
+    },
+    "9221b9252f7188c0": {
+      "date": "2026-09-21",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "source": "hackernews"
+    },
+    "2e2f537981f14d62": {
+      "date": "2026-09-21",
+      "title": "Nobody pays for FOSS, we can force them to",
+      "source": "hackernews"
+    },
+    "1f8f0587e01604ae": {
+      "date": "2026-09-21",
+      "title": "Google's Open Agentic Orchestrator",
+      "source": "hackernews"
+    },
+    "485596440f0177f1": {
+      "date": "2026-09-21",
+      "title": "Apple iPhone 18 Pro Camera test",
+      "source": "hackernews"
+    },
+    "a1e4169b942d8ebe": {
+      "date": "2026-09-21",
+      "title": "What Happened to the Snowden Archive",
+      "source": "hackernews"
+    },
+    "ab1d94a3c49c3df0": {
+      "date": "2026-09-21",
+      "title": "The Effect of CRTs on Pixel Art",
+      "source": "hackernews"
+    },
+    "75912f7cb98b047a": {
+      "date": "2026-09-21",
+      "title": "Amiga Unix, Again",
+      "source": "hackernews"
+    },
+    "a73f8d45977aeb76": {
+      "date": "2026-09-21",
+      "title": "Answers by Context.dev",
+      "source": "producthunt"
+    },
+    "ca57dc8f56f1c0e1": {
+      "date": "2026-09-21",
+      "title": "Epismo OS",
+      "source": "producthunt"
+    },
+    "ac0b9adebb170c39": {
+      "date": "2026-09-21",
+      "title": "Scrapboard Cloud 4",
+      "source": "producthunt"
+    },
+    "b71f84a745490231": {
+      "date": "2026-09-21",
+      "title": "Morsa Signals",
+      "source": "producthunt"
+    },
+    "2798dca53e3d7b7b": {
+      "date": "2026-09-21",
+      "title": "The 101 Plays Itself",
+      "source": "producthunt"
+    },
+    "d975f7ace94c6d58": {
+      "date": "2026-09-21",
+      "title": "Minicart",
+      "source": "producthunt"
+    },
+    "ad0f3a969f846bf5": {
+      "date": "2026-09-21",
+      "title": "Launchie 1.6.1",
+      "source": "producthunt"
+    },
+    "c91380d9f6159474": {
+      "date": "2026-09-21",
+      "title": "BuilderIO / agent-native",
+      "source": "github"
+    },
+    "bf36d171e6670874": {
+      "date": "2026-09-21",
+      "title": "anthropics / financial-services",
+      "source": "github"
+    },
+    "9da20606e54ba5ed": {
+      "date": "2026-09-21",
+      "title": "paperless-ngx / paperless-ngx",
+      "source": "github"
+    },
+    "6574280bda3f3407": {
+      "date": "2026-09-21",
+      "title": "mihail911 / modern-software-dev-assignments",
+      "source": "github"
+    },
+    "35f99ce97c2a7c77": {
+      "date": "2026-09-21",
+      "title": "vercel-labs / json-render",
+      "source": "github"
+    },
+    "4baa0f30ae34afa1": {
+      "date": "2026-09-21",
+      "title": "i built a green blob that lives on my desktop. now it has feelings.",
+      "source": "devto"
+    },
+    "157358e3ce08d061": {
+      "date": "2026-09-21",
+      "title": "Blacksmith's GitHub Actions runners finished the same job 3 to 4 times faster than GitHub hosted Act",
+      "source": "devto"
+    },
+    "f7a0490198177d70": {
+      "date": "2026-09-21",
+      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
+      "source": "devto"
+    },
+    "5aa3296277047ee9": {
+      "date": "2026-09-21",
+      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
+      "source": "devto"
+    },
+    "e9949193513e6388": {
+      "date": "2026-09-21",
+      "title": "I Resurrected a Dead CRC Crate and It Suddenly Went Viral",
+      "source": "devto"
+    },
+    "548d90b085c44568": {
+      "date": "2026-09-21",
+      "title": "How to make your own Vim operator",
+      "source": "devto"
+    },
+    "3ca52cb809598544": {
+      "date": "2026-09-21",
+      "title": "FastAPI's new app.frontend() fixes a route-order bug in manual SPA serving",
+      "source": "devto"
+    },
+    "95eac8c18aaa3084": {
+      "date": "2026-09-21",
+      "title": "I missed Go's `if err != nil`, so I built errval for TypeScript",
+      "source": "devto"
+    },
+    "5a32fd9f7ef571c5": {
+      "date": "2026-09-21",
+      "title": "Faster Maps: Chasing Swiss Speed",
+      "source": "devto"
+    },
+    "826966b938357940": {
+      "date": "2026-09-21",
+      "title": "No Results Found (Until You Look)",
+      "source": "devto"
     }
   }
 }
