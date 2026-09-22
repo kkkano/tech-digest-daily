@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-21T00:43:00.574621",
+  "last_updated": "2026-09-22T01:20:57.145693",
   "sent_items": {
-    "bf0ea94ccea4f92e": {
-      "date": "2026-08-22",
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "source": "hackernews"
-    },
-    "ff6c6e92dfd9334c": {
-      "date": "2026-08-22",
-      "title": "Scrap",
-      "source": "hackernews"
-    },
-    "6952b35b1753edf4": {
-      "date": "2026-08-22",
-      "title": "Hister – A private, full content search index that you control",
-      "source": "hackernews"
-    },
-    "a423a40ee50f054e": {
-      "date": "2026-08-22",
-      "title": "A Friendly Introduction to Racket",
-      "source": "hackernews"
-    },
-    "707d97be0a10a08d": {
-      "date": "2026-08-22",
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-      "source": "hackernews"
-    },
-    "bf47e652947d61da": {
-      "date": "2026-08-22",
-      "title": "typ.ing",
-      "source": "hackernews"
-    },
-    "d073d6e723196a3a": {
-      "date": "2026-08-22",
-      "title": "RF Cafe",
-      "source": "hackernews"
-    },
-    "54728fe029ffdc2e": {
-      "date": "2026-08-22",
-      "title": "Why your local LLM feels dumber than it is",
-      "source": "hackernews"
-    },
-    "c6c3d5497f8c6505": {
-      "date": "2026-08-22",
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "source": "hackernews"
-    },
-    "4e37da81acd6a107": {
-      "date": "2026-08-22",
-      "title": "NetBSD and my life (2005)",
-      "source": "hackernews"
-    },
-    "3b90bd73aa10e555": {
-      "date": "2026-08-22",
-      "title": "Pocket by Meta",
-      "source": "producthunt"
-    },
-    "0993511396f5aa16": {
-      "date": "2026-08-22",
-      "title": "Open Analytics",
-      "source": "producthunt"
-    },
-    "dfc7c274a3af585b": {
-      "date": "2026-08-22",
-      "title": "Maccess",
-      "source": "producthunt"
-    },
-    "83e536fa99314254": {
-      "date": "2026-08-22",
-      "title": "Port Radar for macOS",
-      "source": "producthunt"
-    },
-    "0919536dda4e2063": {
-      "date": "2026-08-22",
-      "title": "VeloFiler",
-      "source": "producthunt"
-    },
-    "acb937a7bfc16bec": {
-      "date": "2026-08-22",
-      "title": "KerasFormers",
-      "source": "producthunt"
-    },
-    "cfaa95c2e6f46f6a": {
-      "date": "2026-08-22",
-      "title": "Zero",
-      "source": "producthunt"
-    },
-    "91c328e3eda0a895": {
-      "date": "2026-08-22",
-      "title": "The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking",
-      "source": "devto"
-    },
-    "4d82afa63adc7cfd": {
-      "date": "2026-08-22",
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "source": "devto"
-    },
-    "c7811b8f8a8eaeda": {
-      "date": "2026-08-22",
-      "title": "Designing a Reasoning Ledger Record",
-      "source": "devto"
-    },
-    "77802e299aedb08a": {
-      "date": "2026-08-22",
-      "title": "Job Hunt With a Bot?",
-      "source": "devto"
-    },
-    "928a27de2bd4f30a": {
-      "date": "2026-08-22",
-      "title": "I built Kintara because apparently having too many hobbies eventually leads to building your own doc",
-      "source": "devto"
-    },
-    "57b895082ed728a7": {
-      "date": "2026-08-22",
-      "title": "The Planner Made the Same 3 Mistakes Every Time. A Bigger Model Didn't Fix It.",
-      "source": "devto"
-    },
-    "4a5ce69be0ca9b42": {
-      "date": "2026-08-22",
-      "title": "Why I Built Amazon Store (So I Don't Have to Pick a Country)",
-      "source": "devto"
-    },
-    "a3677f219733005c": {
-      "date": "2026-08-22",
-      "title": "Nuance Is a Double-Edged Sword ⚔️",
-      "source": "devto"
-    },
-    "40f545a6ab09702a": {
-      "date": "2026-08-22",
-      "title": "I used JSON files instead of a database for 1,699 records. Here's what actually broke.",
-      "source": "devto"
-    },
-    "2ead14cc06ce65b8": {
-      "date": "2026-08-22",
-      "title": "4 Non-obvious learnings from working with alerts",
-      "source": "devto"
-    },
-    "1a57528ba5a4a035": {
-      "date": "2026-08-22",
-      "title": "openai / codex",
-      "source": "github"
-    },
-    "e1a6696969acd12e": {
-      "date": "2026-08-22",
-      "title": "Wei-Shaw / sub2api",
-      "source": "github"
-    },
-    "feb34faf0b30f401": {
-      "date": "2026-08-22",
-      "title": "n8n-io / n8n",
-      "source": "github"
-    },
-    "1e61851c7eb0065b": {
-      "date": "2026-08-22",
-      "title": "anthropics / claude-code",
-      "source": "github"
-    },
-    "39ec5846ae4b9617": {
-      "date": "2026-08-22",
-      "title": "multica-ai / andrej-karpathy-skills",
-      "source": "github"
-    },
-    "66fdad17e3139cd7": {
-      "date": "2026-08-22",
-      "title": "ripienaar / free-for-dev",
-      "source": "github"
-    },
     "5587198269c03721": {
       "date": "2026-08-23",
       "title": "What Is a Harness?",
@@ -4950,6 +4785,156 @@
     "826966b938357940": {
       "date": "2026-09-21",
       "title": "No Results Found (Until You Look)",
+      "source": "devto"
+    },
+    "5d6105479616f230": {
+      "date": "2026-09-22",
+      "title": "Attention is all you have",
+      "source": "hackernews"
+    },
+    "c81f947362b7ce81": {
+      "date": "2026-09-22",
+      "title": "Xiaomi MiMo v2.6",
+      "source": "hackernews"
+    },
+    "50409e7062e283ec": {
+      "date": "2026-09-22",
+      "title": "What Sun got wrong",
+      "source": "hackernews"
+    },
+    "f026b316fd816cf7": {
+      "date": "2026-09-22",
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "source": "hackernews"
+    },
+    "da19df040466e167": {
+      "date": "2026-09-22",
+      "title": "I don't want to read what you didn't write",
+      "source": "hackernews"
+    },
+    "cf0aad59a9d15a39": {
+      "date": "2026-09-22",
+      "title": "Transformers Explained Visually",
+      "source": "hackernews"
+    },
+    "6ccadb864870b71e": {
+      "date": "2026-09-22",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "source": "hackernews"
+    },
+    "f86489852bef3369": {
+      "date": "2026-09-22",
+      "title": "Divide by depth for instant 3D",
+      "source": "hackernews"
+    },
+    "f6c24c09b631ac4c": {
+      "date": "2026-09-22",
+      "title": "Spymarks, Not Watermarks",
+      "source": "hackernews"
+    },
+    "4ee690512bc89407": {
+      "date": "2026-09-22",
+      "title": "First Shader from Zero in Godot 4",
+      "source": "hackernews"
+    },
+    "2264233e8d9bb57f": {
+      "date": "2026-09-22",
+      "title": "Sell to State",
+      "source": "producthunt"
+    },
+    "3ca25511d245ef5e": {
+      "date": "2026-09-22",
+      "title": "Refoid",
+      "source": "producthunt"
+    },
+    "999f4c9e61c53296": {
+      "date": "2026-09-22",
+      "title": "NiubiGEO",
+      "source": "producthunt"
+    },
+    "e89b52119bcaf05c": {
+      "date": "2026-09-22",
+      "title": "Lead Sparker",
+      "source": "producthunt"
+    },
+    "305bd19ea3cdd333": {
+      "date": "2026-09-22",
+      "title": "Simha Digital",
+      "source": "producthunt"
+    },
+    "8bb3c1b36c442452": {
+      "date": "2026-09-22",
+      "title": "slop-grader",
+      "source": "producthunt"
+    },
+    "44154b46b32c21ba": {
+      "date": "2026-09-22",
+      "title": "akitaonrails / ai-memory",
+      "source": "github"
+    },
+    "ee900e8a14249367": {
+      "date": "2026-09-22",
+      "title": "mvt-project / mvt",
+      "source": "github"
+    },
+    "d26904d3ecd892fc": {
+      "date": "2026-09-22",
+      "title": "zhouxiaoka / autoclip",
+      "source": "github"
+    },
+    "41a6a86637e67fe4": {
+      "date": "2026-09-22",
+      "title": "Crosstalk-Solutions / project-nomad",
+      "source": "github"
+    },
+    "2c68b9e70f4232d0": {
+      "date": "2026-09-22",
+      "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
+      "source": "devto"
+    },
+    "fa4a484c590a19c0": {
+      "date": "2026-09-22",
+      "title": "You're not an impostor, you just started from a different line",
+      "source": "devto"
+    },
+    "f0c4900278e416f4": {
+      "date": "2026-09-22",
+      "title": "Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code",
+      "source": "devto"
+    },
+    "40b044960d3b5c06": {
+      "date": "2026-09-22",
+      "title": "My AI Agent Isn't Allowed to Decide Anything",
+      "source": "devto"
+    },
+    "2cab0bc7b4fe0c3e": {
+      "date": "2026-09-22",
+      "title": "Clean Code Is Not the Same as Clear Code: Comments Were Never the Problem",
+      "source": "devto"
+    },
+    "44942dea6a5b9eb8": {
+      "date": "2026-09-22",
+      "title": "I Thought I Knew WordPress Theme Development Until My First Project",
+      "source": "devto"
+    },
+    "df5525ec716076d7": {
+      "date": "2026-09-22",
+      "title": "10 Cool CodePen Demos (August 2026)",
+      "source": "devto"
+    },
+    "0d071d4d32487a49": {
+      "date": "2026-09-22",
+      "title": "React 19's useTransition Looked Simple. Then I Found a Second Bug Hiding Inside the First One",
+      "source": "devto"
+    },
+    "20347b8190c03b02": {
+      "date": "2026-09-22",
+      "title": "How to stop AI from confidently shipping broken code (a pattern that actually works)",
+      "source": "devto"
+    },
+    "4d032fe0ced94fe3": {
+      "date": "2026-09-22",
+      "title": "Where Trust in Automated Review Actually Comes From",
       "source": "devto"
     }
   }
