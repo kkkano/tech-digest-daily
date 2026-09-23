@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-22T01:20:57.145693",
+  "last_updated": "2026-09-23T01:08:18.906951",
   "sent_items": {
-    "5587198269c03721": {
-      "date": "2026-08-23",
-      "title": "What Is a Harness?",
-      "source": "hackernews"
-    },
-    "d86a8b31a2a6f0b7": {
-      "date": "2026-08-23",
-      "title": "A website for debloated open source alternatives",
-      "source": "hackernews"
-    },
-    "df1121e45dc84d2c": {
-      "date": "2026-08-23",
-      "title": "How Complex Systems Fail (1998)",
-      "source": "hackernews"
-    },
-    "5aa3dc41b67ba0dd": {
-      "date": "2026-08-23",
-      "title": "Malware infects Android-based automotive head unit firmware",
-      "source": "hackernews"
-    },
-    "db8d83e94d0ed777": {
-      "date": "2026-08-23",
-      "title": "How I find problems to solve as a staff engineer",
-      "source": "hackernews"
-    },
-    "523f84d052df6d85": {
-      "date": "2026-08-23",
-      "title": "My favorite nonfiction books about cults, scams, and schemes",
-      "source": "hackernews"
-    },
-    "43f3b04e9a20717d": {
-      "date": "2026-08-23",
-      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-      "source": "hackernews"
-    },
-    "e51017e8b3e9b565": {
-      "date": "2026-08-23",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "source": "hackernews"
-    },
-    "eed113e9ed3786e0": {
-      "date": "2026-08-23",
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "source": "hackernews"
-    },
-    "15d6d8e1489e0151": {
-      "date": "2026-08-23",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "source": "hackernews"
-    },
-    "6e3391c63ee66e31": {
-      "date": "2026-08-23",
-      "title": "Claude Academy",
-      "source": "producthunt"
-    },
-    "c22ac4ed30c0f62c": {
-      "date": "2026-08-23",
-      "title": "KanaSensei",
-      "source": "producthunt"
-    },
-    "c3ba88752ae4cb87": {
-      "date": "2026-08-23",
-      "title": "Yatko",
-      "source": "producthunt"
-    },
-    "a99536d6f2518511": {
-      "date": "2026-08-23",
-      "title": "Plask",
-      "source": "producthunt"
-    },
-    "a226d258575e5b98": {
-      "date": "2026-08-23",
-      "title": "OpenLogi",
-      "source": "producthunt"
-    },
-    "ea3c0900c3efed0f": {
-      "date": "2026-08-23",
-      "title": "Eleven tables, zero indices, and the observability I added afterwards found three more bugs",
-      "source": "devto"
-    },
-    "a353b6c53888efd8": {
-      "date": "2026-08-23",
-      "title": "I wrote the privacy rule, enforced it, commented it, and shipped the leak anyway",
-      "source": "devto"
-    },
-    "7af76fc2a0f8da07": {
-      "date": "2026-08-23",
-      "title": "My performance optimization silently disabled the feature the app exists for",
-      "source": "devto"
-    },
-    "d6c6c178479c7455": {
-      "date": "2026-08-23",
-      "title": "I installed a crash reporter and it crashed my app 100% of the time",
-      "source": "devto"
-    },
-    "9155a93ece1a87ce": {
-      "date": "2026-08-23",
-      "title": "The People Building AI Are the Worst at Predicting It",
-      "source": "devto"
-    },
-    "14007469ffebba3f": {
-      "date": "2026-08-23",
-      "title": "One conversation, four cards: the dashboard bug with three root causes stacked on top of each other",
-      "source": "devto"
-    },
-    "5261050034a1ef7f": {
-      "date": "2026-08-23",
-      "title": "How I recorded my first product demo in 54 seconds (OBS, ffmpeg, openai.fm)",
-      "source": "devto"
-    },
-    "00127f53be087f46": {
-      "date": "2026-08-23",
-      "title": "The Bug That Looked Fine to Every Visitor and Lied to Every Crawler",
-      "source": "devto"
-    },
-    "832151c516054854": {
-      "date": "2026-08-23",
-      "title": "Your AI Agent Doesn't Need a Bigger Context Window. It Needs an Eviction Policy.",
-      "source": "devto"
-    },
-    "4e1aef16da44c64b": {
-      "date": "2026-08-23",
-      "title": "Someone forked my React component instead of opening an issue",
-      "source": "devto"
-    },
-    "7694793c41367c9a": {
-      "date": "2026-08-23",
-      "title": "freestylefly / awesome-gpt-image-2",
-      "source": "github"
-    },
-    "e5348c5ff3f91788": {
-      "date": "2026-08-23",
-      "title": "tinyhumansai / openhuman",
-      "source": "github"
-    },
-    "064bd2f0be42f364": {
-      "date": "2026-08-23",
-      "title": "VoltAgent / awesome-agent-skills",
-      "source": "github"
-    },
-    "494d19bddf316eb5": {
-      "date": "2026-08-23",
-      "title": "dani-garcia / vaultwarden",
-      "source": "github"
-    },
-    "6587b2c413179319": {
-      "date": "2026-08-23",
-      "title": "anthropics / claude-plugins-community",
-      "source": "github"
-    },
     "be1f7cd2c534f8eb": {
       "date": "2026-08-24",
       "title": "How Europe is killing makers and micro-entrepreneurs",
@@ -4935,6 +4785,171 @@
     "4d032fe0ced94fe3": {
       "date": "2026-09-22",
       "title": "Where Trust in Automated Review Actually Comes From",
+      "source": "devto"
+    },
+    "23e9c366edfe97a9": {
+      "date": "2026-09-23",
+      "title": "Claude Opus 5.5",
+      "source": "hackernews"
+    },
+    "48b4014c7a01bc52": {
+      "date": "2026-09-23",
+      "title": "GPT-6 Sol and Luna",
+      "source": "hackernews"
+    },
+    "661f87df20b90e57": {
+      "date": "2026-09-23",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "source": "hackernews"
+    },
+    "444cb4f5fa3c4c47": {
+      "date": "2026-09-23",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "source": "hackernews"
+    },
+    "95be4cc1d9e945e7": {
+      "date": "2026-09-23",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "source": "hackernews"
+    },
+    "1c9047173984abdf": {
+      "date": "2026-09-23",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "source": "hackernews"
+    },
+    "b3b5ec7c95f8b28f": {
+      "date": "2026-09-23",
+      "title": "SAML: A fractal of bad design",
+      "source": "hackernews"
+    },
+    "a0f2a481785fb107": {
+      "date": "2026-09-23",
+      "title": "Unreal Agent",
+      "source": "hackernews"
+    },
+    "9aa45f80637a9478": {
+      "date": "2026-09-23",
+      "title": "What California is learning from solar panels built over irrigation canals",
+      "source": "hackernews"
+    },
+    "7480bd9d1e4e225c": {
+      "date": "2026-09-23",
+      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+      "source": "hackernews"
+    },
+    "bb1027bf69635503": {
+      "date": "2026-09-23",
+      "title": "thestory.run",
+      "source": "producthunt"
+    },
+    "adb12754c68287c7": {
+      "date": "2026-09-23",
+      "title": "WZRD",
+      "source": "producthunt"
+    },
+    "9c3509a572e9bac3": {
+      "date": "2026-09-23",
+      "title": "Plane Agents",
+      "source": "producthunt"
+    },
+    "7178bb208ffcbf44": {
+      "date": "2026-09-23",
+      "title": "PixelCrew",
+      "source": "producthunt"
+    },
+    "56040a72d5905d53": {
+      "date": "2026-09-23",
+      "title": "Hola AI",
+      "source": "producthunt"
+    },
+    "87c916d66e6e855a": {
+      "date": "2026-09-23",
+      "title": "MiMo-V2.6",
+      "source": "producthunt"
+    },
+    "13a0ed5b7f94780b": {
+      "date": "2026-09-23",
+      "title": "Fulvid",
+      "source": "producthunt"
+    },
+    "26aaffaaa47a23fd": {
+      "date": "2026-09-23",
+      "title": "gg-friggin-ez",
+      "source": "producthunt"
+    },
+    "9b897d36ce84b465": {
+      "date": "2026-09-23",
+      "title": "agent-substrate / substrate",
+      "source": "github"
+    },
+    "dd3f7c0b511db930": {
+      "date": "2026-09-23",
+      "title": "dream-num / univer",
+      "source": "github"
+    },
+    "95ae7120d6074efd": {
+      "date": "2026-09-23",
+      "title": "davila7 / claude-code-templates",
+      "source": "github"
+    },
+    "9dd98392ba38066b": {
+      "date": "2026-09-23",
+      "title": "google / ax",
+      "source": "github"
+    },
+    "1c9ab9e342ae2991": {
+      "date": "2026-09-23",
+      "title": "superdesigndev / treg",
+      "source": "github"
+    },
+    "0236bcbf7b5c3427": {
+      "date": "2026-09-23",
+      "title": "Why the Best Software Advice Is the Hardest to Follow",
+      "source": "devto"
+    },
+    "d3634756955e4c80": {
+      "date": "2026-09-23",
+      "title": "Two Weeks In: A 15-Year QA Veteran, Back to Being the New Guy",
+      "source": "devto"
+    },
+    "8db14a375bd8ddb8": {
+      "date": "2026-09-23",
+      "title": "We All Have a \"Serious Work\" AI and a \"Just Vibing\" AI. When Did That Happen?",
+      "source": "devto"
+    },
+    "c00d0bab0208f847": {
+      "date": "2026-09-23",
+      "title": "Cheap RAG in Go with Gemini File Search: no vector DB, two calls, one hosted store",
+      "source": "devto"
+    },
+    "34644eacdf91da72": {
+      "date": "2026-09-23",
+      "title": "The Grand Unifying Architecture of Frontend",
+      "source": "devto"
+    },
+    "6aff54d7057ca622": {
+      "date": "2026-09-23",
+      "title": "The swarm that kept coming back",
+      "source": "devto"
+    },
+    "83663ecb43750c54": {
+      "date": "2026-09-23",
+      "title": "The Git Recovery Guide: How to Undo Anything (Without Panic)",
+      "source": "devto"
+    },
+    "9f88dfdc2f0a2915": {
+      "date": "2026-09-23",
+      "title": "Laravel Is Not As Heavy As You Think",
+      "source": "devto"
+    },
+    "c2916b8b37cf5220": {
+      "date": "2026-09-23",
+      "title": "The Curiosity Gap: Why We've Stopped Asking Questions",
+      "source": "devto"
+    },
+    "3dbc159bc0aae81b": {
+      "date": "2026-09-23",
+      "title": "We Solved the How to Code Problem. We Still Haven't Solved \"What to Build.\"",
       "source": "devto"
     }
   }
