@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-23T01:08:18.906951",
+  "last_updated": "2026-09-24T01:05:20.743705",
   "sent_items": {
-    "be1f7cd2c534f8eb": {
-      "date": "2026-08-24",
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "source": "hackernews"
-    },
-    "9899235269a727b7": {
-      "date": "2026-08-24",
-      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "source": "hackernews"
-    },
-    "8fc05fbe4bf4e7d8": {
-      "date": "2026-08-24",
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "source": "hackernews"
-    },
-    "fd1baf471cf9a7ed": {
-      "date": "2026-08-24",
-      "title": "Oceans hit highest temperature on record",
-      "source": "hackernews"
-    },
-    "f97cde3b5bd2e7b3": {
-      "date": "2026-08-24",
-      "title": "IPFS Maintainers Winding Down",
-      "source": "hackernews"
-    },
-    "59c86df6a3d6bc7e": {
-      "date": "2026-08-24",
-      "title": "The entire city of San Francisco as a video game",
-      "source": "hackernews"
-    },
-    "f150166fb062d668": {
-      "date": "2026-08-24",
-      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-      "source": "hackernews"
-    },
-    "84f40fd574dc1288": {
-      "date": "2026-08-24",
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "source": "hackernews"
-    },
-    "3b3359aa0b2085ce": {
-      "date": "2026-08-24",
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "source": "hackernews"
-    },
-    "e9e036f86a8212c6": {
-      "date": "2026-08-24",
-      "title": "Moon",
-      "source": "hackernews"
-    },
-    "2bae7486a91b0c45": {
-      "date": "2026-08-24",
-      "title": "Dropstone",
-      "source": "producthunt"
-    },
-    "6a3bef348ff9cc80": {
-      "date": "2026-08-24",
-      "title": "Localdock",
-      "source": "producthunt"
-    },
-    "9ac032c451b273e0": {
-      "date": "2026-08-24",
-      "title": "Trama",
-      "source": "producthunt"
-    },
-    "a977d2cfc034f8d7": {
-      "date": "2026-08-24",
-      "title": "IFAH",
-      "source": "producthunt"
-    },
-    "c8db85639b9e3857": {
-      "date": "2026-08-24",
-      "title": "Antigravity Remote Control",
-      "source": "producthunt"
-    },
-    "f09a831d6ddc3f31": {
-      "date": "2026-08-24",
-      "title": "Offloop",
-      "source": "producthunt"
-    },
-    "c8c84bd33fd90d00": {
-      "date": "2026-08-24",
-      "title": "Treebar",
-      "source": "producthunt"
-    },
-    "fddd8580f4d7e4b7": {
-      "date": "2026-08-24",
-      "title": "PaymentKit",
-      "source": "producthunt"
-    },
-    "7739a2caed647240": {
-      "date": "2026-08-24",
-      "title": "I Used React DataGrid to Build a Real Space Mission Explorer",
-      "source": "devto"
-    },
-    "db8653233275605a": {
-      "date": "2026-08-24",
-      "title": "I Won a Writing Challenge That I Almost Didn't Publish!",
-      "source": "devto"
-    },
-    "c0da9fd80c0c4683": {
-      "date": "2026-08-24",
-      "title": "I Almost Shipped a RAG Assistant That Lied About APIs That Don't Exist",
-      "source": "devto"
-    },
-    "b86adc8781e1f34e": {
-      "date": "2026-08-24",
-      "title": "The Model Scored 30%. The Harness Scored 100%. Which One Did You Benchmark?",
-      "source": "devto"
-    },
-    "5511de5a4d9b6000": {
-      "date": "2026-08-24",
-      "title": "The Tests Passed. The Contract Was Wrong.",
-      "source": "devto"
-    },
-    "bde336ab11e2123b": {
-      "date": "2026-08-24",
-      "title": "I Built an AWS DevOps AI Agent Using Kiro Crew + MCP",
-      "source": "devto"
-    },
-    "d58897d241605922": {
-      "date": "2026-08-24",
-      "title": "Why my biggest embarrassment was also one of my greatest learning experiences in Programming!",
-      "source": "devto"
-    },
-    "7e7dcbe7551daffa": {
-      "date": "2026-08-24",
-      "title": "7 Signs You're Over-Engineering Your AI App (and How to Stop)",
-      "source": "devto"
-    },
-    "17a6442f99296988": {
-      "date": "2026-08-24",
-      "title": "How I Actually Code with Claude Code: My Real Workflow on a Real Project",
-      "source": "devto"
-    },
-    "bf43f133fda7af60": {
-      "date": "2026-08-24",
-      "title": "AI, Fairy's, and Agile",
-      "source": "devto"
-    },
-    "ce3a785ea3a972f5": {
-      "date": "2026-08-24",
-      "title": "MadsLorentzen / ai-job-search",
-      "source": "github"
-    },
-    "978e35c607178533": {
-      "date": "2026-08-24",
-      "title": "NousResearch / hermes-agent",
-      "source": "github"
-    },
-    "0bd21c2cf11fc945": {
-      "date": "2026-08-24",
-      "title": "openclaw / openclaw",
-      "source": "github"
-    },
-    "d2c746ee30ee6b2f": {
-      "date": "2026-08-24",
-      "title": "AgriciDaniel / claude-obsidian",
-      "source": "github"
-    },
-    "4d8e922de101f720": {
-      "date": "2026-08-24",
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "source": "github"
-    },
-    "43d43a131b0529aa": {
-      "date": "2026-08-24",
-      "title": "tashfeenahmed / freellmapi",
-      "source": "github"
-    },
     "9e0dcfcc964536c1": {
       "date": "2026-08-25",
       "title": "Apple introduces M6 and M5 Ultra",
@@ -4951,6 +4781,171 @@
       "date": "2026-09-23",
       "title": "We Solved the How to Code Problem. We Still Haven't Solved \"What to Build.\"",
       "source": "devto"
+    },
+    "68024e28356d7cb5": {
+      "date": "2026-09-24",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "source": "hackernews"
+    },
+    "f639250f7d77802e": {
+      "date": "2026-09-24",
+      "title": "Fixing the Portobello Police Station Clock",
+      "source": "hackernews"
+    },
+    "7282780525d3e4e1": {
+      "date": "2026-09-24",
+      "title": "Meta VR Glasses",
+      "source": "hackernews"
+    },
+    "49d3c866e3db3903": {
+      "date": "2026-09-24",
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "source": "hackernews"
+    },
+    "432127f14f343849": {
+      "date": "2026-09-24",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "source": "hackernews"
+    },
+    "289a78801c32a40b": {
+      "date": "2026-09-24",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "source": "hackernews"
+    },
+    "87efbf0517b75dc1": {
+      "date": "2026-09-24",
+      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+      "source": "hackernews"
+    },
+    "1d47949a4f1cbfe1": {
+      "date": "2026-09-24",
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "source": "hackernews"
+    },
+    "90d4523e6f1742ff": {
+      "date": "2026-09-24",
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "source": "hackernews"
+    },
+    "5706a6ba5ba79c1d": {
+      "date": "2026-09-24",
+      "title": "The \"Windows XP Box\" (2003)",
+      "source": "hackernews"
+    },
+    "8aa89958a42f21e5": {
+      "date": "2026-09-24",
+      "title": "Speechka",
+      "source": "producthunt"
+    },
+    "f476df6be9589009": {
+      "date": "2026-09-24",
+      "title": "Claude Opus 5.5",
+      "source": "producthunt"
+    },
+    "6d3923f2cf89c417": {
+      "date": "2026-09-24",
+      "title": "Dub Program Marketplace",
+      "source": "producthunt"
+    },
+    "5a563621df9890bb": {
+      "date": "2026-09-24",
+      "title": "Jev State",
+      "source": "producthunt"
+    },
+    "011d5fa7f01b2f0d": {
+      "date": "2026-09-24",
+      "title": "Lightmeter",
+      "source": "producthunt"
+    },
+    "b18c617bff35c5da": {
+      "date": "2026-09-24",
+      "title": "ToneBird",
+      "source": "producthunt"
+    },
+    "b58ffa21d36583e5": {
+      "date": "2026-09-24",
+      "title": "Alexandria by Firecrawl",
+      "source": "producthunt"
+    },
+    "1bd29fb5e981a50d": {
+      "date": "2026-09-24",
+      "title": "Solid",
+      "source": "producthunt"
+    },
+    "68499232a0dc8a41": {
+      "date": "2026-09-24",
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "source": "devto"
+    },
+    "045c73924f41a207": {
+      "date": "2026-09-24",
+      "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
+      "source": "devto"
+    },
+    "4a8fc749b4558e4f": {
+      "date": "2026-09-24",
+      "title": "What DEV Series Are You Reading or Writing? Let’s Make Them Easier to Find",
+      "source": "devto"
+    },
+    "301e9b3ddfc87467": {
+      "date": "2026-09-24",
+      "title": "🦄 Sharing DEV Followers Count on Github Profile 🦄",
+      "source": "devto"
+    },
+    "194697f0484f728c": {
+      "date": "2026-09-24",
+      "title": "An introverted dev in an extroverted world",
+      "source": "devto"
+    },
+    "251084821768cbba": {
+      "date": "2026-09-24",
+      "title": "Something About Coding Stopped Feeling Good — and It Took Me a While to Figure Out What",
+      "source": "devto"
+    },
+    "e93aead46b3758e1": {
+      "date": "2026-09-24",
+      "title": "A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x",
+      "source": "devto"
+    },
+    "a6de12fbac54521f": {
+      "date": "2026-09-24",
+      "title": "23 Rejections, Multiple Offers: What I Learned From My 2-Month SWE Job Search",
+      "source": "devto"
+    },
+    "c61accd8c3c9070c": {
+      "date": "2026-09-24",
+      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+      "source": "devto"
+    },
+    "425a334e989cd9b3": {
+      "date": "2026-09-24",
+      "title": "My OSS Projects: Piral",
+      "source": "devto"
+    },
+    "4a462d6206de60ed": {
+      "date": "2026-09-24",
+      "title": "strands-agents / harness-sdk",
+      "source": "github"
+    },
+    "12e9527951797ad0": {
+      "date": "2026-09-24",
+      "title": "HKUDS / CLI-Anything",
+      "source": "github"
+    },
+    "be8acfaf11180d2a": {
+      "date": "2026-09-24",
+      "title": "pbakaus / impeccable",
+      "source": "github"
+    },
+    "bcb2a34cb3ad6059": {
+      "date": "2026-09-24",
+      "title": "DeusData / codebase-memory-mcp",
+      "source": "github"
+    },
+    "cc4d14940b247a73": {
+      "date": "2026-09-24",
+      "title": "harry7557558 / spirula-studio",
+      "source": "github"
     }
   }
 }
