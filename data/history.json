@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-25T00:59:57.081471",
+  "last_updated": "2026-09-26T01:05:01.489560",
   "sent_items": {
     "e8e6c47e031305dd": {
       "date": "2026-08-27",
@@ -4951,6 +4951,181 @@
       "date": "2026-09-25",
       "title": "FinePrint: an agent that checks your hackathon entry against the rules it reads",
       "source": "devto"
+    },
+    "700eb0cf8990d144": {
+      "date": "2026-09-26",
+      "title": "Platform-independent SIMD in Go",
+      "source": "hackernews"
+    },
+    "45a03e4068a2825d": {
+      "date": "2026-09-26",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "source": "hackernews"
+    },
+    "e2be899848d17490": {
+      "date": "2026-09-26",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "source": "hackernews"
+    },
+    "58caad8d72647b1d": {
+      "date": "2026-09-26",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "source": "hackernews"
+    },
+    "2ba871381bb11f55": {
+      "date": "2026-09-26",
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "source": "hackernews"
+    },
+    "52999f78d95e7b3b": {
+      "date": "2026-09-26",
+      "title": "Excel now supports multiple values in a single cell",
+      "source": "hackernews"
+    },
+    "4b85cd6204622e12": {
+      "date": "2026-09-26",
+      "title": "What even is an OS now?",
+      "source": "hackernews"
+    },
+    "e9873e4f09284ae0": {
+      "date": "2026-09-26",
+      "title": "Plan mode is dead",
+      "source": "hackernews"
+    },
+    "ea9600024f7b8a5e": {
+      "date": "2026-09-26",
+      "title": "Remembering Johannes Doerfert",
+      "source": "hackernews"
+    },
+    "f9ee88689ff2e2ae": {
+      "date": "2026-09-26",
+      "title": "Show HN: A game about fake news and memes",
+      "source": "hackernews"
+    },
+    "e66d68ffadeed02b": {
+      "date": "2026-09-26",
+      "title": "Perfect Slice",
+      "source": "producthunt"
+    },
+    "dda9225f084c2321": {
+      "date": "2026-09-26",
+      "title": "Fit Receipt",
+      "source": "producthunt"
+    },
+    "572bb1f7fa8c654e": {
+      "date": "2026-09-26",
+      "title": "TourKit",
+      "source": "producthunt"
+    },
+    "6fa5fced504327bc": {
+      "date": "2026-09-26",
+      "title": "Polyglot",
+      "source": "producthunt"
+    },
+    "02056ca0066b0361": {
+      "date": "2026-09-26",
+      "title": "NexusAXI",
+      "source": "producthunt"
+    },
+    "fa592664179ab073": {
+      "date": "2026-09-26",
+      "title": "14 gentle mornings by Small WIns",
+      "source": "producthunt"
+    },
+    "6c8f1ea713449134": {
+      "date": "2026-09-26",
+      "title": "Pair2FA",
+      "source": "producthunt"
+    },
+    "669e5ba26e9d8e88": {
+      "date": "2026-09-26",
+      "title": "FRCTL",
+      "source": "producthunt"
+    },
+    "98197ce785b6b631": {
+      "date": "2026-09-26",
+      "title": "8 Posts by Women on DEV That Deserve More Than a Once-a-Year Spotlight",
+      "source": "devto"
+    },
+    "51f03e920f80065e": {
+      "date": "2026-09-26",
+      "title": "Pointers Aren't Arrows. How C and C++ Actually Talk to Hardware.",
+      "source": "devto"
+    },
+    "01166dd14f68744e": {
+      "date": "2026-09-26",
+      "title": "I Followed the n8n AWS Docs and It Broke at the First Command",
+      "source": "devto"
+    },
+    "efeeccb5c1ac618f": {
+      "date": "2026-09-26",
+      "title": "What was your win this week!?",
+      "source": "devto"
+    },
+    "7ecc60e013d33823": {
+      "date": "2026-09-26",
+      "title": "The Impostor Was Never Dealt. So We Made the Deal Provable.",
+      "source": "devto"
+    },
+    "09b13fd127f8cdb7": {
+      "date": "2026-09-26",
+      "title": "Did I Miss Anything? Rails World FOMO and What I Actually Want From a Conference",
+      "source": "devto"
+    },
+    "f920c47dc16b4eae": {
+      "date": "2026-09-26",
+      "title": "The No-Backend Backend: Neon Data API, RLS and 27 Attacks",
+      "source": "devto"
+    },
+    "8beb41c13b451edf": {
+      "date": "2026-09-26",
+      "title": "Your API's newest users are agents...",
+      "source": "devto"
+    },
+    "9d2077fa34ba3b15": {
+      "date": "2026-09-26",
+      "title": "Can Two Local AI Agents Build an App Without Me? I Gave Them 6 Rounds to Find Out",
+      "source": "devto"
+    },
+    "39d2ec6ed7c3202b": {
+      "date": "2026-09-26",
+      "title": "Vim's Swan Song: Is It Time to :q!?",
+      "source": "devto"
+    },
+    "e596fc31d0dc4f76": {
+      "date": "2026-09-26",
+      "title": "paperclipai / paperclip",
+      "source": "github"
+    },
+    "f2ef8f8410a81a77": {
+      "date": "2026-09-26",
+      "title": "anthropics / claude-plugins-official",
+      "source": "github"
+    },
+    "ea97e2f9b3078078": {
+      "date": "2026-09-26",
+      "title": "anthropics / skills",
+      "source": "github"
+    },
+    "f3a651d18f1feb1e": {
+      "date": "2026-09-26",
+      "title": "androoAGI / starnet",
+      "source": "github"
+    },
+    "244c8ea0f6eae774": {
+      "date": "2026-09-26",
+      "title": "derv82 / wifit3",
+      "source": "github"
+    },
+    "9442155217e47a7d": {
+      "date": "2026-09-26",
+      "title": "kelseyhightower / kubernetes-the-hard-way",
+      "source": "github"
+    },
+    "4b8ed8eb20d0b92f": {
+      "date": "2026-09-26",
+      "title": "shy3130 / tick-stock-panel",
+      "source": "github"
     }
   }
 }
