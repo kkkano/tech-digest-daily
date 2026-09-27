@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-26T01:05:01.489560",
+  "last_updated": "2026-09-27T01:05:08.623999",
   "sent_items": {
-    "e8e6c47e031305dd": {
-      "date": "2026-08-27",
-      "title": "AWS Acquires DuckLabs",
-      "source": "hackernews"
-    },
-    "44d815fde738aba7": {
-      "date": "2026-08-27",
-      "title": "GLM-5.3-Flash",
-      "source": "hackernews"
-    },
-    "2e99c10b71a947d8": {
-      "date": "2026-08-27",
-      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-      "source": "hackernews"
-    },
-    "a8711ed2edfa40f5": {
-      "date": "2026-08-27",
-      "title": "Nvidia agrees to acquire Hugging Face for $13B",
-      "source": "hackernews"
-    },
-    "520afb9e6d5c7758": {
-      "date": "2026-08-27",
-      "title": "Mechanical Turk shutting down September 30",
-      "source": "hackernews"
-    },
-    "9d5c9917dcdbe981": {
-      "date": "2026-08-27",
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "source": "hackernews"
-    },
-    "9d7789c88f6f1c91": {
-      "date": "2026-08-27",
-      "title": "Asahi Linux Progress Report: Linux 7.2",
-      "source": "hackernews"
-    },
-    "f2edff101b0fe9b5": {
-      "date": "2026-08-27",
-      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
-      "source": "hackernews"
-    },
-    "2a9a397f75ef34cb": {
-      "date": "2026-08-27",
-      "title": "Kusama Yayoi Dies at 97",
-      "source": "hackernews"
-    },
-    "025cd731f27b705a": {
-      "date": "2026-08-27",
-      "title": "Laion Big Video Dataset",
-      "source": "hackernews"
-    },
-    "e67624e6d27fc040": {
-      "date": "2026-08-27",
-      "title": "x1",
-      "source": "producthunt"
-    },
-    "b7de9d616de7ec03": {
-      "date": "2026-08-27",
-      "title": "Message Album",
-      "source": "producthunt"
-    },
-    "99488e8216d2e3b0": {
-      "date": "2026-08-27",
-      "title": "HEVN U.S.",
-      "source": "producthunt"
-    },
-    "e0b16a40aa025e16": {
-      "date": "2026-08-27",
-      "title": "Termy",
-      "source": "producthunt"
-    },
-    "2653268063f801bb": {
-      "date": "2026-08-27",
-      "title": "DeployHermes",
-      "source": "producthunt"
-    },
-    "5d598c3c67dc8eab": {
-      "date": "2026-08-27",
-      "title": "BaudBuddy",
-      "source": "producthunt"
-    },
-    "73ffd56b2157519b": {
-      "date": "2026-08-27",
-      "title": "Mac mini",
-      "source": "producthunt"
-    },
-    "a31cc5e415b3c307": {
-      "date": "2026-08-27",
-      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
-      "source": "devto"
-    },
-    "8a29142d210a41f0": {
-      "date": "2026-08-27",
-      "title": "10 Git Commands You’ll Wish You Knew Earlier",
-      "source": "devto"
-    },
-    "ea701061fada530b": {
-      "date": "2026-08-27",
-      "title": "I Tested 5 Design to Code Tools With the Same Outdated SaaS Dashboard",
-      "source": "devto"
-    },
-    "6aee4791231cd90f": {
-      "date": "2026-08-27",
-      "title": "Why I Built an SSH Config and Tunnel Manager for macOS",
-      "source": "devto"
-    },
-    "89923ae81a3001d2": {
-      "date": "2026-08-27",
-      "title": "Portfolio Update, I Guess",
-      "source": "devto"
-    },
-    "b8aafd8e8292f2f4": {
-      "date": "2026-08-27",
-      "title": "Back from Wudang Mountain. The book is under review.",
-      "source": "devto"
-    },
-    "199917f65025993d": {
-      "date": "2026-08-27",
-      "title": "Solution to Challenge 4 - Accessibility testing",
-      "source": "devto"
-    },
-    "3977d2cd4ff54882": {
-      "date": "2026-08-27",
-      "title": "My Cloud Run Multi-Agent Fleet Passed Its Demo. The Architecture Was Still Wrong.",
-      "source": "devto"
-    },
-    "c31432be80b4d596": {
-      "date": "2026-08-27",
-      "title": "Kademlia: Algo That Turned XOR Distance Into a Network",
-      "source": "devto"
-    },
-    "6b3198fd15f1f542": {
-      "date": "2026-08-27",
-      "title": "Your Hiring Process Needs HTTP Status Codes",
-      "source": "devto"
-    },
-    "717af6605a957a5c": {
-      "date": "2026-08-27",
-      "title": "tt-a1i / archify",
-      "source": "github"
-    },
-    "30408734ead09cf2": {
-      "date": "2026-08-27",
-      "title": "ConardLi / garden-skills",
-      "source": "github"
-    },
-    "2f48be63fe82be5d": {
-      "date": "2026-08-27",
-      "title": "browser-use / browser-use",
-      "source": "github"
-    },
-    "bf559441b24d3589": {
-      "date": "2026-08-27",
-      "title": "K-Dense-AI / scientific-agent-skills",
-      "source": "github"
-    },
     "58be3312c478c194": {
       "date": "2026-08-28",
       "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
@@ -5125,6 +4970,186 @@
     "4b8ed8eb20d0b92f": {
       "date": "2026-09-26",
       "title": "shy3130 / tick-stock-panel",
+      "source": "github"
+    },
+    "37e781f3ddfda52b": {
+      "date": "2026-09-27",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "source": "hackernews"
+    },
+    "55e3771ad7c8e981": {
+      "date": "2026-09-27",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "source": "hackernews"
+    },
+    "a78ef24ec75fefa5": {
+      "date": "2026-09-27",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "source": "hackernews"
+    },
+    "a56823c4d8c788bd": {
+      "date": "2026-09-27",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "source": "hackernews"
+    },
+    "9e3947aa23ba1fae": {
+      "date": "2026-09-27",
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "source": "hackernews"
+    },
+    "121abfa849b0dcac": {
+      "date": "2026-09-27",
+      "title": "Does Georgism work? Five years later",
+      "source": "hackernews"
+    },
+    "6c3549bc7beb2b95": {
+      "date": "2026-09-27",
+      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "source": "hackernews"
+    },
+    "d872c526653589d5": {
+      "date": "2026-09-27",
+      "title": "An agent used DNS to reach an external chatbot",
+      "source": "hackernews"
+    },
+    "2f687dceb7443b2d": {
+      "date": "2026-09-27",
+      "title": "Evolving programming languages in the AI era",
+      "source": "hackernews"
+    },
+    "e17d929d676131f5": {
+      "date": "2026-09-27",
+      "title": "Go Concurrency Distilled",
+      "source": "hackernews"
+    },
+    "4f97428eb2e156ac": {
+      "date": "2026-09-27",
+      "title": "Fewer",
+      "source": "producthunt"
+    },
+    "8886bd41888d44f9": {
+      "date": "2026-09-27",
+      "title": "Hemory",
+      "source": "producthunt"
+    },
+    "987bf4b1ba206d77": {
+      "date": "2026-09-27",
+      "title": "MakerMap",
+      "source": "producthunt"
+    },
+    "7884e26c3255285b": {
+      "date": "2026-09-27",
+      "title": "GoodSocials",
+      "source": "producthunt"
+    },
+    "e202403d914daef8": {
+      "date": "2026-09-27",
+      "title": "Lisen",
+      "source": "producthunt"
+    },
+    "f0187f15c93b5381": {
+      "date": "2026-09-27",
+      "title": "layernote",
+      "source": "producthunt"
+    },
+    "691987304abd3a95": {
+      "date": "2026-09-27",
+      "title": "PixVerse R2",
+      "source": "producthunt"
+    },
+    "187eda8bd501254e": {
+      "date": "2026-09-27",
+      "title": "10xJoy",
+      "source": "producthunt"
+    },
+    "89be0fa1a19f176c": {
+      "date": "2026-09-27",
+      "title": "I Built a Better Codex Pet Than OpenAI Did",
+      "source": "devto"
+    },
+    "54d5899f5b9259da": {
+      "date": "2026-09-27",
+      "title": "'Someone Already Built That' is the Favourite Excuse of Broke Developers",
+      "source": "devto"
+    },
+    "4dd102ea59258f26": {
+      "date": "2026-09-27",
+      "title": "If AI Writes the Code and AI Reviews the Code, What Exactly Is the Developer Verifying?",
+      "source": "devto"
+    },
+    "814355594bc0d84f": {
+      "date": "2026-09-27",
+      "title": "Everyone's learning to prompt better. That's the wrong skill.",
+      "source": "devto"
+    },
+    "1d77c90e5c646fc6": {
+      "date": "2026-09-27",
+      "title": "How I Actually Learn New Skills (No Tutorial Required)",
+      "source": "devto"
+    },
+    "36cf643e0ea6cfd2": {
+      "date": "2026-09-27",
+      "title": "AI Promoted Every Developer to Reviewer. Nobody Measured Whether We Got Worse.",
+      "source": "devto"
+    },
+    "4349e66a40e3f85e": {
+      "date": "2026-09-27",
+      "title": "How I built deferred tool discovery for my desktop AI assistant (no embeddings needed)",
+      "source": "devto"
+    },
+    "cbebfa35fdc3d31a": {
+      "date": "2026-09-27",
+      "title": "getCurrentPosition() Doesn't Just Check — It Prompts",
+      "source": "devto"
+    },
+    "c3a5c1bfd87e00f8": {
+      "date": "2026-09-27",
+      "title": "localStorage Isn't Free — It's Blocking Your Main Thread",
+      "source": "devto"
+    },
+    "60b98bbdc1995f5c": {
+      "date": "2026-09-27",
+      "title": "My Newsletter Server Is 1,258 Lines of node:sqlite",
+      "source": "devto"
+    },
+    "bcbc01455962f134": {
+      "date": "2026-09-27",
+      "title": "tensorflow / tensorflow",
+      "source": "github"
+    },
+    "254a7a84c61706cc": {
+      "date": "2026-09-27",
+      "title": "openbao / openbao",
+      "source": "github"
+    },
+    "f8fd1424e453d1b4": {
+      "date": "2026-09-27",
+      "title": "block / buzz",
+      "source": "github"
+    },
+    "429ceefb7bccd659": {
+      "date": "2026-09-27",
+      "title": "microsoft / vscode",
+      "source": "github"
+    },
+    "2fd47ee6db0cd559": {
+      "date": "2026-09-27",
+      "title": "anthropics / claude-code-action",
+      "source": "github"
+    },
+    "864e3a293301abe1": {
+      "date": "2026-09-27",
+      "title": "actions / runner-images",
+      "source": "github"
+    },
+    "7c87c96c74c1c3fd": {
+      "date": "2026-09-27",
+      "title": "mobile-next / mobile-mcp",
+      "source": "github"
+    },
+    "b58db5c0a7c76bd1": {
+      "date": "2026-09-27",
+      "title": "vercel / next.js",
       "source": "github"
     }
   }
