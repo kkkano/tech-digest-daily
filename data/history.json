@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-29T02:30:22.048477",
+  "last_updated": "2026-09-30T01:44:11.713497",
   "sent_items": {
-    "58df2031e9a52aab": {
-      "date": "2026-08-30",
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "source": "hackernews"
-    },
-    "800ca0c473afb87a": {
-      "date": "2026-08-30",
-      "title": "Hy4 preview",
-      "source": "hackernews"
-    },
-    "84a622800e590e0f": {
-      "date": "2026-08-30",
-      "title": "SQLite as a Document Database (2020)",
-      "source": "hackernews"
-    },
-    "467ac1f58c8bd628": {
-      "date": "2026-08-30",
-      "title": "Nancy Grace Roman Space Telescope",
-      "source": "hackernews"
-    },
-    "f5b51884348ebcd1": {
-      "date": "2026-08-30",
-      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-      "source": "hackernews"
-    },
-    "788d2dd683c75f74": {
-      "date": "2026-08-30",
-      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
-      "source": "hackernews"
-    },
-    "31ee698076ee2c90": {
-      "date": "2026-08-30",
-      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-      "source": "hackernews"
-    },
-    "8a90933f67664083": {
-      "date": "2026-08-30",
-      "title": "Domain-Driven Agents",
-      "source": "hackernews"
-    },
-    "f2b37baa18b1b873": {
-      "date": "2026-08-30",
-      "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
-      "source": "hackernews"
-    },
-    "6fe06c1791068d0b": {
-      "date": "2026-08-30",
-      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "source": "hackernews"
-    },
-    "c769540fdaf49b92": {
-      "date": "2026-08-30",
-      "title": "Cohere Parse 5",
-      "source": "producthunt"
-    },
-    "b628794354349543": {
-      "date": "2026-08-30",
-      "title": "God’s Eye View",
-      "source": "producthunt"
-    },
-    "6e4ba8fcaaaa9a4f": {
-      "date": "2026-08-30",
-      "title": "seendiff",
-      "source": "producthunt"
-    },
-    "2190a0db990e54af": {
-      "date": "2026-08-30",
-      "title": "Einfall",
-      "source": "producthunt"
-    },
-    "2bf90e371c31ed1b": {
-      "date": "2026-08-30",
-      "title": "Staats",
-      "source": "producthunt"
-    },
-    "a69dcc73b04e9f86": {
-      "date": "2026-08-30",
-      "title": "Mossy",
-      "source": "producthunt"
-    },
-    "0b963caf1fe497af": {
-      "date": "2026-08-30",
-      "title": "Lubb",
-      "source": "producthunt"
-    },
-    "d67379909f2ed0d4": {
-      "date": "2026-08-30",
-      "title": "WIT",
-      "source": "producthunt"
-    },
-    "699ed7a44bcd52de": {
-      "date": "2026-08-30",
-      "title": "What Happens After You Win a DEV Challenge? A Complete Guide to Getting Paid",
-      "source": "devto"
-    },
-    "2a7dfcae9c931a89": {
-      "date": "2026-08-30",
-      "title": "I Asked for a Portfolio but Got a Filing Cabinet",
-      "source": "devto"
-    },
-    "b79524d2e098c926": {
-      "date": "2026-08-30",
-      "title": "Gemma 4 in Pure JAX: What Ports from TPU to GPU, and What Doesn't",
-      "source": "devto"
-    },
-    "b5b9d5cea6ebe593": {
-      "date": "2026-08-30",
-      "title": "I’m Looking for the Right Problem, Not the Right Job Title — Could It Be You?",
-      "source": "devto"
-    },
-    "1410ea24a18120d3": {
-      "date": "2026-08-30",
-      "title": "MCP C# Per-Request Client Capabilities: Read the Request, Not the Server",
-      "source": "devto"
-    },
-    "f04a4325f9c1882f": {
-      "date": "2026-08-30",
-      "title": "I Googled Myself for 20 Minutes and Found My Home Address, My Mom's Maiden Name, and My Dog",
-      "source": "devto"
-    },
-    "9bf4bdedc0a0735d": {
-      "date": "2026-08-30",
-      "title": "I failed a \"design a document editor\" interview, so I built one",
-      "source": "devto"
-    },
-    "0da315692a3fa472": {
-      "date": "2026-08-30",
-      "title": "Your Tests Were Green Because the Gate Was Never Wired In",
-      "source": "devto"
-    },
-    "724af00530a62c0d": {
-      "date": "2026-08-30",
-      "title": "From “Can I Do This?” to Becoming Part of the Team: Lessons From My Apprenticeship at ISRO",
-      "source": "devto"
-    },
-    "9e4e662686943e4a": {
-      "date": "2026-08-30",
-      "title": "The Most Important AI Agent Design Choice: Don’t Let the Model Be the Final Authority",
-      "source": "devto"
-    },
-    "c2f4cce08f408ce8": {
-      "date": "2026-08-30",
-      "title": "THU-MAIC / OpenMAIC",
-      "source": "github"
-    },
-    "d2f39386e20eb773": {
-      "date": "2026-08-30",
-      "title": "p-e-w / heretic",
-      "source": "github"
-    },
-    "aca988ca8dd4e6fa": {
-      "date": "2026-08-30",
-      "title": "bigskysoftware / htmx",
-      "source": "github"
-    },
-    "7e39ec2390d0765a": {
-      "date": "2026-08-30",
-      "title": "ComposioHQ / awesome-claude-skills",
-      "source": "github"
-    },
-    "a1c760c91a2498ee": {
-      "date": "2026-08-30",
-      "title": "every-app / open-seo",
-      "source": "github"
-    },
-    "85717f608dd95ad7": {
-      "date": "2026-08-30",
-      "title": "Osmantic / ODS",
-      "source": "github"
-    },
     "5f4bc58220d5cbd6": {
       "date": "2026-08-31",
       "title": "Creepy Crawlies",
@@ -5106,6 +4936,171 @@
       "date": "2026-09-29",
       "title": "I Replaced a Gate That Accepted Everyone With a Gate That Accepted No One. My Tests Couldn't Tell th",
       "source": "devto"
+    },
+    "3b1f5931d42712c9": {
+      "date": "2026-09-30",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "source": "hackernews"
+    },
+    "5b1c616dcaea9abb": {
+      "date": "2026-09-30",
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "source": "hackernews"
+    },
+    "dd2a1c474bd26b86": {
+      "date": "2026-09-30",
+      "title": "America.gov",
+      "source": "hackernews"
+    },
+    "8ad931cc2079dd18": {
+      "date": "2026-09-30",
+      "title": "PS5 Relapse Exploit",
+      "source": "hackernews"
+    },
+    "a5c0ad1eacb77105": {
+      "date": "2026-09-30",
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "source": "hackernews"
+    },
+    "295a238bc5244492": {
+      "date": "2026-09-30",
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "source": "hackernews"
+    },
+    "e923ea199e3c97e5": {
+      "date": "2026-09-30",
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "source": "hackernews"
+    },
+    "bd36f003d4326665": {
+      "date": "2026-09-30",
+      "title": "Vermont replacing power plants with home batteries",
+      "source": "hackernews"
+    },
+    "6c5a9beb1683dc3f": {
+      "date": "2026-09-30",
+      "title": "We’re forgetting what darkness feels like",
+      "source": "hackernews"
+    },
+    "7b0973ea1468769d": {
+      "date": "2026-09-30",
+      "title": "Needed 1+1, built a functional programming language",
+      "source": "hackernews"
+    },
+    "4e91087564d438e5": {
+      "date": "2026-09-30",
+      "title": "Timeless Code",
+      "source": "producthunt"
+    },
+    "9d104d69eede776f": {
+      "date": "2026-09-30",
+      "title": "ShipHappens:",
+      "source": "producthunt"
+    },
+    "8e48f2039375f3a0": {
+      "date": "2026-09-30",
+      "title": "FFFFinder",
+      "source": "producthunt"
+    },
+    "42f8cd0891e411c8": {
+      "date": "2026-09-30",
+      "title": "Declutr",
+      "source": "producthunt"
+    },
+    "bf0b133c78ade031": {
+      "date": "2026-09-30",
+      "title": "Codex Remote",
+      "source": "producthunt"
+    },
+    "b3ff3c7fda484d10": {
+      "date": "2026-09-30",
+      "title": "Timeful",
+      "source": "producthunt"
+    },
+    "2486de2b94aa6ac4": {
+      "date": "2026-09-30",
+      "title": "GroupShelf",
+      "source": "producthunt"
+    },
+    "e1829e50367dc53d": {
+      "date": "2026-09-30",
+      "title": "ZenABM",
+      "source": "producthunt"
+    },
+    "5bdccfa75679489b": {
+      "date": "2026-09-30",
+      "title": "The Accidental Blogger: How I Ended Up on DEV",
+      "source": "devto"
+    },
+    "24c24c1b39375182": {
+      "date": "2026-09-30",
+      "title": "I Built My First AI Agent With AWS AgentCore, and the Hardest Part Wasn't the AI",
+      "source": "devto"
+    },
+    "9e1ece61c48d1e67": {
+      "date": "2026-09-30",
+      "title": "AI Agent Governance on AWS: Block Agents, Prove EU AI Act Compliance",
+      "source": "devto"
+    },
+    "6de0249dbb7e6f5c": {
+      "date": "2026-09-30",
+      "title": "Your GitHub profile shows your follower count. It also shows attackers your whole attack surface.",
+      "source": "devto"
+    },
+    "f2e613e7eff5cfc1": {
+      "date": "2026-09-30",
+      "title": "Say Please (if only as a reminder)",
+      "source": "devto"
+    },
+    "b8c3c67a3e37631a": {
+      "date": "2026-09-30",
+      "title": "React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It",
+      "source": "devto"
+    },
+    "544fcd9f1df2bdc7": {
+      "date": "2026-09-30",
+      "title": "Who's Accountable When the AI Was Just Following Instructions?",
+      "source": "devto"
+    },
+    "9bd51a53317092c5": {
+      "date": "2026-09-30",
+      "title": "Confident Isn't Accurate: How AI Hallucinations Actually Work",
+      "source": "devto"
+    },
+    "94f1b346510d6531": {
+      "date": "2026-09-30",
+      "title": "Code Review Is Not an Authority Boundary",
+      "source": "devto"
+    },
+    "eff28291e3b68e44": {
+      "date": "2026-09-30",
+      "title": "I Gave ChatGPT My Full Codebase. The Results Scared Me — But Not for the Reason You Think.",
+      "source": "devto"
+    },
+    "992c39912e4db5a2": {
+      "date": "2026-09-30",
+      "title": "NVIDIA / OpenShell",
+      "source": "github"
+    },
+    "4cb07dec940977f8": {
+      "date": "2026-09-30",
+      "title": "t8y2 / dbx",
+      "source": "github"
+    },
+    "ee1315903bd5e838": {
+      "date": "2026-09-30",
+      "title": "oblien / openship",
+      "source": "github"
+    },
+    "9fea7d3b8ac2c89f": {
+      "date": "2026-09-30",
+      "title": "VectifyAI / PageIndex",
+      "source": "github"
+    },
+    "8c104d62fe1bf984": {
+      "date": "2026-09-30",
+      "title": "rakyll / hey",
+      "source": "github"
     }
   }
 }
