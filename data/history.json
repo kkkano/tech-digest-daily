@@ -1,187 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-30T01:44:11.713497",
+  "last_updated": "2026-10-01T01:45:32.653083",
   "sent_items": {
-    "5f4bc58220d5cbd6": {
-      "date": "2026-08-31",
-      "title": "Creepy Crawlies",
-      "source": "hackernews"
-    },
-    "0cd9beaaa19a0888": {
-      "date": "2026-08-31",
-      "title": "Hacking IKEA Furniture",
-      "source": "hackernews"
-    },
-    "e236fdb910aca5bd": {
-      "date": "2026-08-31",
-      "title": "Haiku R1/beta6 has been released",
-      "source": "hackernews"
-    },
-    "5b6339e08d37f48a": {
-      "date": "2026-08-31",
-      "title": "“I just chose words carefully”",
-      "source": "hackernews"
-    },
-    "a5720b79eeeb0f39": {
-      "date": "2026-08-31",
-      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-      "source": "hackernews"
-    },
-    "7a007121b956cde7": {
-      "date": "2026-08-31",
-      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
-      "source": "hackernews"
-    },
-    "ae7306b88dfa8664": {
-      "date": "2026-08-31",
-      "title": "Sort branches by last commit date",
-      "source": "hackernews"
-    },
-    "d4338b1abd099073": {
-      "date": "2026-08-31",
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "source": "hackernews"
-    },
-    "acca2521df606941": {
-      "date": "2026-08-31",
-      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-      "source": "hackernews"
-    },
-    "0634cfe723649249": {
-      "date": "2026-08-31",
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "source": "hackernews"
-    },
-    "9f4a334687f1a86b": {
-      "date": "2026-08-31",
-      "title": "Topview Motion Studio",
-      "source": "producthunt"
-    },
-    "065d817047ed3a3f": {
-      "date": "2026-08-31",
-      "title": "Superagent",
-      "source": "producthunt"
-    },
-    "c15b3e9bb9baca6e": {
-      "date": "2026-08-31",
-      "title": "RIP MY BUILD",
-      "source": "producthunt"
-    },
-    "7bd8181e8a257e9e": {
-      "date": "2026-08-31",
-      "title": "oMLX",
-      "source": "producthunt"
-    },
-    "ef9c563e106ba211": {
-      "date": "2026-08-31",
-      "title": "Retro Y2K Theme",
-      "source": "producthunt"
-    },
-    "94d12dc43f38ac46": {
-      "date": "2026-08-31",
-      "title": "Maritime",
-      "source": "producthunt"
-    },
-    "1118ddc381f0b1a5": {
-      "date": "2026-08-31",
-      "title": "Prequel",
-      "source": "producthunt"
-    },
-    "6b3f60e383cd7505": {
-      "date": "2026-08-31",
-      "title": "Skud",
-      "source": "producthunt"
-    },
-    "c5c03b0b6e79a21d": {
-      "date": "2026-08-31",
-      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
-      "source": "devto"
-    },
-    "c9fad819dad8d79c": {
-      "date": "2026-08-31",
-      "title": "I gave an AI agent a production rollback button — then spent the hackathon trying to trick it into p",
-      "source": "devto"
-    },
-    "8f4f289e1042beae": {
-      "date": "2026-08-31",
-      "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
-      "source": "devto"
-    },
-    "eef481cc38b762c6": {
-      "date": "2026-08-31",
-      "title": "Git Said It Succeeded. The State Said Otherwise.",
-      "source": "devto"
-    },
-    "a7fe4e624af78067": {
-      "date": "2026-08-31",
-      "title": "IND-TECH WEEKLY #1: Jio Files for India's Biggest-Ever IPO, Navi Bags $100M, and What Devs Should Kn",
-      "source": "devto"
-    },
-    "5a2b15e3f6b8818d": {
-      "date": "2026-08-31",
-      "title": "Delta encoding multiplayer game state",
-      "source": "devto"
-    },
-    "7526cfe86081d996": {
-      "date": "2026-08-31",
-      "title": "Tell Me About You",
-      "source": "devto"
-    },
-    "981883f6f39c2e48": {
-      "date": "2026-08-31",
-      "title": "Bugs Are Innocent Until Reproduced: Building Verdict, an Evidence-First Agent Harness",
-      "source": "devto"
-    },
-    "b37ffe57241dbf2f": {
-      "date": "2026-08-31",
-      "title": "My Commit Said \"Stop Trusting the Receipt.\" That Is the Commit Where the Trusting Started.",
-      "source": "devto"
-    },
-    "33e8b1adc416fe2a": {
-      "date": "2026-08-31",
-      "title": "The undo has to exist before the write does",
-      "source": "devto"
-    },
-    "2db83a025fb2e599": {
-      "date": "2026-08-31",
-      "title": "unclecode / crawl4ai",
-      "source": "github"
-    },
-    "cb3eddfe11b539d1": {
-      "date": "2026-08-31",
-      "title": "mvanhorn / last30days-skill",
-      "source": "github"
-    },
-    "4fa3a55b3f08f940": {
-      "date": "2026-08-31",
-      "title": "majd / ipatool",
-      "source": "github"
-    },
-    "396cb5e37f289675": {
-      "date": "2026-08-31",
-      "title": "punkpeye / awesome-mcp-servers",
-      "source": "github"
-    },
-    "98f03e4745eeb751": {
-      "date": "2026-08-31",
-      "title": "checkstyle / checkstyle",
-      "source": "github"
-    },
-    "69d36549b62c1e34": {
-      "date": "2026-08-31",
-      "title": "pollen-robotics / microduck_rl",
-      "source": "github"
-    },
-    "32aa3c814e098f24": {
-      "date": "2026-08-31",
-      "title": "handsomestWei / patent-disclosure-skill",
-      "source": "github"
-    },
-    "f375b5f99caab788": {
-      "date": "2026-08-31",
-      "title": "corsairdev / corsair",
-      "source": "github"
-    },
     "49e3387c38cb4332": {
       "date": "2026-09-01",
       "title": "Playa Phone",
@@ -5100,6 +4920,176 @@
     "8c104d62fe1bf984": {
       "date": "2026-09-30",
       "title": "rakyll / hey",
+      "source": "github"
+    },
+    "445ecd27631acaed": {
+      "date": "2026-10-01",
+      "title": "Gemini 4 Argon",
+      "source": "hackernews"
+    },
+    "39fa3efedfed2cde": {
+      "date": "2026-10-01",
+      "title": "You said no MCP",
+      "source": "hackernews"
+    },
+    "c5020f68afaa5868": {
+      "date": "2026-10-01",
+      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "source": "hackernews"
+    },
+    "320b81eee547d757": {
+      "date": "2026-10-01",
+      "title": "EDG C++ front-end goes public",
+      "source": "hackernews"
+    },
+    "af5a86f799b9a35a": {
+      "date": "2026-10-01",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+      "source": "hackernews"
+    },
+    "78e54296c6b731f7": {
+      "date": "2026-10-01",
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "source": "hackernews"
+    },
+    "cd5fd160b20bec9d": {
+      "date": "2026-10-01",
+      "title": "Why the Bronze Age Collapsed",
+      "source": "hackernews"
+    },
+    "58f9ce836fb64206": {
+      "date": "2026-10-01",
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "source": "hackernews"
+    },
+    "43c31f7bfb71e63a": {
+      "date": "2026-10-01",
+      "title": "56k.rip – the 1996 dial-up internet experience",
+      "source": "hackernews"
+    },
+    "b84d60fc8471607d": {
+      "date": "2026-10-01",
+      "title": "Evlat",
+      "source": "producthunt"
+    },
+    "e13f0035b5896632": {
+      "date": "2026-10-01",
+      "title": "GitBot",
+      "source": "producthunt"
+    },
+    "c75db68130f65d2f": {
+      "date": "2026-10-01",
+      "title": "Styx",
+      "source": "producthunt"
+    },
+    "e21e8f65c4ff0ab4": {
+      "date": "2026-10-01",
+      "title": "Cyluma",
+      "source": "producthunt"
+    },
+    "fa26d50544d70231": {
+      "date": "2026-10-01",
+      "title": "Voice Memo",
+      "source": "producthunt"
+    },
+    "aacd4ac3e343ada0": {
+      "date": "2026-10-01",
+      "title": "SelfJev",
+      "source": "producthunt"
+    },
+    "50ab21695e7fc1ee": {
+      "date": "2026-10-01",
+      "title": "Squint",
+      "source": "producthunt"
+    },
+    "1a92ebf1b04c39a2": {
+      "date": "2026-10-01",
+      "title": "Ship It: Idle Dev Tycoon",
+      "source": "producthunt"
+    },
+    "afd7347d1a6f9013": {
+      "date": "2026-10-01",
+      "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
+      "source": "devto"
+    },
+    "1c066404e3d6e917": {
+      "date": "2026-10-01",
+      "title": "TypeScript Compiler API: Preserving Child Node Narrowing in Reusable Type Guards 🔧",
+      "source": "devto"
+    },
+    "86507e978e43c5e6": {
+      "date": "2026-10-01",
+      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
+      "source": "devto"
+    },
+    "ce03e1c1694b792b": {
+      "date": "2026-10-01",
+      "title": "Are Frontend Developers Cooked? Is Frontend design safe?",
+      "source": "devto"
+    },
+    "0aeb7486b7e5b521": {
+      "date": "2026-10-01",
+      "title": "Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀",
+      "source": "devto"
+    },
+    "8d8b05d670644f58": {
+      "date": "2026-10-01",
+      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
+      "source": "devto"
+    },
+    "c64b211caa1a33c5": {
+      "date": "2026-10-01",
+      "title": "The Version of Me Who Looks Better on Paper Doesn't Exist",
+      "source": "devto"
+    },
+    "3ca6da0594c961ef": {
+      "date": "2026-10-01",
+      "title": "What Science Fiction Tells Us About Our Changing Relationship With AI",
+      "source": "devto"
+    },
+    "76958cadde887a76": {
+      "date": "2026-10-01",
+      "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
+      "source": "devto"
+    },
+    "cc017f8bec998ee6": {
+      "date": "2026-10-01",
+      "title": "🛜 The Journey of Data Through a Wi-Fi 7 NIC",
+      "source": "devto"
+    },
+    "2526d3aeeaafdd09": {
+      "date": "2026-10-01",
+      "title": "DietrichGebert / ponytail",
+      "source": "github"
+    },
+    "7c09473f1ffc3548": {
+      "date": "2026-10-01",
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "source": "github"
+    },
+    "0bd21c2cf11fc945": {
+      "date": "2026-10-01",
+      "title": "openclaw / openclaw",
+      "source": "github"
+    },
+    "7e39ec2390d0765a": {
+      "date": "2026-10-01",
+      "title": "ComposioHQ / awesome-claude-skills",
+      "source": "github"
+    },
+    "a757f54d2610d95e": {
+      "date": "2026-10-01",
+      "title": "firebase / firebase-ios-sdk",
+      "source": "github"
+    },
+    "b50254409ec38137": {
+      "date": "2026-10-01",
+      "title": "modelcontextprotocol / servers",
+      "source": "github"
+    },
+    "94ec5d23f75fd96a": {
+      "date": "2026-10-01",
+      "title": "colbymchenry / codegraph",
       "source": "github"
     }
   }
