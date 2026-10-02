@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-01T01:45:32.653083",
+  "last_updated": "2026-10-02T02:02:41.346047",
   "sent_items": {
-    "49e3387c38cb4332": {
-      "date": "2026-09-01",
-      "title": "Playa Phone",
-      "source": "hackernews"
-    },
-    "5993b8458deca35e": {
-      "date": "2026-09-01",
-      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "source": "hackernews"
-    },
-    "61ab651f0f3630dd": {
-      "date": "2026-09-01",
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "source": "hackernews"
-    },
-    "ffc85844d1e29ad3": {
-      "date": "2026-09-01",
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "source": "hackernews"
-    },
-    "b4df46d7f8ed18ff": {
-      "date": "2026-09-01",
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "source": "hackernews"
-    },
-    "d927ee262d2a45ad": {
-      "date": "2026-09-01",
-      "title": "'Mad honey' that can stop your heart is being sold online",
-      "source": "hackernews"
-    },
-    "438190435083254c": {
-      "date": "2026-09-01",
-      "title": "Run macOS Software on Linux",
-      "source": "hackernews"
-    },
-    "e4099104baaafca6": {
-      "date": "2026-09-01",
-      "title": "Evidence of Fraud in an Influential Study About Procrastination",
-      "source": "hackernews"
-    },
-    "2f8c21d4bc78535c": {
-      "date": "2026-09-01",
-      "title": "Lion-man – the oldest confirmed statue ever discovered",
-      "source": "hackernews"
-    },
-    "df041ddeabc1f8f1": {
-      "date": "2026-09-01",
-      "title": "Carmack: Has early Scratch experience led to fulfilling careers?",
-      "source": "hackernews"
-    },
-    "f453d33420b284c1": {
-      "date": "2026-09-01",
-      "title": "Orato",
-      "source": "producthunt"
-    },
-    "9482609457348c36": {
-      "date": "2026-09-01",
-      "title": "EP–2350 FX–MIC",
-      "source": "producthunt"
-    },
-    "232fdfdc760e8ae6": {
-      "date": "2026-09-01",
-      "title": "Radar by Particle",
-      "source": "producthunt"
-    },
-    "23e8ed4c2dafd741": {
-      "date": "2026-09-01",
-      "title": "Ask My Wardrobe",
-      "source": "producthunt"
-    },
-    "39aed2a04a5bccd6": {
-      "date": "2026-09-01",
-      "title": "Tether",
-      "source": "producthunt"
-    },
-    "1262790b4d55238e": {
-      "date": "2026-09-01",
-      "title": "FrameOS",
-      "source": "producthunt"
-    },
-    "fbc5e9bdc1be442e": {
-      "date": "2026-09-01",
-      "title": "BrandMyLaptop",
-      "source": "producthunt"
-    },
-    "a1ea668fbb5b0236": {
-      "date": "2026-09-01",
-      "title": "How long does it take for you to write a dev.to article?",
-      "source": "devto"
-    },
-    "8ae3b9ba1c7954fd": {
-      "date": "2026-09-01",
-      "title": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution",
-      "source": "devto"
-    },
-    "febd40a4587627b0": {
-      "date": "2026-09-01",
-      "title": "I Tried to Beat Peter Norvig and Accidentally Became Ryan Gosling",
-      "source": "devto"
-    },
-    "f67521088f8f5af1": {
-      "date": "2026-09-01",
-      "title": "The Highway Is a Pasture",
-      "source": "devto"
-    },
-    "479c951725428344": {
-      "date": "2026-09-01",
-      "title": "Free AWS Certification for Students: The Complete Step-by-Step Guide",
-      "source": "devto"
-    },
-    "b58379d01b8fa622": {
-      "date": "2026-09-01",
-      "title": "Sessions vs JWTs: you are choosing how often you pay for state",
-      "source": "devto"
-    },
-    "af0ec46b0555cee4": {
-      "date": "2026-09-01",
-      "title": "Remember CLAIM-24? Here's what happened.",
-      "source": "devto"
-    },
-    "0bd1c3d16629d1d3": {
-      "date": "2026-09-01",
-      "title": "Badger: An E-Ink Badge I Use For Conferences",
-      "source": "devto"
-    },
-    "90558f9cb8908e87": {
-      "date": "2026-09-01",
-      "title": "My LLM Critic Flip-Flops on Every Run. That's Fine — Because a Frozenset Decides What's Fatal.",
-      "source": "devto"
-    },
-    "89cc9179a7141a8c": {
-      "date": "2026-09-01",
-      "title": "Dev log #19 WebRTC v2 flows, agentic orchestration, and a perfectly synced vault",
-      "source": "devto"
-    },
-    "1c3e1f88dc2dc347": {
-      "date": "2026-09-01",
-      "title": "k1tbyte / Wand-Enhancer",
-      "source": "github"
-    },
-    "73c10ecbf681fc5a": {
-      "date": "2026-09-01",
-      "title": "jingyaogong / minimind",
-      "source": "github"
-    },
-    "7445d3b513aec3d0": {
-      "date": "2026-09-01",
-      "title": "zhaoxuya520 / reverse-skill",
-      "source": "github"
-    },
-    "77dfe4fc1c3ceb1f": {
-      "date": "2026-09-01",
-      "title": "kaifcodec / user-scanner",
-      "source": "github"
-    },
     "9c85c9bd084d8cf2": {
       "date": "2026-09-02",
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
@@ -5090,6 +4935,171 @@
     "94ec5d23f75fd96a": {
       "date": "2026-10-01",
       "title": "colbymchenry / codegraph",
+      "source": "github"
+    },
+    "11ad6e13661a4d8c": {
+      "date": "2026-10-02",
+      "title": "Pi 1.0",
+      "source": "hackernews"
+    },
+    "852f63c12efc1716": {
+      "date": "2026-10-02",
+      "title": "StreetComplete on iOS is now in public beta",
+      "source": "hackernews"
+    },
+    "89d073630f45098d": {
+      "date": "2026-10-02",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "source": "hackernews"
+    },
+    "e2ec9c41090be740": {
+      "date": "2026-10-02",
+      "title": "RIP, vector database",
+      "source": "hackernews"
+    },
+    "09afaa60ad7d929b": {
+      "date": "2026-10-02",
+      "title": "Pi Durable",
+      "source": "hackernews"
+    },
+    "aef3b6555914d4a4": {
+      "date": "2026-10-02",
+      "title": "SvelteKit 3",
+      "source": "hackernews"
+    },
+    "0e80a3a03cf4a9e8": {
+      "date": "2026-10-02",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "source": "hackernews"
+    },
+    "075062b9a2dfc42d": {
+      "date": "2026-10-02",
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "source": "hackernews"
+    },
+    "1deebd0a5ee6a97e": {
+      "date": "2026-10-02",
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "source": "hackernews"
+    },
+    "f5c925971d186ccc": {
+      "date": "2026-10-02",
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "source": "hackernews"
+    },
+    "a26663678daf6440": {
+      "date": "2026-10-02",
+      "title": "Lume",
+      "source": "producthunt"
+    },
+    "cc67c427ee9267ba": {
+      "date": "2026-10-02",
+      "title": "Stardrift for iOS",
+      "source": "producthunt"
+    },
+    "0857aa48d15dd1c0": {
+      "date": "2026-10-02",
+      "title": "Formalini",
+      "source": "producthunt"
+    },
+    "00fc9de16fa2aa63": {
+      "date": "2026-10-02",
+      "title": "JevGPT",
+      "source": "producthunt"
+    },
+    "fc10ac568e40b97a": {
+      "date": "2026-10-02",
+      "title": "Typestream",
+      "source": "producthunt"
+    },
+    "ea95c70314226e64": {
+      "date": "2026-10-02",
+      "title": "OpenCompanion",
+      "source": "producthunt"
+    },
+    "9b287d834d665c87": {
+      "date": "2026-10-02",
+      "title": "Firetower",
+      "source": "producthunt"
+    },
+    "77ca51b8ada64fa2": {
+      "date": "2026-10-02",
+      "title": "Brink",
+      "source": "producthunt"
+    },
+    "bb0aed0757d32363": {
+      "date": "2026-10-02",
+      "title": "Congrats to the DEV Weekend Challenge: Generosity Edition Winners!",
+      "source": "devto"
+    },
+    "908bb868aaa6431b": {
+      "date": "2026-10-02",
+      "title": "Structs Aren't on the Stack. How C# Actually Manages Memory.",
+      "source": "devto"
+    },
+    "e502138fd703c36d": {
+      "date": "2026-10-02",
+      "title": "I Turned My GitHub Profile Into a Cyberpunk Console With a City Built From My Contributions",
+      "source": "devto"
+    },
+    "a0d3914a0c744472": {
+      "date": "2026-10-02",
+      "title": "10 Internal Inconsistencies in 3 Published Groundwater Surveys",
+      "source": "devto"
+    },
+    "5d9f381e44ab515c": {
+      "date": "2026-10-02",
+      "title": "I Applied to 59 Tech Jobs in 14 Days. Here's What Actually Happened",
+      "source": "devto"
+    },
+    "4ca079ca6b8e5481": {
+      "date": "2026-10-02",
+      "title": "Views Measure Views",
+      "source": "devto"
+    },
+    "291806560ddeb286": {
+      "date": "2026-10-02",
+      "title": "Which AWS limit is actually current? An agent that proves it, 32 vs 5 vs 16",
+      "source": "devto"
+    },
+    "fe6727153ba8a049": {
+      "date": "2026-10-02",
+      "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
+      "source": "devto"
+    },
+    "ce4f9112a7e81ad6": {
+      "date": "2026-10-02",
+      "title": "Hacktoberfest 2026 Stopped Counting PRs. Make Your First Ones Anyway, One a Day",
+      "source": "devto"
+    },
+    "bc780792eb649b84": {
+      "date": "2026-10-02",
+      "title": "I Tried to Sneak Four Bad Agents Past My Own Certification Gate. All Four Got Blocked.",
+      "source": "devto"
+    },
+    "21302fb12d0b2e2d": {
+      "date": "2026-10-02",
+      "title": "cursor / plugins",
+      "source": "github"
+    },
+    "56b0660a888ca8af": {
+      "date": "2026-10-02",
+      "title": "tile-ai / tilelang",
+      "source": "github"
+    },
+    "26697818f6511424": {
+      "date": "2026-10-02",
+      "title": "pablostanley / yoinks",
+      "source": "github"
+    },
+    "313f5b1e67ddc488": {
+      "date": "2026-10-02",
+      "title": "HunxByts / GhostTrack",
+      "source": "github"
+    },
+    "a0493a442bc16c39": {
+      "date": "2026-10-02",
+      "title": "Friedrich-M / UniMate",
       "source": "github"
     }
   }
