@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-02T02:02:41.346047",
+  "last_updated": "2026-10-03T01:37:58.028157",
   "sent_items": {
-    "9c85c9bd084d8cf2": {
-      "date": "2026-09-02",
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "source": "hackernews"
-    },
-    "0c0e53e25ccd14b6": {
-      "date": "2026-09-02",
-      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-      "source": "hackernews"
-    },
-    "b0db8e0cc259cc08": {
-      "date": "2026-09-02",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "source": "hackernews"
-    },
-    "b6ea22059185e445": {
-      "date": "2026-09-02",
-      "title": "Hang on to Your Firefox",
-      "source": "hackernews"
-    },
-    "5e19fc99b3e9d51e": {
-      "date": "2026-09-02",
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "source": "hackernews"
-    },
-    "7f8c00ff0ed4b285": {
-      "date": "2026-09-02",
-      "title": "The creator of Jujutsu has joined ERSC",
-      "source": "hackernews"
-    },
-    "3ea91221046e3645": {
-      "date": "2026-09-02",
-      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-      "source": "hackernews"
-    },
-    "92726ead6c3a3bb9": {
-      "date": "2026-09-02",
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "source": "hackernews"
-    },
-    "a553916b2dbdbf16": {
-      "date": "2026-09-02",
-      "title": "My local model setup on an M4 Pro Mac Mini",
-      "source": "hackernews"
-    },
-    "0a53be2cff64db2f": {
-      "date": "2026-09-02",
-      "title": "The efficient frontier of LLM inference",
-      "source": "hackernews"
-    },
-    "a8bda05ff6c95733": {
-      "date": "2026-09-02",
-      "title": "Creatium Coach",
-      "source": "producthunt"
-    },
-    "747c351ec1ff9746": {
-      "date": "2026-09-02",
-      "title": "Computable GPU Index (CGI)",
-      "source": "producthunt"
-    },
-    "986a53dbb607812f": {
-      "date": "2026-09-02",
-      "title": "Sider Code",
-      "source": "producthunt"
-    },
-    "6533afef460d6bcf": {
-      "date": "2026-09-02",
-      "title": "Gauth AI Course",
-      "source": "producthunt"
-    },
-    "4feba910bdaf0041": {
-      "date": "2026-09-02",
-      "title": "Naseem",
-      "source": "producthunt"
-    },
-    "559f8bf2d763a9a4": {
-      "date": "2026-09-02",
-      "title": "Happy Shrimp",
-      "source": "producthunt"
-    },
-    "da346616d954461e": {
-      "date": "2026-09-02",
-      "title": "Sourclip 2.0",
-      "source": "producthunt"
-    },
-    "91565c4394e9aa06": {
-      "date": "2026-09-02",
-      "title": "Folio",
-      "source": "producthunt"
-    },
-    "17265eef5616eef4": {
-      "date": "2026-09-02",
-      "title": "How to Design AI Evaluations You Can Actually Trust",
-      "source": "devto"
-    },
-    "77f89f5f31be2415": {
-      "date": "2026-09-02",
-      "title": "What happens to technical debt when AI makes code cheap?",
-      "source": "devto"
-    },
-    "6c90855cfcd1839a": {
-      "date": "2026-09-02",
-      "title": "React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is",
-      "source": "devto"
-    },
-    "dd1a793345c18b99": {
-      "date": "2026-09-02",
-      "title": "# The CI/CD Pipeline That Was Lying to Us: A Deploy Debugging Story",
-      "source": "devto"
-    },
-    "c80b15ef9ee5d155": {
-      "date": "2026-09-02",
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "source": "devto"
-    },
-    "3c53aec74abe14fe": {
-      "date": "2026-09-02",
-      "title": "Who watches the watchdog? The boring work behind a monitoring SaaS",
-      "source": "devto"
-    },
-    "e6e806d9797587ff": {
-      "date": "2026-09-02",
-      "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
-      "source": "devto"
-    },
-    "0327c6d4bb262b96": {
-      "date": "2026-09-02",
-      "title": "I raced six models against each other on DigitalOcean Inference. The cheapest one won.",
-      "source": "devto"
-    },
-    "df9ebbd4bc660a61": {
-      "date": "2026-09-02",
-      "title": "Block Zero: Oh, no! Claude, Kiro and I over-engineered the throwaway.",
-      "source": "devto"
-    },
-    "125d5c0649e55efb": {
-      "date": "2026-09-02",
-      "title": "How the internet actually works, and why nobody is in charge of it",
-      "source": "devto"
-    },
-    "8db079bd93fad46c": {
-      "date": "2026-09-02",
-      "title": "Gitlawb / openclaude",
-      "source": "github"
-    },
-    "ec80d71bb50f6b19": {
-      "date": "2026-09-02",
-      "title": "Imbad0202 / academic-research-skills",
-      "source": "github"
-    },
-    "7026d70d272e7f07": {
-      "date": "2026-09-02",
-      "title": "iv-org / invidious",
-      "source": "github"
-    },
-    "3a55db0d85d4aae8": {
-      "date": "2026-09-02",
-      "title": "browser-use / video-use",
-      "source": "github"
-    },
-    "4b4cf6b011e27df5": {
-      "date": "2026-09-02",
-      "title": "VoltAgent / awesome-design-md",
-      "source": "github"
-    },
-    "762b8c3b74e9dd22": {
-      "date": "2026-09-02",
-      "title": "averygan / reclip",
-      "source": "github"
-    },
     "8830159e65b07b53": {
       "date": "2026-09-03",
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
@@ -5100,6 +4930,156 @@
     "a0493a442bc16c39": {
       "date": "2026-10-02",
       "title": "Friedrich-M / UniMate",
+      "source": "github"
+    },
+    "159e8dd3874a8e8c": {
+      "date": "2026-10-03",
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "source": "hackernews"
+    },
+    "35679dd830ae321e": {
+      "date": "2026-10-03",
+      "title": "Apple Pass Designer",
+      "source": "hackernews"
+    },
+    "ad3ef17dc4953876": {
+      "date": "2026-10-03",
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "source": "hackernews"
+    },
+    "fc9a8af9cf310c4a": {
+      "date": "2026-10-03",
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "source": "hackernews"
+    },
+    "9796e3908e7f5245": {
+      "date": "2026-10-03",
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "source": "hackernews"
+    },
+    "6c08f4cc37ece942": {
+      "date": "2026-10-03",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "source": "hackernews"
+    },
+    "d5cb8735d1d50829": {
+      "date": "2026-10-03",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "source": "hackernews"
+    },
+    "25d7fadb2c58a4c1": {
+      "date": "2026-10-03",
+      "title": "Muse Gadgets",
+      "source": "hackernews"
+    },
+    "05f5ae43b77b3be6": {
+      "date": "2026-10-03",
+      "title": "The Forgetful CPU (Linux on M4)",
+      "source": "hackernews"
+    },
+    "2317384b005ef1dd": {
+      "date": "2026-10-03",
+      "title": "Things That Apparently Cause Cancer",
+      "source": "hackernews"
+    },
+    "c58ea5f0094bbc78": {
+      "date": "2026-10-03",
+      "title": "Finbar",
+      "source": "producthunt"
+    },
+    "48fe715cc034af08": {
+      "date": "2026-10-03",
+      "title": "Moxie",
+      "source": "producthunt"
+    },
+    "37984fc912975615": {
+      "date": "2026-10-03",
+      "title": "Clef",
+      "source": "producthunt"
+    },
+    "5a1a98974b666bb7": {
+      "date": "2026-10-03",
+      "title": "Never Boring AI",
+      "source": "producthunt"
+    },
+    "f8f77e03849bd806": {
+      "date": "2026-10-03",
+      "title": "Earlyn",
+      "source": "producthunt"
+    },
+    "c5e3af497c657a58": {
+      "date": "2026-10-03",
+      "title": "esigna",
+      "source": "producthunt"
+    },
+    "8d9aa2ed36567f8e": {
+      "date": "2026-10-03",
+      "title": "Open Inspector",
+      "source": "producthunt"
+    },
+    "9340175102de8285": {
+      "date": "2026-10-03",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "d68eca514e61db29": {
+      "date": "2026-10-03",
+      "title": "Dev Opportunity Radar #19: Hacktoberfest, $20K AI Agent Hackathon, and Pear Prime 2027",
+      "source": "devto"
+    },
+    "9cad877b89c7e7c8": {
+      "date": "2026-10-03",
+      "title": "Hacktoberfest Is Coming to Nadiad, Gujarat 🚀 Official MLH Meetup at DDU, 15 Oct",
+      "source": "devto"
+    },
+    "e2d27e8c3a9e1f09": {
+      "date": "2026-10-03",
+      "title": "Kharcha: a 4B model that reads Indian bank SMS so the money stays on your laptop",
+      "source": "devto"
+    },
+    "1a3bf5768e007d68": {
+      "date": "2026-10-03",
+      "title": "Write Markdown Once, Publish It Everywhere: dev.to, Medium, AWS Builder Center and LinkedIn",
+      "source": "devto"
+    },
+    "ba8a6225afbe8e5f": {
+      "date": "2026-10-03",
+      "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
+      "source": "devto"
+    },
+    "9bbc4b0fe4f20235": {
+      "date": "2026-10-03",
+      "title": "I Gave 15 AI Models Proof Their Hacking Target Was a Real Company. 73% of the Ones That Noticed Told",
+      "source": "devto"
+    },
+    "f690cffa412695fc": {
+      "date": "2026-10-03",
+      "title": "How One \"Generate Draft\" Button Changed the Design of My Writing Tool",
+      "source": "devto"
+    },
+    "c2ece9ed57f3d5ab": {
+      "date": "2026-10-03",
+      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
+      "source": "devto"
+    },
+    "9962308b7c6bc089": {
+      "date": "2026-10-03",
+      "title": "The BMW manual was off-limits, so I built my friend something better",
+      "source": "devto"
+    },
+    "021dcfb5e16a50cf": {
+      "date": "2026-10-03",
+      "title": "JuliusBrussee / caveman",
+      "source": "github"
+    },
+    "69c7eb76fe0b1fcc": {
+      "date": "2026-10-03",
+      "title": "google / skills",
+      "source": "github"
+    },
+    "a5d3aa66ee820da7": {
+      "date": "2026-10-03",
+      "title": "getsentry / sentry",
       "source": "github"
     }
   }
