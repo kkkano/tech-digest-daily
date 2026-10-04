@@ -1,192 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-03T01:37:58.028157",
+  "last_updated": "2026-10-04T02:12:24.011560",
   "sent_items": {
-    "8830159e65b07b53": {
-      "date": "2026-09-03",
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "source": "hackernews"
-    },
-    "9148fb3881814e2b": {
-      "date": "2026-09-03",
-      "title": "Muse Spark 1.3",
-      "source": "hackernews"
-    },
-    "ff151594d7a955d9": {
-      "date": "2026-09-03",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "source": "hackernews"
-    },
-    "eb6cf122182b8795": {
-      "date": "2026-09-03",
-      "title": "Google avoids a breakup of its ad tech business",
-      "source": "hackernews"
-    },
-    "788f87ef4fec80ec": {
-      "date": "2026-09-03",
-      "title": "Fable 5.1 World Modeling",
-      "source": "hackernews"
-    },
-    "ec5ea5eb3e4f0f20": {
-      "date": "2026-09-03",
-      "title": "Reverse Engineering Unknown File Formats with ImHex",
-      "source": "hackernews"
-    },
-    "acff256c50db3a57": {
-      "date": "2026-09-03",
-      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-      "source": "hackernews"
-    },
-    "00814b0ec62a0cf9": {
-      "date": "2026-09-03",
-      "title": "Holden's Lightning Flight",
-      "source": "hackernews"
-    },
-    "0cd3d05ff8a1b39a": {
-      "date": "2026-09-03",
-      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "source": "hackernews"
-    },
-    "9882c997b096ed0f": {
-      "date": "2026-09-03",
-      "title": "Reflections on Americans' Net Worth",
-      "source": "hackernews"
-    },
-    "aae5275743b4b18f": {
-      "date": "2026-09-03",
-      "title": "Monid",
-      "source": "producthunt"
-    },
-    "00c4ba4e7009959a": {
-      "date": "2026-09-03",
-      "title": "Roadie",
-      "source": "producthunt"
-    },
-    "2ba8b62ca537ac51": {
-      "date": "2026-09-03",
-      "title": "GhostReply",
-      "source": "producthunt"
-    },
-    "41a3fe9d2c468511": {
-      "date": "2026-09-03",
-      "title": "Stitch AI by Dynamic Mockups",
-      "source": "producthunt"
-    },
-    "e493d015dc842a7b": {
-      "date": "2026-09-03",
-      "title": "OpenClaw 2.0",
-      "source": "producthunt"
-    },
-    "2595d48f632c625d": {
-      "date": "2026-09-03",
-      "title": "Doop",
-      "source": "producthunt"
-    },
-    "33c408c31730a5ff": {
-      "date": "2026-09-03",
-      "title": "Dynamic Edge",
-      "source": "producthunt"
-    },
-    "770c02f84a8378ea": {
-      "date": "2026-09-03",
-      "title": "What do you build when you can build anything?",
-      "source": "devto"
-    },
-    "9aa7c28807722a4a": {
-      "date": "2026-09-03",
-      "title": "Execution Trees, Not More Logs: A Better Debugging Model for AI Agents",
-      "source": "devto"
-    },
-    "f98fbd2f701a97de": {
-      "date": "2026-09-03",
-      "title": "Designing a Webhook Delivery System for 10 Million Events a Day",
-      "source": "devto"
-    },
-    "d300dd45aa46e6b0": {
-      "date": "2026-09-03",
-      "title": "I Tried Pair Programming With Three Different AI Tools For a Month",
-      "source": "devto"
-    },
-    "97579c1ddb115d80": {
-      "date": "2026-09-03",
-      "title": "My AI Gateway Added 400ms to Every Request. Here's Where It Went",
-      "source": "devto"
-    },
-    "8094ee6d9cb794ae": {
-      "date": "2026-09-03",
-      "title": "Learn Number of Islands, Invert Binary Tree, and Course Schedule with Step-by-Step Visualization in ",
-      "source": "devto"
-    },
-    "81bbfcf2d535e168": {
-      "date": "2026-09-03",
-      "title": "Why I'm Building ShrekOS When Containers Already Exist",
-      "source": "devto"
-    },
-    "62461da680625da6": {
-      "date": "2026-09-03",
-      "title": "I Found 3 Security Vulnerabilities in My Own AI Agent's Tool Access",
-      "source": "devto"
-    },
-    "d4583320fd2ba133": {
-      "date": "2026-09-03",
-      "title": "Another new quality moderation feature! I'm excited to see how this shifts the feed in the coming we",
-      "source": "devto"
-    },
-    "d4e98d20ca86e382": {
-      "date": "2026-09-03",
-      "title": "🌟 The CI Gate Rejected the Terraform Change—but the LLM Still Ran",
-      "source": "devto"
-    },
-    "c7f5556eba608ddd": {
-      "date": "2026-09-03",
-      "title": "fmtlib / fmt",
-      "source": "github"
-    },
-    "17a133fee8f3ef38": {
-      "date": "2026-09-03",
-      "title": "google-research / timesfm",
-      "source": "github"
-    },
-    "9660013ea25c5cd2": {
-      "date": "2026-09-03",
-      "title": "debpalash / VoiceStudio",
-      "source": "github"
-    },
-    "e60d19bcbc87ff4d": {
-      "date": "2026-09-03",
-      "title": "sngyai / Sequoia-X",
-      "source": "github"
-    },
-    "b4212d4b4d442e7e": {
-      "date": "2026-09-03",
-      "title": "ChromeDevTools / chrome-devtools-mcp",
-      "source": "github"
-    },
-    "9b3165d8618fc678": {
-      "date": "2026-09-03",
-      "title": "superlinked / sie",
-      "source": "github"
-    },
-    "f798f6349b394f49": {
-      "date": "2026-09-03",
-      "title": "pacifio / atlas",
-      "source": "github"
-    },
-    "5cd08d05ac6c4ae5": {
-      "date": "2026-09-03",
-      "title": "zyronon / TypeWords",
-      "source": "github"
-    },
-    "2412889dd3a83a7b": {
-      "date": "2026-09-03",
-      "title": "vercel-labs / portless",
-      "source": "github"
-    },
-    "786d914db71c331d": {
-      "date": "2026-09-03",
-      "title": "blader / humanizer",
-      "source": "github"
-    },
     "bd1b0b7f2fa5f635": {
       "date": "2026-09-04",
       "title": ".name Termination",
@@ -5080,6 +4895,166 @@
     "a5d3aa66ee820da7": {
       "date": "2026-10-03",
       "title": "getsentry / sentry",
+      "source": "github"
+    },
+    "acd05619cf666288": {
+      "date": "2026-10-04",
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "source": "hackernews"
+    },
+    "703c0c829a14fd92": {
+      "date": "2026-10-04",
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "source": "hackernews"
+    },
+    "81b68c5ee25b3bb6": {
+      "date": "2026-10-04",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "source": "hackernews"
+    },
+    "eb8bbabe305cdeef": {
+      "date": "2026-10-04",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "source": "hackernews"
+    },
+    "c40b90c587ac7f7c": {
+      "date": "2026-10-04",
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "source": "hackernews"
+    },
+    "c5e6afee1ce03466": {
+      "date": "2026-10-04",
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "source": "hackernews"
+    },
+    "949e665fe56ae2f1": {
+      "date": "2026-10-04",
+      "title": "Reasons I didn't become an EMT, ranked",
+      "source": "hackernews"
+    },
+    "8ec43cce63e7a249": {
+      "date": "2026-10-04",
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "source": "hackernews"
+    },
+    "de59c72733214a2d": {
+      "date": "2026-10-04",
+      "title": "Your body of work thinks back at you",
+      "source": "hackernews"
+    },
+    "2f1589adfbab82ab": {
+      "date": "2026-10-04",
+      "title": "Math's pedagogical curse – Grant Sanderson [video]",
+      "source": "hackernews"
+    },
+    "88864ba7d9a7a8b9": {
+      "date": "2026-10-04",
+      "title": "Cubicle",
+      "source": "producthunt"
+    },
+    "cb27044acdfee2d4": {
+      "date": "2026-10-04",
+      "title": "Thanor AI",
+      "source": "producthunt"
+    },
+    "a2eaf755c91e8467": {
+      "date": "2026-10-04",
+      "title": "Prefer",
+      "source": "producthunt"
+    },
+    "55aafc714bc4bdf1": {
+      "date": "2026-10-04",
+      "title": "eu/jev",
+      "source": "producthunt"
+    },
+    "2cdadd21d17dd2c2": {
+      "date": "2026-10-04",
+      "title": "FeelMyMac",
+      "source": "producthunt"
+    },
+    "0a4c810b756d4f02": {
+      "date": "2026-10-04",
+      "title": "Singularity",
+      "source": "producthunt"
+    },
+    "c664db173d2666bd": {
+      "date": "2026-10-04",
+      "title": "Reassign",
+      "source": "producthunt"
+    },
+    "d34c89742c5c6d00": {
+      "date": "2026-10-04",
+      "title": "I Was Overwhelmed, So I Turned My GitHub Profile Into a Roguelike Dungeon",
+      "source": "devto"
+    },
+    "958d2c3271bfecd6": {
+      "date": "2026-10-04",
+      "title": "Turn Your GitHub Contribution Graph Into an ASCII City",
+      "source": "devto"
+    },
+    "0eae713481c23b3a": {
+      "date": "2026-10-04",
+      "title": "I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up.",
+      "source": "devto"
+    },
+    "529aa326c8391c42": {
+      "date": "2026-10-04",
+      "title": "I Made Spider-Man Swing Without Animating a Single Frame",
+      "source": "devto"
+    },
+    "81e1737aaa032638": {
+      "date": "2026-10-04",
+      "title": "Nudging with Questions: Why Telling Your AI What to Fix Triggers an Apology Death Spiral (And How to",
+      "source": "devto"
+    },
+    "c98d1095dab625be": {
+      "date": "2026-10-04",
+      "title": "Never Stranded Again: How I Built an Edge AI Bus Guardian for My Friend Tejas Using TabPFN & SerpApi",
+      "source": "devto"
+    },
+    "af0f0ee5f5068fbd": {
+      "date": "2026-10-04",
+      "title": "EmbedCatalog is participating in Hacktoberfest 2026",
+      "source": "devto"
+    },
+    "05052933c7cc94b0": {
+      "date": "2026-10-04",
+      "title": "The Developer Triangle: DSA, AI, and the Skill That Actually Gets You Hired (as a Beginner)",
+      "source": "devto"
+    },
+    "6452dd8eac0dc27b": {
+      "date": "2026-10-04",
+      "title": "Five Frameworks, One Page, Zero Runtime Tax — Micro-frontends in Web Workers",
+      "source": "devto"
+    },
+    "4d122a39891f9463": {
+      "date": "2026-10-04",
+      "title": "A service mesh costs 0.16ms at one connection and 86% of your throughput at 32",
+      "source": "devto"
+    },
+    "a90d342e2181a927": {
+      "date": "2026-10-04",
+      "title": "affaan-m / ECC",
+      "source": "github"
+    },
+    "400163d7e89d8aac": {
+      "date": "2026-10-04",
+      "title": "Effect-TS / effect",
+      "source": "github"
+    },
+    "d2e7f6acabc603da": {
+      "date": "2026-10-04",
+      "title": "pingdotgg / t3code",
+      "source": "github"
+    },
+    "f08d8cf2c7baf95f": {
+      "date": "2026-10-04",
+      "title": "thedotmack / claude-mem",
+      "source": "github"
+    },
+    "657ca5d400cd8d91": {
+      "date": "2026-10-04",
+      "title": "cloudflare / cloudflare-os",
       "source": "github"
     }
   }
