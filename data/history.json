@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-04T02:12:24.011560",
+  "last_updated": "2026-10-05T01:27:42.652576",
   "sent_items": {
-    "bd1b0b7f2fa5f635": {
-      "date": "2026-09-04",
-      "title": ".name Termination",
-      "source": "hackernews"
-    },
-    "1b6b443c0aff36e8": {
-      "date": "2026-09-04",
-      "title": "GPT-6 Astra",
-      "source": "hackernews"
-    },
-    "3efa566bf05e6e8c": {
-      "date": "2026-09-04",
-      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-      "source": "hackernews"
-    },
-    "d055f5ec31ebc871": {
-      "date": "2026-09-04",
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "source": "hackernews"
-    },
-    "166c7daaa257c653": {
-      "date": "2026-09-04",
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "source": "hackernews"
-    },
-    "497eb0b45fab2fc0": {
-      "date": "2026-09-04",
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "source": "hackernews"
-    },
-    "26242179ba903935": {
-      "date": "2026-09-04",
-      "title": "The largest electric aircraft just flew [video]",
-      "source": "hackernews"
-    },
-    "8a7d120c003047c9": {
-      "date": "2026-09-04",
-      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "source": "hackernews"
-    },
-    "d88bb5bab6e499ad": {
-      "date": "2026-09-04",
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "source": "hackernews"
-    },
-    "e8c78c3cdefa4614": {
-      "date": "2026-09-04",
-      "title": "GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
-      "source": "hackernews"
-    },
-    "c34e1b147402f5f8": {
-      "date": "2026-09-04",
-      "title": "Fillo",
-      "source": "producthunt"
-    },
-    "4f97ceccff714c9a": {
-      "date": "2026-09-04",
-      "title": "Nex",
-      "source": "producthunt"
-    },
-    "a094b106272cf3d9": {
-      "date": "2026-09-04",
-      "title": "CodeLook",
-      "source": "producthunt"
-    },
-    "60daef4c6698af07": {
-      "date": "2026-09-04",
-      "title": "Readr",
-      "source": "producthunt"
-    },
-    "198c91f5f5933a33": {
-      "date": "2026-09-04",
-      "title": "Causal",
-      "source": "producthunt"
-    },
-    "8e1a6b35f6887771": {
-      "date": "2026-09-04",
-      "title": "Tidy",
-      "source": "producthunt"
-    },
-    "e9dab6a0ce048dfe": {
-      "date": "2026-09-04",
-      "title": "Thaw",
-      "source": "producthunt"
-    },
-    "15e8007373b678d2": {
-      "date": "2026-09-04",
-      "title": "Blume.codes",
-      "source": "producthunt"
-    },
-    "62ef4cb92bb39622": {
-      "date": "2026-09-04",
-      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "source": "devto"
-    },
-    "4ea9acd3fdf1f476": {
-      "date": "2026-09-04",
-      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "source": "devto"
-    },
-    "9da6d7d380de8203": {
-      "date": "2026-09-04",
-      "title": "AI-assisted genealogy",
-      "source": "devto"
-    },
-    "8e567e01e0d9b054": {
-      "date": "2026-09-04",
-      "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
-      "source": "devto"
-    },
-    "e79304a7cd184007": {
-      "date": "2026-09-04",
-      "title": "The extraction returned zero memories, and nothing screamed",
-      "source": "devto"
-    },
-    "368f0e3c213f120b": {
-      "date": "2026-09-04",
-      "title": "My Dev.to CLI Got Its First Community PR. Image Uploads From Terminal.",
-      "source": "devto"
-    },
-    "3cf2be80e4ab989c": {
-      "date": "2026-09-04",
-      "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with",
-      "source": "devto"
-    },
-    "6cadbd90c037f45d": {
-      "date": "2026-09-04",
-      "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
-      "source": "devto"
-    },
-    "96f05956dcbdb215": {
-      "date": "2026-09-04",
-      "title": "Four Ways Your Background Job Disappears (And How to Stop Each One)",
-      "source": "devto"
-    },
-    "cdf649762481c848": {
-      "date": "2026-09-04",
-      "title": "Forensic Receipts: From Trusted to Proven",
-      "source": "devto"
-    },
-    "1ae169fb23a902a7": {
-      "date": "2026-09-04",
-      "title": "mattpocock / skills",
-      "source": "github"
-    },
-    "4ea29adcea71be3d": {
-      "date": "2026-09-04",
-      "title": "ByteByteGoHq / system-design-101",
-      "source": "github"
-    },
-    "2f51b72af43a25a9": {
-      "date": "2026-09-04",
-      "title": "magnitudedev / magnitude",
-      "source": "github"
-    },
     "c826810d06ef1884": {
       "date": "2026-09-05",
       "title": "Discovery of a new OpenAI agent message board",
@@ -5055,6 +4900,171 @@
     "657ca5d400cd8d91": {
       "date": "2026-10-04",
       "title": "cloudflare / cloudflare-os",
+      "source": "github"
+    },
+    "cbba30503920c619": {
+      "date": "2026-10-05",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "source": "hackernews"
+    },
+    "11e7fe621404c0b0": {
+      "date": "2026-10-05",
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "source": "hackernews"
+    },
+    "f0d969783b3d28ce": {
+      "date": "2026-10-05",
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "source": "hackernews"
+    },
+    "db02bd2053a0cc20": {
+      "date": "2026-10-05",
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "source": "hackernews"
+    },
+    "558855dfb1899614": {
+      "date": "2026-10-05",
+      "title": "Infidel goes wild",
+      "source": "hackernews"
+    },
+    "643b1421e2252e2e": {
+      "date": "2026-10-05",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "source": "hackernews"
+    },
+    "31a87390e429a41a": {
+      "date": "2026-10-05",
+      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "source": "hackernews"
+    },
+    "a748284de909878b": {
+      "date": "2026-10-05",
+      "title": "Xray-core concealed a certificate verification bypass vulnerability",
+      "source": "hackernews"
+    },
+    "5146d2c6095a2866": {
+      "date": "2026-10-05",
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "source": "hackernews"
+    },
+    "af79189680a7c477": {
+      "date": "2026-10-05",
+      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+      "source": "hackernews"
+    },
+    "f60d62daf7f299e1": {
+      "date": "2026-10-05",
+      "title": "Thinking Orbs",
+      "source": "producthunt"
+    },
+    "23d0f56342c8833e": {
+      "date": "2026-10-05",
+      "title": "Pixel Soup",
+      "source": "producthunt"
+    },
+    "0fd95edc31fb2296": {
+      "date": "2026-10-05",
+      "title": "Quven",
+      "source": "producthunt"
+    },
+    "74cd4cdf131c7e54": {
+      "date": "2026-10-05",
+      "title": "FlexChords",
+      "source": "producthunt"
+    },
+    "5ecdcd69acbf0968": {
+      "date": "2026-10-05",
+      "title": "Aperture",
+      "source": "producthunt"
+    },
+    "ce6509c6d8cabc6f": {
+      "date": "2026-10-05",
+      "title": "Cursor Remote Lite",
+      "source": "producthunt"
+    },
+    "129c21d360a86c96": {
+      "date": "2026-10-05",
+      "title": "JOGAK",
+      "source": "producthunt"
+    },
+    "485e28874bb3c135": {
+      "date": "2026-10-05",
+      "title": "Calnio",
+      "source": "producthunt"
+    },
+    "4f93635b94da1c91": {
+      "date": "2026-10-05",
+      "title": "Before the Alarm Screams at 3 AM: Predicting Liam's Nocturnal Hypoglycemia with Prior Labs TabPFN",
+      "source": "devto"
+    },
+    "2f089f8dc3d40cff": {
+      "date": "2026-10-05",
+      "title": "I Played Out a Broke Student's Month 500 Times on a Budget i3 Laptop With the Wi-Fi Off. It Warned H",
+      "source": "devto"
+    },
+    "f0bfadfcec0ce66d": {
+      "date": "2026-10-05",
+      "title": "OriginTrace: Protecting the DEV Community from Content Theft using Sanity Context MCP",
+      "source": "devto"
+    },
+    "4f8292104b792363": {
+      "date": "2026-10-05",
+      "title": "The Goblin Warren: an AI Dungeon Master that never invents a rule",
+      "source": "devto"
+    },
+    "4720b967e616eaec": {
+      "date": "2026-10-05",
+      "title": "I built my husband a vim trainer with a Gemma coach that runs in the browser",
+      "source": "devto"
+    },
+    "fba7b1ead41be68d": {
+      "date": "2026-10-05",
+      "title": "20+ Years of Friendship. One Weekend to Build His Marketing Department.",
+      "source": "devto"
+    },
+    "e74c973c90d02243": {
+      "date": "2026-10-05",
+      "title": "Suniye: let my parents hear the message themselves",
+      "source": "devto"
+    },
+    "0aa6b84196ae0f4c": {
+      "date": "2026-10-05",
+      "title": "Valkey 9.2's forkless BGSAVE cuts my memory spike from 350MB to 10MB",
+      "source": "devto"
+    },
+    "a9f98ab99498632a": {
+      "date": "2026-10-05",
+      "title": "The groove is the 40 milliseconds a grid throws away, so we built a beat studio that gives them back",
+      "source": "devto"
+    },
+    "88ffa425c68ba833": {
+      "date": "2026-10-05",
+      "title": "My Son Loves Squishies, So I Built Him One for the Browser",
+      "source": "devto"
+    },
+    "98a3e22b8bffae75": {
+      "date": "2026-10-05",
+      "title": "tester-army / e2e",
+      "source": "github"
+    },
+    "a713a4df70f06b44": {
+      "date": "2026-10-05",
+      "title": "caddyserver / caddy",
+      "source": "github"
+    },
+    "5c67d4420464518d": {
+      "date": "2026-10-05",
+      "title": "michael-denyer / pstack-claude",
+      "source": "github"
+    },
+    "8ed11f9c07a08ee3": {
+      "date": "2026-10-05",
+      "title": "garrytan / gstack",
+      "source": "github"
+    },
+    "d877e72a1b1804cb": {
+      "date": "2026-10-05",
+      "title": "OpenCut-app / OpenCut",
       "source": "github"
     }
   }
