@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-05T01:27:42.652576",
+  "last_updated": "2026-10-06T02:42:52.571528",
   "sent_items": {
-    "c826810d06ef1884": {
-      "date": "2026-09-05",
-      "title": "Discovery of a new OpenAI agent message board",
-      "source": "hackernews"
-    },
-    "7036feb3828d857d": {
-      "date": "2026-09-05",
-      "title": "Formalizing Fermat's Last Theorem",
-      "source": "hackernews"
-    },
-    "5552316f3c752146": {
-      "date": "2026-09-05",
-      "title": "Shutting down our public encrypted DNS",
-      "source": "hackernews"
-    },
-    "fae0da9a07021afb": {
-      "date": "2026-09-05",
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "source": "hackernews"
-    },
-    "b3e2f2da19b1dcbe": {
-      "date": "2026-09-05",
-      "title": "Statichost.eu – European static site hosting",
-      "source": "hackernews"
-    },
-    "98f52d5492702a4c": {
-      "date": "2026-09-05",
-      "title": "Can AI design circuit boards yet?",
-      "source": "hackernews"
-    },
-    "a4ca6138058c6698": {
-      "date": "2026-09-05",
-      "title": "GPT-6 Astra on OpenRouter",
-      "source": "hackernews"
-    },
-    "e244ea284f18450d": {
-      "date": "2026-09-05",
-      "title": "An open DNS recursive service for free security and high privacy",
-      "source": "hackernews"
-    },
-    "97fe5ee44aec8aaf": {
-      "date": "2026-09-05",
-      "title": "RSA-260 Factorized",
-      "source": "hackernews"
-    },
-    "b0fc4c075df3862c": {
-      "date": "2026-09-05",
-      "title": "Can guitar frets perform multiplication?",
-      "source": "hackernews"
-    },
-    "f5d8618f26c71b5f": {
-      "date": "2026-09-05",
-      "title": "cmmnts",
-      "source": "producthunt"
-    },
-    "6ba7d52cd0044d40": {
-      "date": "2026-09-05",
-      "title": "GPT-6 Astra",
-      "source": "producthunt"
-    },
-    "7c0f222e18455218": {
-      "date": "2026-09-05",
-      "title": "Chalked for Mac",
-      "source": "producthunt"
-    },
-    "d7be2135f4f625e8": {
-      "date": "2026-09-05",
-      "title": "Clockwork",
-      "source": "producthunt"
-    },
-    "b0507fb3fbac119c": {
-      "date": "2026-09-05",
-      "title": "WeatherNext 3",
-      "source": "producthunt"
-    },
-    "5a0bfeed84b997f3": {
-      "date": "2026-09-05",
-      "title": "TrackMCP",
-      "source": "producthunt"
-    },
-    "88a9807611b96223": {
-      "date": "2026-09-05",
-      "title": "Omarchy",
-      "source": "producthunt"
-    },
-    "cdd1869140b19da6": {
-      "date": "2026-09-05",
-      "title": "Google Gemini 3.8 Flash and Cyber",
-      "source": "producthunt"
-    },
-    "a8870f21655726ec": {
-      "date": "2026-09-05",
-      "title": "Hey Everyone! I’m Sanidhya from MLH",
-      "source": "devto"
-    },
-    "8040c2aff4769b5e": {
-      "date": "2026-09-05",
-      "title": "What was your win this week?",
-      "source": "devto"
-    },
-    "d1e1c7345f6d0851": {
-      "date": "2026-09-05",
-      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
-      "source": "devto"
-    },
-    "e4df8d6c9c6899f5": {
-      "date": "2026-09-05",
-      "title": "Dev Opportunity Radar #15: HackerRank Orchestrate, Claude Campus Ambassadors & the Bharat Builds Tou",
-      "source": "devto"
-    },
-    "fecbddaffc39b963": {
-      "date": "2026-09-05",
-      "title": "The board came back. The highlights lied.",
-      "source": "devto"
-    },
-    "35568cd9e9e5bedb": {
-      "date": "2026-09-05",
-      "title": "When Should You Use n8n Instead of Writing the Code Yourself?",
-      "source": "devto"
-    },
-    "821f7a55fdccf05d": {
-      "date": "2026-09-05",
-      "title": "Your AI-generated tests aren't testing your code. They're testing the AI's blind spots.",
-      "source": "devto"
-    },
-    "e904c5f6353cb16d": {
-      "date": "2026-09-05",
-      "title": "Gemini Agentic Video Isn't Always Cheaper: A 24-Run Benchmark",
-      "source": "devto"
-    },
-    "ad17cb2c92c001f9": {
-      "date": "2026-09-05",
-      "title": "[Open Source Sharing] How I Built Three Small Party Games for a Spring Dinner",
-      "source": "devto"
-    },
-    "dd841669b3deff1a": {
-      "date": "2026-09-05",
-      "title": "How ChatGPT agents with no internet access ended up in Hugging Face",
-      "source": "devto"
-    },
-    "da8fbc1a4b495fcf": {
-      "date": "2026-09-05",
-      "title": "bikini / exploitarium",
-      "source": "github"
-    },
-    "8f0bf963eb960c23": {
-      "date": "2026-09-05",
-      "title": "radixark / miles",
-      "source": "github"
-    },
-    "9bde5582e8ba9a19": {
-      "date": "2026-09-05",
-      "title": "anomalyco / opencode",
-      "source": "github"
-    },
     "241bb99fc756252b": {
       "date": "2026-09-06",
       "title": "Private German rocket makes history, reaches orbit from European soil",
@@ -5065,6 +4910,171 @@
     "d877e72a1b1804cb": {
       "date": "2026-10-05",
       "title": "OpenCut-app / OpenCut",
+      "source": "github"
+    },
+    "9f3e1d26192750b8": {
+      "date": "2026-10-06",
+      "title": "Beam: Reflection's 501B open-weight model",
+      "source": "hackernews"
+    },
+    "75f743a5bcd58da3": {
+      "date": "2026-10-06",
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "source": "hackernews"
+    },
+    "bd2bae26a9249b07": {
+      "date": "2026-10-06",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "source": "hackernews"
+    },
+    "a29aaa9485d73af0": {
+      "date": "2026-10-06",
+      "title": "Find the flattest route between any two points in SF",
+      "source": "hackernews"
+    },
+    "7441b8b2c437542d": {
+      "date": "2026-10-06",
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "source": "hackernews"
+    },
+    "b08684a851cadf43": {
+      "date": "2026-10-06",
+      "title": "Example.com Just Launched the Biggest Redesign in Decades",
+      "source": "hackernews"
+    },
+    "07c38153f985be38": {
+      "date": "2026-10-06",
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "source": "hackernews"
+    },
+    "948f5f870057e1bc": {
+      "date": "2026-10-06",
+      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "source": "hackernews"
+    },
+    "f0e9d1329483b52e": {
+      "date": "2026-10-06",
+      "title": "An Algorithmic Failure Beneath the Secret Ballot",
+      "source": "hackernews"
+    },
+    "081860ef63147337": {
+      "date": "2026-10-06",
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "source": "hackernews"
+    },
+    "3ec6316bf12c8794": {
+      "date": "2026-10-06",
+      "title": "Reactive Resume v6",
+      "source": "producthunt"
+    },
+    "d54f5e6adba5ff64": {
+      "date": "2026-10-06",
+      "title": "HyperFrames Studio (Desktop)",
+      "source": "producthunt"
+    },
+    "34814085328f441d": {
+      "date": "2026-10-06",
+      "title": "DailyHelm",
+      "source": "producthunt"
+    },
+    "19abbaa021e66f65": {
+      "date": "2026-10-06",
+      "title": "Xtracticle",
+      "source": "producthunt"
+    },
+    "2e8f5cb3bb3f9e7f": {
+      "date": "2026-10-06",
+      "title": "crosswalk",
+      "source": "producthunt"
+    },
+    "6b1f9db002dce57f": {
+      "date": "2026-10-06",
+      "title": "Reviu",
+      "source": "producthunt"
+    },
+    "e0d4738e03cbed40": {
+      "date": "2026-10-06",
+      "title": "Unscary AI",
+      "source": "producthunt"
+    },
+    "c4156bd92075a26b": {
+      "date": "2026-10-06",
+      "title": "SpeechShield",
+      "source": "producthunt"
+    },
+    "2543190e106004cd": {
+      "date": "2026-10-06",
+      "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
+      "source": "devto"
+    },
+    "0fdbb1b21f66a751": {
+      "date": "2026-10-06",
+      "title": "The Parts of a Job Search We Don't See",
+      "source": "devto"
+    },
+    "6f0c3de7ba910272": {
+      "date": "2026-10-06",
+      "title": "Meme Monday",
+      "source": "devto"
+    },
+    "544290bac961af2b": {
+      "date": "2026-10-06",
+      "title": "Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾",
+      "source": "devto"
+    },
+    "deeb8e00fbcb7409": {
+      "date": "2026-10-06",
+      "title": "⚡ Dad Complains About Electric Bill, So I Built Him an Energy Dashboard and Found the Panels Lied ⚡",
+      "source": "devto"
+    },
+    "a1f2a1b9f051c054": {
+      "date": "2026-10-06",
+      "title": "I Built an AI That Reads Eviction Notices and Refuses to Lie to You",
+      "source": "devto"
+    },
+    "8b13cf0caae2a34b": {
+      "date": "2026-10-06",
+      "title": "Publishing Markdown to Substack from an Agent Skill",
+      "source": "devto"
+    },
+    "e74512ead29b4273": {
+      "date": "2026-10-06",
+      "title": "I Built My Friend a Mock Interviewer That Read His Rust Code",
+      "source": "devto"
+    },
+    "751e14d6df16a127": {
+      "date": "2026-10-06",
+      "title": "What \"best practice\" did you quietly stop following?",
+      "source": "devto"
+    },
+    "9560fff1b61722ee": {
+      "date": "2026-10-06",
+      "title": "I forked a live AI agent three ways, and every copy came up with its web server already running",
+      "source": "devto"
+    },
+    "1de8441fc5bce948": {
+      "date": "2026-10-06",
+      "title": "boykopovar / AnyPS5",
+      "source": "github"
+    },
+    "5f14baa5319dcdc4": {
+      "date": "2026-10-06",
+      "title": "DuarteSantos8 / openGym",
+      "source": "github"
+    },
+    "dac0f50fad3f86f4": {
+      "date": "2026-10-06",
+      "title": "Stremio / stremio-web",
+      "source": "github"
+    },
+    "5dfe15d5980db3b9": {
+      "date": "2026-10-06",
+      "title": "msitarzewski / agency-agents",
+      "source": "github"
+    },
+    "937aa28f2aab79f5": {
+      "date": "2026-10-06",
+      "title": "M-Abozaid / esp32-c3-adblock",
       "source": "github"
     }
   }
