@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-06T02:42:52.571528",
+  "last_updated": "2026-10-07T02:01:16.889512",
   "sent_items": {
-    "241bb99fc756252b": {
-      "date": "2026-09-06",
-      "title": "Private German rocket makes history, reaches orbit from European soil",
-      "source": "hackernews"
-    },
-    "66c13bbe512f4f97": {
-      "date": "2026-09-06",
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "source": "hackernews"
-    },
-    "074ab63958e3240e": {
-      "date": "2026-09-06",
-      "title": "Learn Programming with OCaml",
-      "source": "hackernews"
-    },
-    "9c3945415f52154d": {
-      "date": "2026-09-06",
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "source": "hackernews"
-    },
-    "13492900194478ea": {
-      "date": "2026-09-06",
-      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
-      "source": "hackernews"
-    },
-    "2babf08e13268e48": {
-      "date": "2026-09-06",
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "source": "hackernews"
-    },
-    "49483bddfa3a1d38": {
-      "date": "2026-09-06",
-      "title": "Show HN: Fly By – retro biplane flying game",
-      "source": "hackernews"
-    },
-    "9bb4b35f248f1f80": {
-      "date": "2026-09-06",
-      "title": "How Swiss tables work in Go built-in map",
-      "source": "hackernews"
-    },
-    "15c164fdbc034dc9": {
-      "date": "2026-09-06",
-      "title": "How AI is breaking the British state",
-      "source": "hackernews"
-    },
-    "9a7632dec7a8c392": {
-      "date": "2026-09-06",
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "source": "hackernews"
-    },
-    "69c25f103a0570b9": {
-      "date": "2026-09-06",
-      "title": "GitWarren",
-      "source": "producthunt"
-    },
-    "111542e20e62ae48": {
-      "date": "2026-09-06",
-      "title": "BrickForgerAI",
-      "source": "producthunt"
-    },
-    "a4e535c8df50e138": {
-      "date": "2026-09-06",
-      "title": "Queuebrick",
-      "source": "producthunt"
-    },
-    "0761864b341f6284": {
-      "date": "2026-09-06",
-      "title": "CommuteBar",
-      "source": "producthunt"
-    },
-    "0059a2527a0507cd": {
-      "date": "2026-09-06",
-      "title": "Experiential Labs",
-      "source": "producthunt"
-    },
-    "891f6627b47f247b": {
-      "date": "2026-09-06",
-      "title": "at8pm",
-      "source": "producthunt"
-    },
-    "a9e4b9f80dd4f794": {
-      "date": "2026-09-06",
-      "title": "Hyperprobe",
-      "source": "producthunt"
-    },
-    "b24885ff35a442d4": {
-      "date": "2026-09-06",
-      "title": "Ponytail",
-      "source": "producthunt"
-    },
-    "ffc93888bb6b085d": {
-      "date": "2026-09-06",
-      "title": "We Throw Away 1.3 Billion Tons of Food While Millions Starve. I Built FoodBridge with Snowflake to S",
-      "source": "devto"
-    },
-    "cfbeef656bc4ddac": {
-      "date": "2026-09-06",
-      "title": "I built PadForward because sometimes you just need a pad",
-      "source": "devto"
-    },
-    "854c58f439ecdb62": {
-      "date": "2026-09-06",
-      "title": "Generosity Is a Default Setting",
-      "source": "devto"
-    },
-    "42d96b2465a25aa8": {
-      "date": "2026-09-06",
-      "title": "I Watched Our Interns Play Valorant for Three Hours. Put Your Rank on the Resume.",
-      "source": "devto"
-    },
-    "cebea86e8a2676bf": {
-      "date": "2026-09-06",
-      "title": "🚨📢Launching Docgrity 🚀: Documentation integrity for you, your team, and your agent friends. 🤖",
-      "source": "devto"
-    },
-    "3c053c760df34b6e": {
-      "date": "2026-09-06",
-      "title": "Put App Documents in the System File Browser",
-      "source": "devto"
-    },
-    "62d31b312fab4a51": {
-      "date": "2026-09-06",
-      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
-      "source": "devto"
-    },
-    "f61df34d547f97b4": {
-      "date": "2026-09-06",
-      "title": "My AI reviews its own code with 4 rival models. The majority just approved a security hole three rou",
-      "source": "devto"
-    },
-    "242c528ba733f7ee": {
-      "date": "2026-09-06",
-      "title": "I'm 12. My Code Jam got zero submissions. So I built a platform for it.",
-      "source": "devto"
-    },
-    "f87664ca2e548e2c": {
-      "date": "2026-09-06",
-      "title": "I Built a Database in Rust With Zero Dependencies (and What the Standard Library Quietly Gave Me)",
-      "source": "devto"
-    },
-    "3a6f23d0105ddd3e": {
-      "date": "2026-09-06",
-      "title": "humanlayer / skills",
-      "source": "github"
-    },
-    "d7de97da89a745b2": {
-      "date": "2026-09-06",
-      "title": "BraveOPotato / FckSignups",
-      "source": "github"
-    },
-    "0119fd277859b072": {
-      "date": "2026-09-06",
-      "title": "WorldFlowAI / everything-claude-code",
-      "source": "github"
-    },
     "1759500f645bb398": {
       "date": "2026-09-07",
       "title": "Your intellectual fly is open (2025)",
@@ -5076,6 +4921,161 @@
       "date": "2026-10-06",
       "title": "M-Abozaid / esp32-c3-adblock",
       "source": "github"
+    },
+    "28ee28cc295a9a74": {
+      "date": "2026-10-07",
+      "title": "Mistral Large 4",
+      "source": "hackernews"
+    },
+    "97d1ddb511708196": {
+      "date": "2026-10-07",
+      "title": "Sharing AI progress in mathematics",
+      "source": "hackernews"
+    },
+    "ac70e0181fb601b8": {
+      "date": "2026-10-07",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "source": "hackernews"
+    },
+    "2b394de14f674391": {
+      "date": "2026-10-07",
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "source": "hackernews"
+    },
+    "329dc33bb7e8d5ff": {
+      "date": "2026-10-07",
+      "title": "Decisions API is in public beta",
+      "source": "hackernews"
+    },
+    "a46520c0821d8ae1": {
+      "date": "2026-10-07",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "source": "hackernews"
+    },
+    "b4ea01193c26016d": {
+      "date": "2026-10-07",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "source": "hackernews"
+    },
+    "466802ea2ebe0f96": {
+      "date": "2026-10-07",
+      "title": "State of Devs 2026 survey results: developers are exhausted",
+      "source": "hackernews"
+    },
+    "460e87c53d1406bd": {
+      "date": "2026-10-07",
+      "title": "Integer multiplication below n log n",
+      "source": "hackernews"
+    },
+    "2b200959c25eb87a": {
+      "date": "2026-10-07",
+      "title": "Fuse AI",
+      "source": "producthunt"
+    },
+    "539162db76de40ad": {
+      "date": "2026-10-07",
+      "title": "Customer Service AI for Etsy",
+      "source": "producthunt"
+    },
+    "96a82f0389ecd5e1": {
+      "date": "2026-10-07",
+      "title": "Chunk",
+      "source": "producthunt"
+    },
+    "21eda12b40489cc8": {
+      "date": "2026-10-07",
+      "title": "Rill Browser",
+      "source": "producthunt"
+    },
+    "b6083762a9364ab0": {
+      "date": "2026-10-07",
+      "title": "Brnch",
+      "source": "producthunt"
+    },
+    "29ba26e0adb53992": {
+      "date": "2026-10-07",
+      "title": "Cosmic AI Support Agent",
+      "source": "producthunt"
+    },
+    "6ab851d5d93f27fe": {
+      "date": "2026-10-07",
+      "title": "ruOS",
+      "source": "producthunt"
+    },
+    "8ed42408b18af15c": {
+      "date": "2026-10-07",
+      "title": "Scumble",
+      "source": "producthunt"
+    },
+    "1ae169fb23a902a7": {
+      "date": "2026-10-07",
+      "title": "mattpocock / skills",
+      "source": "github"
+    },
+    "0135e142dae80432": {
+      "date": "2026-10-07",
+      "title": "morluto / rea",
+      "source": "github"
+    },
+    "30d8214c97f5f5b2": {
+      "date": "2026-10-07",
+      "title": "deepseek-ai / DeepGEMM",
+      "source": "github"
+    },
+    "f0faec98f86e4fde": {
+      "date": "2026-10-07",
+      "title": "cathrynlavery / diagram-design",
+      "source": "github"
+    },
+    "4825aec882fff4b8": {
+      "date": "2026-10-07",
+      "title": "Your GitHub README Isn't a Profile. It's a Storefront. (Here Are the 5 Rules I Used",
+      "source": "devto"
+    },
+    "6cd7d52e161c8a76": {
+      "date": "2026-10-07",
+      "title": "Why Your TypeScript Code Still Crashes in Production",
+      "source": "devto"
+    },
+    "d1141fe291eba5f2": {
+      "date": "2026-10-07",
+      "title": "🌿 AI Nature Quest: I Built an AI That Wants You to Stop Using It",
+      "source": "devto"
+    },
+    "c66eff1dc2df4d21": {
+      "date": "2026-10-07",
+      "title": "Your AI Agent Will Do Something Terrible. Here's How to Survive It.",
+      "source": "devto"
+    },
+    "d1e94bc3618cd419": {
+      "date": "2026-10-07",
+      "title": "Redis vs Dragonfly: A Hands-On Comparison",
+      "source": "devto"
+    },
+    "b6e041909b29865a": {
+      "date": "2026-10-07",
+      "title": "Bun 1.4's bun test --parallel cuts a 4-second suite to about 1 second",
+      "source": "devto"
+    },
+    "eaaf1e3e94f3680d": {
+      "date": "2026-10-07",
+      "title": "Ontological Shock at Altitude",
+      "source": "devto"
+    },
+    "67b453024a33cdaf": {
+      "date": "2026-10-07",
+      "title": "Aborting a Fetch Doesn't Stop Your Node.js Server. Here's What Does.",
+      "source": "devto"
+    },
+    "9c3421f357861b3d": {
+      "date": "2026-10-07",
+      "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
+      "source": "devto"
+    },
+    "f5df0f638ba19755": {
+      "date": "2026-10-07",
+      "title": "My OSS Projects: Netpack",
+      "source": "devto"
     }
   }
 }
