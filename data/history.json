@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-07T02:01:16.889512",
+  "last_updated": "2026-10-08T02:28:42.894729",
   "sent_items": {
-    "1759500f645bb398": {
-      "date": "2026-09-07",
-      "title": "Your intellectual fly is open (2025)",
-      "source": "hackernews"
-    },
-    "10e69cd3e2208a54": {
-      "date": "2026-09-07",
-      "title": "Asahi Linux on M3",
-      "source": "hackernews"
-    },
-    "c049e4de41cb49ac": {
-      "date": "2026-09-07",
-      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-      "source": "hackernews"
-    },
-    "02ac4380a1b38984": {
-      "date": "2026-09-07",
-      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-      "source": "hackernews"
-    },
-    "7ded3e91ccd1bd1e": {
-      "date": "2026-09-07",
-      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-      "source": "hackernews"
-    },
-    "5f0d51b46dced628": {
-      "date": "2026-09-07",
-      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "source": "hackernews"
-    },
-    "1f11cbd5b32484d4": {
-      "date": "2026-09-07",
-      "title": "Making a Python interpreter in 1024 bytes",
-      "source": "hackernews"
-    },
-    "72c0b914c5bb649f": {
-      "date": "2026-09-07",
-      "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials (2011)",
-      "source": "hackernews"
-    },
-    "3bc5c49d56d82f93": {
-      "date": "2026-09-07",
-      "title": "Harnessing the Universal Geometry of Embeddings",
-      "source": "hackernews"
-    },
-    "df5be31d5497cded": {
-      "date": "2026-09-07",
-      "title": "Reverse engineering the storage format for an undocumented database",
-      "source": "hackernews"
-    },
-    "58010b61f2b92f9e": {
-      "date": "2026-09-07",
-      "title": "Kit by Speakeasy",
-      "source": "producthunt"
-    },
-    "db0e76466dc21fce": {
-      "date": "2026-09-07",
-      "title": "Agentic Video Understanding in Gemini",
-      "source": "producthunt"
-    },
-    "858968678fe1ec6a": {
-      "date": "2026-09-07",
-      "title": "H3 Max by fal",
-      "source": "producthunt"
-    },
-    "7bdd3601f8ab9089": {
-      "date": "2026-09-07",
-      "title": "Reflexio",
-      "source": "producthunt"
-    },
-    "16ecb6b6ed472cad": {
-      "date": "2026-09-07",
-      "title": "I Built a Version Bump Tool in Rust That Is 10,000x Faster Than Its Python Counterparts.",
-      "source": "devto"
-    },
-    "df1783a6bdcf9293": {
-      "date": "2026-09-07",
-      "title": "The Same Day, 180 Times: How Does the Unglamorous Machinery of Locking In Actually Work?",
-      "source": "devto"
-    },
-    "7e9938482e194986": {
-      "date": "2026-09-07",
-      "title": "Markov Chain Monte Carlo: the 1953 algorithm hiding under modern AI",
-      "source": "devto"
-    },
-    "c95bef62dd3f2f75": {
-      "date": "2026-09-07",
-      "title": "My Grandmother Ran Ajo. I Built the Version Where the Pot Can't Walk Away",
-      "source": "devto"
-    },
-    "110d3f9ea4ccba4d": {
-      "date": "2026-09-07",
-      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletpr",
-      "source": "devto"
-    },
-    "25b59ea238d6d0ac": {
-      "date": "2026-09-07",
-      "title": "You write one kind sentence. I donate a dime. A blockchain makes sure I do.",
-      "source": "devto"
-    },
-    "1472c8817408672d": {
-      "date": "2026-09-07",
-      "title": "Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches",
-      "source": "devto"
-    },
-    "f0a613d404e63932": {
-      "date": "2026-09-07",
-      "title": "Posting from a shed with one bar of signal: an offline write queue in plain JS",
-      "source": "devto"
-    },
-    "e06c2b4463876cfd": {
-      "date": "2026-09-07",
-      "title": "Remembering Why We Code: Dropping AI for Fundamental Learning",
-      "source": "devto"
-    },
-    "d4958e65cc59e8d4": {
-      "date": "2026-09-07",
-      "title": "Your audit log is probably lying to you. Postgres 18 fixes it in one statement.",
-      "source": "devto"
-    },
-    "e60f6498c318c48b": {
-      "date": "2026-09-07",
-      "title": "openai / skills",
-      "source": "github"
-    },
-    "eeb7198dc2eb3375": {
-      "date": "2026-09-07",
-      "title": "llvm / llvm-project",
-      "source": "github"
-    },
-    "7344796a1c663646": {
-      "date": "2026-09-07",
-      "title": "coreyhaines31 / marketingskills",
-      "source": "github"
-    },
-    "322dcd7e9a66cb86": {
-      "date": "2026-09-07",
-      "title": "aipoch / open-science",
-      "source": "github"
-    },
-    "ccf10a9ea33b3491": {
-      "date": "2026-09-07",
-      "title": "OpenWhispr / openwhispr",
-      "source": "github"
-    },
     "ca113981b2328a1b": {
       "date": "2026-09-08",
       "title": "WeatherNext 3",
@@ -5076,6 +4931,156 @@
       "date": "2026-10-07",
       "title": "My OSS Projects: Netpack",
       "source": "devto"
+    },
+    "3903ecbd93718f7d": {
+      "date": "2026-10-08",
+      "title": "Unprompt",
+      "source": "producthunt"
+    },
+    "98462ab3f24c3836": {
+      "date": "2026-10-08",
+      "title": "Zavi",
+      "source": "producthunt"
+    },
+    "ff6594c813123292": {
+      "date": "2026-10-08",
+      "title": "Figma Agent",
+      "source": "producthunt"
+    },
+    "38917af5ce4adbf9": {
+      "date": "2026-10-08",
+      "title": "Ana by Vertice",
+      "source": "producthunt"
+    },
+    "e6a6d6406902db6f": {
+      "date": "2026-10-08",
+      "title": "Introducing Video Editor in Manus 2.0",
+      "source": "producthunt"
+    },
+    "0ffdd30290dcaa69": {
+      "date": "2026-10-08",
+      "title": "DevAlly AI Agent",
+      "source": "producthunt"
+    },
+    "744abf3bc4f11450": {
+      "date": "2026-10-08",
+      "title": "Rhem Labs",
+      "source": "producthunt"
+    },
+    "bcfe1ce182f08750": {
+      "date": "2026-10-08",
+      "title": "ParakeetAI 2.0",
+      "source": "producthunt"
+    },
+    "4b5537308716f1d5": {
+      "date": "2026-10-08",
+      "title": "Margaret Hamilton has died",
+      "source": "hackernews"
+    },
+    "2cf28a1a9302bc8a": {
+      "date": "2026-10-08",
+      "title": "Claude Haiku 5.5",
+      "source": "hackernews"
+    },
+    "9a75e27349d9fab3": {
+      "date": "2026-10-08",
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "source": "hackernews"
+    },
+    "fa10d31279182475": {
+      "date": "2026-10-08",
+      "title": "Shipping JPEG XL in Chrome",
+      "source": "hackernews"
+    },
+    "274e0b08f86022cb": {
+      "date": "2026-10-08",
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "source": "hackernews"
+    },
+    "9431d44978f11754": {
+      "date": "2026-10-08",
+      "title": "Docker Agent",
+      "source": "hackernews"
+    },
+    "89a3fcb5a4585702": {
+      "date": "2026-10-08",
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "source": "hackernews"
+    },
+    "0f95f8e7b3fe02a2": {
+      "date": "2026-10-08",
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "source": "hackernews"
+    },
+    "ecbe81e522692839": {
+      "date": "2026-10-08",
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "source": "hackernews"
+    },
+    "9e7b27812fe1d2b7": {
+      "date": "2026-10-08",
+      "title": "Cleo (Mathematician)",
+      "source": "hackernews"
+    },
+    "8147512940a72563": {
+      "date": "2026-10-08",
+      "title": "I Think We're Forgetting How to Be Bored",
+      "source": "devto"
+    },
+    "3217347e41c4ce9e": {
+      "date": "2026-10-08",
+      "title": "Bash Isn't a Programming Language. It's a Text Substitution Engine.",
+      "source": "devto"
+    },
+    "d46ece4427cf332d": {
+      "date": "2026-10-08",
+      "title": "The job market is absolutely disgusting - I'm doing something about it!",
+      "source": "devto"
+    },
+    "685369b13ec2a69f": {
+      "date": "2026-10-08",
+      "title": "I Write on a 2006 iMac and Code on a $200 Laptop",
+      "source": "devto"
+    },
+    "5febf32060d13f52": {
+      "date": "2026-10-08",
+      "title": "Single line CV",
+      "source": "devto"
+    },
+    "bbe3eab16db98f8e": {
+      "date": "2026-10-08",
+      "title": "I built an AI that only works when my phone is in my pocket",
+      "source": "devto"
+    },
+    "0dd8c656b44bcff1": {
+      "date": "2026-10-08",
+      "title": "Migrating a Real TypeScript OSS Library from tsup to tsdown",
+      "source": "devto"
+    },
+    "eb8e780b1f17a907": {
+      "date": "2026-10-08",
+      "title": "Touch Grass, Pack Your Docs: An Offline Coding Agent on a 4 GB Laptop GPU",
+      "source": "devto"
+    },
+    "13f63b300bb4e61a": {
+      "date": "2026-10-08",
+      "title": "What email APIs cost in 2026: 7 workloads priced on 6 providers",
+      "source": "devto"
+    },
+    "c9a39b9edf4714e0": {
+      "date": "2026-10-08",
+      "title": "Brunch Gem: Isolated Development Environments for Git Branches and Worktrees",
+      "source": "devto"
+    },
+    "c76be726818a083c": {
+      "date": "2026-10-08",
+      "title": "EpicGames / raddebugger",
+      "source": "github"
+    },
+    "0483299a7e22039b": {
+      "date": "2026-10-08",
+      "title": "manaflow-ai / cmux",
+      "source": "github"
     }
   }
 }
