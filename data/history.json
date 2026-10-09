@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-08T02:28:42.894729",
+  "last_updated": "2026-10-09T02:45:57.083238",
   "sent_items": {
-    "ca113981b2328a1b": {
-      "date": "2026-09-08",
-      "title": "WeatherNext 3",
-      "source": "hackernews"
-    },
-    "a7cdf5e2d7c4a03f": {
-      "date": "2026-09-08",
-      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-      "source": "hackernews"
-    },
-    "6b6cf87e682f5740": {
-      "date": "2026-09-08",
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "source": "hackernews"
-    },
-    "9fa15a3694ebaeb8": {
-      "date": "2026-09-08",
-      "title": "Scientists observe Einstein's gravity in the quantum world",
-      "source": "hackernews"
-    },
-    "cd5193c000aad2ad": {
-      "date": "2026-09-08",
-      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-      "source": "hackernews"
-    },
-    "fc549e1af5287cd1": {
-      "date": "2026-09-08",
-      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-      "source": "hackernews"
-    },
-    "9a421d318454b8ab": {
-      "date": "2026-09-08",
-      "title": "Working on Economics with Fable 5",
-      "source": "hackernews"
-    },
-    "067a9da64eb95841": {
-      "date": "2026-09-08",
-      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-      "source": "hackernews"
-    },
-    "17360fb73b95417c": {
-      "date": "2026-09-08",
-      "title": "Show HN: I built an aesthetically pleasing puzzle",
-      "source": "hackernews"
-    },
-    "2448c5c2273308e3": {
-      "date": "2026-09-08",
-      "title": "TALA Is Open-Source",
-      "source": "hackernews"
-    },
-    "17f71c7f049f1854": {
-      "date": "2026-09-08",
-      "title": "Assist",
-      "source": "producthunt"
-    },
-    "b9131afb81bf9b26": {
-      "date": "2026-09-08",
-      "title": "Remind",
-      "source": "producthunt"
-    },
-    "5d645167132c95a7": {
-      "date": "2026-09-08",
-      "title": "Tucky",
-      "source": "producthunt"
-    },
-    "68d05165a213dce9": {
-      "date": "2026-09-08",
-      "title": "Airuncode",
-      "source": "producthunt"
-    },
-    "a36c40789e28544d": {
-      "date": "2026-09-08",
-      "title": "Clipnote",
-      "source": "producthunt"
-    },
-    "1c67076c2568fcb5": {
-      "date": "2026-09-08",
-      "title": "Scriptly",
-      "source": "producthunt"
-    },
-    "6f26541ea061bb59": {
-      "date": "2026-09-08",
-      "title": "From AI Solutions to Shared Knowledge: Building an MCP for the Community",
-      "source": "devto"
-    },
-    "f40e641f32567a41": {
-      "date": "2026-09-08",
-      "title": "Dozens of Resumes, One Call From an Old Colleague",
-      "source": "devto"
-    },
-    "4f88904a8c229a1d": {
-      "date": "2026-09-08",
-      "title": "Happen to Have? Answer One Before You Ask One",
-      "source": "devto"
-    },
-    "19fd19a3de671f14": {
-      "date": "2026-09-08",
-      "title": "ReachAloud: I built a multilingual voice tool that reads emergency alerts aloud for people who can't",
-      "source": "devto"
-    },
-    "e84251fd32e5552a": {
-      "date": "2026-09-08",
-      "title": "Charitas Clew: Bureaucracy is heavy. Let's build the counterweight.",
-      "source": "devto"
-    },
-    "326b93d002cedf14": {
-      "date": "2026-09-08",
-      "title": "Web Workers in JavaScript: The Complete Guide",
-      "source": "devto"
-    },
-    "8f571dc5f5e988c6": {
-      "date": "2026-09-08",
-      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
-      "source": "devto"
-    },
-    "dffaf0022f5557d3": {
-      "date": "2026-09-08",
-      "title": "The AI agent cost guides say $200 a month. Mine has cost $5.",
-      "source": "devto"
-    },
-    "191c0ff12599ef3b": {
-      "date": "2026-09-08",
-      "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my",
-      "source": "devto"
-    },
-    "5d4cd5700dbbce65": {
-      "date": "2026-09-08",
-      "title": "Nobody Checks Whether the Guardrail Is Running",
-      "source": "devto"
-    },
-    "1c708e2373cec766": {
-      "date": "2026-09-08",
-      "title": "heygen-com / hyperframes",
-      "source": "github"
-    },
-    "33054ecb8bf0f855": {
-      "date": "2026-09-08",
-      "title": "microsoft / markitdown",
-      "source": "github"
-    },
-    "1bcf0237559db521": {
-      "date": "2026-09-08",
-      "title": "mksglu / context-mode",
-      "source": "github"
-    },
-    "1fbaa3734f80967a": {
-      "date": "2026-09-08",
-      "title": "jo-inc / camofox-browser",
-      "source": "github"
-    },
-    "24c6bd1d49373135": {
-      "date": "2026-09-08",
-      "title": "MoonTechLab / LunaTV",
-      "source": "github"
-    },
-    "b78843cbbd770d80": {
-      "date": "2026-09-08",
-      "title": "The-Swarm-Corporation / AutoHedge",
-      "source": "github"
-    },
-    "8715d70f7c6f5657": {
-      "date": "2026-09-08",
-      "title": "bytedance / deer-flow",
-      "source": "github"
-    },
-    "3e5bc6114122e8e4": {
-      "date": "2026-09-08",
-      "title": "lightpanda-io / browser",
-      "source": "github"
-    },
-    "f3ea32c160be052c": {
-      "date": "2026-09-08",
-      "title": "pascalorg / editor",
-      "source": "github"
-    },
     "d9dc9aa87fd5c0c9": {
       "date": "2026-09-09",
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
@@ -5080,6 +4905,151 @@
     "0483299a7e22039b": {
       "date": "2026-10-08",
       "title": "manaflow-ai / cmux",
+      "source": "github"
+    },
+    "a1f51c8dbdf89fde": {
+      "date": "2026-10-09",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "source": "hackernews"
+    },
+    "3628e06215300f62": {
+      "date": "2026-10-09",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "source": "hackernews"
+    },
+    "4887d04a396239a0": {
+      "date": "2026-10-09",
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "source": "hackernews"
+    },
+    "169a2bb9187f29ab": {
+      "date": "2026-10-09",
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "source": "hackernews"
+    },
+    "efcafabf934524d1": {
+      "date": "2026-10-09",
+      "title": "Theranos.world",
+      "source": "hackernews"
+    },
+    "62967c66e8e87dfc": {
+      "date": "2026-10-09",
+      "title": "Yes, and",
+      "source": "hackernews"
+    },
+    "93af1446ea23bbfa": {
+      "date": "2026-10-09",
+      "title": "The value of not getting to the point (2015)",
+      "source": "hackernews"
+    },
+    "fa0444d05101d5b2": {
+      "date": "2026-10-09",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "source": "hackernews"
+    },
+    "3e9ddaecb35fdc23": {
+      "date": "2026-10-09",
+      "title": "Bevy 0.20",
+      "source": "hackernews"
+    },
+    "fd8c1faa9c6e825e": {
+      "date": "2026-10-09",
+      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+      "source": "hackernews"
+    },
+    "73efbcaf8053d558": {
+      "date": "2026-10-09",
+      "title": "judged.systems",
+      "source": "producthunt"
+    },
+    "e6ec555a83edbf80": {
+      "date": "2026-10-09",
+      "title": "Side",
+      "source": "producthunt"
+    },
+    "70fab5c0c5fe9709": {
+      "date": "2026-10-09",
+      "title": "Mailwell",
+      "source": "producthunt"
+    },
+    "9b69b3f2a8144ee2": {
+      "date": "2026-10-09",
+      "title": "ClawCall",
+      "source": "producthunt"
+    },
+    "3c2ffb1c4719d3ef": {
+      "date": "2026-10-09",
+      "title": "Clippo",
+      "source": "producthunt"
+    },
+    "4f01ab27cb546a79": {
+      "date": "2026-10-09",
+      "title": "offstage",
+      "source": "producthunt"
+    },
+    "5037dddcb73f8165": {
+      "date": "2026-10-09",
+      "title": "Hark",
+      "source": "producthunt"
+    },
+    "3de4bfc6c755edc6": {
+      "date": "2026-10-09",
+      "title": "BotBus",
+      "source": "producthunt"
+    },
+    "b686f62ff4dcc460": {
+      "date": "2026-10-09",
+      "title": "Every Software Developer Has Blamed…",
+      "source": "devto"
+    },
+    "0397ea6e7d17a318": {
+      "date": "2026-10-09",
+      "title": "How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)",
+      "source": "devto"
+    },
+    "51b253f690f4f8f3": {
+      "date": "2026-10-09",
+      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
+      "source": "devto"
+    },
+    "307ee9eb88027674": {
+      "date": "2026-10-09",
+      "title": "To Retry or Not to Retry? That Is the Question.",
+      "source": "devto"
+    },
+    "72219e093582a69b": {
+      "date": "2026-10-09",
+      "title": "The September cut took 17% of my Claude Code week. Subagents were taking 48%.",
+      "source": "devto"
+    },
+    "c7a0a88ff14e7d32": {
+      "date": "2026-10-09",
+      "title": "My Problem With Omarchy Is What I Like About Arch",
+      "source": "devto"
+    },
+    "915bd8c576aa4bda": {
+      "date": "2026-10-09",
+      "title": "How to resolve merge conflicts in Git without guessing: markers, --ours/--theirs and the rebase flip",
+      "source": "devto"
+    },
+    "b1b37fd56989d77b": {
+      "date": "2026-10-09",
+      "title": "How Our Engineering Team Uses AI, Part II: Meat Proxies",
+      "source": "devto"
+    },
+    "6578beb168fad955": {
+      "date": "2026-10-09",
+      "title": "ParadeDB's pg_search 0.26 cuts a ten-term BM25 search from 129ms to 29ms",
+      "source": "devto"
+    },
+    "f98c4933584ae7a8": {
+      "date": "2026-10-09",
+      "title": "Polars 2.0: why joins no longer keep their row order",
+      "source": "devto"
+    },
+    "215181bb65bbddf0": {
+      "date": "2026-10-09",
+      "title": "storytold / artcraft",
       "source": "github"
     }
   }
