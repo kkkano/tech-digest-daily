@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-09T02:45:57.083238",
+  "last_updated": "2026-10-10T02:08:08.394014",
   "sent_items": {
-    "d9dc9aa87fd5c0c9": {
-      "date": "2026-09-09",
-      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-      "source": "hackernews"
-    },
-    "b4383194e44b1ecc": {
-      "date": "2026-09-09",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "source": "hackernews"
-    },
-    "4208044b3e12d054": {
-      "date": "2026-09-09",
-      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-      "source": "hackernews"
-    },
-    "e031e020aa25c04c": {
-      "date": "2026-09-09",
-      "title": "DaVinci Resolve 21.1",
-      "source": "hackernews"
-    },
-    "0441eae7bf1b3252": {
-      "date": "2026-09-09",
-      "title": "Muse – Meta’s personal AI agent",
-      "source": "hackernews"
-    },
-    "4c568d6cded0f921": {
-      "date": "2026-09-09",
-      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-      "source": "hackernews"
-    },
-    "7107a2df334996e7": {
-      "date": "2026-09-09",
-      "title": "How to build a printer",
-      "source": "hackernews"
-    },
-    "fd17cfecbc9665e6": {
-      "date": "2026-09-09",
-      "title": "Large language models develop novel social biases through adaptive exploration",
-      "source": "hackernews"
-    },
-    "0798857ddebbebab": {
-      "date": "2026-09-09",
-      "title": "A Topological Picture Book, Rendered",
-      "source": "hackernews"
-    },
-    "65f47e2f820391c7": {
-      "date": "2026-09-09",
-      "title": "The Microeconomics of Artificial Intelligence (2025)",
-      "source": "hackernews"
-    },
-    "062ecbc56a3c5d87": {
-      "date": "2026-09-09",
-      "title": "Catenary",
-      "source": "producthunt"
-    },
-    "266dec25f5d372f5": {
-      "date": "2026-09-09",
-      "title": "Tables.so",
-      "source": "producthunt"
-    },
-    "d5ca5f2e9379d6e0": {
-      "date": "2026-09-09",
-      "title": "Dictantor",
-      "source": "producthunt"
-    },
-    "7086ecc66ffda31f": {
-      "date": "2026-09-09",
-      "title": "Kopai",
-      "source": "producthunt"
-    },
-    "be9667dff98193fc": {
-      "date": "2026-09-09",
-      "title": "Knockin'",
-      "source": "producthunt"
-    },
-    "c0c68a96529ce7e3": {
-      "date": "2026-09-09",
-      "title": "Lyrimuse",
-      "source": "producthunt"
-    },
-    "89eae79648d31a0d": {
-      "date": "2026-09-09",
-      "title": "bonds",
-      "source": "producthunt"
-    },
-    "ee29cae57823e8f2": {
-      "date": "2026-09-09",
-      "title": "Trancy Air",
-      "source": "producthunt"
-    },
-    "ddeb1a1100e1d55b": {
-      "date": "2026-09-09",
-      "title": "Most 'AI Agents' Are Just If-Statements in a Trench Coat",
-      "source": "devto"
-    },
-    "057629ebdce19831": {
-      "date": "2026-09-09",
-      "title": "Has AI Made You A Lazier Developer? Be Honest.",
-      "source": "devto"
-    },
-    "22ff900154751e60": {
-      "date": "2026-09-09",
-      "title": "🟣 Ever Fluorescent: Live Again!",
-      "source": "devto"
-    },
-    "c45fcf782a35a5e2": {
-      "date": "2026-09-09",
-      "title": "Networking is Hard but easy to think about.",
-      "source": "devto"
-    },
-    "3e722fae2c536191": {
-      "date": "2026-09-09",
-      "title": "Wiring a Reachy Mini into OpenClaw without trusting the robot",
-      "source": "devto"
-    },
-    "699d556c1da78dad": {
-      "date": "2026-09-09",
-      "title": "The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thunderbolt One",
-      "source": "devto"
-    },
-    "3eb08a06bd77ec81": {
-      "date": "2026-09-09",
-      "title": "What Happens When You Type a URL: Answer It With Three Interactive Simulators",
-      "source": "devto"
-    },
-    "8b43077627109789": {
-      "date": "2026-09-09",
-      "title": "Angular DataGrid: A Free, Open-Source AG Grid Alternative Built for Scale",
-      "source": "devto"
-    },
-    "34debf9d32b3fcda": {
-      "date": "2026-09-09",
-      "title": "The Desktop Looked Right: 2,093 Parse Errors a Boot, and 10.9 Seconds That Weren't Doing Anything",
-      "source": "devto"
-    },
-    "67f830494c32bbc9": {
-      "date": "2026-09-09",
-      "title": "You Don't Need Kubernetes to Become a DevOps Engineer: The Learning Path I Wish I Had",
-      "source": "devto"
-    },
-    "ee7d6f2f5cec7fb9": {
-      "date": "2026-09-09",
-      "title": "ayghri / i-have-adhd",
-      "source": "github"
-    },
-    "c3257d531a3c4d89": {
-      "date": "2026-09-09",
-      "title": "obra / superpowers",
-      "source": "github"
-    },
-    "661963add6d5f89f": {
-      "date": "2026-09-09",
-      "title": "viarotel-org / escrcpy",
-      "source": "github"
-    },
     "9957c79ffef38007": {
       "date": "2026-09-10",
       "title": "Shopify acquires Tailwind",
@@ -5051,6 +4896,161 @@
       "date": "2026-10-09",
       "title": "storytold / artcraft",
       "source": "github"
+    },
+    "e6b9cee054ea4394": {
+      "date": "2026-10-10",
+      "title": "Playground by Google Labs",
+      "source": "producthunt"
+    },
+    "50a97cdb87d619c3": {
+      "date": "2026-10-10",
+      "title": "Staffcoder",
+      "source": "producthunt"
+    },
+    "0766124226ad1d2f": {
+      "date": "2026-10-10",
+      "title": "Ambiguous Workspace",
+      "source": "producthunt"
+    },
+    "07fc16f943a3a0e3": {
+      "date": "2026-10-10",
+      "title": "Thravik",
+      "source": "producthunt"
+    },
+    "ee8f452ecab0343d": {
+      "date": "2026-10-10",
+      "title": "Sorted",
+      "source": "producthunt"
+    },
+    "cd5bb4a6408e62ee": {
+      "date": "2026-10-10",
+      "title": "De Stash",
+      "source": "producthunt"
+    },
+    "2bbeeb302d6e692a": {
+      "date": "2026-10-10",
+      "title": "Regunow",
+      "source": "producthunt"
+    },
+    "fb0ad9f9438d30b5": {
+      "date": "2026-10-10",
+      "title": "Microsoft Surface Laptop Ultra",
+      "source": "producthunt"
+    },
+    "0f28605d366eabcc": {
+      "date": "2026-10-10",
+      "title": "Cloudflare acquires Deno",
+      "source": "hackernews"
+    },
+    "a71d94eb802a0ff5": {
+      "date": "2026-10-10",
+      "title": "Sorry, I'm in a meeting",
+      "source": "hackernews"
+    },
+    "72999ddb1bf52283": {
+      "date": "2026-10-10",
+      "title": "Triple-A Minesweeper",
+      "source": "hackernews"
+    },
+    "aac058172b9cb74b": {
+      "date": "2026-10-10",
+      "title": "Our $445M Series D",
+      "source": "hackernews"
+    },
+    "52b0d42a64cea6c0": {
+      "date": "2026-10-10",
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "source": "hackernews"
+    },
+    "57394b233ccd52f2": {
+      "date": "2026-10-10",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "source": "hackernews"
+    },
+    "08e1455ec0e4bf29": {
+      "date": "2026-10-10",
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "source": "hackernews"
+    },
+    "0f39ee83f4b910f7": {
+      "date": "2026-10-10",
+      "title": "REA Reverse – Engineer Anything",
+      "source": "hackernews"
+    },
+    "0e0f7e4250fdf70b": {
+      "date": "2026-10-10",
+      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+      "source": "hackernews"
+    },
+    "e86d642793e97173": {
+      "date": "2026-10-10",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "source": "hackernews"
+    },
+    "04c2ea756fd7e571": {
+      "date": "2026-10-10",
+      "title": "BerriAI / litellm",
+      "source": "github"
+    },
+    "5d8317a963e5edd1": {
+      "date": "2026-10-10",
+      "title": "Robbyant / lingbot-map",
+      "source": "github"
+    },
+    "80a45118c7d48e82": {
+      "date": "2026-10-10",
+      "title": "twostraws / SwiftUI-Agent-Skill",
+      "source": "github"
+    },
+    "1de22ef1b2ce7a9f": {
+      "date": "2026-10-10",
+      "title": "Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal AI Hackathon, and Coinbase Analytics C",
+      "source": "devto"
+    },
+    "df191dbf705c2ca7": {
+      "date": "2026-10-10",
+      "title": "Congrats to the Hacktoberfest Weekend Challenge: Build for a Friend Winners!",
+      "source": "devto"
+    },
+    "4bb134c57ef9d413": {
+      "date": "2026-10-10",
+      "title": "Super-Intelligent Yes-Men: Are We Training AI to Ignore the Truth?",
+      "source": "devto"
+    },
+    "7bd5ecc08b02a338": {
+      "date": "2026-10-10",
+      "title": "AI Got Better While I Was Away. Software Didn't.",
+      "source": "devto"
+    },
+    "59a5dd802e18b1c9": {
+      "date": "2026-10-10",
+      "title": "I built an offline AI that knows your last frost date, no internet, no API",
+      "source": "devto"
+    },
+    "aa7ddc258fb53f10": {
+      "date": "2026-10-10",
+      "title": "The YAML Norway problem and cron's day-of-month trap: two config formats that lie to you",
+      "source": "devto"
+    },
+    "9dfc116127c1e667": {
+      "date": "2026-10-10",
+      "title": "Gemma 4 E2B in Pure JAX on a Colab TPU: Google's 4-Bit Export Against an Exact Repack",
+      "source": "devto"
+    },
+    "5f5569b346af713d": {
+      "date": "2026-10-10",
+      "title": "Django 6.1's PBKDF2 default change rewrites existing password hashes on next login",
+      "source": "devto"
+    },
+    "a8ad2f896c2aa655": {
+      "date": "2026-10-10",
+      "title": "I Used a Honeypot Instead of a CAPTCHA on Our Quote Form",
+      "source": "devto"
+    },
+    "9bd706031d13ed49": {
+      "date": "2026-10-10",
+      "title": "The Stack I'd Need for Claude to Direct a Whole YouTube Video in Blender",
+      "source": "devto"
     }
   }
 }
