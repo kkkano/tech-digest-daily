@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-10T02:08:08.394014",
+  "last_updated": "2026-10-11T01:27:08.857906",
   "sent_items": {
-    "9957c79ffef38007": {
-      "date": "2026-09-10",
-      "title": "Shopify acquires Tailwind",
-      "source": "hackernews"
-    },
-    "97a283893ecfb338": {
-      "date": "2026-09-10",
-      "title": "iPhone Duo",
-      "source": "hackernews"
-    },
-    "7c8805d4b4f17b69": {
-      "date": "2026-09-10",
-      "title": "AirPods 5",
-      "source": "hackernews"
-    },
-    "51f7db6b771801e8": {
-      "date": "2026-09-10",
-      "title": "What do Visa and Mastercard do? An intro to card networks",
-      "source": "hackernews"
-    },
-    "bd1732c25d87d73b": {
-      "date": "2026-09-10",
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "source": "hackernews"
-    },
-    "8b9c58deed220c97": {
-      "date": "2026-09-10",
-      "title": "No Man's Sky Cosmos",
-      "source": "hackernews"
-    },
-    "7922e225670bec56": {
-      "date": "2026-09-10",
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "source": "hackernews"
-    },
-    "2899961cd8f9f0be": {
-      "date": "2026-09-10",
-      "title": "Apple Watch Series 12",
-      "source": "hackernews"
-    },
-    "8b2b7a6a8886c77b": {
-      "date": "2026-09-10",
-      "title": "Growing proof that autonomous cars save lives",
-      "source": "hackernews"
-    },
-    "cd7b6c7ea798bd97": {
-      "date": "2026-09-10",
-      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-      "source": "hackernews"
-    },
-    "1e137dc58bd24ac3": {
-      "date": "2026-09-10",
-      "title": "Muse by Meta",
-      "source": "producthunt"
-    },
-    "9e21b75e9d4a878e": {
-      "date": "2026-09-10",
-      "title": "Frigade Assist API",
-      "source": "producthunt"
-    },
-    "963f5e4b1b7f7823": {
-      "date": "2026-09-10",
-      "title": "WorkID.ai",
-      "source": "producthunt"
-    },
-    "4c0ede29a25ded13": {
-      "date": "2026-09-10",
-      "title": "Diiverge",
-      "source": "producthunt"
-    },
-    "78cba5a399aa0bb4": {
-      "date": "2026-09-10",
-      "title": "GoModel",
-      "source": "producthunt"
-    },
-    "6ac43648e6e26038": {
-      "date": "2026-09-10",
-      "title": "AlphaGenome Atlas",
-      "source": "producthunt"
-    },
-    "95589bb617edc987": {
-      "date": "2026-09-10",
-      "title": "DuckFightClub",
-      "source": "producthunt"
-    },
-    "34967cc49afa3eb2": {
-      "date": "2026-09-10",
-      "title": "Tencent / teamai-cli",
-      "source": "github"
-    },
-    "7a4b3790492aaeb5": {
-      "date": "2026-09-10",
-      "title": "earthtojake / text-to-cad",
-      "source": "github"
-    },
-    "afdace39e7492d8a": {
-      "date": "2026-09-10",
-      "title": "TauricResearch / TradingAgents",
-      "source": "github"
-    },
-    "e0a677875e2d809f": {
-      "date": "2026-09-10",
-      "title": "liquidslr / system-design-notes",
-      "source": "github"
-    },
-    "8c9e20fc0efe6fec": {
-      "date": "2026-09-10",
-      "title": "openai / plugins",
-      "source": "github"
-    },
-    "a74679813d6844b1": {
-      "date": "2026-09-10",
-      "title": "vastsa / PI-Desktop",
-      "source": "github"
-    },
-    "a0fa28f11d9edfa1": {
-      "date": "2026-09-10",
-      "title": "I let AI write 100% of my code for 30 days. Here's what broke.",
-      "source": "devto"
-    },
-    "dea220e8a9b23965": {
-      "date": "2026-09-10",
-      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA ",
-      "source": "devto"
-    },
-    "135bfbe44816ed26": {
-      "date": "2026-09-10",
-      "title": "My OSS Projects: AngleSharp",
-      "source": "devto"
-    },
-    "b5e503de9c9a8c50": {
-      "date": "2026-09-10",
-      "title": "4 pitfalls of loop engineering (and how to fix them)",
-      "source": "devto"
-    },
-    "f633e28124a883c2": {
-      "date": "2026-09-10",
-      "title": "The Verification Bottleneck in AI-Generated Software",
-      "source": "devto"
-    },
-    "f6a1e49218b5d3f8": {
-      "date": "2026-09-10",
-      "title": "I Hid a Rule in CLAUDE.md. Only One Reviewer Could Prove It Read It.",
-      "source": "devto"
-    },
-    "973e4c4874ff416a": {
-      "date": "2026-09-10",
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "source": "devto"
-    },
-    "2d2a1209984c01b8": {
-      "date": "2026-09-10",
-      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
-      "source": "devto"
-    },
-    "36a597f7e34509fd": {
-      "date": "2026-09-10",
-      "title": "Beyond Black-Box Concurrency: Streamless Event Transformers, Telemetry, and the End of Stream-Whacki",
-      "source": "devto"
-    },
-    "836d0215ec313ab6": {
-      "date": "2026-09-10",
-      "title": "AI psychosis might be a result of subscription fatigue",
-      "source": "devto"
-    },
     "1271c6f02490fc86": {
       "date": "2026-09-11",
       "title": "Shopify is moving from React Native back to Swift and Kotlin",
@@ -5050,6 +4885,171 @@
     "9bd706031d13ed49": {
       "date": "2026-10-10",
       "title": "The Stack I'd Need for Claude to Direct a Whole YouTube Video in Blender",
+      "source": "devto"
+    },
+    "30a6b8254c2a5ea9": {
+      "date": "2026-10-11",
+      "title": "2D Vehicles",
+      "source": "hackernews"
+    },
+    "909be21571ffcd2d": {
+      "date": "2026-10-11",
+      "title": "The Lightbulb Computer",
+      "source": "hackernews"
+    },
+    "216c7fb388fd3f19": {
+      "date": "2026-10-11",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "source": "hackernews"
+    },
+    "3b26b6cce38601a9": {
+      "date": "2026-10-11",
+      "title": "Knuth reward check",
+      "source": "hackernews"
+    },
+    "bd73a22601d1879b": {
+      "date": "2026-10-11",
+      "title": "Why DuckDB 2.0 is faster",
+      "source": "hackernews"
+    },
+    "b0895abf46a0ac8d": {
+      "date": "2026-10-11",
+      "title": "Nix wrote half of my debugger",
+      "source": "hackernews"
+    },
+    "e0c967eeba62fb7c": {
+      "date": "2026-10-11",
+      "title": "Build your own decision model",
+      "source": "hackernews"
+    },
+    "b30d78a6482074dc": {
+      "date": "2026-10-11",
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "source": "hackernews"
+    },
+    "f64ff60ec791bd3a": {
+      "date": "2026-10-11",
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "source": "hackernews"
+    },
+    "f1a870706806d890": {
+      "date": "2026-10-11",
+      "title": "A minimal Rust TUI for managing GitHub repos and branches",
+      "source": "hackernews"
+    },
+    "e1e2a7a18b10f1e6": {
+      "date": "2026-10-11",
+      "title": "PixRater",
+      "source": "producthunt"
+    },
+    "fa9dbe49c645f2ca": {
+      "date": "2026-10-11",
+      "title": "Maildun for Mac",
+      "source": "producthunt"
+    },
+    "e650073096f63987": {
+      "date": "2026-10-11",
+      "title": "Cue",
+      "source": "producthunt"
+    },
+    "c082b788136b5674": {
+      "date": "2026-10-11",
+      "title": "Claude Dashboards & Motion",
+      "source": "producthunt"
+    },
+    "852cb5ee2fc68bbe": {
+      "date": "2026-10-11",
+      "title": "Notchzy",
+      "source": "producthunt"
+    },
+    "af3c4286502b5902": {
+      "date": "2026-10-11",
+      "title": "Isly",
+      "source": "producthunt"
+    },
+    "fdd4c5c5bd843fc2": {
+      "date": "2026-10-11",
+      "title": "Rank Kiwi",
+      "source": "producthunt"
+    },
+    "8534212efd30fdba": {
+      "date": "2026-10-11",
+      "title": "Underplane",
+      "source": "producthunt"
+    },
+    "1bcf0237559db521": {
+      "date": "2026-10-11",
+      "title": "mksglu / context-mode",
+      "source": "github"
+    },
+    "b68be267c74ad855": {
+      "date": "2026-10-11",
+      "title": "flutter / flutter",
+      "source": "github"
+    },
+    "26454b4b1f40da47": {
+      "date": "2026-10-11",
+      "title": "hugohe3 / ppt-master",
+      "source": "github"
+    },
+    "2d9028ec7d2d740c": {
+      "date": "2026-10-11",
+      "title": "pytorch / pytorch",
+      "source": "github"
+    },
+    "39ec5846ae4b9617": {
+      "date": "2026-10-11",
+      "title": "multica-ai / andrej-karpathy-skills",
+      "source": "github"
+    },
+    "e391b09c49b414d9": {
+      "date": "2026-10-11",
+      "title": "What Do You Drink While You Work?",
+      "source": "devto"
+    },
+    "f495225317772d1a": {
+      "date": "2026-10-11",
+      "title": "How Do We Extract the “Why” from a PR into a CHANGELOG with Jev? 🤔",
+      "source": "devto"
+    },
+    "94a01bfe792ef57c": {
+      "date": "2026-10-11",
+      "title": "Git Isn't a Diff Tracker: How Blobs, Trees, DAG Commits, and the Index Actually Work Under the Hood",
+      "source": "devto"
+    },
+    "fd9a621ecea23675": {
+      "date": "2026-10-11",
+      "title": "WildProof: Go Outside With a Question, Come Back With Evidence",
+      "source": "devto"
+    },
+    "0aca00bb404741c3": {
+      "date": "2026-10-11",
+      "title": "AI agent benchmark: I gave 9 models a destroy button and a job that needed it",
+      "source": "devto"
+    },
+    "2f7dba4e3d49e02b": {
+      "date": "2026-10-11",
+      "title": "Node.js 26's default Temporal API fixes a one-hour DST drift that Date still has",
+      "source": "devto"
+    },
+    "343726c43d426d59": {
+      "date": "2026-10-11",
+      "title": "Surviving the 200k-Token Lobotomy: How Unix init.d and 'Memento' Made My AI Coding Agent Immune to C",
+      "source": "devto"
+    },
+    "5b0c1a1ee6c1d2e5": {
+      "date": "2026-10-11",
+      "title": "I Distilled a 397B Model Into a 4B One for $1.60. It Now Catches 28 of 33 Park Alerts That Should St",
+      "source": "devto"
+    },
+    "fd12fc5b5cc9b037": {
+      "date": "2026-10-11",
+      "title": "RevSofia, a Car Meetup app that people will love to use",
+      "source": "devto"
+    },
+    "314ae6c36380b2fa": {
+      "date": "2026-10-11",
+      "title": "I Built an AI Game That Wants You to Go Outside",
       "source": "devto"
     }
   }
