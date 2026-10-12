@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-11T01:27:08.857906",
+  "last_updated": "2026-10-12T01:56:47.911951",
   "sent_items": {
-    "1271c6f02490fc86": {
-      "date": "2026-09-11",
-      "title": "Shopify is moving from React Native back to Swift and Kotlin",
-      "source": "hackernews"
-    },
-    "e04e915ea184d365": {
-      "date": "2026-09-11",
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "source": "hackernews"
-    },
-    "98b38ad8c04af763": {
-      "date": "2026-09-11",
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "source": "hackernews"
-    },
-    "f75c9c257c658f05": {
-      "date": "2026-09-11",
-      "title": "Don't let anyone take away your big box of cables",
-      "source": "hackernews"
-    },
-    "7109052a26098014": {
-      "date": "2026-09-11",
-      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-      "source": "hackernews"
-    },
-    "7a83d367ae541a99": {
-      "date": "2026-09-11",
-      "title": "Music Theory for the 21st-Century Classroom",
-      "source": "hackernews"
-    },
-    "080ef98309b19ae7": {
-      "date": "2026-09-11",
-      "title": "Forgejo <=16.0.3 Critical RCE",
-      "source": "hackernews"
-    },
-    "0f4979d2480b3442": {
-      "date": "2026-09-11",
-      "title": "OpenAI Agents API",
-      "source": "hackernews"
-    },
-    "a9e9446ba2c46795": {
-      "date": "2026-09-11",
-      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-      "source": "hackernews"
-    },
-    "c2a04af6bfc66950": {
-      "date": "2026-09-11",
-      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
-      "source": "hackernews"
-    },
-    "b0b47e64f96d65cd": {
-      "date": "2026-09-11",
-      "title": "Vibe Eyes",
-      "source": "producthunt"
-    },
-    "60ef1ee6eef9d8f8": {
-      "date": "2026-09-11",
-      "title": "Modeinspect",
-      "source": "producthunt"
-    },
-    "c0f98e6f8ecb0a8e": {
-      "date": "2026-09-11",
-      "title": "Wealthfolio",
-      "source": "producthunt"
-    },
-    "db2e01fac7242cf0": {
-      "date": "2026-09-11",
-      "title": "Whip",
-      "source": "producthunt"
-    },
-    "97af8026640c2a02": {
-      "date": "2026-09-11",
-      "title": "Speechmark",
-      "source": "producthunt"
-    },
-    "db41e2818dbb309b": {
-      "date": "2026-09-11",
-      "title": "Desert Ant Labs",
-      "source": "producthunt"
-    },
-    "50620774502cec6f": {
-      "date": "2026-09-11",
-      "title": "Drive",
-      "source": "producthunt"
-    },
-    "30f45cd66d5520ce": {
-      "date": "2026-09-11",
-      "title": "alsk1992 / CloddsBot",
-      "source": "github"
-    },
-    "018703fab583e3d5": {
-      "date": "2026-09-11",
-      "title": "AlexsJones / llmfit",
-      "source": "github"
-    },
-    "09519de43606bab9": {
-      "date": "2026-09-11",
-      "title": "armory3d / armorpaint",
-      "source": "github"
-    },
-    "10942d97d561cb4c": {
-      "date": "2026-09-11",
-      "title": "diegosouzapw / OmniRoute",
-      "source": "github"
-    },
-    "d8699931bd0d7791": {
-      "date": "2026-09-11",
-      "title": "JustVugg / colibri",
-      "source": "github"
-    },
-    "885b91dee30db7b9": {
-      "date": "2026-09-11",
-      "title": "nashsu / llm_wiki",
-      "source": "github"
-    },
-    "7634ab012b3dcc8f": {
-      "date": "2026-09-11",
-      "title": "vercel-labs / skills",
-      "source": "github"
-    },
-    "0b4cc738886252dc": {
-      "date": "2026-09-11",
-      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
-      "source": "devto"
-    },
-    "f6a3554dd3757a88": {
-      "date": "2026-09-11",
-      "title": "AI Is Already Better at Coding Than Most Software Developers",
-      "source": "devto"
-    },
-    "f8684bb4dcfaf651": {
-      "date": "2026-09-11",
-      "title": "Paradox between Sharing your Accomplishments and Ego",
-      "source": "devto"
-    },
-    "7fec9c934a131858": {
-      "date": "2026-09-11",
-      "title": "Someone Spammed My DEV Post. I Traced It to a Wombat.",
-      "source": "devto"
-    },
-    "070e7b52d4d284c9": {
-      "date": "2026-09-11",
-      "title": "Show Me the Article You're Most Proud Of And I'll Read Every Single One of Them",
-      "source": "devto"
-    },
-    "c2aa599448f992f2": {
-      "date": "2026-09-11",
-      "title": "Admit it, you have a favorite AI (just like you have a favorite coworker)",
-      "source": "devto"
-    },
-    "df52422144b735cb": {
-      "date": "2026-09-11",
-      "title": "Down Is Kind, Slow Is Fatal: Circuit Breakers and the Three Links Around Them",
-      "source": "devto"
-    },
-    "a7211af7a05991a0": {
-      "date": "2026-09-11",
-      "title": "Stratagems #30: Lena Signed the Client. The AI Didn't Know It Was Being Audited.",
-      "source": "devto"
-    },
-    "4aa2c02cd89df0e7": {
-      "date": "2026-09-11",
-      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
-      "source": "devto"
-    },
-    "1ea5a45d11da6630": {
-      "date": "2026-09-11",
-      "title": "SQLite 3.53's self-healing index only repairs the rows you write to",
-      "source": "devto"
-    },
     "f899f3c7c1e34843": {
       "date": "2026-09-12",
       "title": "A misalignment of AI in mathematics",
@@ -5050,6 +4880,161 @@
     "314ae6c36380b2fa": {
       "date": "2026-10-11",
       "title": "I Built an AI Game That Wants You to Go Outside",
+      "source": "devto"
+    },
+    "ac2cf4c31cbf2496": {
+      "date": "2026-10-12",
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "source": "hackernews"
+    },
+    "555a2b729c079321": {
+      "date": "2026-10-12",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "source": "hackernews"
+    },
+    "0f71ae5c055fa6db": {
+      "date": "2026-10-12",
+      "title": "Cartographers of North Korea (2019)",
+      "source": "hackernews"
+    },
+    "1dc1c072cf577b20": {
+      "date": "2026-10-12",
+      "title": "Fingerprints Are the New Cookies",
+      "source": "hackernews"
+    },
+    "16fa3e4adedb54b9": {
+      "date": "2026-10-12",
+      "title": "Whatever became of holography? (2011)",
+      "source": "hackernews"
+    },
+    "f5e0e4d5ca89f7ce": {
+      "date": "2026-10-12",
+      "title": "Recursive self-improvement through collective intelligence",
+      "source": "hackernews"
+    },
+    "58b259bc55ffe3f6": {
+      "date": "2026-10-12",
+      "title": "Governments are mishandling the affordability crisis",
+      "source": "hackernews"
+    },
+    "2399797bbc11e8ef": {
+      "date": "2026-10-12",
+      "title": "Illustration Beyond Proof",
+      "source": "hackernews"
+    },
+    "20b11b630b78f2db": {
+      "date": "2026-10-12",
+      "title": "HashiCorp archives the Boundary open source repo",
+      "source": "hackernews"
+    },
+    "3ca765caa3dbd13f": {
+      "date": "2026-10-12",
+      "title": "Local Indexing to reduce tool calling and token usage",
+      "source": "hackernews"
+    },
+    "f8de65f4d73430ac": {
+      "date": "2026-10-12",
+      "title": "Farol",
+      "source": "producthunt"
+    },
+    "18c784621c96fb5f": {
+      "date": "2026-10-12",
+      "title": "EdgeVolume",
+      "source": "producthunt"
+    },
+    "f94c11f2e175a5ca": {
+      "date": "2026-10-12",
+      "title": "NewMinecraftServers",
+      "source": "producthunt"
+    },
+    "7e1a6c02e65de506": {
+      "date": "2026-10-12",
+      "title": "kōdlo",
+      "source": "producthunt"
+    },
+    "a32ec275d0e7ac9e": {
+      "date": "2026-10-12",
+      "title": "Unboom",
+      "source": "producthunt"
+    },
+    "7b2d4042b845bfe7": {
+      "date": "2026-10-12",
+      "title": "Kooler",
+      "source": "producthunt"
+    },
+    "225794644f35473f": {
+      "date": "2026-10-12",
+      "title": "SimpleSpread",
+      "source": "producthunt"
+    },
+    "5778ee93909f505a": {
+      "date": "2026-10-12",
+      "title": "shippedit.me",
+      "source": "producthunt"
+    },
+    "c0fb14db86dd87eb": {
+      "date": "2026-10-12",
+      "title": "bilawalsidhu / gods-eye-view",
+      "source": "github"
+    },
+    "cef11b5e74b825ba": {
+      "date": "2026-10-12",
+      "title": "lyogavin / airllm",
+      "source": "github"
+    },
+    "44fef4354ab3fc2f": {
+      "date": "2026-10-12",
+      "title": "chrislgarry / Apollo-11",
+      "source": "github"
+    },
+    "0c8935aabf51c028": {
+      "date": "2026-10-12",
+      "title": "🐾 DEV Pet Corner #1: Show Us Your Pets!",
+      "source": "devto"
+    },
+    "6b3f70f7cdefaa56": {
+      "date": "2026-10-12",
+      "title": "💅 Keyboard Makeover",
+      "source": "devto"
+    },
+    "c17d333d9928312e": {
+      "date": "2026-10-12",
+      "title": "Georgian Language Benchmark: Two Biggest AI Labs Clash in a Language That Doesn't Play by Anyone's R",
+      "source": "devto"
+    },
+    "8a06beb54b023231": {
+      "date": "2026-10-12",
+      "title": "I Built an AI Gardening App That Tells Me to Put the Laptop Down",
+      "source": "devto"
+    },
+    "b53d9b5660163fa2": {
+      "date": "2026-10-12",
+      "title": "ShutterHunt : A Photographic Quest That Gets You Outside",
+      "source": "devto"
+    },
+    "ce15172ea0b679b7": {
+      "date": "2026-10-12",
+      "title": "Cold Kills Batteries, Screen Glare Destroys Night Vision: I Built HushHike with Render, ElevenLabs &",
+      "source": "devto"
+    },
+    "5606a0eda36a7066": {
+      "date": "2026-10-12",
+      "title": "FarbeDex: a colour picker that only works outside (and never needs the internet)",
+      "source": "devto"
+    },
+    "245b27aace5d7f16": {
+      "date": "2026-10-12",
+      "title": "My Commit Your Code'26 Experience",
+      "source": "devto"
+    },
+    "b65ed78aa2206fa2": {
+      "date": "2026-10-12",
+      "title": "TrailSafe: How Open-Source AI Rescues Solo Hikers When Cell Signal Dies 🏔️",
+      "source": "devto"
+    },
+    "b62e28171eb2d0d7": {
+      "date": "2026-10-12",
+      "title": "Touch Hardware: Turning Pixel Art into a Gateway to Hands-On Tech",
       "source": "devto"
     }
   }
