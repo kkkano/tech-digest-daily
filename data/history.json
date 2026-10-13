@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-12T01:56:47.911951",
+  "last_updated": "2026-10-13T03:23:14.674592",
   "sent_items": {
-    "f899f3c7c1e34843": {
-      "date": "2026-09-12",
-      "title": "A misalignment of AI in mathematics",
-      "source": "hackernews"
-    },
-    "1222df1235d99690": {
-      "date": "2026-09-12",
-      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "source": "hackernews"
-    },
-    "79015f52d778effd": {
-      "date": "2026-09-12",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "source": "hackernews"
-    },
-    "a38ee2aa5a181f48": {
-      "date": "2026-09-12",
-      "title": "GrapheneOS' rewritten Messages app is released",
-      "source": "hackernews"
-    },
-    "55e394a3889b5061": {
-      "date": "2026-09-12",
-      "title": "A Design Space Exploration of Async/Await",
-      "source": "hackernews"
-    },
-    "630f5fa0c1edafe8": {
-      "date": "2026-09-12",
-      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-      "source": "hackernews"
-    },
-    "8ae62f80b43a1f7a": {
-      "date": "2026-09-12",
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "source": "hackernews"
-    },
-    "e6d80d878c87b20e": {
-      "date": "2026-09-12",
-      "title": "AlphaGenome maps 9B DNA variants",
-      "source": "hackernews"
-    },
-    "78b0a142e47b8d12": {
-      "date": "2026-09-12",
-      "title": "Project Blinkenlights",
-      "source": "hackernews"
-    },
-    "f15adbbd43d5d493": {
-      "date": "2026-09-12",
-      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-      "source": "hackernews"
-    },
-    "e98a664207a75083": {
-      "date": "2026-09-12",
-      "title": "chat-recall",
-      "source": "producthunt"
-    },
-    "c44eb9f56720e572": {
-      "date": "2026-09-12",
-      "title": "Formesign",
-      "source": "producthunt"
-    },
-    "09bc14de402ee089": {
-      "date": "2026-09-12",
-      "title": "Spaces",
-      "source": "producthunt"
-    },
-    "40aec0facc575cff": {
-      "date": "2026-09-12",
-      "title": "Jackalope",
-      "source": "producthunt"
-    },
-    "f50ac70cc866dcb7": {
-      "date": "2026-09-12",
-      "title": "Cadenya",
-      "source": "producthunt"
-    },
-    "a5eda7f2d35b72e4": {
-      "date": "2026-09-12",
-      "title": "GLYPH Immersive",
-      "source": "producthunt"
-    },
-    "b4ff0c7081d3e131": {
-      "date": "2026-09-12",
-      "title": "Devin Voice",
-      "source": "producthunt"
-    },
-    "d631da6d47d20727": {
-      "date": "2026-09-12",
-      "title": "Design Studio by Monday Merch",
-      "source": "producthunt"
-    },
-    "79cd82349230328b": {
-      "date": "2026-09-12",
-      "title": "Dev Opportunity Radar #16: $15K AI Agent Hackathon, AI Education Fellowship, and AWS Student Rewards",
-      "source": "devto"
-    },
-    "d195a9ee06b895f8": {
-      "date": "2026-09-12",
-      "title": "What was your win this week??",
-      "source": "devto"
-    },
-    "8a405f24989168ac": {
-      "date": "2026-09-12",
-      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
-      "source": "devto"
-    },
-    "14c23b51f9ac29e9": {
-      "date": "2026-09-12",
-      "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
-      "source": "devto"
-    },
-    "bd1e21aeef779477": {
-      "date": "2026-09-12",
-      "title": "I Wrote 238 Specs and Never Read One Again",
-      "source": "devto"
-    },
-    "12f08e4e2edbe5ee": {
-      "date": "2026-09-12",
-      "title": "My Agents Never Get Tired. I Do: On Satisficing",
-      "source": "devto"
-    },
-    "065b4c2822f7c354": {
-      "date": "2026-09-12",
-      "title": "AI-Generated Tests Can Make Coding Agents Worse. Here's How to Check Yours",
-      "source": "devto"
-    },
-    "cf56196eec94132d": {
-      "date": "2026-09-12",
-      "title": "Nexpath Review: Can an AI Prompt Quality Layer Make AI Coding Safer?",
-      "source": "devto"
-    },
-    "e7dce608af853882": {
-      "date": "2026-09-12",
-      "title": "TS Evidence Graph: Make Every SKILL Instruction 100% Enforced",
-      "source": "devto"
-    },
-    "eae4b3aace76badc": {
-      "date": "2026-09-12",
-      "title": "Valkey 9.1's hash field TTL triples memory use for the pattern its own docs show",
-      "source": "devto"
-    },
-    "6268b5fd7c3992e6": {
-      "date": "2026-09-12",
-      "title": "nab138 / iloader",
-      "source": "github"
-    },
-    "cc05accd67dc995f": {
-      "date": "2026-09-12",
-      "title": "melgarafael / DeskcommCRM",
-      "source": "github"
-    },
-    "42f7cef0ed4a92af": {
-      "date": "2026-09-12",
-      "title": "Sonarr / Sonarr",
-      "source": "github"
-    },
-    "352163fdbcdeb0ea": {
-      "date": "2026-09-12",
-      "title": "jihe520 / MathModelAgent",
-      "source": "github"
-    },
-    "380754eccc1abeb4": {
-      "date": "2026-09-12",
-      "title": "p1neappleXpress / OpenFlux",
-      "source": "github"
-    },
-    "3fe7b1b88b796590": {
-      "date": "2026-09-12",
-      "title": "jordan-gibbs / hyperresearch",
-      "source": "github"
-    },
-    "78ea4ce17c7615e5": {
-      "date": "2026-09-12",
-      "title": "alphaXiv / OpenResearch",
-      "source": "github"
-    },
     "2184e3600b3b1bcd": {
       "date": "2026-09-13",
       "title": "IKEA made a mod for Skyrim [video]",
@@ -5036,6 +4861,151 @@
       "date": "2026-10-12",
       "title": "Touch Hardware: Turning Pixel Art into a Gateway to Hands-On Tech",
       "source": "devto"
+    },
+    "e6b665da4145ac96": {
+      "date": "2026-10-13",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "source": "hackernews"
+    },
+    "63841978d9b21d9d": {
+      "date": "2026-10-13",
+      "title": "GLM-Legal",
+      "source": "hackernews"
+    },
+    "d50867c6acb5ca63": {
+      "date": "2026-10-13",
+      "title": "A Modern Web App in C",
+      "source": "hackernews"
+    },
+    "5e842789981d329c": {
+      "date": "2026-10-13",
+      "title": "Who is vfmaddrnd231pd?",
+      "source": "hackernews"
+    },
+    "2325bc8df3a54929": {
+      "date": "2026-10-13",
+      "title": "Making big downloads resumable in Firefox",
+      "source": "hackernews"
+    },
+    "e8881de420a0eb8f": {
+      "date": "2026-10-13",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "source": "hackernews"
+    },
+    "a64d4c794baec9aa": {
+      "date": "2026-10-13",
+      "title": "The baffling intelligence of a single cell (2024)",
+      "source": "hackernews"
+    },
+    "938820eba5541831": {
+      "date": "2026-10-13",
+      "title": "Leaving Tech",
+      "source": "hackernews"
+    },
+    "2285f424d71b147b": {
+      "date": "2026-10-13",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "source": "hackernews"
+    },
+    "cc23b9af386a2f63": {
+      "date": "2026-10-13",
+      "title": "Auto Research: Integer multiplication below n log n",
+      "source": "hackernews"
+    },
+    "a11e79331eb91946": {
+      "date": "2026-10-13",
+      "title": "Google EmbeddingGemma 2",
+      "source": "producthunt"
+    },
+    "52b4c6efd716fce2": {
+      "date": "2026-10-13",
+      "title": "Manifold MCP",
+      "source": "producthunt"
+    },
+    "50b5acd3cc70e471": {
+      "date": "2026-10-13",
+      "title": "Cube Forms",
+      "source": "producthunt"
+    },
+    "beccda73984e13b3": {
+      "date": "2026-10-13",
+      "title": "SquadRoom",
+      "source": "producthunt"
+    },
+    "b3a827fce1e16b25": {
+      "date": "2026-10-13",
+      "title": "guilds.run",
+      "source": "producthunt"
+    },
+    "8024eb89fa0b152b": {
+      "date": "2026-10-13",
+      "title": "ExcaliClaw",
+      "source": "producthunt"
+    },
+    "026b3c9a7c1bd188": {
+      "date": "2026-10-13",
+      "title": "\"Light don go\": when Nigeria''s power cuts out, my laptop sends me outside",
+      "source": "devto"
+    },
+    "81b5c7766923da2a": {
+      "date": "2026-10-13",
+      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
+      "source": "devto"
+    },
+    "c93804168e0f5fb2": {
+      "date": "2026-10-13",
+      "title": "Step Away From the Terminal: I Built BreakPoint with Entire to Disconnect Burned-Out Developers in 1",
+      "source": "devto"
+    },
+    "13fa23e7343b2dde": {
+      "date": "2026-10-13",
+      "title": "You’re a Real Python Developer Only If...",
+      "source": "devto"
+    },
+    "b04358cb44f18795": {
+      "date": "2026-10-13",
+      "title": "Solodesk-Ai",
+      "source": "devto"
+    },
+    "5a8b8c1b107a3992": {
+      "date": "2026-10-13",
+      "title": "I was chasing the job market. One comment on DEV.to made me rethink everything",
+      "source": "devto"
+    },
+    "a35f10eb248400e0": {
+      "date": "2026-10-13",
+      "title": "One Glue Job, Zero Orchestrators — My First Spark Declarative Pipeline on AWS Glue",
+      "source": "devto"
+    },
+    "b9461715fd2fd4b7": {
+      "date": "2026-10-13",
+      "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
+      "source": "devto"
+    },
+    "fb75b02bb887894d": {
+      "date": "2026-10-13",
+      "title": "We Built a Blender Render Farm Out of Four Laptops",
+      "source": "devto"
+    },
+    "4c751bf17db4157b": {
+      "date": "2026-10-13",
+      "title": "A single console.log was costing us $40,000 a year. I found it by accident.",
+      "source": "devto"
+    },
+    "5c33f43b602ec1d6": {
+      "date": "2026-10-13",
+      "title": "open-webui / open-webui",
+      "source": "github"
+    },
+    "33b0d84c745e52f3": {
+      "date": "2026-10-13",
+      "title": "microsoft / BitNet",
+      "source": "github"
+    },
+    "8e0001db8f8344fb": {
+      "date": "2026-10-13",
+      "title": "Alishahryar1 / free-claude-code",
+      "source": "github"
     }
   }
 }
