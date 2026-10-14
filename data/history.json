@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-13T03:23:14.674592",
+  "last_updated": "2026-10-14T01:36:17.201638",
   "sent_items": {
-    "2184e3600b3b1bcd": {
-      "date": "2026-09-13",
-      "title": "IKEA made a mod for Skyrim [video]",
-      "source": "hackernews"
-    },
-    "c4dde8b1b123004a": {
-      "date": "2026-09-13",
-      "title": "We must pace the frontier",
-      "source": "hackernews"
-    },
-    "2ca5d0e9b00f2058": {
-      "date": "2026-09-13",
-      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-      "source": "hackernews"
-    },
-    "0cd5ce73d227ff84": {
-      "date": "2026-09-13",
-      "title": "Nvidia is the central bank of AI",
-      "source": "hackernews"
-    },
-    "405bb17e337c1b22": {
-      "date": "2026-09-13",
-      "title": "Make your first edit to OpenStreetMap",
-      "source": "hackernews"
-    },
-    "e0c2b8d32e0d609b": {
-      "date": "2026-09-13",
-      "title": "Stabilizing Rust's Never Type",
-      "source": "hackernews"
-    },
-    "70d97e02f21de127": {
-      "date": "2026-09-13",
-      "title": "Apple iPod Engraver (2019)",
-      "source": "hackernews"
-    },
-    "b17d0eced9e3779c": {
-      "date": "2026-09-13",
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "source": "hackernews"
-    },
-    "a544dd331672f37e": {
-      "date": "2026-09-13",
-      "title": "Will There Be a 7G?",
-      "source": "hackernews"
-    },
-    "7f9442766514a4b0": {
-      "date": "2026-09-13",
-      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-      "source": "hackernews"
-    },
-    "1358d85515de2ac6": {
-      "date": "2026-09-13",
-      "title": "Calerto for Mac",
-      "source": "producthunt"
-    },
-    "bf509d79b9c6bed2": {
-      "date": "2026-09-13",
-      "title": "VoxelWall",
-      "source": "producthunt"
-    },
-    "568d67810a646c57": {
-      "date": "2026-09-13",
-      "title": "ABrush",
-      "source": "producthunt"
-    },
-    "bd48025e615e60f6": {
-      "date": "2026-09-13",
-      "title": "Pascal’s Pager",
-      "source": "producthunt"
-    },
-    "241c7707625d0659": {
-      "date": "2026-09-13",
-      "title": "FrameSketch",
-      "source": "producthunt"
-    },
-    "09d54397f13c8541": {
-      "date": "2026-09-13",
-      "title": "SUDARI",
-      "source": "producthunt"
-    },
-    "69b36cc2761a61a7": {
-      "date": "2026-09-13",
-      "title": "LinkFlick",
-      "source": "producthunt"
-    },
-    "b7cbe0ed06138177": {
-      "date": "2026-09-13",
-      "title": "Wokyintosh",
-      "source": "producthunt"
-    },
-    "e2ea6c7e09bec5ee": {
-      "date": "2026-09-13",
-      "title": "I'm 12. This morning I fought two hosting providers. My app survived both.",
-      "source": "devto"
-    },
-    "566cefd8086f33a5": {
-      "date": "2026-09-13",
-      "title": "When Skill Evolution Means Removing Instructions",
-      "source": "devto"
-    },
-    "186baaf51a5cd48e": {
-      "date": "2026-09-13",
-      "title": "I just did something my AI agents couldn't",
-      "source": "devto"
-    },
-    "890a777258338224": {
-      "date": "2026-09-13",
-      "title": "I read 500 'AI will replace developers' posts. They all make the same 3 mistakes.",
-      "source": "devto"
-    },
-    "0bd5162a73c55e31": {
-      "date": "2026-09-13",
-      "title": "I Interviewed an Executable. It Had Notes.",
-      "source": "devto"
-    },
-    "f93e9bbfa63f2e86": {
-      "date": "2026-09-13",
-      "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
-      "source": "devto"
-    },
-    "d0b75d56887125aa": {
-      "date": "2026-09-13",
-      "title": "I Had Already Built Three Agentic Loops Without Naming Them",
-      "source": "devto"
-    },
-    "fe8ca6ce89df35bb": {
-      "date": "2026-09-13",
-      "title": "My message board for AI agents got spammed. The spam wasn't written for humans.",
-      "source": "devto"
-    },
-    "c09be7a6a14a439c": {
-      "date": "2026-09-13",
-      "title": "addDays() Mutated a Date Three Components Away From Where I Called It",
-      "source": "devto"
-    },
-    "2faa18c577db7eb5": {
-      "date": "2026-09-13",
-      "title": "Our Recall Was 0.087 and the Model Was Innocent: How Domain-Scoped Replay Doubled It",
-      "source": "devto"
-    },
-    "3675b0176088850f": {
-      "date": "2026-09-13",
-      "title": "asgeirtj / system_prompts_leaks",
-      "source": "github"
-    },
-    "f84e917e416c7dca": {
-      "date": "2026-09-13",
-      "title": "Flowseal / zapret-discord-youtube",
-      "source": "github"
-    },
-    "e1d0688c7c784be0": {
-      "date": "2026-09-13",
-      "title": "yuliskov / SmartTube",
-      "source": "github"
-    },
-    "fed9e93b0bd2dda1": {
-      "date": "2026-09-13",
-      "title": "SnailSploit / Claude-Red",
-      "source": "github"
-    },
-    "c4e160b8f96ff888": {
-      "date": "2026-09-13",
-      "title": "multimodal-art-projection / YuE",
-      "source": "github"
-    },
-    "77049851f70b183b": {
-      "date": "2026-09-13",
-      "title": "max-sixty / worktrunk",
-      "source": "github"
-    },
     "705d6f77916b19ca": {
       "date": "2026-09-14",
       "title": "JetKVM Mini",
@@ -5006,6 +4836,161 @@
       "date": "2026-10-13",
       "title": "Alishahryar1 / free-claude-code",
       "source": "github"
+    },
+    "a615b4c8f9b3f966": {
+      "date": "2026-10-14",
+      "title": "Gemini 4 Argon",
+      "source": "hackernews"
+    },
+    "23d9079a8f65da12": {
+      "date": "2026-10-14",
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "source": "hackernews"
+    },
+    "a9d27224dd64fa08": {
+      "date": "2026-10-14",
+      "title": "Apple HomeView",
+      "source": "hackernews"
+    },
+    "11989993b638c28f": {
+      "date": "2026-10-14",
+      "title": "Firefox Enterprise",
+      "source": "hackernews"
+    },
+    "8625f276e36e636a": {
+      "date": "2026-10-14",
+      "title": "Redesigning source control at Anthropic",
+      "source": "hackernews"
+    },
+    "b4750a3afa44acfb": {
+      "date": "2026-10-14",
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "source": "hackernews"
+    },
+    "baba71261f5757b6": {
+      "date": "2026-10-14",
+      "title": "Thunderbird for iOS",
+      "source": "hackernews"
+    },
+    "d9c5a4462f98dc61": {
+      "date": "2026-10-14",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "source": "hackernews"
+    },
+    "39b5f2e42888e46d": {
+      "date": "2026-10-14",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "source": "hackernews"
+    },
+    "a199b9690fc974ab": {
+      "date": "2026-10-14",
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "source": "hackernews"
+    },
+    "5e57606b6d7ab565": {
+      "date": "2026-10-14",
+      "title": "Muse Wonder",
+      "source": "producthunt"
+    },
+    "7c5a90fc8fee4c66": {
+      "date": "2026-10-14",
+      "title": "Takes for Mac",
+      "source": "producthunt"
+    },
+    "34a07e4db9be6161": {
+      "date": "2026-10-14",
+      "title": "Xiryn",
+      "source": "producthunt"
+    },
+    "99b09d88fd4b294b": {
+      "date": "2026-10-14",
+      "title": "OpenFlowKit 2",
+      "source": "producthunt"
+    },
+    "fddc71b6617df3a0": {
+      "date": "2026-10-14",
+      "title": "CLI Manager",
+      "source": "producthunt"
+    },
+    "2d72c32d1bfb0581": {
+      "date": "2026-10-14",
+      "title": "OpenCode 2.0",
+      "source": "producthunt"
+    },
+    "67e27b55e5633db6": {
+      "date": "2026-10-14",
+      "title": "Toby",
+      "source": "producthunt"
+    },
+    "b23915d90d1ecaf8": {
+      "date": "2026-10-14",
+      "title": "PostNitro for Agents",
+      "source": "producthunt"
+    },
+    "9660013ea25c5cd2": {
+      "date": "2026-10-14",
+      "title": "debpalash / VoiceStudio",
+      "source": "github"
+    },
+    "7634ab012b3dcc8f": {
+      "date": "2026-10-14",
+      "title": "vercel-labs / skills",
+      "source": "github"
+    },
+    "07395ccee5b58710": {
+      "date": "2026-10-14",
+      "title": "xtool-org / xtool",
+      "source": "github"
+    },
+    "c22962561e6a8456": {
+      "date": "2026-10-14",
+      "title": "AI Fatigue? Yea I know.",
+      "source": "devto"
+    },
+    "93273250144f7b8d": {
+      "date": "2026-10-14",
+      "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
+      "source": "devto"
+    },
+    "c5a0601e5f574b46": {
+      "date": "2026-10-14",
+      "title": "GitHub Isn't Just a Remote Git Server: How Spoke Clusters, Fork Alternates, and Actions Runner Sandb",
+      "source": "devto"
+    },
+    "a4bc913bef89ae24": {
+      "date": "2026-10-14",
+      "title": "Someone hacked the freezers at 400 French supermarkets",
+      "source": "devto"
+    },
+    "ee8c93f342dd33c6": {
+      "date": "2026-10-14",
+      "title": "Don't Try This at Home: What Happened When I Sent Kiro to Work and Went Gardening",
+      "source": "devto"
+    },
+    "a919b7780028938b": {
+      "date": "2026-10-14",
+      "title": "Integrating SEO Components into Discord",
+      "source": "devto"
+    },
+    "1689ce3ed9275bd1": {
+      "date": "2026-10-14",
+      "title": "People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?",
+      "source": "devto"
+    },
+    "0025dce8a504fa10": {
+      "date": "2026-10-14",
+      "title": "Do You Actually Need an LLM?",
+      "source": "devto"
+    },
+    "0fdf6c5971d4e6ac": {
+      "date": "2026-10-14",
+      "title": "You blank in technical interviews even when you know the answer. Let's fix that.",
+      "source": "devto"
+    },
+    "83d09ad8fc672512": {
+      "date": "2026-10-14",
+      "title": "'Localhost' is a Lie: Everything Uni Missed About Real-World Tech",
+      "source": "devto"
     }
   }
 }
