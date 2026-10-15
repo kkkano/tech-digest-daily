@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-14T01:36:17.201638",
+  "last_updated": "2026-10-15T01:02:53.485004",
   "sent_items": {
-    "705d6f77916b19ca": {
-      "date": "2026-09-14",
-      "title": "JetKVM Mini",
-      "source": "hackernews"
-    },
-    "a4ef7ec8464f4da5": {
-      "date": "2026-09-14",
-      "title": "Why is Google still serving dodgy ads?",
-      "source": "hackernews"
-    },
-    "635a075958ac9432": {
-      "date": "2026-09-14",
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "source": "hackernews"
-    },
-    "d58237dcc84da940": {
-      "date": "2026-09-14",
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "source": "hackernews"
-    },
-    "c0584b3cc952f007": {
-      "date": "2026-09-14",
-      "title": "Data collected by cars and sold to third parties",
-      "source": "hackernews"
-    },
-    "3e3c18a42edb58e3": {
-      "date": "2026-09-14",
-      "title": "Julia 1.13 highlights",
-      "source": "hackernews"
-    },
-    "88ac969b3f68d329": {
-      "date": "2026-09-14",
-      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
-      "source": "hackernews"
-    },
-    "a26ad33008a80fc0": {
-      "date": "2026-09-14",
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "source": "hackernews"
-    },
-    "17e2f19c4b2fd4d1": {
-      "date": "2026-09-14",
-      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
-      "source": "hackernews"
-    },
-    "1b16cf5aa2a7a6f4": {
-      "date": "2026-09-14",
-      "title": "The Coming War on General Computation (2011)",
-      "source": "hackernews"
-    },
-    "7726298677c816e6": {
-      "date": "2026-09-14",
-      "title": "Kirokune",
-      "source": "producthunt"
-    },
-    "cd3f90121be40bcf": {
-      "date": "2026-09-14",
-      "title": "Perplexity Hybrid Compute",
-      "source": "producthunt"
-    },
-    "9cf33750adbfe128": {
-      "date": "2026-09-14",
-      "title": "Resurf",
-      "source": "producthunt"
-    },
-    "ce35910ee3f0d032": {
-      "date": "2026-09-14",
-      "title": "Neopress",
-      "source": "producthunt"
-    },
-    "a74bd16a9c43c39d": {
-      "date": "2026-09-14",
-      "title": "Epilude Notetaker",
-      "source": "producthunt"
-    },
-    "17736a895a8f76b5": {
-      "date": "2026-09-14",
-      "title": "DemoTV",
-      "source": "producthunt"
-    },
-    "63c2321ff3132470": {
-      "date": "2026-09-14",
-      "title": "Visiby",
-      "source": "producthunt"
-    },
-    "cf142d07508213a1": {
-      "date": "2026-09-14",
-      "title": "Cognition's SWE-2",
-      "source": "producthunt"
-    },
-    "e218eb65403072e1": {
-      "date": "2026-09-14",
-      "title": "Vibe Coding Isn't the Problem. Calling It Engineering Is",
-      "source": "devto"
-    },
-    "7afa6740b57cecc5": {
-      "date": "2026-09-14",
-      "title": "I Built a Mac Menu Bar App Because I Kept Saying \"Wait, What?\" in Every Meeting (Live Demo 🚀)",
-      "source": "devto"
-    },
-    "b65658288ca8d793": {
-      "date": "2026-09-14",
-      "title": "I made two AIs review each other's code for 30 days. A human still caught the bug in 5 minutes.",
-      "source": "devto"
-    },
-    "3740fc3b9efcc3a9": {
-      "date": "2026-09-14",
-      "title": "The Search Highlight That Deletes Your Selection",
-      "source": "devto"
-    },
-    "4e7a9996ff0e1e64": {
-      "date": "2026-09-14",
-      "title": "The First Legend Has Entered the Arena: CrowdWide Just Submitted to the KODA Code Jam",
-      "source": "devto"
-    },
-    "2634a9ce7e61d725": {
-      "date": "2026-09-14",
-      "title": "I Sell Memory APIs. I'm Also Building the Benchmark. Here's How I'm Trying Not to Rig It.",
-      "source": "devto"
-    },
-    "1ea62f5af092483f": {
-      "date": "2026-09-14",
-      "title": "I ran $24,000 of Claude through my terminal in August. Here is what it built.",
-      "source": "devto"
-    },
-    "00d74d86625a3b23": {
-      "date": "2026-09-14",
-      "title": "🐛 The Bug That Only Happened on Fridays 📅😱",
-      "source": "devto"
-    },
-    "d835f4a6c2218305": {
-      "date": "2026-09-14",
-      "title": "My Comment Section Designed My Next Experiment. Then It Made Me Freeze My Predictions.",
-      "source": "devto"
-    },
-    "549afc93e63e387b": {
-      "date": "2026-09-14",
-      "title": "Add AI search to existing application",
-      "source": "devto"
-    },
-    "bba8c7297bb35116": {
-      "date": "2026-09-14",
-      "title": "ever-co / ever-gauzy",
-      "source": "github"
-    },
-    "96cb5d4c7f75eb9f": {
-      "date": "2026-09-14",
-      "title": "tech-leads-club / agent-skills",
-      "source": "github"
-    },
-    "20703a86e2b01e24": {
-      "date": "2026-09-14",
-      "title": "calesthio / OpenMontage",
-      "source": "github"
-    },
-    "85770197f1cb7d8d": {
-      "date": "2026-09-14",
-      "title": "vxcontrol / pentagi",
-      "source": "github"
-    },
-    "9cd514d03f14c102": {
-      "date": "2026-09-14",
-      "title": "alibaba / open-code-review",
-      "source": "github"
-    },
     "4c14d1b73e2a52af": {
       "date": "2026-09-15",
       "title": "XCancel service is suspended until further notice",
@@ -4990,6 +4825,176 @@
     "83d09ad8fc672512": {
       "date": "2026-10-14",
       "title": "'Localhost' is a Lie: Everything Uni Missed About Real-World Tech",
+      "source": "devto"
+    },
+    "63656400f4807a94": {
+      "date": "2026-10-15",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "source": "hackernews"
+    },
+    "d34b8045fd0bb694": {
+      "date": "2026-10-15",
+      "title": "Things to know when you get cancer – 2026 Edition",
+      "source": "hackernews"
+    },
+    "9038ab3e5055f4ba": {
+      "date": "2026-10-15",
+      "title": "Passkeys are not a trap",
+      "source": "hackernews"
+    },
+    "89964f014a5fa9e7": {
+      "date": "2026-10-15",
+      "title": "Do dentists know what they're doing?",
+      "source": "hackernews"
+    },
+    "e736448d1bbbe681": {
+      "date": "2026-10-15",
+      "title": "OpenCode 2.0",
+      "source": "hackernews"
+    },
+    "8f4f9a3e82b7a24c": {
+      "date": "2026-10-15",
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "source": "hackernews"
+    },
+    "d95daa121dd60661": {
+      "date": "2026-10-15",
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "source": "hackernews"
+    },
+    "2c786777bb57e78e": {
+      "date": "2026-10-15",
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "source": "hackernews"
+    },
+    "ca685681a5434a4a": {
+      "date": "2026-10-15",
+      "title": "Tiny Little Office",
+      "source": "hackernews"
+    },
+    "83d869ed218b7887": {
+      "date": "2026-10-15",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "source": "hackernews"
+    },
+    "8e19a777197fe75a": {
+      "date": "2026-10-15",
+      "title": "Confidence by Spotify",
+      "source": "producthunt"
+    },
+    "e6eb1d7a6bf49db9": {
+      "date": "2026-10-15",
+      "title": "AURORA Lifeline",
+      "source": "producthunt"
+    },
+    "8720be1788260b7d": {
+      "date": "2026-10-15",
+      "title": "AdAnt 2.0",
+      "source": "producthunt"
+    },
+    "423d583c22dd4736": {
+      "date": "2026-10-15",
+      "title": "PixLate",
+      "source": "producthunt"
+    },
+    "e2b8dbd2c6d38bf4": {
+      "date": "2026-10-15",
+      "title": "Hindsight 1.0 + Memlake",
+      "source": "producthunt"
+    },
+    "f15bd52740eba501": {
+      "date": "2026-10-15",
+      "title": "RoleFit",
+      "source": "producthunt"
+    },
+    "ad59b791d288b2ea": {
+      "date": "2026-10-15",
+      "title": "WriterzRoom",
+      "source": "producthunt"
+    },
+    "f1a87c2ebaac16ca": {
+      "date": "2026-10-15",
+      "title": "EditUI",
+      "source": "producthunt"
+    },
+    "e2e3cda3fa2e6709": {
+      "date": "2026-10-15",
+      "title": "nvm-sh / nvm",
+      "source": "github"
+    },
+    "bf559441b24d3589": {
+      "date": "2026-10-15",
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "source": "github"
+    },
+    "637c4b19860f8e9e": {
+      "date": "2026-10-15",
+      "title": "ifixai-ai / iFixAi",
+      "source": "github"
+    },
+    "1b489a90529a898e": {
+      "date": "2026-10-15",
+      "title": "rust-lang / rust",
+      "source": "github"
+    },
+    "234827182dce38dd": {
+      "date": "2026-10-15",
+      "title": "ntdevlabs / tiny11builder",
+      "source": "github"
+    },
+    "388733e392d2ca27": {
+      "date": "2026-10-15",
+      "title": "NationalSecurityAgency / ghidra",
+      "source": "github"
+    },
+    "41f41bf856cb8258": {
+      "date": "2026-10-15",
+      "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
+      "source": "devto"
+    },
+    "78771cb3f72730e5": {
+      "date": "2026-10-15",
+      "title": "The minimum you need to know about GitHub Actions",
+      "source": "devto"
+    },
+    "4bedf20b8190b2e9": {
+      "date": "2026-10-15",
+      "title": "Building Better Agents through End-to-End Evals",
+      "source": "devto"
+    },
+    "09ae7b6f3e6d2917": {
+      "date": "2026-10-15",
+      "title": "Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes",
+      "source": "devto"
+    },
+    "0746e7de7c93bc4a": {
+      "date": "2026-10-15",
+      "title": "Design for Churn",
+      "source": "devto"
+    },
+    "8c24ed05416b46c0": {
+      "date": "2026-10-15",
+      "title": "AI Avatar v25 (Avatar Run, Voxel Avatar, Muscle Brain)💪",
+      "source": "devto"
+    },
+    "a0e8d9b81f2f4a4c": {
+      "date": "2026-10-15",
+      "title": "The Model Is the Easy Part",
+      "source": "devto"
+    },
+    "76a8b13335eff405": {
+      "date": "2026-10-15",
+      "title": "How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️",
+      "source": "devto"
+    },
+    "81dd277be17d5856": {
+      "date": "2026-10-15",
+      "title": "Local speech with llamadart: giving Llama Village a voice",
+      "source": "devto"
+    },
+    "594f9449879acd53": {
+      "date": "2026-10-15",
+      "title": "An Agent’s Plan Isn’t Permission",
       "source": "devto"
     }
   }
