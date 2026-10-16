@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-15T01:02:53.485004",
+  "last_updated": "2026-10-16T00:56:07.377204",
   "sent_items": {
-    "4c14d1b73e2a52af": {
-      "date": "2026-09-15",
-      "title": "XCancel service is suspended until further notice",
-      "source": "hackernews"
-    },
-    "49519d89cf6f595a": {
-      "date": "2026-09-15",
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "source": "hackernews"
-    },
-    "35b8d957932395c3": {
-      "date": "2026-09-15",
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "source": "hackernews"
-    },
-    "a50bc738874d78e6": {
-      "date": "2026-09-15",
-      "title": "Pion, an agent designed to run any company autonomously",
-      "source": "hackernews"
-    },
-    "c841df4bf1a7c906": {
-      "date": "2026-09-15",
-      "title": "Distributed Systems Classics (2017)",
-      "source": "hackernews"
-    },
-    "9d9b784ff85e3b8c": {
-      "date": "2026-09-15",
-      "title": "Charts built for Chat",
-      "source": "hackernews"
-    },
-    "84cef3622f1fcb78": {
-      "date": "2026-09-15",
-      "title": "I'm not addicted to the internet or my smartphone. I'm addicted to information",
-      "source": "hackernews"
-    },
-    "3066d53356563c41": {
-      "date": "2026-09-15",
-      "title": "Compressing a Flag to 11 Bits",
-      "source": "hackernews"
-    },
-    "6c22b6057924499f": {
-      "date": "2026-09-15",
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "source": "hackernews"
-    },
-    "b5785dc62e26abf3": {
-      "date": "2026-09-15",
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "source": "hackernews"
-    },
-    "f907bf10903333ca": {
-      "date": "2026-09-15",
-      "title": "Juggler",
-      "source": "producthunt"
-    },
-    "d6dba69506b9d920": {
-      "date": "2026-09-15",
-      "title": "Slashy Assistant",
-      "source": "producthunt"
-    },
-    "c090787f7f6faf59": {
-      "date": "2026-09-15",
-      "title": "Naoma AI Demo Agent V2",
-      "source": "producthunt"
-    },
-    "ae5d9f8463a5b97f": {
-      "date": "2026-09-15",
-      "title": "Oats",
-      "source": "producthunt"
-    },
-    "73fc9a6c384fe4f1": {
-      "date": "2026-09-15",
-      "title": "appdesigns",
-      "source": "producthunt"
-    },
-    "c13138237e311466": {
-      "date": "2026-09-15",
-      "title": "Marqly 6.0",
-      "source": "producthunt"
-    },
-    "d00e4d63302801db": {
-      "date": "2026-09-15",
-      "title": "MemoryPet 2.0",
-      "source": "producthunt"
-    },
-    "90b4d031e94fe18d": {
-      "date": "2026-09-15",
-      "title": "Image to ASCII",
-      "source": "producthunt"
-    },
-    "18a61c86a77b5529": {
-      "date": "2026-09-15",
-      "title": "5 DEV.to Features I Wish Existed. 3 I'm Genuinely Relieved They Don't.",
-      "source": "devto"
-    },
-    "50ced4e33cd040c8": {
-      "date": "2026-09-15",
-      "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
-      "source": "devto"
-    },
-    "65cc148295e1dca6": {
-      "date": "2026-09-15",
-      "title": "I Added One Key to a PHP Array. It Cost 25 MB of Memory",
-      "source": "devto"
-    },
-    "c81e1f6b3512eb36": {
-      "date": "2026-09-15",
-      "title": "The ffmpeg Pipeline Nobody Explains",
-      "source": "devto"
-    },
-    "445e15e453504712": {
-      "date": "2026-09-15",
-      "title": "I Found Two Bugs in a Hackathon's Judging Tool. Neither Explained Why I Lost.",
-      "source": "devto"
-    },
-    "01372e02e690d211": {
-      "date": "2026-09-15",
-      "title": "My Harness Used One Label for Three Different Failures.",
-      "source": "devto"
-    },
-    "24d3c13d62327eaa": {
-      "date": "2026-09-15",
-      "title": "Nine Years of Almost: My Raspberry Pi Love and Hate Journey",
-      "source": "devto"
-    },
-    "b522ddb8a4460f5e": {
-      "date": "2026-09-15",
-      "title": "The Steelman: When an AI Agent Actually Earns Its Complexity",
-      "source": "devto"
-    },
-    "56a57b9dfd4780d3": {
-      "date": "2026-09-15",
-      "title": "Living a Colorful Life in a Black-and-White ATS World",
-      "source": "devto"
-    },
-    "40a13a3fe5b3105a": {
-      "date": "2026-09-15",
-      "title": "Is AI Really Better at Coding Than Most Developers? Here's the Uncomfortable Truth",
-      "source": "devto"
-    },
-    "5fa324d6510a1f1b": {
-      "date": "2026-09-15",
-      "title": "666ghj / MiroFish",
-      "source": "github"
-    },
-    "81fb0b6406ba5bb8": {
-      "date": "2026-09-15",
-      "title": "Panniantong / Agent-Reach",
-      "source": "github"
-    },
-    "ddbbf4cad372c3fe": {
-      "date": "2026-09-15",
-      "title": "rlaope / oh-my-hermes",
-      "source": "github"
-    },
-    "84856bae44e50ca8": {
-      "date": "2026-09-15",
-      "title": "localsend / localsend",
-      "source": "github"
-    },
-    "361d8d37c3971cf9": {
-      "date": "2026-09-15",
-      "title": "ruvnet / RuView",
-      "source": "github"
-    },
-    "78ddb48b10aef7ae": {
-      "date": "2026-09-15",
-      "title": "OpenBMB / VoxCPM",
-      "source": "github"
-    },
-    "cf909fcdfc721ecc": {
-      "date": "2026-09-15",
-      "title": "huggingface / transformers",
-      "source": "github"
-    },
     "f9bc345c257a4c33": {
       "date": "2026-09-16",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -4995,6 +4820,166 @@
     "594f9449879acd53": {
       "date": "2026-10-15",
       "title": "An Agent’s Plan Isn’t Permission",
+      "source": "devto"
+    },
+    "3b44f1f13adced97": {
+      "date": "2026-10-16",
+      "title": "Muse Spark Open",
+      "source": "hackernews"
+    },
+    "2ab933282e15536f": {
+      "date": "2026-10-16",
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "source": "hackernews"
+    },
+    "e26a2cb703ec922a": {
+      "date": "2026-10-16",
+      "title": "Neural networks are clean",
+      "source": "hackernews"
+    },
+    "cf6bd167f6a0bae0": {
+      "date": "2026-10-16",
+      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "source": "hackernews"
+    },
+    "c00873806ba538f3": {
+      "date": "2026-10-16",
+      "title": "Jev meets the Trolley Problem",
+      "source": "hackernews"
+    },
+    "b19c223d938eb361": {
+      "date": "2026-10-16",
+      "title": "What I Self-Host",
+      "source": "hackernews"
+    },
+    "2956a0f7bf93296a": {
+      "date": "2026-10-16",
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "source": "hackernews"
+    },
+    "67f47845dab5e863": {
+      "date": "2026-10-16",
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "source": "hackernews"
+    },
+    "e4bedf1cc00786f5": {
+      "date": "2026-10-16",
+      "title": "Major ICQ security hole (1998)",
+      "source": "hackernews"
+    },
+    "a909f9c6f9113345": {
+      "date": "2026-10-16",
+      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "source": "hackernews"
+    },
+    "bc727c3bfe4e6e22": {
+      "date": "2026-10-16",
+      "title": "GLM-Legal",
+      "source": "producthunt"
+    },
+    "e0365e2ebd864078": {
+      "date": "2026-10-16",
+      "title": "Lleverage",
+      "source": "producthunt"
+    },
+    "0fc38ce18a6f173f": {
+      "date": "2026-10-16",
+      "title": "Atticus",
+      "source": "producthunt"
+    },
+    "3e11feb1257f4fce": {
+      "date": "2026-10-16",
+      "title": "SuperLocalMemory",
+      "source": "producthunt"
+    },
+    "b1efb8cd96e84522": {
+      "date": "2026-10-16",
+      "title": "Nostaliga",
+      "source": "producthunt"
+    },
+    "8240412364b4b48a": {
+      "date": "2026-10-16",
+      "title": "Audimate",
+      "source": "producthunt"
+    },
+    "91e2cf038875d8d0": {
+      "date": "2026-10-16",
+      "title": "Rushilo",
+      "source": "producthunt"
+    },
+    "270e8475e9989b1b": {
+      "date": "2026-10-16",
+      "title": "CmdRound",
+      "source": "producthunt"
+    },
+    "c3257d531a3c4d89": {
+      "date": "2026-10-16",
+      "title": "obra / superpowers",
+      "source": "github"
+    },
+    "9a16f8b0667e86a0": {
+      "date": "2026-10-16",
+      "title": "ruvnet / ruflo",
+      "source": "github"
+    },
+    "8f1aa947f6cd9708": {
+      "date": "2026-10-16",
+      "title": "lightseekorg / tokenspeed",
+      "source": "github"
+    },
+    "928acd6469ac661a": {
+      "date": "2026-10-16",
+      "title": "xerj-org / xerj",
+      "source": "github"
+    },
+    "4c89680f64ff88ff": {
+      "date": "2026-10-16",
+      "title": "I Vibe-Coded My Way Out of Angular Upgrades",
+      "source": "devto"
+    },
+    "bb1690e34e5b2564": {
+      "date": "2026-10-16",
+      "title": "I built a lie detector for AI coding agents. Then I read the rules.",
+      "source": "devto"
+    },
+    "7eba09fe252dee92": {
+      "date": "2026-10-16",
+      "title": "Gemma 4 on a Used 8 GB RTX 3050: 116 Tokens/s for One User, 618 for 64",
+      "source": "devto"
+    },
+    "e5e8a240970beb30": {
+      "date": "2026-10-16",
+      "title": "I Built an Open-Weight AI That Prices Etsy Shops, On Your Laptop",
+      "source": "devto"
+    },
+    "8782fa734ad0b585": {
+      "date": "2026-10-16",
+      "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically T",
+      "source": "devto"
+    },
+    "b0c936c6d1280534": {
+      "date": "2026-10-16",
+      "title": "It caught \"partner\" \"pareja\" in an IRS rule and missed \"return\" \"devolución\": an offline MT checker ",
+      "source": "devto"
+    },
+    "8c9d572baab66ce9": {
+      "date": "2026-10-16",
+      "title": "Don't Order Fish on Monday. Don't Release on Friday",
+      "source": "devto"
+    },
+    "1b95ad101f7449cb": {
+      "date": "2026-10-16",
+      "title": "RevCheck, compare the cars you want before you buy your next daily driver",
+      "source": "devto"
+    },
+    "868fda8630dddc6a": {
+      "date": "2026-10-16",
+      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
+      "source": "devto"
+    },
+    "0e06347d6b95e75b": {
+      "date": "2026-10-16",
+      "title": "How Docker Works Under the Hood: Watch Namespaces Isolate a Container and cgroups Stop a Fork Bomb",
       "source": "devto"
     }
   }
