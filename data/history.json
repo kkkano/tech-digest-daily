@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-16T00:56:07.377204",
+  "last_updated": "2026-10-17T00:58:58.911696",
   "sent_items": {
-    "f9bc345c257a4c33": {
-      "date": "2026-09-16",
-      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "source": "hackernews"
-    },
-    "6f7d07f4680cc41b": {
-      "date": "2026-09-16",
-      "title": "Introducing System One Models and Jev",
-      "source": "hackernews"
-    },
-    "2630112128806626": {
-      "date": "2026-09-16",
-      "title": "An Update on Wayback Machine Access",
-      "source": "hackernews"
-    },
-    "2bb653c70c81b015": {
-      "date": "2026-09-16",
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "source": "hackernews"
-    },
-    "f49d2b8b3c9d8095": {
-      "date": "2026-09-16",
-      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-      "source": "hackernews"
-    },
-    "f19e47e6a7d3c637": {
-      "date": "2026-09-16",
-      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-      "source": "hackernews"
-    },
-    "443b315ed21151c6": {
-      "date": "2026-09-16",
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "source": "hackernews"
-    },
-    "4bf12c040bb6a4b7": {
-      "date": "2026-09-16",
-      "title": "Chopping up books when they're physically too big",
-      "source": "hackernews"
-    },
-    "ab8f929a13fb90e8": {
-      "date": "2026-09-16",
-      "title": "Jean-Pierre Serre is 100 years old today",
-      "source": "hackernews"
-    },
-    "e13f2e9d1a5b83cc": {
-      "date": "2026-09-16",
-      "title": "Sierra digital cameras on the Apple II",
-      "source": "hackernews"
-    },
-    "4664a29357b7e8e4": {
-      "date": "2026-09-16",
-      "title": "Mailyte",
-      "source": "producthunt"
-    },
-    "89bbc9757aafdc62": {
-      "date": "2026-09-16",
-      "title": "Grimo AI",
-      "source": "producthunt"
-    },
-    "7429f50dc773f217": {
-      "date": "2026-09-16",
-      "title": "Multimodal Agents by Sierra",
-      "source": "producthunt"
-    },
-    "98fb85f8860ca7c0": {
-      "date": "2026-09-16",
-      "title": "Tangerine",
-      "source": "producthunt"
-    },
-    "7a563a625fb6624f": {
-      "date": "2026-09-16",
-      "title": "FATHER",
-      "source": "producthunt"
-    },
-    "fa84b809fd6e15ed": {
-      "date": "2026-09-16",
-      "title": "Thoughts for Mac",
-      "source": "producthunt"
-    },
-    "feebb1562d7b4e09": {
-      "date": "2026-09-16",
-      "title": "The Minimalist Entrepreneur Skills",
-      "source": "producthunt"
-    },
-    "d3f22d96c4a681a5": {
-      "date": "2026-09-16",
-      "title": "Narrative",
-      "source": "producthunt"
-    },
-    "8fd221f8ee15838f": {
-      "date": "2026-09-16",
-      "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer",
-      "source": "devto"
-    },
-    "90af0a47ec564123": {
-      "date": "2026-09-16",
-      "title": "The Quiet Weight of Working in Tech in the AI Era",
-      "source": "devto"
-    },
-    "4d1bb9083f86ccb7": {
-      "date": "2026-09-16",
-      "title": "How can I prevent my AI coding assistant from repeating fixed mistakes across sessions?",
-      "source": "devto"
-    },
-    "b40e0bb04bb147af": {
-      "date": "2026-09-16",
-      "title": "AI Didn't Remove the Engineering Work. It Just Made It Easier to Pretend You Did.",
-      "source": "devto"
-    },
-    "2b7ed3fe8b0c24c9": {
-      "date": "2026-09-16",
-      "title": "Resilient and Battle-Tested Are Not the Same Word",
-      "source": "devto"
-    },
-    "5e6f1c8d4ba4eee4": {
-      "date": "2026-09-16",
-      "title": "MVC, MVP, MVVM, MVVM-C, VIPER: one pattern wearing five outfits",
-      "source": "devto"
-    },
-    "b914f26bd0966d64": {
-      "date": "2026-09-16",
-      "title": "I Throttled My App to Slow 3G. Here's What My Tests Never Caught",
-      "source": "devto"
-    },
-    "ae9c6f3e2d77805a": {
-      "date": "2026-09-16",
-      "title": "🧩 Don't make Tech your entire personality.",
-      "source": "devto"
-    },
-    "30fbeebb286c749d": {
-      "date": "2026-09-16",
-      "title": "The Test Looked Redundant. The Ninth Bug Needed It.",
-      "source": "devto"
-    },
-    "5b525d8d050e6386": {
-      "date": "2026-09-16",
-      "title": "The Agent Said It Worked. I Asked the Kernel.",
-      "source": "devto"
-    },
-    "3ace28dd12ad4e20": {
-      "date": "2026-09-16",
-      "title": "Homebrew / BrewUI",
-      "source": "github"
-    },
-    "2d6bfe572fce3baf": {
-      "date": "2026-09-16",
-      "title": "danny-avila / LibreChat",
-      "source": "github"
-    },
-    "9f1698c8eec8e6cf": {
-      "date": "2026-09-16",
-      "title": "MG1937 / ASC",
-      "source": "github"
-    },
-    "0d1bd25a3199bf22": {
-      "date": "2026-09-16",
-      "title": "addyosmani / agent-skills",
-      "source": "github"
-    },
-    "104bec12c36ea90a": {
-      "date": "2026-09-16",
-      "title": "tonhowtf / omniget",
-      "source": "github"
-    },
-    "d37649da1014b56f": {
-      "date": "2026-09-16",
-      "title": "earendil-works / pi",
-      "source": "github"
-    },
     "3cb8170cf407614b": {
       "date": "2026-09-17",
       "title": "Small programming tricks",
@@ -4981,6 +4811,161 @@
       "date": "2026-10-16",
       "title": "How Docker Works Under the Hood: Watch Namespaces Isolate a Container and cgroups Stop a Fork Bomb",
       "source": "devto"
+    },
+    "b2f13e264e62240b": {
+      "date": "2026-10-17",
+      "title": "Palomino",
+      "source": "producthunt"
+    },
+    "14c7bec74a2e2033": {
+      "date": "2026-10-17",
+      "title": "Parallax",
+      "source": "producthunt"
+    },
+    "c5c4a35b16896dfc": {
+      "date": "2026-10-17",
+      "title": "DOYT",
+      "source": "producthunt"
+    },
+    "d70fe09b06e0461a": {
+      "date": "2026-10-17",
+      "title": "Nemotron 3.5 Super VL",
+      "source": "producthunt"
+    },
+    "2efbd17cbb96702c": {
+      "date": "2026-10-17",
+      "title": "Lovable Growth Tools",
+      "source": "producthunt"
+    },
+    "f4d52b3964bdd388": {
+      "date": "2026-10-17",
+      "title": "Memory Chess",
+      "source": "producthunt"
+    },
+    "6df5fdb5e3e71eae": {
+      "date": "2026-10-17",
+      "title": "Firefox Enterprise",
+      "source": "producthunt"
+    },
+    "3476a23f6bcba574": {
+      "date": "2026-10-17",
+      "title": "Fish Audio Drama 3",
+      "source": "producthunt"
+    },
+    "d600f4c050edf12a": {
+      "date": "2026-10-17",
+      "title": "Tesla Roadster",
+      "source": "hackernews"
+    },
+    "9b62eabe5d6e6d7f": {
+      "date": "2026-10-17",
+      "title": "Claude reveals ECDSA curve origins",
+      "source": "hackernews"
+    },
+    "de003deb04bc6428": {
+      "date": "2026-10-17",
+      "title": "Waymo in Toronto",
+      "source": "hackernews"
+    },
+    "1e3b72cbd03ab2cd": {
+      "date": "2026-10-17",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "source": "hackernews"
+    },
+    "d82f8f1350751de6": {
+      "date": "2026-10-17",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "source": "hackernews"
+    },
+    "48793da86373c7e9": {
+      "date": "2026-10-17",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "source": "hackernews"
+    },
+    "535f3eb25ab69e84": {
+      "date": "2026-10-17",
+      "title": "You could have invented transformers from memory",
+      "source": "hackernews"
+    },
+    "6014810f280b3f73": {
+      "date": "2026-10-17",
+      "title": "FLUX 3 Image Klein",
+      "source": "hackernews"
+    },
+    "f3b8063716141f9c": {
+      "date": "2026-10-17",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "source": "hackernews"
+    },
+    "9306d6ab54feba7b": {
+      "date": "2026-10-17",
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "source": "hackernews"
+    },
+    "696c30ddaf3e76ca": {
+      "date": "2026-10-17",
+      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Re",
+      "source": "devto"
+    },
+    "a75566ab030b7e51": {
+      "date": "2026-10-17",
+      "title": "What Are Your Chances of Surviving Resident Evil Based on Your Tech Job?",
+      "source": "devto"
+    },
+    "d75ba540498d714f": {
+      "date": "2026-10-17",
+      "title": "What was your win this week?!",
+      "source": "devto"
+    },
+    "e0e62b92a362eeed": {
+      "date": "2026-10-17",
+      "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
+      "source": "devto"
+    },
+    "10808fc4b58be88b": {
+      "date": "2026-10-17",
+      "title": "Singularity News :: 0010",
+      "source": "devto"
+    },
+    "6ac4c80449acb35d": {
+      "date": "2026-10-17",
+      "title": "Best Tools for Managing Parallel AI Coding Agents in 2026",
+      "source": "devto"
+    },
+    "40fbd37d0219ec30": {
+      "date": "2026-10-17",
+      "title": "Doorman: my apps' contact form got 23 messages in six weeks, and all 23 were pitches",
+      "source": "devto"
+    },
+    "34b66507b1f14bb5": {
+      "date": "2026-10-17",
+      "title": "🌑 Blue October",
+      "source": "devto"
+    },
+    "df6c7c2ff8fd5da3": {
+      "date": "2026-10-17",
+      "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
+      "source": "devto"
+    },
+    "e315bebad49f0af0": {
+      "date": "2026-10-17",
+      "title": "PostgreSQL 19 beta's parallel autovacuum launches workers but leaves vacuum time unchanged",
+      "source": "devto"
+    },
+    "02391d3d47d128ab": {
+      "date": "2026-10-17",
+      "title": "android / skills",
+      "source": "github"
+    },
+    "ce3a785ea3a972f5": {
+      "date": "2026-10-17",
+      "title": "MadsLorentzen / ai-job-search",
+      "source": "github"
+    },
+    "387929deae942053": {
+      "date": "2026-10-17",
+      "title": "hmjz100 / LinkSwift",
+      "source": "github"
     }
   }
 }
