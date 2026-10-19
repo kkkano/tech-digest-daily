@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-18T00:28:54.817331",
+  "last_updated": "2026-10-19T00:41:04.325619",
   "sent_items": {
-    "3525939fb908d174": {
-      "date": "2026-09-18",
-      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "source": "hackernews"
-    },
-    "294342cde7e97649": {
-      "date": "2026-09-18",
-      "title": "Astra for Law",
-      "source": "hackernews"
-    },
-    "6c90a6761f03e888": {
-      "date": "2026-09-18",
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "source": "hackernews"
-    },
-    "38c8aa5739058998": {
-      "date": "2026-09-18",
-      "title": "Wax motor",
-      "source": "hackernews"
-    },
-    "51ea877eb6080618": {
-      "date": "2026-09-18",
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "source": "hackernews"
-    },
-    "f1a971dfe2c2f23f": {
-      "date": "2026-09-18",
-      "title": "CrowdSec Source Code Leak",
-      "source": "hackernews"
-    },
-    "0af12fc17f1229f2": {
-      "date": "2026-09-18",
-      "title": "More than 100k people in Japan are now aged 100 or older",
-      "source": "hackernews"
-    },
-    "05b822e3a3563bfa": {
-      "date": "2026-09-18",
-      "title": "Flet 1.0 – Build cross-platform apps in Python",
-      "source": "hackernews"
-    },
-    "e5624fa01d6cf9c4": {
-      "date": "2026-09-18",
-      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
-      "source": "hackernews"
-    },
-    "ed74cab222b449da": {
-      "date": "2026-09-18",
-      "title": "Amy by Jellyfish",
-      "source": "producthunt"
-    },
-    "0cb1f3ddf46e70ed": {
-      "date": "2026-09-18",
-      "title": "The Forge by Bob's Workshop",
-      "source": "producthunt"
-    },
-    "0a1c69aeddcd9701": {
-      "date": "2026-09-18",
-      "title": "MacSentinel",
-      "source": "producthunt"
-    },
-    "d2db420fe27f56ac": {
-      "date": "2026-09-18",
-      "title": "Pitchfire for Startups",
-      "source": "producthunt"
-    },
-    "ca9b48e2e27cdcdf": {
-      "date": "2026-09-18",
-      "title": "Figo",
-      "source": "producthunt"
-    },
-    "97199436bd7ed3d2": {
-      "date": "2026-09-18",
-      "title": "Zella",
-      "source": "producthunt"
-    },
-    "fdfa014f736c5223": {
-      "date": "2026-09-18",
-      "title": "TinyKPI",
-      "source": "producthunt"
-    },
-    "80275738bc4b8cfa": {
-      "date": "2026-09-18",
-      "title": "Bitrise Remote Dev Environments",
-      "source": "producthunt"
-    },
-    "8572ccab5345c71a": {
-      "date": "2026-09-18",
-      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "source": "devto"
-    },
-    "c61e483f29cdc055": {
-      "date": "2026-09-18",
-      "title": "API Performance Testing: How to Design Realistic Tests",
-      "source": "devto"
-    },
-    "ce7f602d12dfd2ae": {
-      "date": "2026-09-18",
-      "title": "Git Bisect for Your Data",
-      "source": "devto"
-    },
-    "48dfba2108945afb": {
-      "date": "2026-09-18",
-      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
-      "source": "devto"
-    },
-    "36cd6c770ded3724": {
-      "date": "2026-09-18",
-      "title": "Show a model your old code and it writes your old bugs: 32 runs, 0% reuse",
-      "source": "devto"
-    },
-    "a5023166a7bc5886": {
-      "date": "2026-09-18",
-      "title": "My First AI Judge Interview: What Could Possibly Go Wrong?",
-      "source": "devto"
-    },
-    "774b304650acae2b": {
-      "date": "2026-09-18",
-      "title": "The Code I Couldn't Leave Alone",
-      "source": "devto"
-    },
-    "8f91dc705fb24261": {
-      "date": "2026-09-18",
-      "title": "Deno 2.6's minimum dependency age flag ignores year and month durations",
-      "source": "devto"
-    },
-    "2edfb3c73c9c83a4": {
-      "date": "2026-09-18",
-      "title": "The clipboard bridge that had to wait for the device",
-      "source": "devto"
-    },
-    "34bac38c0a9cb507": {
-      "date": "2026-09-18",
-      "title": "Frameworks Are Institutional Memory",
-      "source": "devto"
-    },
-    "373224bd194d7872": {
-      "date": "2026-09-18",
-      "title": "Tencent / BrowserSkill",
-      "source": "github"
-    },
-    "b271d174e634cf15": {
-      "date": "2026-09-18",
-      "title": "Tencent / WeKnora",
-      "source": "github"
-    },
-    "358f8118ec67b51f": {
-      "date": "2026-09-18",
-      "title": "cilium / cilium",
-      "source": "github"
-    },
     "cd66d5678f4bbef2": {
       "date": "2026-09-19",
       "title": "Cloudflare Quick Tunnels",
@@ -4950,6 +4800,161 @@
     "9bde5582e8ba9a19": {
       "date": "2026-10-18",
       "title": "anomalyco / opencode",
+      "source": "github"
+    },
+    "1d3ebabc210fdaa2": {
+      "date": "2026-10-19",
+      "title": "RepRapMicron",
+      "source": "hackernews"
+    },
+    "f81328e6b7ec63ca": {
+      "date": "2026-10-19",
+      "title": "Someone behind the software",
+      "source": "hackernews"
+    },
+    "3e9ec10a9d27e0ee": {
+      "date": "2026-10-19",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "source": "hackernews"
+    },
+    "4aa6c39860b2d3c7": {
+      "date": "2026-10-19",
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "source": "hackernews"
+    },
+    "d443aa06ff664371": {
+      "date": "2026-10-19",
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "source": "hackernews"
+    },
+    "5d83bd341c670142": {
+      "date": "2026-10-19",
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "source": "hackernews"
+    },
+    "ad7ffcacc2d8663f": {
+      "date": "2026-10-19",
+      "title": "PalmOS Lemmings",
+      "source": "hackernews"
+    },
+    "2a00123ae8ddb9ba": {
+      "date": "2026-10-19",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "source": "hackernews"
+    },
+    "632ec40be268eba6": {
+      "date": "2026-10-19",
+      "title": "\"Traditional, but Puzzling\"",
+      "source": "hackernews"
+    },
+    "0c2e84c7fd5774ed": {
+      "date": "2026-10-19",
+      "title": "William Gibson and the Trademarking of Cyberspace",
+      "source": "hackernews"
+    },
+    "0d5d854fcaa7f9a8": {
+      "date": "2026-10-19",
+      "title": "Krea 3",
+      "source": "producthunt"
+    },
+    "16a7922c24e9b319": {
+      "date": "2026-10-19",
+      "title": "Bee Frontier and Bee Eclipse",
+      "source": "producthunt"
+    },
+    "123b631966828d67": {
+      "date": "2026-10-19",
+      "title": "Vampire Crawlers™",
+      "source": "producthunt"
+    },
+    "f0f27101f20de66b": {
+      "date": "2026-10-19",
+      "title": "SpeechFast",
+      "source": "producthunt"
+    },
+    "175011844bb7fa50": {
+      "date": "2026-10-19",
+      "title": "MyLens",
+      "source": "producthunt"
+    },
+    "3121b0c952f1fcbb": {
+      "date": "2026-10-19",
+      "title": "3AM Super Intelligence",
+      "source": "producthunt"
+    },
+    "13bb00bbd0acce7e": {
+      "date": "2026-10-19",
+      "title": "Tomo for ChatGPT",
+      "source": "producthunt"
+    },
+    "60ea8c2d10b0fd78": {
+      "date": "2026-10-19",
+      "title": "Openbroca",
+      "source": "producthunt"
+    },
+    "be6a0cf36fdb1560": {
+      "date": "2026-10-19",
+      "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
+      "source": "devto"
+    },
+    "088fce3ebd36c512": {
+      "date": "2026-10-19",
+      "title": "🐾 DEV Pet Corner #2: Show Us Your Pets!",
+      "source": "devto"
+    },
+    "3253c8d670fe9f42": {
+      "date": "2026-10-19",
+      "title": "Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget",
+      "source": "devto"
+    },
+    "6db345804ed81761": {
+      "date": "2026-10-19",
+      "title": "The Garden I Wait for Every Winter",
+      "source": "devto"
+    },
+    "35732e3bdc0ccd99": {
+      "date": "2026-10-19",
+      "title": "I Built a New Tab Extension for DEV",
+      "source": "devto"
+    },
+    "06de063e34636fde": {
+      "date": "2026-10-19",
+      "title": "My Agent Turned \"I Haven't Decided\" Into \"Not Yet.\" Now the Model Isn't Allowed to Write Its Own Mem",
+      "source": "devto"
+    },
+    "86fbc5cb01824029": {
+      "date": "2026-10-19",
+      "title": "SQLite 3.54's diskused command needs a build flag sqlite3_analyzer never required",
+      "source": "devto"
+    },
+    "b0c05a6425319598": {
+      "date": "2026-10-19",
+      "title": "LeetCode Made Coding Fun Again",
+      "source": "devto"
+    },
+    "ce7693336aa8edc4": {
+      "date": "2026-10-19",
+      "title": "How I finally understood what idempotency is",
+      "source": "devto"
+    },
+    "223208710a171b3e": {
+      "date": "2026-10-19",
+      "title": "Munshi: a WhatsApp front desk for small hotels. A 4B model reads, Python decides, Temporal holds the",
+      "source": "devto"
+    },
+    "dc69b86c13a87148": {
+      "date": "2026-10-19",
+      "title": "mlabonne / llm-course",
+      "source": "github"
+    },
+    "11d8c470fc9306fe": {
+      "date": "2026-10-19",
+      "title": "Kruk2 / jasna",
+      "source": "github"
+    },
+    "cfd080a015af43f1": {
+      "date": "2026-10-19",
+      "title": "Comfy-Org / ComfyUI",
       "source": "github"
     }
   }
