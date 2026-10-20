@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-19T00:41:04.325619",
+  "last_updated": "2026-10-20T01:27:24.325104",
   "sent_items": {
-    "cd66d5678f4bbef2": {
-      "date": "2026-09-19",
-      "title": "Cloudflare Quick Tunnels",
-      "source": "hackernews"
-    },
-    "9a63d7d6c999e202": {
-      "date": "2026-09-19",
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "source": "hackernews"
-    },
-    "46b5a546de98b3b5": {
-      "date": "2026-09-19",
-      "title": "How to Write with an LLM",
-      "source": "hackernews"
-    },
-    "629776ac3834ec9e": {
-      "date": "2026-09-19",
-      "title": "Saving another 100TB of RAM",
-      "source": "hackernews"
-    },
-    "dc264893595eec75": {
-      "date": "2026-09-19",
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "source": "hackernews"
-    },
-    "319d64ba054c5a71": {
-      "date": "2026-09-19",
-      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "source": "hackernews"
-    },
-    "be7e24d9382eb5b6": {
-      "date": "2026-09-19",
-      "title": "Xcode 27.1 Beta Release Notes",
-      "source": "hackernews"
-    },
-    "f7b5abcff53c3abd": {
-      "date": "2026-09-19",
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "source": "hackernews"
-    },
-    "a817a2a7da9f774f": {
-      "date": "2026-09-19",
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "source": "hackernews"
-    },
-    "94f157e74dce42bc": {
-      "date": "2026-09-19",
-      "title": "The Farnese letter",
-      "source": "hackernews"
-    },
-    "502761c6b19ef795": {
-      "date": "2026-09-19",
-      "title": "Ari by Ariso",
-      "source": "producthunt"
-    },
-    "93528ddd7a8ea532": {
-      "date": "2026-09-19",
-      "title": "LokalBot",
-      "source": "producthunt"
-    },
-    "c725bbf4c4cf72c5": {
-      "date": "2026-09-19",
-      "title": "Wingman",
-      "source": "producthunt"
-    },
-    "ce93fe42a9bb8cf2": {
-      "date": "2026-09-19",
-      "title": "Wombo",
-      "source": "producthunt"
-    },
-    "4cab1de7eedce167": {
-      "date": "2026-09-19",
-      "title": "Holon",
-      "source": "producthunt"
-    },
-    "56410e9a6db58523": {
-      "date": "2026-09-19",
-      "title": "Buncha Games",
-      "source": "producthunt"
-    },
-    "91a389e22667ad71": {
-      "date": "2026-09-19",
-      "title": "StillTalk",
-      "source": "producthunt"
-    },
-    "c16dfb6632cf9f4d": {
-      "date": "2026-09-19",
-      "title": "Mela",
-      "source": "producthunt"
-    },
-    "6aa00d8ffb1da938": {
-      "date": "2026-09-19",
-      "title": "What was your win this week?!",
-      "source": "devto"
-    },
-    "d7fa97b41dc07dea": {
-      "date": "2026-09-19",
-      "title": "GMail, please let me hide delegated accounts on my iPhone",
-      "source": "devto"
-    },
-    "89e8a4b7156011bd": {
-      "date": "2026-09-19",
-      "title": "The beauty and terror of negative feedback",
-      "source": "devto"
-    },
-    "79b1437ddfa073ba": {
-      "date": "2026-09-19",
-      "title": "It's Got What Content Craves: Sanity, Built for the People of Idiocracy",
-      "source": "devto"
-    },
-    "c1bd8d73cc4828dc": {
-      "date": "2026-09-19",
-      "title": "Jev vs Claude: Who Wins?",
-      "source": "devto"
-    },
-    "2ddc4be164ac2297": {
-      "date": "2026-09-19",
-      "title": "Architecting Battery-Efficient Geofencing for Automated Sound Profiles",
-      "source": "devto"
-    },
-    "7fb6956a47b0c6c2": {
-      "date": "2026-09-19",
-      "title": "How to make a fool of yourself 101",
-      "source": "devto"
-    },
-    "336d504a06307080": {
-      "date": "2026-09-19",
-      "title": "164 disposable computers, one judging afternoon, and a question nobody had time to ask",
-      "source": "devto"
-    },
-    "a46afef2fc90e98d": {
-      "date": "2026-09-19",
-      "title": "Programming Is Mostly Learning How to Investigate Things",
-      "source": "devto"
-    },
-    "d5dc4b7b05fe8ea4": {
-      "date": "2026-09-19",
-      "title": "Testing Streaming AI Interfaces with Cypress Without Asserting Every Token",
-      "source": "devto"
-    },
-    "6c6123e1db3650aa": {
-      "date": "2026-09-19",
-      "title": "TencentCloud / Octop",
-      "source": "github"
-    },
-    "21d0ac56b11add59": {
-      "date": "2026-09-19",
-      "title": "Fission-AI / OpenSpec",
-      "source": "github"
-    },
-    "c48c82e47f720318": {
-      "date": "2026-09-19",
-      "title": "supermemoryai / supermemory",
-      "source": "github"
-    },
-    "d84de85bb3f0e980": {
-      "date": "2026-09-19",
-      "title": "tradesdontlie / tradingview-mcp",
-      "source": "github"
-    },
-    "7e0cdf3f57bc56a3": {
-      "date": "2026-09-19",
-      "title": "rustfs / rustfs",
-      "source": "github"
-    },
-    "e1859b05e6fcb91d": {
-      "date": "2026-09-19",
-      "title": "coder / coder",
-      "source": "github"
-    },
     "861b71c77d7ec3a2": {
       "date": "2026-09-20",
       "title": "AI-generated posters don’t have to be horrible",
@@ -4955,6 +4785,156 @@
     "cfd080a015af43f1": {
       "date": "2026-10-19",
       "title": "Comfy-Org / ComfyUI",
+      "source": "github"
+    },
+    "19a3c0683bcc03fe": {
+      "date": "2026-10-20",
+      "title": "Wine ported to OpenBSD",
+      "source": "hackernews"
+    },
+    "1af6c2e715d91186": {
+      "date": "2026-10-20",
+      "title": "It's still ok to enjoy programming",
+      "source": "hackernews"
+    },
+    "d8658eaddd74a3e8": {
+      "date": "2026-10-20",
+      "title": "MiniMax M3.1 Flash",
+      "source": "hackernews"
+    },
+    "db5f663b7be3c942": {
+      "date": "2026-10-20",
+      "title": "I built a drone with only one motor [video]",
+      "source": "hackernews"
+    },
+    "a65ef343d83cb156": {
+      "date": "2026-10-20",
+      "title": "Android apps running native on macOS",
+      "source": "hackernews"
+    },
+    "292eae1133616bb3": {
+      "date": "2026-10-20",
+      "title": "RuneScape Bench: MMOs for Agents [video]",
+      "source": "hackernews"
+    },
+    "9459652c95376f6e": {
+      "date": "2026-10-20",
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "source": "hackernews"
+    },
+    "6d511e322ef51973": {
+      "date": "2026-10-20",
+      "title": "One Hash Bloom Filters",
+      "source": "hackernews"
+    },
+    "1add435d686b07d4": {
+      "date": "2026-10-20",
+      "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
+      "source": "hackernews"
+    },
+    "e51eca98a9e9a706": {
+      "date": "2026-10-20",
+      "title": "Weball: Play Katamari on Websites",
+      "source": "hackernews"
+    },
+    "456eacc2060c10f2": {
+      "date": "2026-10-20",
+      "title": "Lookout (for Slack)",
+      "source": "producthunt"
+    },
+    "1bd9cd0e13ad6c32": {
+      "date": "2026-10-20",
+      "title": "Wally by Willow",
+      "source": "producthunt"
+    },
+    "7b34008d53ca1989": {
+      "date": "2026-10-20",
+      "title": "Beam.win",
+      "source": "producthunt"
+    },
+    "63c4f0dcfdcfeec1": {
+      "date": "2026-10-20",
+      "title": "AutoChart.eu",
+      "source": "producthunt"
+    },
+    "6074338d2306f3c7": {
+      "date": "2026-10-20",
+      "title": "DoOne",
+      "source": "producthunt"
+    },
+    "a732a627bea597c0": {
+      "date": "2026-10-20",
+      "title": "Starkomand",
+      "source": "producthunt"
+    },
+    "568b48516bba0337": {
+      "date": "2026-10-20",
+      "title": "croft",
+      "source": "producthunt"
+    },
+    "2c35a918b02ef306": {
+      "date": "2026-10-20",
+      "title": "Bank alerts to a day-book, with a local Gemma",
+      "source": "devto"
+    },
+    "a784499c9d359521": {
+      "date": "2026-10-20",
+      "title": "\"Rails Magic\" Isn't Magic. How a Request Actually Travels Through Rails.",
+      "source": "devto"
+    },
+    "f8951ffab99f3f67": {
+      "date": "2026-10-20",
+      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+      "source": "devto"
+    },
+    "f7811833e611c461": {
+      "date": "2026-10-20",
+      "title": "The Terminal Made Me a Better Developer (And Not for the Reasons I Expected)",
+      "source": "devto"
+    },
+    "3473e814f31c95cd": {
+      "date": "2026-10-20",
+      "title": "Writing C for the Web in 2026 Isn't Insane. It Might Be the Future",
+      "source": "devto"
+    },
+    "04d5d19a98dd9edc": {
+      "date": "2026-10-20",
+      "title": "The Verification Trap: Why Generative AI Is Making Senior Engineers Slower (and How to Fix It)",
+      "source": "devto"
+    },
+    "54fe5063732751c7": {
+      "date": "2026-10-20",
+      "title": "I built an AWS agent that scores any GitHub repo before you clone it",
+      "source": "devto"
+    },
+    "2a3adb7a85eeae71": {
+      "date": "2026-10-20",
+      "title": "Persistent Agent Teams: Recreating the Grok Bot Experience with Herdr, Claude Code and Pi",
+      "source": "devto"
+    },
+    "589f58b5a1ebad99": {
+      "date": "2026-10-20",
+      "title": "The Browser Already Has a Priority System. Your debounce(300) Does Not.",
+      "source": "devto"
+    },
+    "15306d9627d26e75": {
+      "date": "2026-10-20",
+      "title": "Your agent's retry bug isn't an AI problem. It's a distributed-systems problem with an LLM on top.",
+      "source": "devto"
+    },
+    "fa9f0509ee9eaa8b": {
+      "date": "2026-10-20",
+      "title": "headroomlabs-ai / headroom",
+      "source": "github"
+    },
+    "fb26d76e5a0fe664": {
+      "date": "2026-10-20",
+      "title": "withmarbleapp / os-taxonomy",
+      "source": "github"
+    },
+    "c175a33fc9954c9b": {
+      "date": "2026-10-20",
+      "title": "shiyu-coder / Kronos",
       "source": "github"
     }
   }
