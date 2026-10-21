@@ -1,187 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-20T01:27:24.325104",
+  "last_updated": "2026-10-21T01:06:03.401614",
   "sent_items": {
-    "861b71c77d7ec3a2": {
-      "date": "2026-09-20",
-      "title": "AI-generated posters don’t have to be horrible",
-      "source": "hackernews"
-    },
-    "4ae40c8c89696064": {
-      "date": "2026-09-20",
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "source": "hackernews"
-    },
-    "902764ff7b145f05": {
-      "date": "2026-09-20",
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "source": "hackernews"
-    },
-    "bcf6946fec319c15": {
-      "date": "2026-09-20",
-      "title": "Brood War Bench",
-      "source": "hackernews"
-    },
-    "5ca8754f367d17b2": {
-      "date": "2026-09-20",
-      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-      "source": "hackernews"
-    },
-    "18719394dfc17720": {
-      "date": "2026-09-20",
-      "title": "Measure internet censorship. Contribute to the largest open dataset",
-      "source": "hackernews"
-    },
-    "f487a8d1d4f07e18": {
-      "date": "2026-09-20",
-      "title": "Compiler-style optimization for drawing via Skia",
-      "source": "hackernews"
-    },
-    "c9dce3c8566e850e": {
-      "date": "2026-09-20",
-      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-      "source": "hackernews"
-    },
-    "b841b6dc716d2763": {
-      "date": "2026-09-20",
-      "title": "Mayday Mysteries",
-      "source": "hackernews"
-    },
-    "08bcb714b2a82da7": {
-      "date": "2026-09-20",
-      "title": "Exfiltrate Your Weights",
-      "source": "hackernews"
-    },
-    "edd0f2ce2f8a9298": {
-      "date": "2026-09-20",
-      "title": "Basedash Models",
-      "source": "producthunt"
-    },
-    "76d4842b006a3b15": {
-      "date": "2026-09-20",
-      "title": "Mise",
-      "source": "producthunt"
-    },
-    "5547371b8457191e": {
-      "date": "2026-09-20",
-      "title": "Steam Frame",
-      "source": "producthunt"
-    },
-    "1d630ddf902817a5": {
-      "date": "2026-09-20",
-      "title": "Punch",
-      "source": "producthunt"
-    },
-    "087483f68859e255": {
-      "date": "2026-09-20",
-      "title": "VoiceCap",
-      "source": "producthunt"
-    },
-    "76ae0979f86221fd": {
-      "date": "2026-09-20",
-      "title": "Ruby UTCP",
-      "source": "producthunt"
-    },
-    "d3a3abef03fd7a95": {
-      "date": "2026-09-20",
-      "title": "Squirrel",
-      "source": "producthunt"
-    },
-    "ff1e4e7be9753025": {
-      "date": "2026-09-20",
-      "title": "Lull",
-      "source": "producthunt"
-    },
-    "a2ea66ef85d7742b": {
-      "date": "2026-09-20",
-      "title": "Dev log #21 Hardening WebRTC-Direct and solving SCM leaks",
-      "source": "devto"
-    },
-    "93dc74ff10235ec0": {
-      "date": "2026-09-20",
-      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
-      "source": "devto"
-    },
-    "147e962895b11c75": {
-      "date": "2026-09-20",
-      "title": "Frozendict 🧊: State of the Art Immutable Hashmap for Python and Node JS.",
-      "source": "devto"
-    },
-    "95452fa2429b3a1e": {
-      "date": "2026-09-20",
-      "title": "What Do You Do While AI Codes? I Make Mine Argue With Itself.",
-      "source": "devto"
-    },
-    "08de611fd9f10a59": {
-      "date": "2026-09-20",
-      "title": "Thrown Into a Huge Unfamiliar Codebase? Here's Your Survival Guide.",
-      "source": "devto"
-    },
-    "d84b32477759d60a": {
-      "date": "2026-09-20",
-      "title": "I got rejected for using AI in an interview. Then I watched the interviewer do it.",
-      "source": "devto"
-    },
-    "0ed04bc79df7282f": {
-      "date": "2026-09-20",
-      "title": "I Let AI Write My Tests for 6 Months. Here Is What Actually Survived Production",
-      "source": "devto"
-    },
-    "058aa238ce09a5b9": {
-      "date": "2026-09-20",
-      "title": "Your AI Coding Agent Can Be Attacked by the Repository It Opens",
-      "source": "devto"
-    },
-    "d182b0d474b6a050": {
-      "date": "2026-09-20",
-      "title": "What Go Taught Us About Java Garbage Collection",
-      "source": "devto"
-    },
-    "d44331a1971df5c9": {
-      "date": "2026-09-20",
-      "title": "trycua / cua",
-      "source": "github"
-    },
-    "84daf5030c295d45": {
-      "date": "2026-09-20",
-      "title": "Open-Dev-Society / OpenStock",
-      "source": "github"
-    },
-    "b81606652c12947e": {
-      "date": "2026-09-20",
-      "title": "higgsfield-ai / higgsfield",
-      "source": "github"
-    },
-    "221977b1a4ae3da4": {
-      "date": "2026-09-20",
-      "title": "docling-project / docling",
-      "source": "github"
-    },
-    "27b58a986ae4d764": {
-      "date": "2026-09-20",
-      "title": "cloudflare / quiche",
-      "source": "github"
-    },
-    "ce0f960de489184c": {
-      "date": "2026-09-20",
-      "title": "ruanyf / weekly",
-      "source": "github"
-    },
-    "e413ca598b2e8b59": {
-      "date": "2026-09-20",
-      "title": "ZuodaoTech / everyone-can-use-english",
-      "source": "github"
-    },
-    "88adb36d994a0627": {
-      "date": "2026-09-20",
-      "title": "cactus-compute / needle",
-      "source": "github"
-    },
-    "9668b773c0c4ccf9": {
-      "date": "2026-09-20",
-      "title": "yynxxxxx / Codex-X",
-      "source": "github"
-    },
     "9a048b65d02cf7ae": {
       "date": "2026-09-21",
       "title": "ChatGPT now knows what you do on other websites via ad collector",
@@ -4935,6 +4755,176 @@
     "c175a33fc9954c9b": {
       "date": "2026-10-20",
       "title": "shiyu-coder / Kronos",
+      "source": "github"
+    },
+    "e793423216723e8d": {
+      "date": "2026-10-21",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "source": "hackernews"
+    },
+    "8c0b1155a849d858": {
+      "date": "2026-10-21",
+      "title": "SimCity, but with Permits",
+      "source": "hackernews"
+    },
+    "90e3b37a09eaeb60": {
+      "date": "2026-10-21",
+      "title": "Voxtral 3",
+      "source": "hackernews"
+    },
+    "bdeb631f6f9a291c": {
+      "date": "2026-10-21",
+      "title": "Apple broke an essential presentation feature of iPads",
+      "source": "hackernews"
+    },
+    "d3ee06814378730b": {
+      "date": "2026-10-21",
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "source": "hackernews"
+    },
+    "1d253486e5feda91": {
+      "date": "2026-10-21",
+      "title": "What shall I teach my son?",
+      "source": "hackernews"
+    },
+    "471f77cea11f4b35": {
+      "date": "2026-10-21",
+      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "source": "hackernews"
+    },
+    "0afec035bdd69211": {
+      "date": "2026-10-21",
+      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "source": "hackernews"
+    },
+    "1f5b4f3065bd928a": {
+      "date": "2026-10-21",
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "source": "hackernews"
+    },
+    "e375e9eefb62c1b3": {
+      "date": "2026-10-21",
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "source": "hackernews"
+    },
+    "6ada322f070ec608": {
+      "date": "2026-10-21",
+      "title": "Harness²",
+      "source": "producthunt"
+    },
+    "73ee8b7fb51c840a": {
+      "date": "2026-10-21",
+      "title": "RunInfra",
+      "source": "producthunt"
+    },
+    "1dfd383b80472a8c": {
+      "date": "2026-10-21",
+      "title": "snyvi",
+      "source": "producthunt"
+    },
+    "20f886f56519a43c": {
+      "date": "2026-10-21",
+      "title": "Capitol Alpha Machine",
+      "source": "producthunt"
+    },
+    "28da362835dd06a2": {
+      "date": "2026-10-21",
+      "title": "xtty",
+      "source": "producthunt"
+    },
+    "f5dab01ba420915d": {
+      "date": "2026-10-21",
+      "title": "/dev/null",
+      "source": "producthunt"
+    },
+    "89eae79648d31a0d": {
+      "date": "2026-10-21",
+      "title": "bonds",
+      "source": "producthunt"
+    },
+    "4dffa71c923264fa": {
+      "date": "2026-10-21",
+      "title": "OpenShip Cloud",
+      "source": "producthunt"
+    },
+    "cae67d518fcb9bb4": {
+      "date": "2026-10-21",
+      "title": "Somewhere, Coding Stopped Being Allowed to Be Fun",
+      "source": "devto"
+    },
+    "3502e09b62fc813d": {
+      "date": "2026-10-21",
+      "title": "An App Built for One: Why a Devpost Skill Pack Made Me Spec It Anyway",
+      "source": "devto"
+    },
+    "843ee6721b017bdd": {
+      "date": "2026-10-21",
+      "title": "I Miss Writing Code",
+      "source": "devto"
+    },
+    "dfebcd8587492a20": {
+      "date": "2026-10-21",
+      "title": "Qwen3.8-Flash-Next vs Claude Opus 5.5: Six-way benchmark on a real Rust feature",
+      "source": "devto"
+    },
+    "36ff65a333ba6eb9": {
+      "date": "2026-10-21",
+      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
+      "source": "devto"
+    },
+    "b0bd08c132c8d14d": {
+      "date": "2026-10-21",
+      "title": "2 Agent Skills Every Frontend Developer Should Try",
+      "source": "devto"
+    },
+    "d0ab0c724bc18a04": {
+      "date": "2026-10-21",
+      "title": "Dev log #26 Deep in the libp2p weeds: Fixing DHT prefixes and Yamux resets",
+      "source": "devto"
+    },
+    "e83d90b3a6365fc9": {
+      "date": "2026-10-21",
+      "title": "Dev log #25 Hardening p2p networking and shipping interactive CLI features in Rust",
+      "source": "devto"
+    },
+    "df496e84317aff9d": {
+      "date": "2026-10-21",
+      "title": "Tuesday Isn't a Valid State Transition",
+      "source": "devto"
+    },
+    "75c5886a8bd5b06c": {
+      "date": "2026-10-21",
+      "title": "Is Claude taking control of my development skills? I went looking for proof.",
+      "source": "devto"
+    },
+    "1a92f63bf14a6dae": {
+      "date": "2026-10-21",
+      "title": "cloudflare / security-audit-skill",
+      "source": "github"
+    },
+    "68a6c284cff5d619": {
+      "date": "2026-10-21",
+      "title": "Graphify-Labs / graphify",
+      "source": "github"
+    },
+    "8b104053cac10bb4": {
+      "date": "2026-10-21",
+      "title": "anthropics / knowledge-work-plugins",
+      "source": "github"
+    },
+    "9027d8fb2aab13ec": {
+      "date": "2026-10-21",
+      "title": "wshobson / agents",
+      "source": "github"
+    },
+    "ff1ceb5a331e6f4a": {
+      "date": "2026-10-21",
+      "title": "sickn33 / agentic-awesome-skills",
+      "source": "github"
+    },
+    "6caed060135fb093": {
+      "date": "2026-10-21",
+      "title": "vllm-project / vllm",
       "source": "github"
     }
   }
