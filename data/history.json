@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-21T01:06:03.401614",
+  "last_updated": "2026-10-22T01:05:59.211587",
   "sent_items": {
-    "9a048b65d02cf7ae": {
-      "date": "2026-09-21",
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "source": "hackernews"
-    },
-    "97ac8e86b37c6d23": {
-      "date": "2026-09-21",
-      "title": "Qwen Image 2.1",
-      "source": "hackernews"
-    },
-    "f3741aa8158b8618": {
-      "date": "2026-09-21",
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "source": "hackernews"
-    },
-    "9221b9252f7188c0": {
-      "date": "2026-09-21",
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "source": "hackernews"
-    },
-    "2e2f537981f14d62": {
-      "date": "2026-09-21",
-      "title": "Nobody pays for FOSS, we can force them to",
-      "source": "hackernews"
-    },
-    "1f8f0587e01604ae": {
-      "date": "2026-09-21",
-      "title": "Google's Open Agentic Orchestrator",
-      "source": "hackernews"
-    },
-    "485596440f0177f1": {
-      "date": "2026-09-21",
-      "title": "Apple iPhone 18 Pro Camera test",
-      "source": "hackernews"
-    },
-    "a1e4169b942d8ebe": {
-      "date": "2026-09-21",
-      "title": "What Happened to the Snowden Archive",
-      "source": "hackernews"
-    },
-    "ab1d94a3c49c3df0": {
-      "date": "2026-09-21",
-      "title": "The Effect of CRTs on Pixel Art",
-      "source": "hackernews"
-    },
-    "75912f7cb98b047a": {
-      "date": "2026-09-21",
-      "title": "Amiga Unix, Again",
-      "source": "hackernews"
-    },
-    "a73f8d45977aeb76": {
-      "date": "2026-09-21",
-      "title": "Answers by Context.dev",
-      "source": "producthunt"
-    },
-    "ca57dc8f56f1c0e1": {
-      "date": "2026-09-21",
-      "title": "Epismo OS",
-      "source": "producthunt"
-    },
-    "ac0b9adebb170c39": {
-      "date": "2026-09-21",
-      "title": "Scrapboard Cloud 4",
-      "source": "producthunt"
-    },
-    "b71f84a745490231": {
-      "date": "2026-09-21",
-      "title": "Morsa Signals",
-      "source": "producthunt"
-    },
-    "2798dca53e3d7b7b": {
-      "date": "2026-09-21",
-      "title": "The 101 Plays Itself",
-      "source": "producthunt"
-    },
-    "d975f7ace94c6d58": {
-      "date": "2026-09-21",
-      "title": "Minicart",
-      "source": "producthunt"
-    },
-    "ad0f3a969f846bf5": {
-      "date": "2026-09-21",
-      "title": "Launchie 1.6.1",
-      "source": "producthunt"
-    },
-    "c91380d9f6159474": {
-      "date": "2026-09-21",
-      "title": "BuilderIO / agent-native",
-      "source": "github"
-    },
-    "bf36d171e6670874": {
-      "date": "2026-09-21",
-      "title": "anthropics / financial-services",
-      "source": "github"
-    },
-    "9da20606e54ba5ed": {
-      "date": "2026-09-21",
-      "title": "paperless-ngx / paperless-ngx",
-      "source": "github"
-    },
-    "6574280bda3f3407": {
-      "date": "2026-09-21",
-      "title": "mihail911 / modern-software-dev-assignments",
-      "source": "github"
-    },
-    "35f99ce97c2a7c77": {
-      "date": "2026-09-21",
-      "title": "vercel-labs / json-render",
-      "source": "github"
-    },
-    "4baa0f30ae34afa1": {
-      "date": "2026-09-21",
-      "title": "i built a green blob that lives on my desktop. now it has feelings.",
-      "source": "devto"
-    },
-    "157358e3ce08d061": {
-      "date": "2026-09-21",
-      "title": "Blacksmith's GitHub Actions runners finished the same job 3 to 4 times faster than GitHub hosted Act",
-      "source": "devto"
-    },
-    "f7a0490198177d70": {
-      "date": "2026-09-21",
-      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
-      "source": "devto"
-    },
-    "5aa3296277047ee9": {
-      "date": "2026-09-21",
-      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
-      "source": "devto"
-    },
-    "e9949193513e6388": {
-      "date": "2026-09-21",
-      "title": "I Resurrected a Dead CRC Crate and It Suddenly Went Viral",
-      "source": "devto"
-    },
-    "548d90b085c44568": {
-      "date": "2026-09-21",
-      "title": "How to make your own Vim operator",
-      "source": "devto"
-    },
-    "3ca52cb809598544": {
-      "date": "2026-09-21",
-      "title": "FastAPI's new app.frontend() fixes a route-order bug in manual SPA serving",
-      "source": "devto"
-    },
-    "95eac8c18aaa3084": {
-      "date": "2026-09-21",
-      "title": "I missed Go's `if err != nil`, so I built errval for TypeScript",
-      "source": "devto"
-    },
-    "5a32fd9f7ef571c5": {
-      "date": "2026-09-21",
-      "title": "Faster Maps: Chasing Swiss Speed",
-      "source": "devto"
-    },
-    "826966b938357940": {
-      "date": "2026-09-21",
-      "title": "No Results Found (Until You Look)",
-      "source": "devto"
-    },
     "5d6105479616f230": {
       "date": "2026-09-22",
       "title": "Attention is all you have",
@@ -4925,6 +4765,161 @@
     "6caed060135fb093": {
       "date": "2026-10-21",
       "title": "vllm-project / vllm",
+      "source": "github"
+    },
+    "7e66077374df146d": {
+      "date": "2026-10-22",
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "source": "hackernews"
+    },
+    "7396eac8b2114626": {
+      "date": "2026-10-22",
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "source": "hackernews"
+    },
+    "8d3fb1f14a72fe6a": {
+      "date": "2026-10-22",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "source": "hackernews"
+    },
+    "8608007811704841": {
+      "date": "2026-10-22",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "source": "hackernews"
+    },
+    "94310e7629d639b6": {
+      "date": "2026-10-22",
+      "title": "Railway Security Disclosure",
+      "source": "hackernews"
+    },
+    "88440de268c35adc": {
+      "date": "2026-10-22",
+      "title": "GitLab Critical Patch Release",
+      "source": "hackernews"
+    },
+    "e5e6476c84c300c6": {
+      "date": "2026-10-22",
+      "title": "Google's Rust Style Guide",
+      "source": "hackernews"
+    },
+    "39245d78494089d3": {
+      "date": "2026-10-22",
+      "title": "No More Icons in Every Menu by Default",
+      "source": "hackernews"
+    },
+    "8cde49b34ecc9838": {
+      "date": "2026-10-22",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "source": "hackernews"
+    },
+    "ce3398907488b278": {
+      "date": "2026-10-22",
+      "title": "mitmproxy adds --emudhra option",
+      "source": "hackernews"
+    },
+    "5de04e0be23132bc": {
+      "date": "2026-10-22",
+      "title": "Hotly",
+      "source": "producthunt"
+    },
+    "32013cd84cc40ab5": {
+      "date": "2026-10-22",
+      "title": "Woven Video",
+      "source": "producthunt"
+    },
+    "e880bab494cd6092": {
+      "date": "2026-10-22",
+      "title": "Scout by Fini",
+      "source": "producthunt"
+    },
+    "6f35c09dc84cc8a8": {
+      "date": "2026-10-22",
+      "title": "Koi",
+      "source": "producthunt"
+    },
+    "a9fedf2f86132596": {
+      "date": "2026-10-22",
+      "title": "Lea by LeanAIOS",
+      "source": "producthunt"
+    },
+    "b5537930fd14a64f": {
+      "date": "2026-10-22",
+      "title": "SuperCMO AI",
+      "source": "producthunt"
+    },
+    "c2faeb8266eb868f": {
+      "date": "2026-10-22",
+      "title": "Intelli for ChatGPT & Claude",
+      "source": "producthunt"
+    },
+    "6f329d699b930bc2": {
+      "date": "2026-10-22",
+      "title": "ilha",
+      "source": "producthunt"
+    },
+    "b2e932d6671b53da": {
+      "date": "2026-10-22",
+      "title": "How to Become a Tech Conference Speaker (And Why You Might Regret It)",
+      "source": "devto"
+    },
+    "1a9b7e13368af229": {
+      "date": "2026-10-22",
+      "title": "I Got Tired of Coming into my Lab to Check the Pressure of my Cryocooler so I Built a Tool to do it ",
+      "source": "devto"
+    },
+    "3bae886fd6f3f2e0": {
+      "date": "2026-10-22",
+      "title": "Stuck in the same dev.to topics? An open model fixed it.",
+      "source": "devto"
+    },
+    "37270761910df71f": {
+      "date": "2026-10-22",
+      "title": "is-kit Reached 100 Stars ⭐🎉 Here’s What Changed Since 50",
+      "source": "devto"
+    },
+    "e29038cea67861a5": {
+      "date": "2026-10-22",
+      "title": "In Ruby, Objects Don't Have Methods. How Method Lookup Actually Works.",
+      "source": "devto"
+    },
+    "178d902b28ddf189": {
+      "date": "2026-10-22",
+      "title": "How to publish posts via the dev.to API",
+      "source": "devto"
+    },
+    "508cd4ac2f22b1fa": {
+      "date": "2026-10-22",
+      "title": "I'm a First-Year ECE Student Trying to Figure Out \"The Prestige Path\" vs. Just Building Stuff",
+      "source": "devto"
+    },
+    "5410ac7b8b8c72c4": {
+      "date": "2026-10-22",
+      "title": "I Built slothd: A Local-First, Offline-Capable AI Daemon That Patiently Organizes Your Messy Workspa",
+      "source": "devto"
+    },
+    "6fcc8c89183b952b": {
+      "date": "2026-10-22",
+      "title": "SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a ",
+      "source": "devto"
+    },
+    "75116c8d90462133": {
+      "date": "2026-10-22",
+      "title": "I Fixed WebGPU on Linux. Then Forgot How I Did It.",
+      "source": "devto"
+    },
+    "846afa38c565e32e": {
+      "date": "2026-10-22",
+      "title": "supabase / supabase",
+      "source": "github"
+    },
+    "4e4265489a81fda2": {
+      "date": "2026-10-22",
+      "title": "twentyhq / twenty",
+      "source": "github"
+    },
+    "e29fc86ccac2cb56": {
+      "date": "2026-10-22",
+      "title": "strelov1 / freehire",
       "source": "github"
     }
   }
