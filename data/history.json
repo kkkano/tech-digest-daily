@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-22T01:05:59.211587",
+  "last_updated": "2026-10-23T01:08:27.333186",
   "sent_items": {
-    "5d6105479616f230": {
-      "date": "2026-09-22",
-      "title": "Attention is all you have",
-      "source": "hackernews"
-    },
-    "c81f947362b7ce81": {
-      "date": "2026-09-22",
-      "title": "Xiaomi MiMo v2.6",
-      "source": "hackernews"
-    },
-    "50409e7062e283ec": {
-      "date": "2026-09-22",
-      "title": "What Sun got wrong",
-      "source": "hackernews"
-    },
-    "f026b316fd816cf7": {
-      "date": "2026-09-22",
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "source": "hackernews"
-    },
-    "da19df040466e167": {
-      "date": "2026-09-22",
-      "title": "I don't want to read what you didn't write",
-      "source": "hackernews"
-    },
-    "cf0aad59a9d15a39": {
-      "date": "2026-09-22",
-      "title": "Transformers Explained Visually",
-      "source": "hackernews"
-    },
-    "6ccadb864870b71e": {
-      "date": "2026-09-22",
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "source": "hackernews"
-    },
-    "f86489852bef3369": {
-      "date": "2026-09-22",
-      "title": "Divide by depth for instant 3D",
-      "source": "hackernews"
-    },
-    "f6c24c09b631ac4c": {
-      "date": "2026-09-22",
-      "title": "Spymarks, Not Watermarks",
-      "source": "hackernews"
-    },
-    "4ee690512bc89407": {
-      "date": "2026-09-22",
-      "title": "First Shader from Zero in Godot 4",
-      "source": "hackernews"
-    },
-    "2264233e8d9bb57f": {
-      "date": "2026-09-22",
-      "title": "Sell to State",
-      "source": "producthunt"
-    },
-    "3ca25511d245ef5e": {
-      "date": "2026-09-22",
-      "title": "Refoid",
-      "source": "producthunt"
-    },
-    "999f4c9e61c53296": {
-      "date": "2026-09-22",
-      "title": "NiubiGEO",
-      "source": "producthunt"
-    },
-    "e89b52119bcaf05c": {
-      "date": "2026-09-22",
-      "title": "Lead Sparker",
-      "source": "producthunt"
-    },
-    "305bd19ea3cdd333": {
-      "date": "2026-09-22",
-      "title": "Simha Digital",
-      "source": "producthunt"
-    },
-    "8bb3c1b36c442452": {
-      "date": "2026-09-22",
-      "title": "slop-grader",
-      "source": "producthunt"
-    },
-    "44154b46b32c21ba": {
-      "date": "2026-09-22",
-      "title": "akitaonrails / ai-memory",
-      "source": "github"
-    },
-    "ee900e8a14249367": {
-      "date": "2026-09-22",
-      "title": "mvt-project / mvt",
-      "source": "github"
-    },
-    "d26904d3ecd892fc": {
-      "date": "2026-09-22",
-      "title": "zhouxiaoka / autoclip",
-      "source": "github"
-    },
-    "41a6a86637e67fe4": {
-      "date": "2026-09-22",
-      "title": "Crosstalk-Solutions / project-nomad",
-      "source": "github"
-    },
-    "2c68b9e70f4232d0": {
-      "date": "2026-09-22",
-      "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
-      "source": "devto"
-    },
-    "fa4a484c590a19c0": {
-      "date": "2026-09-22",
-      "title": "You're not an impostor, you just started from a different line",
-      "source": "devto"
-    },
-    "f0c4900278e416f4": {
-      "date": "2026-09-22",
-      "title": "Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code",
-      "source": "devto"
-    },
-    "40b044960d3b5c06": {
-      "date": "2026-09-22",
-      "title": "My AI Agent Isn't Allowed to Decide Anything",
-      "source": "devto"
-    },
-    "2cab0bc7b4fe0c3e": {
-      "date": "2026-09-22",
-      "title": "Clean Code Is Not the Same as Clear Code: Comments Were Never the Problem",
-      "source": "devto"
-    },
-    "44942dea6a5b9eb8": {
-      "date": "2026-09-22",
-      "title": "I Thought I Knew WordPress Theme Development Until My First Project",
-      "source": "devto"
-    },
-    "df5525ec716076d7": {
-      "date": "2026-09-22",
-      "title": "10 Cool CodePen Demos (August 2026)",
-      "source": "devto"
-    },
-    "0d071d4d32487a49": {
-      "date": "2026-09-22",
-      "title": "React 19's useTransition Looked Simple. Then I Found a Second Bug Hiding Inside the First One",
-      "source": "devto"
-    },
-    "20347b8190c03b02": {
-      "date": "2026-09-22",
-      "title": "How to stop AI from confidently shipping broken code (a pattern that actually works)",
-      "source": "devto"
-    },
-    "4d032fe0ced94fe3": {
-      "date": "2026-09-22",
-      "title": "Where Trust in Automated Review Actually Comes From",
-      "source": "devto"
-    },
     "23e9c366edfe97a9": {
       "date": "2026-09-23",
       "title": "Claude Opus 5.5",
@@ -4921,6 +4771,156 @@
       "date": "2026-10-22",
       "title": "strelov1 / freehire",
       "source": "github"
+    },
+    "89f493fae281e1ca": {
+      "date": "2026-10-23",
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "source": "hackernews"
+    },
+    "257b7beb66c6aab6": {
+      "date": "2026-10-23",
+      "title": "Jailbreaking the Switch 2",
+      "source": "hackernews"
+    },
+    "133285e9b3a21fdd": {
+      "date": "2026-10-23",
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "source": "hackernews"
+    },
+    "7e8304ad827517ed": {
+      "date": "2026-10-23",
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "source": "hackernews"
+    },
+    "69868b70a90fcbf0": {
+      "date": "2026-10-23",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "source": "hackernews"
+    },
+    "d2caef38414923b4": {
+      "date": "2026-10-23",
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "source": "hackernews"
+    },
+    "4a14aad21fb2f0c1": {
+      "date": "2026-10-23",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "source": "hackernews"
+    },
+    "1f570223bf3041db": {
+      "date": "2026-10-23",
+      "title": "Docker Is Weird",
+      "source": "hackernews"
+    },
+    "41734621812840ad": {
+      "date": "2026-10-23",
+      "title": "Mapping the Northern Sky",
+      "source": "hackernews"
+    },
+    "6415aaf54dadecc5": {
+      "date": "2026-10-23",
+      "title": "Teclo",
+      "source": "producthunt"
+    },
+    "1b630a4528e975fa": {
+      "date": "2026-10-23",
+      "title": "Claude Duet",
+      "source": "producthunt"
+    },
+    "ded635b8cee4acf8": {
+      "date": "2026-10-23",
+      "title": "Agentic CleanSlop",
+      "source": "producthunt"
+    },
+    "d467fe2c3c88d234": {
+      "date": "2026-10-23",
+      "title": "Tetriz Engg Intelligence + Connectors",
+      "source": "producthunt"
+    },
+    "95dedac94eeebecc": {
+      "date": "2026-10-23",
+      "title": "DeepCell",
+      "source": "producthunt"
+    },
+    "1a4d90df6aaa7651": {
+      "date": "2026-10-23",
+      "title": "Notif",
+      "source": "producthunt"
+    },
+    "3c1524aa6a49ee2d": {
+      "date": "2026-10-23",
+      "title": "Sponkly",
+      "source": "producthunt"
+    },
+    "33fa284573f433ad": {
+      "date": "2026-10-23",
+      "title": "Whiteboard",
+      "source": "producthunt"
+    },
+    "7166b39e50075007": {
+      "date": "2026-10-23",
+      "title": "php / php-src",
+      "source": "github"
+    },
+    "01f8d446752c39de": {
+      "date": "2026-10-23",
+      "title": "fastapi / fastapi",
+      "source": "github"
+    },
+    "aaa5c7366cbdcbd7": {
+      "date": "2026-10-23",
+      "title": "luongnv89 / claude-howto",
+      "source": "github"
+    },
+    "56294a584ddd0006": {
+      "date": "2026-10-23",
+      "title": "Meloong-Git / PCL",
+      "source": "github"
+    },
+    "5002a13ca44e0f9d": {
+      "date": "2026-10-23",
+      "title": "Don't Be a Proxy Between Me and Your AI",
+      "source": "devto"
+    },
+    "d62bba03661276a6": {
+      "date": "2026-10-23",
+      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and sessi",
+      "source": "devto"
+    },
+    "433464a56298ab75": {
+      "date": "2026-10-23",
+      "title": "Buried Reads #1: Five Good Posts That Deserve More Attention",
+      "source": "devto"
+    },
+    "fffb2f01b8313038": {
+      "date": "2026-10-23",
+      "title": "Nothing Reported It",
+      "source": "devto"
+    },
+    "e8dea69b63a0539c": {
+      "date": "2026-10-23",
+      "title": "Android 16 on a 4.9 Kernel: LineageOS 23.2 on the Pixel 3a",
+      "source": "devto"
+    },
+    "15762c3dfdbf67b3": {
+      "date": "2026-10-23",
+      "title": "Log Aggregation Pipeline Explained: Follow One Log Line and Run the Incident in Your Browser",
+      "source": "devto"
+    },
+    "d140302e694e3719": {
+      "date": "2026-10-23",
+      "title": "Git 2.56's last-modified command is fast on one directory and slow on scattered files",
+      "source": "devto"
+    },
+    "a74f216285320b4f": {
+      "date": "2026-10-23",
+      "title": "Your Retry Policy Is Making Production Outages Worse",
+      "source": "devto"
+    },
+    "1d66ca859f8c63db": {
+      "date": "2026-10-23",
+      "title": "One Dev, Four Specialists: My Agent Team for OpenCode 🧑‍💻",
+      "source": "devto"
     }
   }
 }
