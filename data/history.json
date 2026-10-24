@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-23T01:08:27.333186",
+  "last_updated": "2026-10-24T01:14:43.402170",
   "sent_items": {
-    "23e9c366edfe97a9": {
-      "date": "2026-09-23",
-      "title": "Claude Opus 5.5",
-      "source": "hackernews"
-    },
-    "48b4014c7a01bc52": {
-      "date": "2026-09-23",
-      "title": "GPT-6 Sol and Luna",
-      "source": "hackernews"
-    },
-    "661f87df20b90e57": {
-      "date": "2026-09-23",
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "source": "hackernews"
-    },
-    "444cb4f5fa3c4c47": {
-      "date": "2026-09-23",
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "source": "hackernews"
-    },
-    "95be4cc1d9e945e7": {
-      "date": "2026-09-23",
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "source": "hackernews"
-    },
-    "1c9047173984abdf": {
-      "date": "2026-09-23",
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "source": "hackernews"
-    },
-    "b3b5ec7c95f8b28f": {
-      "date": "2026-09-23",
-      "title": "SAML: A fractal of bad design",
-      "source": "hackernews"
-    },
-    "a0f2a481785fb107": {
-      "date": "2026-09-23",
-      "title": "Unreal Agent",
-      "source": "hackernews"
-    },
-    "9aa45f80637a9478": {
-      "date": "2026-09-23",
-      "title": "What California is learning from solar panels built over irrigation canals",
-      "source": "hackernews"
-    },
-    "7480bd9d1e4e225c": {
-      "date": "2026-09-23",
-      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-      "source": "hackernews"
-    },
-    "bb1027bf69635503": {
-      "date": "2026-09-23",
-      "title": "thestory.run",
-      "source": "producthunt"
-    },
-    "adb12754c68287c7": {
-      "date": "2026-09-23",
-      "title": "WZRD",
-      "source": "producthunt"
-    },
-    "9c3509a572e9bac3": {
-      "date": "2026-09-23",
-      "title": "Plane Agents",
-      "source": "producthunt"
-    },
-    "7178bb208ffcbf44": {
-      "date": "2026-09-23",
-      "title": "PixelCrew",
-      "source": "producthunt"
-    },
-    "56040a72d5905d53": {
-      "date": "2026-09-23",
-      "title": "Hola AI",
-      "source": "producthunt"
-    },
-    "87c916d66e6e855a": {
-      "date": "2026-09-23",
-      "title": "MiMo-V2.6",
-      "source": "producthunt"
-    },
-    "13a0ed5b7f94780b": {
-      "date": "2026-09-23",
-      "title": "Fulvid",
-      "source": "producthunt"
-    },
-    "26aaffaaa47a23fd": {
-      "date": "2026-09-23",
-      "title": "gg-friggin-ez",
-      "source": "producthunt"
-    },
-    "9b897d36ce84b465": {
-      "date": "2026-09-23",
-      "title": "agent-substrate / substrate",
-      "source": "github"
-    },
-    "dd3f7c0b511db930": {
-      "date": "2026-09-23",
-      "title": "dream-num / univer",
-      "source": "github"
-    },
-    "95ae7120d6074efd": {
-      "date": "2026-09-23",
-      "title": "davila7 / claude-code-templates",
-      "source": "github"
-    },
-    "9dd98392ba38066b": {
-      "date": "2026-09-23",
-      "title": "google / ax",
-      "source": "github"
-    },
-    "1c9ab9e342ae2991": {
-      "date": "2026-09-23",
-      "title": "superdesigndev / treg",
-      "source": "github"
-    },
-    "0236bcbf7b5c3427": {
-      "date": "2026-09-23",
-      "title": "Why the Best Software Advice Is the Hardest to Follow",
-      "source": "devto"
-    },
-    "d3634756955e4c80": {
-      "date": "2026-09-23",
-      "title": "Two Weeks In: A 15-Year QA Veteran, Back to Being the New Guy",
-      "source": "devto"
-    },
-    "8db14a375bd8ddb8": {
-      "date": "2026-09-23",
-      "title": "We All Have a \"Serious Work\" AI and a \"Just Vibing\" AI. When Did That Happen?",
-      "source": "devto"
-    },
-    "c00d0bab0208f847": {
-      "date": "2026-09-23",
-      "title": "Cheap RAG in Go with Gemini File Search: no vector DB, two calls, one hosted store",
-      "source": "devto"
-    },
-    "34644eacdf91da72": {
-      "date": "2026-09-23",
-      "title": "The Grand Unifying Architecture of Frontend",
-      "source": "devto"
-    },
-    "6aff54d7057ca622": {
-      "date": "2026-09-23",
-      "title": "The swarm that kept coming back",
-      "source": "devto"
-    },
-    "83663ecb43750c54": {
-      "date": "2026-09-23",
-      "title": "The Git Recovery Guide: How to Undo Anything (Without Panic)",
-      "source": "devto"
-    },
-    "9f88dfdc2f0a2915": {
-      "date": "2026-09-23",
-      "title": "Laravel Is Not As Heavy As You Think",
-      "source": "devto"
-    },
-    "c2916b8b37cf5220": {
-      "date": "2026-09-23",
-      "title": "The Curiosity Gap: Why We've Stopped Asking Questions",
-      "source": "devto"
-    },
-    "3dbc159bc0aae81b": {
-      "date": "2026-09-23",
-      "title": "We Solved the How to Code Problem. We Still Haven't Solved \"What to Build.\"",
-      "source": "devto"
-    },
     "68024e28356d7cb5": {
       "date": "2026-09-24",
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
@@ -4920,6 +4755,166 @@
     "1d66ca859f8c63db": {
       "date": "2026-10-23",
       "title": "One Dev, Four Specialists: My Agent Team for OpenCode 🧑‍💻",
+      "source": "devto"
+    },
+    "2b5f77223268ecaa": {
+      "date": "2026-10-24",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "source": "hackernews"
+    },
+    "dbdbac025e7af74d": {
+      "date": "2026-10-24",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "source": "hackernews"
+    },
+    "ce1e6b5920db405e": {
+      "date": "2026-10-24",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "source": "hackernews"
+    },
+    "30d1ed592a0e5ca6": {
+      "date": "2026-10-24",
+      "title": "Apple Music 404 Not Found",
+      "source": "hackernews"
+    },
+    "6f3dfaf25bb8f090": {
+      "date": "2026-10-24",
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "source": "hackernews"
+    },
+    "6e99d07861bfb31c": {
+      "date": "2026-10-24",
+      "title": "The Real Kevin Bacon",
+      "source": "hackernews"
+    },
+    "c2ab07b998dc1bb4": {
+      "date": "2026-10-24",
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "source": "hackernews"
+    },
+    "e3ea6fd30df9f8a4": {
+      "date": "2026-10-24",
+      "title": "CVE Tracker",
+      "source": "hackernews"
+    },
+    "f2753ef5c84b2b09": {
+      "date": "2026-10-24",
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "source": "hackernews"
+    },
+    "ba7755129d2d9189": {
+      "date": "2026-10-24",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "source": "hackernews"
+    },
+    "5fe40cb4252a6e2a": {
+      "date": "2026-10-24",
+      "title": "Cloudflare Clairic",
+      "source": "producthunt"
+    },
+    "14790e5994604a85": {
+      "date": "2026-10-24",
+      "title": "Dots",
+      "source": "producthunt"
+    },
+    "f6502cfb0d0a6e2a": {
+      "date": "2026-10-24",
+      "title": "Peras",
+      "source": "producthunt"
+    },
+    "858968678fe1ec6a": {
+      "date": "2026-10-24",
+      "title": "FLUX 3 Max",
+      "source": "producthunt"
+    },
+    "a9eaeedc83bd6615": {
+      "date": "2026-10-24",
+      "title": "DotMD",
+      "source": "producthunt"
+    },
+    "6a39a92e18648662": {
+      "date": "2026-10-24",
+      "title": "Gerty",
+      "source": "producthunt"
+    },
+    "f705f973a5b91eda": {
+      "date": "2026-10-24",
+      "title": "Termi Protocol",
+      "source": "producthunt"
+    },
+    "40823419776e05d9": {
+      "date": "2026-10-24",
+      "title": "Monish",
+      "source": "producthunt"
+    },
+    "3fff46d92e864abf": {
+      "date": "2026-10-24",
+      "title": "Renhuai123 / ziwei-doushu",
+      "source": "github"
+    },
+    "fed9e93b0bd2dda1": {
+      "date": "2026-10-24",
+      "title": "SnailSploit / Claude-Red",
+      "source": "github"
+    },
+    "78ddb48b10aef7ae": {
+      "date": "2026-10-24",
+      "title": "OpenBMB / VoxCPM",
+      "source": "github"
+    },
+    "a2c9c4617f9b3de5": {
+      "date": "2026-10-24",
+      "title": "nodejs / node",
+      "source": "github"
+    },
+    "65e18394d29770c5": {
+      "date": "2026-10-24",
+      "title": "Dev Opportunity Radar #22: $50K Basis Fellowship, Perplexity AI Research Fellowship, and FC Barcelon",
+      "source": "devto"
+    },
+    "e6c50fc1da1c9926": {
+      "date": "2026-10-24",
+      "title": "5 Steps on How to not loose at a hackathon?",
+      "source": "devto"
+    },
+    "b6565d68a0c400c2": {
+      "date": "2026-10-24",
+      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
+      "source": "devto"
+    },
+    "eb56b3622b703322": {
+      "date": "2026-10-24",
+      "title": "AI Is Winning Literary Awards. The Data Says That's Not What's Happening.",
+      "source": "devto"
+    },
+    "c9c53ce6df7ce1b2": {
+      "date": "2026-10-24",
+      "title": "Breach Week Dropped 10 'Patch Now' Posts. A Local Gemma Boiled Them Down to 2 Lines, and Code Checke",
+      "source": "devto"
+    },
+    "562eed3a71da000f": {
+      "date": "2026-10-24",
+      "title": "I Built a Pixel Hero That Nags Me to Drink Water (and Runs 100% on My Laptop)",
+      "source": "devto"
+    },
+    "dc7f213d600228c8": {
+      "date": "2026-10-24",
+      "title": "🔢 The JSON Numbers JavaScript Quietly Corrupts",
+      "source": "devto"
+    },
+    "abbea2c5819fe810": {
+      "date": "2026-10-24",
+      "title": "Hush: I Hid 10 Emergencies in My Own Notifications. An On-Device Gemma OS Found All 10.",
+      "source": "devto"
+    },
+    "be8dc78f99f7bff0": {
+      "date": "2026-10-24",
+      "title": "I let an open model delete 1,242 of my saved articles. On purpose. I feel lighter.",
+      "source": "devto"
+    },
+    "bce6b4e42cf254b8": {
+      "date": "2026-10-24",
+      "title": "Why an 80-Year-Old Math Book Fixed My AI Coding Agent",
       "source": "devto"
     }
   }
