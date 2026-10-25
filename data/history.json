@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-24T01:14:43.402170",
+  "last_updated": "2026-10-25T00:44:28.835329",
   "sent_items": {
-    "68024e28356d7cb5": {
-      "date": "2026-09-24",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "source": "hackernews"
-    },
-    "f639250f7d77802e": {
-      "date": "2026-09-24",
-      "title": "Fixing the Portobello Police Station Clock",
-      "source": "hackernews"
-    },
-    "7282780525d3e4e1": {
-      "date": "2026-09-24",
-      "title": "Meta VR Glasses",
-      "source": "hackernews"
-    },
-    "49d3c866e3db3903": {
-      "date": "2026-09-24",
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "source": "hackernews"
-    },
-    "432127f14f343849": {
-      "date": "2026-09-24",
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "source": "hackernews"
-    },
-    "289a78801c32a40b": {
-      "date": "2026-09-24",
-      "title": "We just shipped support for the ugliest part of HTTP: Vary",
-      "source": "hackernews"
-    },
-    "87efbf0517b75dc1": {
-      "date": "2026-09-24",
-      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "source": "hackernews"
-    },
-    "1d47949a4f1cbfe1": {
-      "date": "2026-09-24",
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "source": "hackernews"
-    },
-    "90d4523e6f1742ff": {
-      "date": "2026-09-24",
-      "title": "Mercury 2.5 LLM hits 770 tokens per second",
-      "source": "hackernews"
-    },
-    "5706a6ba5ba79c1d": {
-      "date": "2026-09-24",
-      "title": "The \"Windows XP Box\" (2003)",
-      "source": "hackernews"
-    },
-    "8aa89958a42f21e5": {
-      "date": "2026-09-24",
-      "title": "Speechka",
-      "source": "producthunt"
-    },
-    "f476df6be9589009": {
-      "date": "2026-09-24",
-      "title": "Claude Opus 5.5",
-      "source": "producthunt"
-    },
-    "6d3923f2cf89c417": {
-      "date": "2026-09-24",
-      "title": "Dub Program Marketplace",
-      "source": "producthunt"
-    },
-    "5a563621df9890bb": {
-      "date": "2026-09-24",
-      "title": "Jev State",
-      "source": "producthunt"
-    },
-    "011d5fa7f01b2f0d": {
-      "date": "2026-09-24",
-      "title": "Lightmeter",
-      "source": "producthunt"
-    },
-    "b18c617bff35c5da": {
-      "date": "2026-09-24",
-      "title": "ToneBird",
-      "source": "producthunt"
-    },
-    "b58ffa21d36583e5": {
-      "date": "2026-09-24",
-      "title": "Alexandria by Firecrawl",
-      "source": "producthunt"
-    },
-    "1bd29fb5e981a50d": {
-      "date": "2026-09-24",
-      "title": "Solid",
-      "source": "producthunt"
-    },
-    "68499232a0dc8a41": {
-      "date": "2026-09-24",
-      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "source": "devto"
-    },
-    "045c73924f41a207": {
-      "date": "2026-09-24",
-      "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
-      "source": "devto"
-    },
-    "4a8fc749b4558e4f": {
-      "date": "2026-09-24",
-      "title": "What DEV Series Are You Reading or Writing? Let’s Make Them Easier to Find",
-      "source": "devto"
-    },
-    "301e9b3ddfc87467": {
-      "date": "2026-09-24",
-      "title": "🦄 Sharing DEV Followers Count on Github Profile 🦄",
-      "source": "devto"
-    },
-    "194697f0484f728c": {
-      "date": "2026-09-24",
-      "title": "An introverted dev in an extroverted world",
-      "source": "devto"
-    },
-    "251084821768cbba": {
-      "date": "2026-09-24",
-      "title": "Something About Coding Stopped Feeling Good — and It Took Me a While to Figure Out What",
-      "source": "devto"
-    },
-    "e93aead46b3758e1": {
-      "date": "2026-09-24",
-      "title": "A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x",
-      "source": "devto"
-    },
-    "a6de12fbac54521f": {
-      "date": "2026-09-24",
-      "title": "23 Rejections, Multiple Offers: What I Learned From My 2-Month SWE Job Search",
-      "source": "devto"
-    },
-    "c61accd8c3c9070c": {
-      "date": "2026-09-24",
-      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
-      "source": "devto"
-    },
-    "425a334e989cd9b3": {
-      "date": "2026-09-24",
-      "title": "My OSS Projects: Piral",
-      "source": "devto"
-    },
-    "4a462d6206de60ed": {
-      "date": "2026-09-24",
-      "title": "strands-agents / harness-sdk",
-      "source": "github"
-    },
-    "12e9527951797ad0": {
-      "date": "2026-09-24",
-      "title": "HKUDS / CLI-Anything",
-      "source": "github"
-    },
-    "be8acfaf11180d2a": {
-      "date": "2026-09-24",
-      "title": "pbakaus / impeccable",
-      "source": "github"
-    },
-    "bcb2a34cb3ad6059": {
-      "date": "2026-09-24",
-      "title": "DeusData / codebase-memory-mcp",
-      "source": "github"
-    },
-    "cc4d14940b247a73": {
-      "date": "2026-09-24",
-      "title": "harry7557558 / spirula-studio",
-      "source": "github"
-    },
     "901f591b5aecd028": {
       "date": "2026-09-25",
       "title": "F-Droid 2.0",
@@ -4915,6 +4750,176 @@
     "bce6b4e42cf254b8": {
       "date": "2026-10-24",
       "title": "Why an 80-Year-Old Math Book Fixed My AI Coding Agent",
+      "source": "devto"
+    },
+    "0aa4ee2f25c4fe6a": {
+      "date": "2026-10-25",
+      "title": "Shedi",
+      "source": "producthunt"
+    },
+    "0fac82fa19f73c11": {
+      "date": "2026-10-25",
+      "title": "Canva Craft",
+      "source": "producthunt"
+    },
+    "825852b3c3668b4a": {
+      "date": "2026-10-25",
+      "title": "AgentValley",
+      "source": "producthunt"
+    },
+    "0febb163e6f78f1e": {
+      "date": "2026-10-25",
+      "title": "1Password for Agents",
+      "source": "producthunt"
+    },
+    "2d864a77b0e385d2": {
+      "date": "2026-10-25",
+      "title": "Byter",
+      "source": "producthunt"
+    },
+    "edd0f2ce2f8a9298": {
+      "date": "2026-10-25",
+      "title": "Basedash Scheduled CSV Exports",
+      "source": "producthunt"
+    },
+    "84090dcba194dd8d": {
+      "date": "2026-10-25",
+      "title": "River Writer",
+      "source": "producthunt"
+    },
+    "8b9fc06e5e9a005e": {
+      "date": "2026-10-25",
+      "title": "Penta",
+      "source": "producthunt"
+    },
+    "72275b9435865ae7": {
+      "date": "2026-10-25",
+      "title": "Show HN: Steal My Bitcoin",
+      "source": "hackernews"
+    },
+    "daf32af9832eba1e": {
+      "date": "2026-10-25",
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "source": "hackernews"
+    },
+    "1edef0168d56cf43": {
+      "date": "2026-10-25",
+      "title": "The Goose Programming Language",
+      "source": "hackernews"
+    },
+    "ceefbe3161ef0fe8": {
+      "date": "2026-10-25",
+      "title": "We should be more ambitious with the software we build",
+      "source": "hackernews"
+    },
+    "48c8368634a0a9b4": {
+      "date": "2026-10-25",
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "source": "hackernews"
+    },
+    "2c6853d0b174d7a9": {
+      "date": "2026-10-25",
+      "title": "SpeedCrunch 1.1",
+      "source": "hackernews"
+    },
+    "3ec29c6eab5f0a34": {
+      "date": "2026-10-25",
+      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "source": "hackernews"
+    },
+    "86ae1cb9cfb9f341": {
+      "date": "2026-10-25",
+      "title": "Small Programs and Languages",
+      "source": "hackernews"
+    },
+    "2057dd3a17af0cc1": {
+      "date": "2026-10-25",
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "source": "hackernews"
+    },
+    "3bb7567fd76675c3": {
+      "date": "2026-10-25",
+      "title": "Why Gopher in 2026?",
+      "source": "hackernews"
+    },
+    "fef947109115f8c0": {
+      "date": "2026-10-25",
+      "title": "aws / agent-toolkit-for-aws",
+      "source": "github"
+    },
+    "c88c01cfd244fd4b": {
+      "date": "2026-10-25",
+      "title": "Nutlope / hallmark",
+      "source": "github"
+    },
+    "eba1101b688a4a08": {
+      "date": "2026-10-25",
+      "title": "pollen-robotics / microduck",
+      "source": "github"
+    },
+    "8d49e667cf2061b4": {
+      "date": "2026-10-25",
+      "title": "google-gemini / gemini-cli",
+      "source": "github"
+    },
+    "735ee53822b9d39a": {
+      "date": "2026-10-25",
+      "title": "jbiaojerry / ebook-treasure-chest",
+      "source": "github"
+    },
+    "19f0bb06fa5242af": {
+      "date": "2026-10-25",
+      "title": "makecindy / cindy",
+      "source": "github"
+    },
+    "62502299f58e88f5": {
+      "date": "2026-10-25",
+      "title": "I'm Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code. (And My First Test ",
+      "source": "devto"
+    },
+    "25aff083604e9f1b": {
+      "date": "2026-10-25",
+      "title": "Hours, Not Weeks: How AI Rewrote the Clock of Software Security",
+      "source": "devto"
+    },
+    "5225c8b813c6d8e6": {
+      "date": "2026-10-25",
+      "title": "Sloth Reads: an open model reads my read-later pile overnight, then reads me the good ones",
+      "source": "devto"
+    },
+    "cee942a9f0fcdda1": {
+      "date": "2026-10-25",
+      "title": "PyTorch on TPU: Hands On With Colab",
+      "source": "devto"
+    },
+    "4ee84113dfafe69e": {
+      "date": "2026-10-25",
+      "title": "I Built Mimu Because Even Taking Notes Is Too Much Work",
+      "source": "devto"
+    },
+    "9abbb17fe732fb61": {
+      "date": "2026-10-25",
+      "title": "From Ancient Epigraphy to 3D Proteins: Building Plugins, Skills & MCP Sidecars in Google Antigravity",
+      "source": "devto"
+    },
+    "69771573e0315fc1": {
+      "date": "2026-10-25",
+      "title": "'Baad mein' means later. Gemma reads the WhatsApp chat you keep with yourself, and tells you what yo",
+      "source": "devto"
+    },
+    "3d14cb1771ccd26d": {
+      "date": "2026-10-25",
+      "title": "👾 Nested Bookmarks Organizer for Chrome w/Custom Ticker",
+      "source": "devto"
+    },
+    "c27674aa87051606": {
+      "date": "2026-10-25",
+      "title": "Caddy 2.11.6 turns a silent config failure on /load into an HTTP 400",
+      "source": "devto"
+    },
+    "4d5bd826701e1d6a": {
+      "date": "2026-10-25",
+      "title": "My AI Coding Workflow, v3",
       "source": "devto"
     }
   }
