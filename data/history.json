@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-25T00:44:28.835329",
+  "last_updated": "2026-10-26T00:54:58.004728",
   "sent_items": {
-    "901f591b5aecd028": {
-      "date": "2026-09-25",
-      "title": "F-Droid 2.0",
-      "source": "hackernews"
-    },
-    "7e2442909ab867c8": {
-      "date": "2026-09-25",
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "source": "hackernews"
-    },
-    "ce1adce9b1d2f0a9": {
-      "date": "2026-09-25",
-      "title": "Why is the liver so weirdly regenerative?",
-      "source": "hackernews"
-    },
-    "1c1a00c0d672cc2b": {
-      "date": "2026-09-25",
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "source": "hackernews"
-    },
-    "a87b0d0f00f086bd": {
-      "date": "2026-09-25",
-      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-      "source": "hackernews"
-    },
-    "f0ea9b75a29cb8fc": {
-      "date": "2026-09-25",
-      "title": "Toyota is taking the Corolla electric",
-      "source": "hackernews"
-    },
-    "8634cc1b388e0745": {
-      "date": "2026-09-25",
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "source": "hackernews"
-    },
-    "eefad314ddb6aed7": {
-      "date": "2026-09-25",
-      "title": "Fearless SIMD v1.0",
-      "source": "hackernews"
-    },
-    "8340f7855b704f52": {
-      "date": "2026-09-25",
-      "title": "2DWillNeverDie",
-      "source": "hackernews"
-    },
-    "9066355df00bd8eb": {
-      "date": "2026-09-25",
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "source": "hackernews"
-    },
-    "0d23d764da73f9c2": {
-      "date": "2026-09-25",
-      "title": "LockLines",
-      "source": "producthunt"
-    },
-    "309733501d07d046": {
-      "date": "2026-09-25",
-      "title": "minimi 2.0",
-      "source": "producthunt"
-    },
-    "bc80ebbea15a18cc": {
-      "date": "2026-09-25",
-      "title": "Harness Manager",
-      "source": "producthunt"
-    },
-    "90a93d8c2abdd10c": {
-      "date": "2026-09-25",
-      "title": "IntellAgents.io",
-      "source": "producthunt"
-    },
-    "feeebbb9a66aac73": {
-      "date": "2026-09-25",
-      "title": "jev-seo",
-      "source": "producthunt"
-    },
-    "d93f25601edeb587": {
-      "date": "2026-09-25",
-      "title": "NotchPop",
-      "source": "producthunt"
-    },
-    "c841f7799856a645": {
-      "date": "2026-09-25",
-      "title": "Storytailor®",
-      "source": "producthunt"
-    },
-    "8ecc0f601b5cd556": {
-      "date": "2026-09-25",
-      "title": "NOAN",
-      "source": "producthunt"
-    },
-    "4d8e922de101f720": {
-      "date": "2026-09-25",
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "source": "github"
-    },
-    "4628c962cd9b6f78": {
-      "date": "2026-09-25",
-      "title": "vectorize-io / hindsight",
-      "source": "github"
-    },
-    "9fbd6344a1b061e6": {
-      "date": "2026-09-25",
-      "title": "NVIDIA / Model-Optimizer",
-      "source": "github"
-    },
-    "80727f8df044ed80": {
-      "date": "2026-09-25",
-      "title": "FxEmbed / FxEmbed",
-      "source": "github"
-    },
-    "a7c232d6ba08fd52": {
-      "date": "2026-09-25",
-      "title": "julyx10 / lap",
-      "source": "github"
-    },
-    "b38700c6a7410817": {
-      "date": "2026-09-25",
-      "title": "leejet / stable-diffusion.cpp",
-      "source": "github"
-    },
-    "b6db8ee7d24bfb79": {
-      "date": "2026-09-25",
-      "title": "Polly Introduces an Open Source Maintenance Fee",
-      "source": "devto"
-    },
-    "2158dacaf4558505": {
-      "date": "2026-09-25",
-      "title": "Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own",
-      "source": "devto"
-    },
-    "ab66f6ec572cc405": {
-      "date": "2026-09-25",
-      "title": "Python Thinks Different: What Actually Happens Inside Your Code (Visual Guide)",
-      "source": "devto"
-    },
-    "10935f61fd031445": {
-      "date": "2026-09-25",
-      "title": "100% vuln detection wasn't enough: measuring whether AI respects the patch",
-      "source": "devto"
-    },
-    "d73131de72d80e89": {
-      "date": "2026-09-25",
-      "title": "AI-assisted genealogy, a follow-up",
-      "source": "devto"
-    },
-    "1b8c1ee850c5eb2b": {
-      "date": "2026-09-25",
-      "title": "I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.",
-      "source": "devto"
-    },
-    "d9c8c12176ef0fa2": {
-      "date": "2026-09-25",
-      "title": "7 Agent Eval Mistakes That Cost Me Weeks (And the One-Line Fixes That Ended Them)",
-      "source": "devto"
-    },
-    "a1052b870c4666a7": {
-      "date": "2026-09-25",
-      "title": "Git 2.55's reftable backend creates 10,000 refs in 40ms instead of 650ms",
-      "source": "devto"
-    },
-    "f8f8d125df371c50": {
-      "date": "2026-09-25",
-      "title": "Double Engine Failure: Back to the Hangar After Two Data Providers Changed Course",
-      "source": "devto"
-    },
-    "392b6730da433163": {
-      "date": "2026-09-25",
-      "title": "FinePrint: an agent that checks your hackathon entry against the rules it reads",
-      "source": "devto"
-    },
     "700eb0cf8990d144": {
       "date": "2026-09-26",
       "title": "Platform-independent SIMD in Go",
@@ -4920,6 +4750,171 @@
     "4d5bd826701e1d6a": {
       "date": "2026-10-25",
       "title": "My AI Coding Workflow, v3",
+      "source": "devto"
+    },
+    "1786dbecdb7427e1": {
+      "date": "2026-10-26",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "source": "hackernews"
+    },
+    "089e0e1847918523": {
+      "date": "2026-10-26",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "source": "hackernews"
+    },
+    "76a65ebddf96263e": {
+      "date": "2026-10-26",
+      "title": "Dolly Parton's Imagination Library",
+      "source": "hackernews"
+    },
+    "42a2205694132363": {
+      "date": "2026-10-26",
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "source": "hackernews"
+    },
+    "5d09509ad2401297": {
+      "date": "2026-10-26",
+      "title": "Why I Am a Programmer",
+      "source": "hackernews"
+    },
+    "c10a2b502fcca58b": {
+      "date": "2026-10-26",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "source": "hackernews"
+    },
+    "51f97bff524c15d3": {
+      "date": "2026-10-26",
+      "title": "What goes into making an animated film?",
+      "source": "hackernews"
+    },
+    "e816699453b1dc70": {
+      "date": "2026-10-26",
+      "title": "The State of Context Engineering",
+      "source": "hackernews"
+    },
+    "caf9664c10c3c970": {
+      "date": "2026-10-26",
+      "title": "Lula Wins Brazilian Election",
+      "source": "hackernews"
+    },
+    "f2c31f8d0c98583a": {
+      "date": "2026-10-26",
+      "title": "F-Zero X on Nintendo 3DS",
+      "source": "hackernews"
+    },
+    "fc15d672df025261": {
+      "date": "2026-10-26",
+      "title": "Yourcast 2.0",
+      "source": "producthunt"
+    },
+    "52a81c0b1e62b080": {
+      "date": "2026-10-26",
+      "title": "How It Spread",
+      "source": "producthunt"
+    },
+    "4d80ce6517c4794f": {
+      "date": "2026-10-26",
+      "title": "git-flow-next",
+      "source": "producthunt"
+    },
+    "e40c1620025796d4": {
+      "date": "2026-10-26",
+      "title": "MRRaudit",
+      "source": "producthunt"
+    },
+    "e7c1a1a530e2ce17": {
+      "date": "2026-10-26",
+      "title": "Llama Windows",
+      "source": "producthunt"
+    },
+    "ecabf149c43e34c4": {
+      "date": "2026-10-26",
+      "title": "AgentGrid.io",
+      "source": "producthunt"
+    },
+    "29d9f9459fa3fa27": {
+      "date": "2026-10-26",
+      "title": "pawl",
+      "source": "producthunt"
+    },
+    "7eac89648b72e350": {
+      "date": "2026-10-26",
+      "title": "Papermark Data Rooms",
+      "source": "producthunt"
+    },
+    "be8acfaf11180d2a": {
+      "date": "2026-10-26",
+      "title": "pbakaus / impeccable",
+      "source": "github"
+    },
+    "afdace39e7492d8a": {
+      "date": "2026-10-26",
+      "title": "TauricResearch / TradingAgents",
+      "source": "github"
+    },
+    "9fe0ab02c3e767b0": {
+      "date": "2026-10-26",
+      "title": "JetBrains / thinkrail",
+      "source": "github"
+    },
+    "60c9aca0bcd18bd4": {
+      "date": "2026-10-26",
+      "title": "coollabsio / coolify",
+      "source": "github"
+    },
+    "3f6716548eed6108": {
+      "date": "2026-10-26",
+      "title": "AgriciDaniel / claude-seo",
+      "source": "github"
+    },
+    "29f6e48853f9c077": {
+      "date": "2026-10-26",
+      "title": "I Earned a Seat at GitHub Universe. It'll Stay Empty, and That's Not Fair",
+      "source": "devto"
+    },
+    "35ebe912c075d17b": {
+      "date": "2026-10-26",
+      "title": "Three Times My Test Failed and the LLM Was Right",
+      "source": "devto"
+    },
+    "192989e22339574a": {
+      "date": "2026-10-26",
+      "title": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
+      "source": "devto"
+    },
+    "6cc758e32be2b523": {
+      "date": "2026-10-26",
+      "title": "A small, not-so-smart model went from 10% to 99.6% at reading property deeds for $1.15, and it says ",
+      "source": "devto"
+    },
+    "082e7c500ee46e12": {
+      "date": "2026-10-26",
+      "title": "👻 The $249 Ghost Sale",
+      "source": "devto"
+    },
+    "01ec57b5b68e1a13": {
+      "date": "2026-10-26",
+      "title": "Slowth Money: a local AI agent for your financial goals",
+      "source": "devto"
+    },
+    "7b749617f4479300": {
+      "date": "2026-10-26",
+      "title": "Postmortem: The Tuesday Our AI Bill Had No Owner",
+      "source": "devto"
+    },
+    "4c7c7dd8a4dbd32e": {
+      "date": "2026-10-26",
+      "title": "Valkey 9.2's new rdbcompression lz4 setting cuts a 1M-row RDB from 178MB to 35MB",
+      "source": "devto"
+    },
+    "08703a375ead270f": {
+      "date": "2026-10-26",
+      "title": "Google DevFest Central Valley: Community First, Buildathon Second.",
+      "source": "devto"
+    },
+    "ab96d882466eacae": {
+      "date": "2026-10-26",
+      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
       "source": "devto"
     }
   }
