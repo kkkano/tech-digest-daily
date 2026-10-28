@@ -1,187 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-27T01:50:52.273622",
+  "last_updated": "2026-10-28T01:52:45.486835",
   "sent_items": {
-    "37e781f3ddfda52b": {
-      "date": "2026-09-27",
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "source": "hackernews"
-    },
-    "55e3771ad7c8e981": {
-      "date": "2026-09-27",
-      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "source": "hackernews"
-    },
-    "a78ef24ec75fefa5": {
-      "date": "2026-09-27",
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "source": "hackernews"
-    },
-    "a56823c4d8c788bd": {
-      "date": "2026-09-27",
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "source": "hackernews"
-    },
-    "9e3947aa23ba1fae": {
-      "date": "2026-09-27",
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "source": "hackernews"
-    },
-    "121abfa849b0dcac": {
-      "date": "2026-09-27",
-      "title": "Does Georgism work? Five years later",
-      "source": "hackernews"
-    },
-    "6c3549bc7beb2b95": {
-      "date": "2026-09-27",
-      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
-      "source": "hackernews"
-    },
-    "d872c526653589d5": {
-      "date": "2026-09-27",
-      "title": "An agent used DNS to reach an external chatbot",
-      "source": "hackernews"
-    },
-    "2f687dceb7443b2d": {
-      "date": "2026-09-27",
-      "title": "Evolving programming languages in the AI era",
-      "source": "hackernews"
-    },
-    "e17d929d676131f5": {
-      "date": "2026-09-27",
-      "title": "Go Concurrency Distilled",
-      "source": "hackernews"
-    },
-    "4f97428eb2e156ac": {
-      "date": "2026-09-27",
-      "title": "Fewer",
-      "source": "producthunt"
-    },
-    "8886bd41888d44f9": {
-      "date": "2026-09-27",
-      "title": "Hemory",
-      "source": "producthunt"
-    },
-    "987bf4b1ba206d77": {
-      "date": "2026-09-27",
-      "title": "MakerMap",
-      "source": "producthunt"
-    },
-    "7884e26c3255285b": {
-      "date": "2026-09-27",
-      "title": "GoodSocials",
-      "source": "producthunt"
-    },
-    "e202403d914daef8": {
-      "date": "2026-09-27",
-      "title": "Lisen",
-      "source": "producthunt"
-    },
-    "f0187f15c93b5381": {
-      "date": "2026-09-27",
-      "title": "layernote",
-      "source": "producthunt"
-    },
-    "691987304abd3a95": {
-      "date": "2026-09-27",
-      "title": "PixVerse R2",
-      "source": "producthunt"
-    },
-    "187eda8bd501254e": {
-      "date": "2026-09-27",
-      "title": "10xJoy",
-      "source": "producthunt"
-    },
-    "89be0fa1a19f176c": {
-      "date": "2026-09-27",
-      "title": "I Built a Better Codex Pet Than OpenAI Did",
-      "source": "devto"
-    },
-    "54d5899f5b9259da": {
-      "date": "2026-09-27",
-      "title": "'Someone Already Built That' is the Favourite Excuse of Broke Developers",
-      "source": "devto"
-    },
-    "4dd102ea59258f26": {
-      "date": "2026-09-27",
-      "title": "If AI Writes the Code and AI Reviews the Code, What Exactly Is the Developer Verifying?",
-      "source": "devto"
-    },
-    "814355594bc0d84f": {
-      "date": "2026-09-27",
-      "title": "Everyone's learning to prompt better. That's the wrong skill.",
-      "source": "devto"
-    },
-    "1d77c90e5c646fc6": {
-      "date": "2026-09-27",
-      "title": "How I Actually Learn New Skills (No Tutorial Required)",
-      "source": "devto"
-    },
-    "36cf643e0ea6cfd2": {
-      "date": "2026-09-27",
-      "title": "AI Promoted Every Developer to Reviewer. Nobody Measured Whether We Got Worse.",
-      "source": "devto"
-    },
-    "4349e66a40e3f85e": {
-      "date": "2026-09-27",
-      "title": "How I built deferred tool discovery for my desktop AI assistant (no embeddings needed)",
-      "source": "devto"
-    },
-    "cbebfa35fdc3d31a": {
-      "date": "2026-09-27",
-      "title": "getCurrentPosition() Doesn't Just Check — It Prompts",
-      "source": "devto"
-    },
-    "c3a5c1bfd87e00f8": {
-      "date": "2026-09-27",
-      "title": "localStorage Isn't Free — It's Blocking Your Main Thread",
-      "source": "devto"
-    },
-    "60b98bbdc1995f5c": {
-      "date": "2026-09-27",
-      "title": "My Newsletter Server Is 1,258 Lines of node:sqlite",
-      "source": "devto"
-    },
-    "bcbc01455962f134": {
-      "date": "2026-09-27",
-      "title": "tensorflow / tensorflow",
-      "source": "github"
-    },
-    "254a7a84c61706cc": {
-      "date": "2026-09-27",
-      "title": "openbao / openbao",
-      "source": "github"
-    },
-    "f8fd1424e453d1b4": {
-      "date": "2026-09-27",
-      "title": "block / buzz",
-      "source": "github"
-    },
-    "429ceefb7bccd659": {
-      "date": "2026-09-27",
-      "title": "microsoft / vscode",
-      "source": "github"
-    },
-    "2fd47ee6db0cd559": {
-      "date": "2026-09-27",
-      "title": "anthropics / claude-code-action",
-      "source": "github"
-    },
-    "864e3a293301abe1": {
-      "date": "2026-09-27",
-      "title": "actions / runner-images",
-      "source": "github"
-    },
-    "7c87c96c74c1c3fd": {
-      "date": "2026-09-27",
-      "title": "mobile-next / mobile-mcp",
-      "source": "github"
-    },
-    "b58db5c0a7c76bd1": {
-      "date": "2026-09-27",
-      "title": "vercel / next.js",
-      "source": "github"
-    },
     "824bf5f98ce4c60f": {
       "date": "2026-09-28",
       "title": "When did Google get so weird?",
@@ -4906,6 +4726,161 @@
       "date": "2026-10-27",
       "title": "alchaincyf / huashu-design",
       "source": "github"
+    },
+    "6808aa957d92f6bc": {
+      "date": "2026-10-28",
+      "title": "Ghostty 1.4",
+      "source": "hackernews"
+    },
+    "39155253f5851c22": {
+      "date": "2026-10-28",
+      "title": "Genie 4",
+      "source": "hackernews"
+    },
+    "2b4d3bdc1b00e30d": {
+      "date": "2026-10-28",
+      "title": "New 14‑inch MacBook Pro with M6",
+      "source": "hackernews"
+    },
+    "fb3ff1b53a57e297": {
+      "date": "2026-10-28",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "source": "hackernews"
+    },
+    "4fe0e5b4771f4667": {
+      "date": "2026-10-28",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "source": "hackernews"
+    },
+    "9e22205eaa34a4bc": {
+      "date": "2026-10-28",
+      "title": "Early progress on accelerating drug development with Claude",
+      "source": "hackernews"
+    },
+    "c6a0f6898e5f3651": {
+      "date": "2026-10-28",
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "source": "hackernews"
+    },
+    "32bd721b92a4c5d2": {
+      "date": "2026-10-28",
+      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+      "source": "hackernews"
+    },
+    "86753bacdfc19aaf": {
+      "date": "2026-10-28",
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "source": "hackernews"
+    },
+    "48e715cb199fc7d6": {
+      "date": "2026-10-28",
+      "title": "81 Jokes for the ZX81",
+      "source": "hackernews"
+    },
+    "6ba7d52cd0044d40": {
+      "date": "2026-10-28",
+      "title": "GPT-6.1 Terra",
+      "source": "producthunt"
+    },
+    "43af10998393834c": {
+      "date": "2026-10-28",
+      "title": "OpenRadView",
+      "source": "producthunt"
+    },
+    "7a68255c78571728": {
+      "date": "2026-10-28",
+      "title": "NuPlay",
+      "source": "producthunt"
+    },
+    "c46710a4933ddcec": {
+      "date": "2026-10-28",
+      "title": "Off Grid AI",
+      "source": "producthunt"
+    },
+    "7345394f172eb5ca": {
+      "date": "2026-10-28",
+      "title": "PulseDev",
+      "source": "producthunt"
+    },
+    "2cb15a7d2c8361e5": {
+      "date": "2026-10-28",
+      "title": "Paddock",
+      "source": "producthunt"
+    },
+    "9d6c48eae08abbc4": {
+      "date": "2026-10-28",
+      "title": "fswitcher",
+      "source": "producthunt"
+    },
+    "6af12bb508599fa0": {
+      "date": "2026-10-28",
+      "title": "Spacesheep",
+      "source": "producthunt"
+    },
+    "06fe3ce050dde466": {
+      "date": "2026-10-28",
+      "title": "elayadesign / ai-design-skills",
+      "source": "github"
+    },
+    "bca7775ac9caec94": {
+      "date": "2026-10-28",
+      "title": "HKUDS / DeepTutor",
+      "source": "github"
+    },
+    "4f44d6baf2c704ad": {
+      "date": "2026-10-28",
+      "title": "togg53192-cmd / jailbreaks",
+      "source": "github"
+    },
+    "8bce5aa0626c5c8c": {
+      "date": "2026-10-28",
+      "title": "Your DEV posts have a beautiful new share card ✨",
+      "source": "devto"
+    },
+    "dbee8dbaae5ef409": {
+      "date": "2026-10-28",
+      "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.",
+      "source": "devto"
+    },
+    "e8f5f9f85467f858": {
+      "date": "2026-10-28",
+      "title": "The Most Embarrassing Private Key in Web PKI History",
+      "source": "devto"
+    },
+    "92e523df16b16e43": {
+      "date": "2026-10-28",
+      "title": "I deleted the mail server from my VPS and got 1.2 GB of RAM back",
+      "source": "devto"
+    },
+    "b414bb571659d2c1": {
+      "date": "2026-10-28",
+      "title": "The Rootkit Exorcist: Summoning Local AI to Investigate Suspicious Scripts 👻",
+      "source": "devto"
+    },
+    "7ad4a2ae221c6d4f": {
+      "date": "2026-10-28",
+      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
+      "source": "devto"
+    },
+    "4dad0091139d118f": {
+      "date": "2026-10-28",
+      "title": "Dev log #27 Deep in the review queue: Hardening libp2p across Python and .NET",
+      "source": "devto"
+    },
+    "de6137877ca69fe5": {
+      "date": "2026-10-28",
+      "title": "How long it takes to move an IP address between two servers",
+      "source": "devto"
+    },
+    "cf2d585ecd097ad4": {
+      "date": "2026-10-28",
+      "title": "My AI was in the cloud. I brought it home.",
+      "source": "devto"
+    },
+    "fc7752f6bc90e28d": {
+      "date": "2026-10-28",
+      "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
+      "source": "devto"
     }
   }
 }
