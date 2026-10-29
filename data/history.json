@@ -1,132 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-28T01:52:45.486835",
+  "last_updated": "2026-10-29T02:10:27.924849",
   "sent_items": {
-    "824bf5f98ce4c60f": {
-      "date": "2026-09-28",
-      "title": "When did Google get so weird?",
-      "source": "hackernews"
-    },
-    "ded09f36b42fa21c": {
-      "date": "2026-09-28",
-      "title": "Ember-1",
-      "source": "hackernews"
-    },
-    "21e6554285ee3043": {
-      "date": "2026-09-28",
-      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-      "source": "hackernews"
-    },
-    "8a1acc05ccf7e63a": {
-      "date": "2026-09-28",
-      "title": "Don't couple your Go code to GitHub",
-      "source": "hackernews"
-    },
-    "1b50e8506540ea59": {
-      "date": "2026-09-28",
-      "title": "The state of SIMD in Rust in 2026",
-      "source": "hackernews"
-    },
-    "ebbd17ee6a98351a": {
-      "date": "2026-09-28",
-      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
-      "source": "hackernews"
-    },
-    "4242580e733eb09b": {
-      "date": "2026-09-28",
-      "title": "What I did at Recurse Center",
-      "source": "hackernews"
-    },
-    "fd1a05ed4810e81c": {
-      "date": "2026-09-28",
-      "title": "There is more to code review than (automatable) detection",
-      "source": "hackernews"
-    },
-    "8a8c489bd6db70a2": {
-      "date": "2026-09-28",
-      "title": "Imp is a full port of DSPy to the BEAM",
-      "source": "hackernews"
-    },
-    "8711702d707b1b55": {
-      "date": "2026-09-28",
-      "title": "Lunar Terminator Paradox",
-      "source": "hackernews"
-    },
-    "4d013a4dadf9a51c": {
-      "date": "2026-09-28",
-      "title": "Superhuman Go",
-      "source": "producthunt"
-    },
-    "a0037c0a494a930b": {
-      "date": "2026-09-28",
-      "title": "Donna",
-      "source": "producthunt"
-    },
-    "062c9562666f71ed": {
-      "date": "2026-09-28",
-      "title": "vercel-labs / scriptc",
-      "source": "github"
-    },
-    "9e64e48f562436da": {
-      "date": "2026-09-28",
-      "title": "mvschwarz / openrig",
-      "source": "github"
-    },
-    "a6af4cf3b14be143": {
-      "date": "2026-09-28",
-      "title": "willfaust / Madeira",
-      "source": "github"
-    },
-    "f81ad79b8245511a": {
-      "date": "2026-09-28",
-      "title": "Implementation is where judgements go to become invisible",
-      "source": "devto"
-    },
-    "024a4e8a66f32e49": {
-      "date": "2026-09-28",
-      "title": "I Tried to Prompt a 3D DEV Library Into Existence. Then I Had to Build My Own Level Editor.",
-      "source": "devto"
-    },
-    "ccd1f18b84ebb031": {
-      "date": "2026-09-28",
-      "title": "Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode' Made One Model 5x More Likely to Follow Its",
-      "source": "devto"
-    },
-    "d801996460d1588a": {
-      "date": "2026-09-28",
-      "title": "What an anthill can teach us about orchestrating agents.",
-      "source": "devto"
-    },
-    "1e49a66953390bbf": {
-      "date": "2026-09-28",
-      "title": "I burned out. Now I don't know how to start again.",
-      "source": "devto"
-    },
-    "fc0068a8f1a8b573": {
-      "date": "2026-09-28",
-      "title": "I Built Two Agent Systems. Each One Proved the Other One Wrong.",
-      "source": "devto"
-    },
-    "7a67afbbbceab266": {
-      "date": "2026-09-28",
-      "title": "Do We Still Need Code Reviews in the Age of Coding Agents?",
-      "source": "devto"
-    },
-    "4e0b627b730c44e8": {
-      "date": "2026-09-28",
-      "title": "They Invited Me to Apply. Two Days Later, They Rejected Me.",
-      "source": "devto"
-    },
-    "9905a6794743acda": {
-      "date": "2026-09-28",
-      "title": "containerd 2.2's mount manager panics on a one-mount mkfs chain",
-      "source": "devto"
-    },
-    "a463063bbd90a68a": {
-      "date": "2026-09-28",
-      "title": "Prompt Injection Is the New SQL Injection (and We're Not Ready)",
-      "source": "devto"
-    },
     "18d398716f5aa44d": {
       "date": "2026-09-29",
       "title": "Sonnet 5.5",
@@ -4880,6 +4755,166 @@
     "fc7752f6bc90e28d": {
       "date": "2026-10-28",
       "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
+      "source": "devto"
+    },
+    "8d6b6a0f50091c73": {
+      "date": "2026-10-29",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "source": "hackernews"
+    },
+    "dff358d382967d76": {
+      "date": "2026-10-29",
+      "title": "Gemini 4 Carbon",
+      "source": "hackernews"
+    },
+    "5cd34593ee4697b1": {
+      "date": "2026-10-29",
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "source": "hackernews"
+    },
+    "9e705eaa01331e42": {
+      "date": "2026-10-29",
+      "title": "CNC Stone Carving",
+      "source": "hackernews"
+    },
+    "1c907ba4be911e5b": {
+      "date": "2026-10-29",
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "source": "hackernews"
+    },
+    "2d5494d6cc3072a8": {
+      "date": "2026-10-29",
+      "title": "A Health Update",
+      "source": "hackernews"
+    },
+    "4bfc59df4e197fd1": {
+      "date": "2026-10-29",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "source": "hackernews"
+    },
+    "012821cdaf2eaff1": {
+      "date": "2026-10-29",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "source": "hackernews"
+    },
+    "4f1b34fd00adec42": {
+      "date": "2026-10-29",
+      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "source": "hackernews"
+    },
+    "3a389809e57a68f3": {
+      "date": "2026-10-29",
+      "title": "The first wired XR glasses powered by Android XR",
+      "source": "hackernews"
+    },
+    "bb9b9d63f3ed40f4": {
+      "date": "2026-10-29",
+      "title": "throxy",
+      "source": "producthunt"
+    },
+    "2ba4cd6b615eb9d7": {
+      "date": "2026-10-29",
+      "title": "Genie 4",
+      "source": "producthunt"
+    },
+    "117e678c351228fa": {
+      "date": "2026-10-29",
+      "title": "AirPosture",
+      "source": "producthunt"
+    },
+    "5d6b87c8c71b0acd": {
+      "date": "2026-10-29",
+      "title": "OneDeploy",
+      "source": "producthunt"
+    },
+    "c8ce5c8c571b214e": {
+      "date": "2026-10-29",
+      "title": "WebAI by Opera",
+      "source": "producthunt"
+    },
+    "c33ed93883c70891": {
+      "date": "2026-10-29",
+      "title": "Hob",
+      "source": "producthunt"
+    },
+    "370eade1a390af5d": {
+      "date": "2026-10-29",
+      "title": "licenseal",
+      "source": "producthunt"
+    },
+    "263c0e8d215d4ff3": {
+      "date": "2026-10-29",
+      "title": "Dedica",
+      "source": "producthunt"
+    },
+    "bbfc2ca772d59109": {
+      "date": "2026-10-29",
+      "title": "macro-inc / macro",
+      "source": "github"
+    },
+    "2f6ba8b59b6b739c": {
+      "date": "2026-10-29",
+      "title": "expo / skills",
+      "source": "github"
+    },
+    "361d8d37c3971cf9": {
+      "date": "2026-10-29",
+      "title": "ruvnet / RuView",
+      "source": "github"
+    },
+    "b784babd8db9829f": {
+      "date": "2026-10-29",
+      "title": "xiaolai / the-craft-of-selfteaching",
+      "source": "github"
+    },
+    "1326005d83a0f35a": {
+      "date": "2026-10-29",
+      "title": "Lessons Learned: Wifi Server Disaster",
+      "source": "devto"
+    },
+    "cebb939e9b9b2f82": {
+      "date": "2026-10-29",
+      "title": "Four Ways a Test Can Lie to You",
+      "source": "devto"
+    },
+    "1e6a484c753bee60": {
+      "date": "2026-10-29",
+      "title": "MQTT Doesn't Have Message Queues. Inside the 2-Byte Protocol Powering Modern IoT.",
+      "source": "devto"
+    },
+    "1022e2f8e0efd12e": {
+      "date": "2026-10-29",
+      "title": "Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to Q2_K",
+      "source": "devto"
+    },
+    "ea29ad709a9ba6a7": {
+      "date": "2026-10-29",
+      "title": "I Compared 6 TypeScript Validation Libraries. Here's What Surprised Me 🤔",
+      "source": "devto"
+    },
+    "4107a01fc126632d": {
+      "date": "2026-10-29",
+      "title": "Mercury 3: When AI Is Fast Enough to Stay in the Loop",
+      "source": "devto"
+    },
+    "ca520f8471ba609e": {
+      "date": "2026-10-29",
+      "title": "Not the End, but a Shift: How AI Is Pushing Computer Science Toward Deeper Engineering",
+      "source": "devto"
+    },
+    "719139474c651452": {
+      "date": "2026-10-29",
+      "title": "Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?",
+      "source": "devto"
+    },
+    "bf93140cdc762222": {
+      "date": "2026-10-29",
+      "title": "What I learned building wfreq",
+      "source": "devto"
+    },
+    "829d497017752215": {
+      "date": "2026-10-29",
+      "title": "Are You a Python Developer or a Python Expert? 7 Tests I Failed Building 3 Desktop Apps",
       "source": "devto"
     }
   }
