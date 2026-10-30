@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-29T02:10:27.924849",
+  "last_updated": "2026-10-30T02:21:45.111462",
   "sent_items": {
-    "18d398716f5aa44d": {
-      "date": "2026-09-29",
-      "title": "Sonnet 5.5",
-      "source": "hackernews"
-    },
-    "feab8152bb49bd3e": {
-      "date": "2026-09-29",
-      "title": "Pirating the Pirates",
-      "source": "hackernews"
-    },
-    "13f1b2f89f9d0154": {
-      "date": "2026-09-29",
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "source": "hackernews"
-    },
-    "80accab252a21cb6": {
-      "date": "2026-09-29",
-      "title": "World Labs Is Joining AMD",
-      "source": "hackernews"
-    },
-    "6f482fa0cb255813": {
-      "date": "2026-09-29",
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "source": "hackernews"
-    },
-    "ab3b9fd9e95a787d": {
-      "date": "2026-09-29",
-      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
-      "source": "hackernews"
-    },
-    "76f64e763d498529": {
-      "date": "2026-09-29",
-      "title": "Scientists solve 1840s space weather mystery",
-      "source": "hackernews"
-    },
-    "c4e8d32dd74e8d39": {
-      "date": "2026-09-29",
-      "title": "California farmers are struggling to sell grapes as demand for wine drops",
-      "source": "hackernews"
-    },
-    "b5610ce4274f3a4a": {
-      "date": "2026-09-29",
-      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-      "source": "hackernews"
-    },
-    "322174cdd332e20f": {
-      "date": "2026-09-29",
-      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-      "source": "hackernews"
-    },
-    "a1f59bf5e7917332": {
-      "date": "2026-09-29",
-      "title": "Lattice",
-      "source": "producthunt"
-    },
-    "3e994524983269e7": {
-      "date": "2026-09-29",
-      "title": "vantage.ai",
-      "source": "producthunt"
-    },
-    "974c656c99696eb8": {
-      "date": "2026-09-29",
-      "title": "Vitals ",
-      "source": "producthunt"
-    },
-    "124cd7ad28ad6136": {
-      "date": "2026-09-29",
-      "title": "Sayble",
-      "source": "producthunt"
-    },
-    "79b01c4a61967b7d": {
-      "date": "2026-09-29",
-      "title": "Okara",
-      "source": "producthunt"
-    },
-    "9cecdf31e3f118a7": {
-      "date": "2026-09-29",
-      "title": "Microsoft Copilot",
-      "source": "producthunt"
-    },
-    "f9ac38714afb399d": {
-      "date": "2026-09-29",
-      "title": "Arc",
-      "source": "producthunt"
-    },
-    "c1be2fcec0412bf9": {
-      "date": "2026-09-29",
-      "title": "PIP",
-      "source": "producthunt"
-    },
-    "9044a443cc06c171": {
-      "date": "2026-09-29",
-      "title": "NawfalMotii79 / PLFM_RADAR",
-      "source": "github"
-    },
-    "cb57e84ba2ef0af9": {
-      "date": "2026-09-29",
-      "title": "cs341-illinois / coursebook",
-      "source": "github"
-    },
-    "e2dc16e18a1e2d37": {
-      "date": "2026-09-29",
-      "title": "byoungd / up",
-      "source": "github"
-    },
-    "cbb983095c08ccc7": {
-      "date": "2026-09-29",
-      "title": "🗓️ Monthly Dev 💫SPECIAL💫 Report: September 2026",
-      "source": "devto"
-    },
-    "5699d6b5665f3498": {
-      "date": "2026-09-29",
-      "title": "Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia",
-      "source": "devto"
-    },
-    "01cddcd22daaa97d": {
-      "date": "2026-09-29",
-      "title": "Half the AI agents in production are if-statements with a GPU bill",
-      "source": "devto"
-    },
-    "65209129d40a953b": {
-      "date": "2026-09-29",
-      "title": "Dear Coder: Open This If You're Feeling AI FOMO",
-      "source": "devto"
-    },
-    "04387d3ed5a164e9": {
-      "date": "2026-09-29",
-      "title": "I'm an ER doctor. After decades without touching code, I built 3 websites with AI in one month — on ",
-      "source": "devto"
-    },
-    "8daaaab01ed373f0": {
-      "date": "2026-09-29",
-      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
-      "source": "devto"
-    },
-    "e0b00d94aa7d8970": {
-      "date": "2026-09-29",
-      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
-      "source": "devto"
-    },
-    "47f6916705b2ab8e": {
-      "date": "2026-09-29",
-      "title": "My AI Development Prompts",
-      "source": "devto"
-    },
-    "7724f63d23995516": {
-      "date": "2026-09-29",
-      "title": "I Stopped Measuring My Programming Ability by How Much Code I Write.",
-      "source": "devto"
-    },
-    "a663d038d0309209": {
-      "date": "2026-09-29",
-      "title": "I Replaced a Gate That Accepted Everyone With a Gate That Accepted No One. My Tests Couldn't Tell th",
-      "source": "devto"
-    },
     "3b1f5931d42712c9": {
       "date": "2026-09-30",
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
@@ -4915,6 +4760,161 @@
     "829d497017752215": {
       "date": "2026-10-29",
       "title": "Are You a Python Developer or a Python Expert? 7 Tests I Failed Building 3 Desktop Apps",
+      "source": "devto"
+    },
+    "aa6b452fb675c833": {
+      "date": "2026-10-30",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "source": "hackernews"
+    },
+    "dffa6111b0b1771a": {
+      "date": "2026-10-30",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "source": "hackernews"
+    },
+    "cc94df8ce96b8f40": {
+      "date": "2026-10-30",
+      "title": "H.264 Is Magic (2016)",
+      "source": "hackernews"
+    },
+    "2fcdf3e17e015973": {
+      "date": "2026-10-30",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "source": "hackernews"
+    },
+    "69b74bd69c4ba10d": {
+      "date": "2026-10-30",
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "source": "hackernews"
+    },
+    "fb2ad309a3ec13de": {
+      "date": "2026-10-30",
+      "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
+      "source": "hackernews"
+    },
+    "842750ece1d95797": {
+      "date": "2026-10-30",
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "source": "hackernews"
+    },
+    "8e156b8007898f73": {
+      "date": "2026-10-30",
+      "title": "The Great American Rascal: Tom Sawyer at 150",
+      "source": "hackernews"
+    },
+    "26076a4ad0ede6c1": {
+      "date": "2026-10-30",
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "source": "hackernews"
+    },
+    "bfa557db1a4d96c5": {
+      "date": "2026-10-30",
+      "title": "Iterating Backwards in C",
+      "source": "hackernews"
+    },
+    "cffb170fc942fc52": {
+      "date": "2026-10-30",
+      "title": "StoreLocale",
+      "source": "producthunt"
+    },
+    "ab1737972e052087": {
+      "date": "2026-10-30",
+      "title": "Empacer",
+      "source": "producthunt"
+    },
+    "8e2eb9abf945ce12": {
+      "date": "2026-10-30",
+      "title": "Floot in ChatGPT",
+      "source": "producthunt"
+    },
+    "813684b27bf29b0d": {
+      "date": "2026-10-30",
+      "title": "Voxel51 Multimodal",
+      "source": "producthunt"
+    },
+    "cea9f393ecf17a8e": {
+      "date": "2026-10-30",
+      "title": "Polylane for ChatGPT",
+      "source": "producthunt"
+    },
+    "49cc78a3ba8afbb8": {
+      "date": "2026-10-30",
+      "title": "Suno MCP",
+      "source": "producthunt"
+    },
+    "f74943086f734370": {
+      "date": "2026-10-30",
+      "title": "Intrascope 2.0",
+      "source": "producthunt"
+    },
+    "c48b1073e26931f7": {
+      "date": "2026-10-30",
+      "title": "Confetti",
+      "source": "producthunt"
+    },
+    "6c6686c0a35727e0": {
+      "date": "2026-10-30",
+      "title": "milind-soni / OpenMausBot",
+      "source": "github"
+    },
+    "16f7fc85f764ecd5": {
+      "date": "2026-10-30",
+      "title": "CopilotKit / OpenBot",
+      "source": "github"
+    },
+    "92509c4f30bfa957": {
+      "date": "2026-10-30",
+      "title": "Donchitos / Claude-Code-Game-Studios",
+      "source": "github"
+    },
+    "51e0af3f7b8a5d8e": {
+      "date": "2026-10-30",
+      "title": "No Human Will Ever Write Code Better Than LLMs? Better at What?",
+      "source": "devto"
+    },
+    "9bbb7ebbf5213d85": {
+      "date": "2026-10-30",
+      "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
+      "source": "devto"
+    },
+    "6f9d4d2f08e78c81": {
+      "date": "2026-10-30",
+      "title": "I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Source AI Model Caught It.",
+      "source": "devto"
+    },
+    "e7cea8aa70c1ec26": {
+      "date": "2026-10-30",
+      "title": "Every App Eventually Becomes a Dashboard. Please Make It Stop.",
+      "source": "devto"
+    },
+    "dadd3c3edc521580": {
+      "date": "2026-10-30",
+      "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
+      "source": "devto"
+    },
+    "242a4ef30c7ff690": {
+      "date": "2026-10-30",
+      "title": "AI Engineering Is Easy. Do We Really Have to Change How We Work?",
+      "source": "devto"
+    },
+    "ab3f416909f3ea51": {
+      "date": "2026-10-30",
+      "title": "💀I'm the last mail carrier in the land of the dead. An open-weight model writes all the mail.",
+      "source": "devto"
+    },
+    "9ad783105dd6337b": {
+      "date": "2026-10-30",
+      "title": "I spent a year on dev, and I'm not happy about it...",
+      "source": "devto"
+    },
+    "3137e9d51d0fb542": {
+      "date": "2026-10-30",
+      "title": "Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?",
+      "source": "devto"
+    },
+    "a467c96d886a4818": {
+      "date": "2026-10-30",
+      "title": "Exorcist: a ghost hunter for your package.json",
       "source": "devto"
     }
   }
