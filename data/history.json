@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-30T02:21:45.111462",
+  "last_updated": "2026-10-31T02:00:41.894692",
   "sent_items": {
-    "3b1f5931d42712c9": {
-      "date": "2026-09-30",
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "source": "hackernews"
-    },
-    "5b1c616dcaea9abb": {
-      "date": "2026-09-30",
-      "title": "How Delhi cut electricity loss from 50 to 5 percent",
-      "source": "hackernews"
-    },
-    "dd2a1c474bd26b86": {
-      "date": "2026-09-30",
-      "title": "America.gov",
-      "source": "hackernews"
-    },
-    "8ad931cc2079dd18": {
-      "date": "2026-09-30",
-      "title": "PS5 Relapse Exploit",
-      "source": "hackernews"
-    },
-    "a5c0ad1eacb77105": {
-      "date": "2026-09-30",
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "source": "hackernews"
-    },
-    "295a238bc5244492": {
-      "date": "2026-09-30",
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "source": "hackernews"
-    },
-    "e923ea199e3c97e5": {
-      "date": "2026-09-30",
-      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "source": "hackernews"
-    },
-    "bd36f003d4326665": {
-      "date": "2026-09-30",
-      "title": "Vermont replacing power plants with home batteries",
-      "source": "hackernews"
-    },
-    "6c5a9beb1683dc3f": {
-      "date": "2026-09-30",
-      "title": "We’re forgetting what darkness feels like",
-      "source": "hackernews"
-    },
-    "7b0973ea1468769d": {
-      "date": "2026-09-30",
-      "title": "Needed 1+1, built a functional programming language",
-      "source": "hackernews"
-    },
-    "4e91087564d438e5": {
-      "date": "2026-09-30",
-      "title": "Timeless Code",
-      "source": "producthunt"
-    },
-    "9d104d69eede776f": {
-      "date": "2026-09-30",
-      "title": "ShipHappens:",
-      "source": "producthunt"
-    },
-    "8e48f2039375f3a0": {
-      "date": "2026-09-30",
-      "title": "FFFFinder",
-      "source": "producthunt"
-    },
-    "42f8cd0891e411c8": {
-      "date": "2026-09-30",
-      "title": "Declutr",
-      "source": "producthunt"
-    },
-    "bf0b133c78ade031": {
-      "date": "2026-09-30",
-      "title": "Codex Remote",
-      "source": "producthunt"
-    },
-    "b3ff3c7fda484d10": {
-      "date": "2026-09-30",
-      "title": "Timeful",
-      "source": "producthunt"
-    },
-    "2486de2b94aa6ac4": {
-      "date": "2026-09-30",
-      "title": "GroupShelf",
-      "source": "producthunt"
-    },
-    "e1829e50367dc53d": {
-      "date": "2026-09-30",
-      "title": "ZenABM",
-      "source": "producthunt"
-    },
-    "5bdccfa75679489b": {
-      "date": "2026-09-30",
-      "title": "The Accidental Blogger: How I Ended Up on DEV",
-      "source": "devto"
-    },
-    "24c24c1b39375182": {
-      "date": "2026-09-30",
-      "title": "I Built My First AI Agent With AWS AgentCore, and the Hardest Part Wasn't the AI",
-      "source": "devto"
-    },
-    "9e1ece61c48d1e67": {
-      "date": "2026-09-30",
-      "title": "AI Agent Governance on AWS: Block Agents, Prove EU AI Act Compliance",
-      "source": "devto"
-    },
-    "6de0249dbb7e6f5c": {
-      "date": "2026-09-30",
-      "title": "Your GitHub profile shows your follower count. It also shows attackers your whole attack surface.",
-      "source": "devto"
-    },
-    "f2e613e7eff5cfc1": {
-      "date": "2026-09-30",
-      "title": "Say Please (if only as a reminder)",
-      "source": "devto"
-    },
-    "b8c3c67a3e37631a": {
-      "date": "2026-09-30",
-      "title": "React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It",
-      "source": "devto"
-    },
-    "544fcd9f1df2bdc7": {
-      "date": "2026-09-30",
-      "title": "Who's Accountable When the AI Was Just Following Instructions?",
-      "source": "devto"
-    },
-    "9bd51a53317092c5": {
-      "date": "2026-09-30",
-      "title": "Confident Isn't Accurate: How AI Hallucinations Actually Work",
-      "source": "devto"
-    },
-    "94f1b346510d6531": {
-      "date": "2026-09-30",
-      "title": "Code Review Is Not an Authority Boundary",
-      "source": "devto"
-    },
-    "eff28291e3b68e44": {
-      "date": "2026-09-30",
-      "title": "I Gave ChatGPT My Full Codebase. The Results Scared Me — But Not for the Reason You Think.",
-      "source": "devto"
-    },
-    "992c39912e4db5a2": {
-      "date": "2026-09-30",
-      "title": "NVIDIA / OpenShell",
-      "source": "github"
-    },
-    "4cb07dec940977f8": {
-      "date": "2026-09-30",
-      "title": "t8y2 / dbx",
-      "source": "github"
-    },
-    "ee1315903bd5e838": {
-      "date": "2026-09-30",
-      "title": "oblien / openship",
-      "source": "github"
-    },
-    "9fea7d3b8ac2c89f": {
-      "date": "2026-09-30",
-      "title": "VectifyAI / PageIndex",
-      "source": "github"
-    },
-    "8c104d62fe1bf984": {
-      "date": "2026-09-30",
-      "title": "rakyll / hey",
-      "source": "github"
-    },
     "445ecd27631acaed": {
       "date": "2026-10-01",
       "title": "Gemini 4 Argon",
@@ -4916,6 +4751,151 @@
       "date": "2026-10-30",
       "title": "Exorcist: a ghost hunter for your package.json",
       "source": "devto"
+    },
+    "6890dfa24a77946f": {
+      "date": "2026-10-31",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "source": "hackernews"
+    },
+    "cf1c8e54dd8758a3": {
+      "date": "2026-10-31",
+      "title": "Northflank Breached",
+      "source": "hackernews"
+    },
+    "3b58246047dd0bfe": {
+      "date": "2026-10-31",
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "source": "hackernews"
+    },
+    "5ac2ceac13b03610": {
+      "date": "2026-10-31",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "source": "hackernews"
+    },
+    "2affa81707c44d53": {
+      "date": "2026-10-31",
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "source": "hackernews"
+    },
+    "84f4ee9eb7758130": {
+      "date": "2026-10-31",
+      "title": "Breaking the open web won't stop the bad bots",
+      "source": "hackernews"
+    },
+    "73f21c7226074c60": {
+      "date": "2026-10-31",
+      "title": "Infinite Mac: BeOS",
+      "source": "hackernews"
+    },
+    "34cf149ae95b35e2": {
+      "date": "2026-10-31",
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "source": "hackernews"
+    },
+    "4ea8f3d9fc31e66e": {
+      "date": "2026-10-31",
+      "title": "Jules Verne's Lost Novel",
+      "source": "hackernews"
+    },
+    "6cde81be67860e6c": {
+      "date": "2026-10-31",
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "source": "hackernews"
+    },
+    "3c4fcd1ad94df96a": {
+      "date": "2026-10-31",
+      "title": "StereoLift Live",
+      "source": "producthunt"
+    },
+    "c6612a74272128f8": {
+      "date": "2026-10-31",
+      "title": "Teable Mobile",
+      "source": "producthunt"
+    },
+    "453a9c15e205fcdb": {
+      "date": "2026-10-31",
+      "title": "iSurge",
+      "source": "producthunt"
+    },
+    "dbc4800c4f21d6e9": {
+      "date": "2026-10-31",
+      "title": "Kestrix",
+      "source": "producthunt"
+    },
+    "33d5d01b26164d9c": {
+      "date": "2026-10-31",
+      "title": "fastbrowse",
+      "source": "producthunt"
+    },
+    "f012958e1f7271d4": {
+      "date": "2026-10-31",
+      "title": "Knocket AI",
+      "source": "producthunt"
+    },
+    "9d1573f61ab4fb20": {
+      "date": "2026-10-31",
+      "title": "Nocto",
+      "source": "producthunt"
+    },
+    "13fda1acbbe014f2": {
+      "date": "2026-10-31",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "7a60e4ac0074b6fd": {
+      "date": "2026-10-31",
+      "title": "We Need to Talk About How Gross Modern Web Design Has Become (And How We Built an AI to Catch It)",
+      "source": "devto"
+    },
+    "436c987784d5d19c": {
+      "date": "2026-10-31",
+      "title": "My open source project is brand new and already has contributors. Here's what I did.",
+      "source": "devto"
+    },
+    "7285642267168694": {
+      "date": "2026-10-31",
+      "title": "MoE Offloading Isn’t Always Faster: I Tested 5 Models on a 16GB GPU",
+      "source": "devto"
+    },
+    "f50ca301be549d0a": {
+      "date": "2026-10-31",
+      "title": "I Built 101 Indian Monuments in the Browser Using Only Code (No 3D Models)",
+      "source": "devto"
+    },
+    "2fc9b6812d4a6a62": {
+      "date": "2026-10-31",
+      "title": "Ofrenda: Yaadon ka Diya — Virtual Remembrance Altar with Open-Weight AI",
+      "source": "devto"
+    },
+    "10a18708688361a4": {
+      "date": "2026-10-31",
+      "title": "Marigold /router - A Private Ofrenda for the Memories We Refuse to Lose",
+      "source": "devto"
+    },
+    "5957dd5482066c15": {
+      "date": "2026-10-31",
+      "title": "Undead Agent - My AI Agent Dies, Comes Back, and Tells Me What It Saw(Gemma + Ollama + Temporal)",
+      "source": "devto"
+    },
+    "203fa5edcb724033": {
+      "date": "2026-10-31",
+      "title": "A trojanized Claude Code extension plants an SSH backdoor: the 7-point audit for your machine",
+      "source": "devto"
+    },
+    "4db7ad93eded5b6c": {
+      "date": "2026-10-31",
+      "title": "👻 Ghostlet: While you’re away, the ghosts will play.",
+      "source": "devto"
+    },
+    "ea97e2f9b3078078": {
+      "date": "2026-10-31",
+      "title": "anthropics / skills",
+      "source": "github"
+    },
+    "3e5bc6114122e8e4": {
+      "date": "2026-10-31",
+      "title": "lightpanda-io / browser",
+      "source": "github"
     }
   }
 }
