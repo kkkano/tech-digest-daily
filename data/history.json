@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-31T02:00:41.894692",
+  "last_updated": "2026-11-01T01:40:11.247316",
   "sent_items": {
-    "445ecd27631acaed": {
-      "date": "2026-10-01",
-      "title": "Gemini 4 Argon",
-      "source": "hackernews"
-    },
-    "39fa3efedfed2cde": {
-      "date": "2026-10-01",
-      "title": "You said no MCP",
-      "source": "hackernews"
-    },
-    "c5020f68afaa5868": {
-      "date": "2026-10-01",
-      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-      "source": "hackernews"
-    },
-    "320b81eee547d757": {
-      "date": "2026-10-01",
-      "title": "EDG C++ front-end goes public",
-      "source": "hackernews"
-    },
-    "af5a86f799b9a35a": {
-      "date": "2026-10-01",
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
-      "source": "hackernews"
-    },
-    "78e54296c6b731f7": {
-      "date": "2026-10-01",
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "source": "hackernews"
-    },
-    "cd5fd160b20bec9d": {
-      "date": "2026-10-01",
-      "title": "Why the Bronze Age Collapsed",
-      "source": "hackernews"
-    },
-    "58f9ce836fb64206": {
-      "date": "2026-10-01",
-      "title": "Halfspace experimental IDE for solid modeling with distance fields",
-      "source": "hackernews"
-    },
-    "43c31f7bfb71e63a": {
-      "date": "2026-10-01",
-      "title": "56k.rip – the 1996 dial-up internet experience",
-      "source": "hackernews"
-    },
-    "b84d60fc8471607d": {
-      "date": "2026-10-01",
-      "title": "Evlat",
-      "source": "producthunt"
-    },
-    "e13f0035b5896632": {
-      "date": "2026-10-01",
-      "title": "GitBot",
-      "source": "producthunt"
-    },
-    "c75db68130f65d2f": {
-      "date": "2026-10-01",
-      "title": "Styx",
-      "source": "producthunt"
-    },
-    "e21e8f65c4ff0ab4": {
-      "date": "2026-10-01",
-      "title": "Cyluma",
-      "source": "producthunt"
-    },
-    "fa26d50544d70231": {
-      "date": "2026-10-01",
-      "title": "Voice Memo",
-      "source": "producthunt"
-    },
-    "aacd4ac3e343ada0": {
-      "date": "2026-10-01",
-      "title": "SelfJev",
-      "source": "producthunt"
-    },
-    "50ab21695e7fc1ee": {
-      "date": "2026-10-01",
-      "title": "Squint",
-      "source": "producthunt"
-    },
-    "1a92ebf1b04c39a2": {
-      "date": "2026-10-01",
-      "title": "Ship It: Idle Dev Tycoon",
-      "source": "producthunt"
-    },
-    "afd7347d1a6f9013": {
-      "date": "2026-10-01",
-      "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
-      "source": "devto"
-    },
-    "1c066404e3d6e917": {
-      "date": "2026-10-01",
-      "title": "TypeScript Compiler API: Preserving Child Node Narrowing in Reusable Type Guards 🔧",
-      "source": "devto"
-    },
-    "86507e978e43c5e6": {
-      "date": "2026-10-01",
-      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
-      "source": "devto"
-    },
-    "ce03e1c1694b792b": {
-      "date": "2026-10-01",
-      "title": "Are Frontend Developers Cooked? Is Frontend design safe?",
-      "source": "devto"
-    },
-    "0aeb7486b7e5b521": {
-      "date": "2026-10-01",
-      "title": "Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀",
-      "source": "devto"
-    },
-    "8d8b05d670644f58": {
-      "date": "2026-10-01",
-      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
-      "source": "devto"
-    },
-    "c64b211caa1a33c5": {
-      "date": "2026-10-01",
-      "title": "The Version of Me Who Looks Better on Paper Doesn't Exist",
-      "source": "devto"
-    },
-    "3ca6da0594c961ef": {
-      "date": "2026-10-01",
-      "title": "What Science Fiction Tells Us About Our Changing Relationship With AI",
-      "source": "devto"
-    },
-    "76958cadde887a76": {
-      "date": "2026-10-01",
-      "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
-      "source": "devto"
-    },
-    "cc017f8bec998ee6": {
-      "date": "2026-10-01",
-      "title": "🛜 The Journey of Data Through a Wi-Fi 7 NIC",
-      "source": "devto"
-    },
-    "2526d3aeeaafdd09": {
-      "date": "2026-10-01",
-      "title": "DietrichGebert / ponytail",
-      "source": "github"
-    },
-    "7c09473f1ffc3548": {
-      "date": "2026-10-01",
-      "title": "harry0703 / MoneyPrinterTurbo",
-      "source": "github"
-    },
-    "0bd21c2cf11fc945": {
-      "date": "2026-10-01",
-      "title": "openclaw / openclaw",
-      "source": "github"
-    },
-    "7e39ec2390d0765a": {
-      "date": "2026-10-01",
-      "title": "ComposioHQ / awesome-claude-skills",
-      "source": "github"
-    },
-    "a757f54d2610d95e": {
-      "date": "2026-10-01",
-      "title": "firebase / firebase-ios-sdk",
-      "source": "github"
-    },
-    "b50254409ec38137": {
-      "date": "2026-10-01",
-      "title": "modelcontextprotocol / servers",
-      "source": "github"
-    },
-    "94ec5d23f75fd96a": {
-      "date": "2026-10-01",
-      "title": "colbymchenry / codegraph",
-      "source": "github"
-    },
     "11ad6e13661a4d8c": {
       "date": "2026-10-02",
       "title": "Pi 1.0",
@@ -4895,6 +4725,166 @@
     "3e5bc6114122e8e4": {
       "date": "2026-10-31",
       "title": "lightpanda-io / browser",
+      "source": "github"
+    },
+    "91a61e61f66b745d": {
+      "date": "2026-11-01",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "source": "hackernews"
+    },
+    "b3d72d5cb2227022": {
+      "date": "2026-11-01",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "source": "hackernews"
+    },
+    "ab59995cacbb125b": {
+      "date": "2026-11-01",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "source": "hackernews"
+    },
+    "a0daf673dc00a16e": {
+      "date": "2026-11-01",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "source": "hackernews"
+    },
+    "5ee6c85034d7c99e": {
+      "date": "2026-11-01",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "source": "hackernews"
+    },
+    "2cbb6a1e767a9766": {
+      "date": "2026-11-01",
+      "title": "It's the memory latency, stupid",
+      "source": "hackernews"
+    },
+    "ace8a6b3d58e6b5e": {
+      "date": "2026-11-01",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "source": "hackernews"
+    },
+    "afc1ae3930775956": {
+      "date": "2026-11-01",
+      "title": "Altoids Project",
+      "source": "hackernews"
+    },
+    "1955b85dc12e5f12": {
+      "date": "2026-11-01",
+      "title": "First response from the Project Suncatcher prototype satellite",
+      "source": "hackernews"
+    },
+    "5a2a8f7bfacc0081": {
+      "date": "2026-11-01",
+      "title": "When electric cars were for women",
+      "source": "hackernews"
+    },
+    "867012374cd2fce6": {
+      "date": "2026-11-01",
+      "title": "Backenly",
+      "source": "producthunt"
+    },
+    "f67860b77320324d": {
+      "date": "2026-11-01",
+      "title": "AwaitIO",
+      "source": "producthunt"
+    },
+    "0afa8ca0049e7da2": {
+      "date": "2026-11-01",
+      "title": "AC Bridge",
+      "source": "producthunt"
+    },
+    "f3b3bea9a64f1143": {
+      "date": "2026-11-01",
+      "title": "Hemmed",
+      "source": "producthunt"
+    },
+    "f42bbb68f63b7916": {
+      "date": "2026-11-01",
+      "title": "Seqora",
+      "source": "producthunt"
+    },
+    "b73417c7bd176133": {
+      "date": "2026-11-01",
+      "title": "Godwit",
+      "source": "producthunt"
+    },
+    "8ef448bb0e68d2a1": {
+      "date": "2026-11-01",
+      "title": "Secret Key",
+      "source": "producthunt"
+    },
+    "08a5556c735dc0ad": {
+      "date": "2026-11-01",
+      "title": "Knucklebop",
+      "source": "producthunt"
+    },
+    "f84eeda43b45a888": {
+      "date": "2026-11-01",
+      "title": "Singularity News :: CCG",
+      "source": "devto"
+    },
+    "15335ba82abbb34e": {
+      "date": "2026-11-01",
+      "title": "A Two-Line Function Caught AI Collusion Better Than the AI Did",
+      "source": "devto"
+    },
+    "d62a128e6c0516ca": {
+      "date": "2026-11-01",
+      "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the De",
+      "source": "devto"
+    },
+    "a016056d4cef1767": {
+      "date": "2026-11-01",
+      "title": "I Retested My MoE Offloading Benchmarks. Some of My Conclusions Changed.",
+      "source": "devto"
+    },
+    "0146e19309333f0f": {
+      "date": "2026-11-01",
+      "title": "Trick or Type Guard? Surviving `unknown` with is-kit 🎃",
+      "source": "devto"
+    },
+    "e2bb336db260d339": {
+      "date": "2026-11-01",
+      "title": "Same Evidence, Different Judgment? A Small Experiment on Implied Conclusions and Evidence Ordering",
+      "source": "devto"
+    },
+    "a00512190a16977d": {
+      "date": "2026-11-01",
+      "title": "I held a séance for 31 dead websites. The most honest ghost said \"that never made it into my HTML.\"",
+      "source": "devto"
+    },
+    "4735024eb46f129d": {
+      "date": "2026-11-01",
+      "title": "Desert Hours: Mapping When Transit Disappears With Amazon Location Service",
+      "source": "devto"
+    },
+    "4a7ccfc8a1c3e960": {
+      "date": "2026-11-01",
+      "title": "We took over ChatGPT accounts: the MathLive postMessage chain, and the 20-line audit for your own li",
+      "source": "devto"
+    },
+    "4583e78a9294295d": {
+      "date": "2026-11-01",
+      "title": "Debugging in the Agentic Era",
+      "source": "devto"
+    },
+    "05d76cea53edba09": {
+      "date": "2026-11-01",
+      "title": "Orkas-AI / Orkas",
+      "source": "github"
+    },
+    "c2f4cce08f408ce8": {
+      "date": "2026-11-01",
+      "title": "THU-MAIC / OpenMAIC",
+      "source": "github"
+    },
+    "7d8c130e960bb1d9": {
+      "date": "2026-11-01",
+      "title": "bregman-arie / devops-exercises",
+      "source": "github"
+    },
+    "b66db9609a1a862c": {
+      "date": "2026-11-01",
+      "title": "vorssaint / vorssaint-utils",
       "source": "github"
     }
   }
