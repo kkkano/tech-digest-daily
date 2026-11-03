@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-02T02:00:33.881265",
+  "last_updated": "2026-11-03T03:55:10.886633",
   "sent_items": {
-    "159e8dd3874a8e8c": {
-      "date": "2026-10-03",
-      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "source": "hackernews"
-    },
-    "35679dd830ae321e": {
-      "date": "2026-10-03",
-      "title": "Apple Pass Designer",
-      "source": "hackernews"
-    },
-    "ad3ef17dc4953876": {
-      "date": "2026-10-03",
-      "title": "Mike Tomlin spent 12 years building a Minecraft city",
-      "source": "hackernews"
-    },
-    "fc9a8af9cf310c4a": {
-      "date": "2026-10-03",
-      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-      "source": "hackernews"
-    },
-    "9796e3908e7f5245": {
-      "date": "2026-10-03",
-      "title": "Loss of cell identity drives human aging: Two new papers",
-      "source": "hackernews"
-    },
-    "6c08f4cc37ece942": {
-      "date": "2026-10-03",
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "source": "hackernews"
-    },
-    "d5cb8735d1d50829": {
-      "date": "2026-10-03",
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "source": "hackernews"
-    },
-    "25d7fadb2c58a4c1": {
-      "date": "2026-10-03",
-      "title": "Muse Gadgets",
-      "source": "hackernews"
-    },
-    "05f5ae43b77b3be6": {
-      "date": "2026-10-03",
-      "title": "The Forgetful CPU (Linux on M4)",
-      "source": "hackernews"
-    },
-    "2317384b005ef1dd": {
-      "date": "2026-10-03",
-      "title": "Things That Apparently Cause Cancer",
-      "source": "hackernews"
-    },
-    "c58ea5f0094bbc78": {
-      "date": "2026-10-03",
-      "title": "Finbar",
-      "source": "producthunt"
-    },
-    "48fe715cc034af08": {
-      "date": "2026-10-03",
-      "title": "Moxie",
-      "source": "producthunt"
-    },
-    "37984fc912975615": {
-      "date": "2026-10-03",
-      "title": "Clef",
-      "source": "producthunt"
-    },
-    "5a1a98974b666bb7": {
-      "date": "2026-10-03",
-      "title": "Never Boring AI",
-      "source": "producthunt"
-    },
-    "f8f77e03849bd806": {
-      "date": "2026-10-03",
-      "title": "Earlyn",
-      "source": "producthunt"
-    },
-    "c5e3af497c657a58": {
-      "date": "2026-10-03",
-      "title": "esigna",
-      "source": "producthunt"
-    },
-    "8d9aa2ed36567f8e": {
-      "date": "2026-10-03",
-      "title": "Open Inspector",
-      "source": "producthunt"
-    },
-    "9340175102de8285": {
-      "date": "2026-10-03",
-      "title": "What was your win this week?",
-      "source": "devto"
-    },
-    "d68eca514e61db29": {
-      "date": "2026-10-03",
-      "title": "Dev Opportunity Radar #19: Hacktoberfest, $20K AI Agent Hackathon, and Pear Prime 2027",
-      "source": "devto"
-    },
-    "9cad877b89c7e7c8": {
-      "date": "2026-10-03",
-      "title": "Hacktoberfest Is Coming to Nadiad, Gujarat 🚀 Official MLH Meetup at DDU, 15 Oct",
-      "source": "devto"
-    },
-    "e2d27e8c3a9e1f09": {
-      "date": "2026-10-03",
-      "title": "Kharcha: a 4B model that reads Indian bank SMS so the money stays on your laptop",
-      "source": "devto"
-    },
-    "1a3bf5768e007d68": {
-      "date": "2026-10-03",
-      "title": "Write Markdown Once, Publish It Everywhere: dev.to, Medium, AWS Builder Center and LinkedIn",
-      "source": "devto"
-    },
-    "ba8a6225afbe8e5f": {
-      "date": "2026-10-03",
-      "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
-      "source": "devto"
-    },
-    "9bbc4b0fe4f20235": {
-      "date": "2026-10-03",
-      "title": "I Gave 15 AI Models Proof Their Hacking Target Was a Real Company. 73% of the Ones That Noticed Told",
-      "source": "devto"
-    },
-    "f690cffa412695fc": {
-      "date": "2026-10-03",
-      "title": "How One \"Generate Draft\" Button Changed the Design of My Writing Tool",
-      "source": "devto"
-    },
-    "c2ece9ed57f3d5ab": {
-      "date": "2026-10-03",
-      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
-      "source": "devto"
-    },
-    "9962308b7c6bc089": {
-      "date": "2026-10-03",
-      "title": "The BMW manual was off-limits, so I built my friend something better",
-      "source": "devto"
-    },
-    "021dcfb5e16a50cf": {
-      "date": "2026-10-03",
-      "title": "JuliusBrussee / caveman",
-      "source": "github"
-    },
-    "69c7eb76fe0b1fcc": {
-      "date": "2026-10-03",
-      "title": "google / skills",
-      "source": "github"
-    },
-    "a5d3aa66ee820da7": {
-      "date": "2026-10-03",
-      "title": "getsentry / sentry",
-      "source": "github"
-    },
     "acd05619cf666288": {
       "date": "2026-10-04",
       "title": "Kolibri: A Sovereign Open-Weight Model",
@@ -4885,6 +4735,191 @@
     "efa40a1e188a4896": {
       "date": "2026-11-02",
       "title": "patchy631 / ai-engineering-hub",
+      "source": "github"
+    },
+    "bdf0bd709a7a2c18": {
+      "date": "2026-11-03",
+      "title": "Astra can read and write weights to improve Qwen",
+      "source": "hackernews"
+    },
+    "f4425d0b7b417940": {
+      "date": "2026-11-03",
+      "title": "If you love a website, back it up",
+      "source": "hackernews"
+    },
+    "676c6f9502305105": {
+      "date": "2026-11-03",
+      "title": "US boy names that became girl names and vice versa",
+      "source": "hackernews"
+    },
+    "f2c704bb3f56f7a9": {
+      "date": "2026-11-03",
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "source": "hackernews"
+    },
+    "8c23996cc7fd0dbe": {
+      "date": "2026-11-03",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "source": "hackernews"
+    },
+    "2e9e520178924e72": {
+      "date": "2026-11-03",
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "source": "hackernews"
+    },
+    "32aa225393363bd0": {
+      "date": "2026-11-03",
+      "title": "Show HN: Hacker Times, a New York Times-Inspired Version Hacker News",
+      "source": "hackernews"
+    },
+    "3c1e8db58a3eb1b9": {
+      "date": "2026-11-03",
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "source": "hackernews"
+    },
+    "dbf3d3e19589e387": {
+      "date": "2026-11-03",
+      "title": "Scaling Git at OpenAI",
+      "source": "hackernews"
+    },
+    "48e5f3dbc23c4c6e": {
+      "date": "2026-11-03",
+      "title": "Resisting Cognitive Surrender",
+      "source": "hackernews"
+    },
+    "7b0876bf928e96f6": {
+      "date": "2026-11-03",
+      "title": "Help",
+      "source": "producthunt"
+    },
+    "73a75023de245f18": {
+      "date": "2026-11-03",
+      "title": "Hyperresearch",
+      "source": "producthunt"
+    },
+    "8949acd40ede6643": {
+      "date": "2026-11-03",
+      "title": "diff-tour",
+      "source": "producthunt"
+    },
+    "a28138ed6566bdac": {
+      "date": "2026-11-03",
+      "title": "Xmind 2027",
+      "source": "producthunt"
+    },
+    "d5a703d2857020be": {
+      "date": "2026-11-03",
+      "title": "Agent Inbox",
+      "source": "producthunt"
+    },
+    "cca0519921fb2d13": {
+      "date": "2026-11-03",
+      "title": "Display 1.0",
+      "source": "producthunt"
+    },
+    "ecce19939883d176": {
+      "date": "2026-11-03",
+      "title": "Friday Work",
+      "source": "producthunt"
+    },
+    "5efa2e88c55fa604": {
+      "date": "2026-11-03",
+      "title": "Cedric AI for Meetings",
+      "source": "producthunt"
+    },
+    "ebad180f5aa6f0ea": {
+      "date": "2026-11-03",
+      "title": "This is my first HacktoberFest, and I don't know what to feel.",
+      "source": "devto"
+    },
+    "ef410c033264f1e6": {
+      "date": "2026-11-03",
+      "title": "Butter Scraped Over Too Much Bread",
+      "source": "devto"
+    },
+    "b2e00e37c1f8f242": {
+      "date": "2026-11-03",
+      "title": "gp-grid: A Free, Open-Source TypeScript Data Grid for React, Vue, and Angular (No Paywalled Features",
+      "source": "devto"
+    },
+    "c8fda89917fbce50": {
+      "date": "2026-11-03",
+      "title": "I shipped my biggest project ever and felt… nothing",
+      "source": "devto"
+    },
+    "d6a665da7a8dede6": {
+      "date": "2026-11-03",
+      "title": "Two Truths and a Lie: Developer Edition.",
+      "source": "devto"
+    },
+    "25567fed756385b4": {
+      "date": "2026-11-03",
+      "title": "I built a 3D game about my Nigerian childhood (and I'm not a game developer)",
+      "source": "devto"
+    },
+    "37f5853811a01582": {
+      "date": "2026-11-03",
+      "title": "Does AbortSignal Cancel a Node.js Database Query? 4 Drivers Tested",
+      "source": "devto"
+    },
+    "0e94fccdd27f00e2": {
+      "date": "2026-11-03",
+      "title": "I Built a Visual System Design Reference — Switch Any Architecture Between AWS, Azure, GCP & Open So",
+      "source": "devto"
+    },
+    "e6f3cd816f5deaca": {
+      "date": "2026-11-03",
+      "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
+      "source": "devto"
+    },
+    "5bc257d3b0c37cd6": {
+      "date": "2026-11-03",
+      "title": "I Built LLM Explained: 43 Interactive Pages That Take You From Tokens to AI Agents",
+      "source": "devto"
+    },
+    "f3ff53581488ea83": {
+      "date": "2026-11-03",
+      "title": "vercel-labs / agent-desktop",
+      "source": "github"
+    },
+    "76a267c59bdc6676": {
+      "date": "2026-11-03",
+      "title": "D4Vinci / Scrapling",
+      "source": "github"
+    },
+    "3a0b0b37a392aba3": {
+      "date": "2026-11-03",
+      "title": "hyprwm / Hyprland",
+      "source": "github"
+    },
+    "586dee9a79c184f7": {
+      "date": "2026-11-03",
+      "title": "FlashML-org / FreeToken",
+      "source": "github"
+    },
+    "d8699931bd0d7791": {
+      "date": "2026-11-03",
+      "title": "JustVugg / colibri",
+      "source": "github"
+    },
+    "77049851f70b183b": {
+      "date": "2026-11-03",
+      "title": "max-sixty / worktrunk",
+      "source": "github"
+    },
+    "e596fc31d0dc4f76": {
+      "date": "2026-11-03",
+      "title": "paperclipai / paperclip",
+      "source": "github"
+    },
+    "971dc80d24870e3a": {
+      "date": "2026-11-03",
+      "title": "karpathy / nanochat",
+      "source": "github"
+    },
+    "d2f39386e20eb773": {
+      "date": "2026-11-03",
+      "title": "p-e-w / heretic",
       "source": "github"
     }
   }
