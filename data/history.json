@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-03T03:55:10.886633",
+  "last_updated": "2026-11-04T02:54:10.706166",
   "sent_items": {
-    "acd05619cf666288": {
-      "date": "2026-10-04",
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "source": "hackernews"
-    },
-    "703c0c829a14fd92": {
-      "date": "2026-10-04",
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "source": "hackernews"
-    },
-    "81b68c5ee25b3bb6": {
-      "date": "2026-10-04",
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "source": "hackernews"
-    },
-    "eb8bbabe305cdeef": {
-      "date": "2026-10-04",
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "source": "hackernews"
-    },
-    "c40b90c587ac7f7c": {
-      "date": "2026-10-04",
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "source": "hackernews"
-    },
-    "c5e6afee1ce03466": {
-      "date": "2026-10-04",
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "source": "hackernews"
-    },
-    "949e665fe56ae2f1": {
-      "date": "2026-10-04",
-      "title": "Reasons I didn't become an EMT, ranked",
-      "source": "hackernews"
-    },
-    "8ec43cce63e7a249": {
-      "date": "2026-10-04",
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "source": "hackernews"
-    },
-    "de59c72733214a2d": {
-      "date": "2026-10-04",
-      "title": "Your body of work thinks back at you",
-      "source": "hackernews"
-    },
-    "2f1589adfbab82ab": {
-      "date": "2026-10-04",
-      "title": "Math's pedagogical curse – Grant Sanderson [video]",
-      "source": "hackernews"
-    },
-    "88864ba7d9a7a8b9": {
-      "date": "2026-10-04",
-      "title": "Cubicle",
-      "source": "producthunt"
-    },
-    "cb27044acdfee2d4": {
-      "date": "2026-10-04",
-      "title": "Thanor AI",
-      "source": "producthunt"
-    },
-    "a2eaf755c91e8467": {
-      "date": "2026-10-04",
-      "title": "Prefer",
-      "source": "producthunt"
-    },
-    "55aafc714bc4bdf1": {
-      "date": "2026-10-04",
-      "title": "eu/jev",
-      "source": "producthunt"
-    },
-    "2cdadd21d17dd2c2": {
-      "date": "2026-10-04",
-      "title": "FeelMyMac",
-      "source": "producthunt"
-    },
-    "0a4c810b756d4f02": {
-      "date": "2026-10-04",
-      "title": "Singularity",
-      "source": "producthunt"
-    },
-    "c664db173d2666bd": {
-      "date": "2026-10-04",
-      "title": "Reassign",
-      "source": "producthunt"
-    },
-    "d34c89742c5c6d00": {
-      "date": "2026-10-04",
-      "title": "I Was Overwhelmed, So I Turned My GitHub Profile Into a Roguelike Dungeon",
-      "source": "devto"
-    },
-    "958d2c3271bfecd6": {
-      "date": "2026-10-04",
-      "title": "Turn Your GitHub Contribution Graph Into an ASCII City",
-      "source": "devto"
-    },
-    "0eae713481c23b3a": {
-      "date": "2026-10-04",
-      "title": "I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up.",
-      "source": "devto"
-    },
-    "529aa326c8391c42": {
-      "date": "2026-10-04",
-      "title": "I Made Spider-Man Swing Without Animating a Single Frame",
-      "source": "devto"
-    },
-    "81e1737aaa032638": {
-      "date": "2026-10-04",
-      "title": "Nudging with Questions: Why Telling Your AI What to Fix Triggers an Apology Death Spiral (And How to",
-      "source": "devto"
-    },
-    "c98d1095dab625be": {
-      "date": "2026-10-04",
-      "title": "Never Stranded Again: How I Built an Edge AI Bus Guardian for My Friend Tejas Using TabPFN & SerpApi",
-      "source": "devto"
-    },
-    "af0f0ee5f5068fbd": {
-      "date": "2026-10-04",
-      "title": "EmbedCatalog is participating in Hacktoberfest 2026",
-      "source": "devto"
-    },
-    "05052933c7cc94b0": {
-      "date": "2026-10-04",
-      "title": "The Developer Triangle: DSA, AI, and the Skill That Actually Gets You Hired (as a Beginner)",
-      "source": "devto"
-    },
-    "6452dd8eac0dc27b": {
-      "date": "2026-10-04",
-      "title": "Five Frameworks, One Page, Zero Runtime Tax — Micro-frontends in Web Workers",
-      "source": "devto"
-    },
-    "4d122a39891f9463": {
-      "date": "2026-10-04",
-      "title": "A service mesh costs 0.16ms at one connection and 86% of your throughput at 32",
-      "source": "devto"
-    },
-    "a90d342e2181a927": {
-      "date": "2026-10-04",
-      "title": "affaan-m / ECC",
-      "source": "github"
-    },
-    "400163d7e89d8aac": {
-      "date": "2026-10-04",
-      "title": "Effect-TS / effect",
-      "source": "github"
-    },
-    "d2e7f6acabc603da": {
-      "date": "2026-10-04",
-      "title": "pingdotgg / t3code",
-      "source": "github"
-    },
-    "f08d8cf2c7baf95f": {
-      "date": "2026-10-04",
-      "title": "thedotmack / claude-mem",
-      "source": "github"
-    },
-    "657ca5d400cd8d91": {
-      "date": "2026-10-04",
-      "title": "cloudflare / cloudflare-os",
-      "source": "github"
-    },
     "cbba30503920c619": {
       "date": "2026-10-05",
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
@@ -4920,6 +4760,156 @@
     "d2f39386e20eb773": {
       "date": "2026-11-03",
       "title": "p-e-w / heretic",
+      "source": "github"
+    },
+    "70ab689058cef839": {
+      "date": "2026-11-04",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "source": "hackernews"
+    },
+    "ab1728508583fdde": {
+      "date": "2026-11-04",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "source": "hackernews"
+    },
+    "bc764ed3b8fcd533": {
+      "date": "2026-11-04",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "source": "hackernews"
+    },
+    "a4df15e2609a100e": {
+      "date": "2026-11-04",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "source": "hackernews"
+    },
+    "957f56d221d95890": {
+      "date": "2026-11-04",
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "source": "hackernews"
+    },
+    "f6211dd695228fcc": {
+      "date": "2026-11-04",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "source": "hackernews"
+    },
+    "3bc1b0b8eaac3153": {
+      "date": "2026-11-04",
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "source": "hackernews"
+    },
+    "040045da2a7e4cc1": {
+      "date": "2026-11-04",
+      "title": "The Internals of PostgreSQL",
+      "source": "hackernews"
+    },
+    "e5ad0781641364e5": {
+      "date": "2026-11-04",
+      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "source": "hackernews"
+    },
+    "9ef8bca953631480": {
+      "date": "2026-11-04",
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "source": "hackernews"
+    },
+    "d157e17fc9e662de": {
+      "date": "2026-11-04",
+      "title": "Akema",
+      "source": "producthunt"
+    },
+    "388eee898204c124": {
+      "date": "2026-11-04",
+      "title": "Beamfy",
+      "source": "producthunt"
+    },
+    "77afef12a618e670": {
+      "date": "2026-11-04",
+      "title": "nana",
+      "source": "producthunt"
+    },
+    "ca67163e8ea57d5c": {
+      "date": "2026-11-04",
+      "title": "SUN Web & API",
+      "source": "producthunt"
+    },
+    "cfcc5fbebe1f0461": {
+      "date": "2026-11-04",
+      "title": "Scrawl",
+      "source": "producthunt"
+    },
+    "a66cd0dc5512bfe2": {
+      "date": "2026-11-04",
+      "title": "Wavefunction",
+      "source": "producthunt"
+    },
+    "6d45bb01491e8f02": {
+      "date": "2026-11-04",
+      "title": "One Roof",
+      "source": "producthunt"
+    },
+    "79aa0428cbe2b115": {
+      "date": "2026-11-04",
+      "title": "One Last Post, and a Proper Goodbye",
+      "source": "devto"
+    },
+    "5d70083443507b9c": {
+      "date": "2026-11-04",
+      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
+      "source": "devto"
+    },
+    "2e8f081678e0e7c5": {
+      "date": "2026-11-04",
+      "title": "I lost half a day to an n8n workflow that was \"working.\" It never ran.",
+      "source": "devto"
+    },
+    "802ffcb44ef54f8b": {
+      "date": "2026-11-04",
+      "title": "Let's see where you code!",
+      "source": "devto"
+    },
+    "6e15e90f248685fc": {
+      "date": "2026-11-04",
+      "title": "Rack Before You Remember",
+      "source": "devto"
+    },
+    "f03c0c79a4360115": {
+      "date": "2026-11-04",
+      "title": "Stop Generating Changelogs from Git Commits: How I Fixed the 'WHY' Problem in ChangelogBot",
+      "source": "devto"
+    },
+    "834073b9e69ce4d5": {
+      "date": "2026-11-04",
+      "title": "I Let AI Build a Feature Without Giving It the Full Context",
+      "source": "devto"
+    },
+    "610b57a4978086fd": {
+      "date": "2026-11-04",
+      "title": "Your Database Has Backups. Have You Ever Tried Restoring One?",
+      "source": "devto"
+    },
+    "b69151a6e6b427a0": {
+      "date": "2026-11-04",
+      "title": "FastAPI 0.162.0 fixes a required checkbox that was never actually required",
+      "source": "devto"
+    },
+    "57d919272972f08f": {
+      "date": "2026-11-04",
+      "title": "Writing code for a computer that is mostly asleep",
+      "source": "devto"
+    },
+    "76d7fff5eff11c64": {
+      "date": "2026-11-04",
+      "title": "spotify / portal-ai-plugins",
+      "source": "github"
+    },
+    "eeaf9b0a846d0e4c": {
+      "date": "2026-11-04",
+      "title": "floci-io / floci",
+      "source": "github"
+    },
+    "e693c29af62039d3": {
+      "date": "2026-11-04",
+      "title": "Usagi-org / ai-goofish-monitor",
       "source": "github"
     }
   }
