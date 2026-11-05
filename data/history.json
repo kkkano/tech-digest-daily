@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-04T02:54:10.706166",
+  "last_updated": "2026-11-05T02:58:23.192796",
   "sent_items": {
-    "cbba30503920c619": {
-      "date": "2026-10-05",
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "source": "hackernews"
-    },
-    "11e7fe621404c0b0": {
-      "date": "2026-10-05",
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "source": "hackernews"
-    },
-    "f0d969783b3d28ce": {
-      "date": "2026-10-05",
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "source": "hackernews"
-    },
-    "db02bd2053a0cc20": {
-      "date": "2026-10-05",
-      "title": "A browser-native classic Visual Basic VB6 IDE",
-      "source": "hackernews"
-    },
-    "558855dfb1899614": {
-      "date": "2026-10-05",
-      "title": "Infidel goes wild",
-      "source": "hackernews"
-    },
-    "643b1421e2252e2e": {
-      "date": "2026-10-05",
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "source": "hackernews"
-    },
-    "31a87390e429a41a": {
-      "date": "2026-10-05",
-      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-      "source": "hackernews"
-    },
-    "a748284de909878b": {
-      "date": "2026-10-05",
-      "title": "Xray-core concealed a certificate verification bypass vulnerability",
-      "source": "hackernews"
-    },
-    "5146d2c6095a2866": {
-      "date": "2026-10-05",
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
-      "source": "hackernews"
-    },
-    "af79189680a7c477": {
-      "date": "2026-10-05",
-      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-      "source": "hackernews"
-    },
-    "f60d62daf7f299e1": {
-      "date": "2026-10-05",
-      "title": "Thinking Orbs",
-      "source": "producthunt"
-    },
-    "23d0f56342c8833e": {
-      "date": "2026-10-05",
-      "title": "Pixel Soup",
-      "source": "producthunt"
-    },
-    "0fd95edc31fb2296": {
-      "date": "2026-10-05",
-      "title": "Quven",
-      "source": "producthunt"
-    },
-    "74cd4cdf131c7e54": {
-      "date": "2026-10-05",
-      "title": "FlexChords",
-      "source": "producthunt"
-    },
-    "5ecdcd69acbf0968": {
-      "date": "2026-10-05",
-      "title": "Aperture",
-      "source": "producthunt"
-    },
-    "ce6509c6d8cabc6f": {
-      "date": "2026-10-05",
-      "title": "Cursor Remote Lite",
-      "source": "producthunt"
-    },
-    "129c21d360a86c96": {
-      "date": "2026-10-05",
-      "title": "JOGAK",
-      "source": "producthunt"
-    },
-    "485e28874bb3c135": {
-      "date": "2026-10-05",
-      "title": "Calnio",
-      "source": "producthunt"
-    },
-    "4f93635b94da1c91": {
-      "date": "2026-10-05",
-      "title": "Before the Alarm Screams at 3 AM: Predicting Liam's Nocturnal Hypoglycemia with Prior Labs TabPFN",
-      "source": "devto"
-    },
-    "2f089f8dc3d40cff": {
-      "date": "2026-10-05",
-      "title": "I Played Out a Broke Student's Month 500 Times on a Budget i3 Laptop With the Wi-Fi Off. It Warned H",
-      "source": "devto"
-    },
-    "f0bfadfcec0ce66d": {
-      "date": "2026-10-05",
-      "title": "OriginTrace: Protecting the DEV Community from Content Theft using Sanity Context MCP",
-      "source": "devto"
-    },
-    "4f8292104b792363": {
-      "date": "2026-10-05",
-      "title": "The Goblin Warren: an AI Dungeon Master that never invents a rule",
-      "source": "devto"
-    },
-    "4720b967e616eaec": {
-      "date": "2026-10-05",
-      "title": "I built my husband a vim trainer with a Gemma coach that runs in the browser",
-      "source": "devto"
-    },
-    "fba7b1ead41be68d": {
-      "date": "2026-10-05",
-      "title": "20+ Years of Friendship. One Weekend to Build His Marketing Department.",
-      "source": "devto"
-    },
-    "e74c973c90d02243": {
-      "date": "2026-10-05",
-      "title": "Suniye: let my parents hear the message themselves",
-      "source": "devto"
-    },
-    "0aa6b84196ae0f4c": {
-      "date": "2026-10-05",
-      "title": "Valkey 9.2's forkless BGSAVE cuts my memory spike from 350MB to 10MB",
-      "source": "devto"
-    },
-    "a9f98ab99498632a": {
-      "date": "2026-10-05",
-      "title": "The groove is the 40 milliseconds a grid throws away, so we built a beat studio that gives them back",
-      "source": "devto"
-    },
-    "88ffa425c68ba833": {
-      "date": "2026-10-05",
-      "title": "My Son Loves Squishies, So I Built Him One for the Browser",
-      "source": "devto"
-    },
-    "98a3e22b8bffae75": {
-      "date": "2026-10-05",
-      "title": "tester-army / e2e",
-      "source": "github"
-    },
-    "a713a4df70f06b44": {
-      "date": "2026-10-05",
-      "title": "caddyserver / caddy",
-      "source": "github"
-    },
-    "5c67d4420464518d": {
-      "date": "2026-10-05",
-      "title": "michael-denyer / pstack-claude",
-      "source": "github"
-    },
-    "8ed11f9c07a08ee3": {
-      "date": "2026-10-05",
-      "title": "garrytan / gstack",
-      "source": "github"
-    },
-    "d877e72a1b1804cb": {
-      "date": "2026-10-05",
-      "title": "OpenCut-app / OpenCut",
-      "source": "github"
-    },
     "9f3e1d26192750b8": {
       "date": "2026-10-06",
       "title": "Beam: Reflection's 501B open-weight model",
@@ -4911,6 +4746,181 @@
       "date": "2026-11-04",
       "title": "Usagi-org / ai-goofish-monitor",
       "source": "github"
+    },
+    "e0063faa53a43691": {
+      "date": "2026-11-05",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "source": "hackernews"
+    },
+    "e88742ea7574fc3a": {
+      "date": "2026-11-05",
+      "title": "Residential proxies detected on White House network",
+      "source": "hackernews"
+    },
+    "668e659f8e833fc0": {
+      "date": "2026-11-05",
+      "title": "Kimi K3.1 Pro model weights are out",
+      "source": "hackernews"
+    },
+    "28058186e6404b58": {
+      "date": "2026-11-05",
+      "title": "A new Go API for JSON",
+      "source": "hackernews"
+    },
+    "407b2e87d0a0ae20": {
+      "date": "2026-11-05",
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "source": "hackernews"
+    },
+    "796ba5e48b446a4e": {
+      "date": "2026-11-05",
+      "title": "Insects don't swarm at LED lights",
+      "source": "hackernews"
+    },
+    "59e97b968299dca3": {
+      "date": "2026-11-05",
+      "title": "A thousand fewer paths to root",
+      "source": "hackernews"
+    },
+    "f4d3e3dc3e196eca": {
+      "date": "2026-11-05",
+      "title": "Images 2.6",
+      "source": "hackernews"
+    },
+    "b7700106fdd98ef2": {
+      "date": "2026-11-05",
+      "title": "Starfall – Affordable, routine access to microgravity",
+      "source": "hackernews"
+    },
+    "6e371f811987b3dd": {
+      "date": "2026-11-05",
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "source": "hackernews"
+    },
+    "2256ea2b1bce8e3f": {
+      "date": "2026-11-05",
+      "title": "Rungle",
+      "source": "producthunt"
+    },
+    "e90731c27cc2cb15": {
+      "date": "2026-11-05",
+      "title": "Eyecon",
+      "source": "producthunt"
+    },
+    "775015e2aeb03cf5": {
+      "date": "2026-11-05",
+      "title": "Country Filter for X",
+      "source": "producthunt"
+    },
+    "d54440c6a0f68ae1": {
+      "date": "2026-11-05",
+      "title": "PasteGuard for Mac",
+      "source": "producthunt"
+    },
+    "fd5e66cc579994b9": {
+      "date": "2026-11-05",
+      "title": "KREV AI",
+      "source": "producthunt"
+    },
+    "9af4b36215090492": {
+      "date": "2026-11-05",
+      "title": "Resum",
+      "source": "producthunt"
+    },
+    "d8d82a3b273b92a0": {
+      "date": "2026-11-05",
+      "title": "Hashference",
+      "source": "producthunt"
+    },
+    "5fb2a08103b07f65": {
+      "date": "2026-11-05",
+      "title": "NVIDIA / auto-ontology",
+      "source": "github"
+    },
+    "f08d8cf2c7baf95f": {
+      "date": "2026-11-05",
+      "title": "thedotmack / claude-mem",
+      "source": "github"
+    },
+    "8a080a19e7684f78": {
+      "date": "2026-11-05",
+      "title": "github / spec-kit",
+      "source": "github"
+    },
+    "40370f04263de4dd": {
+      "date": "2026-11-05",
+      "title": "The-PR-Agent / pr-agent",
+      "source": "github"
+    },
+    "7c09473f1ffc3548": {
+      "date": "2026-11-05",
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "source": "github"
+    },
+    "40d09c755ed5ba0b": {
+      "date": "2026-11-05",
+      "title": "FareedKhan-dev / kimi-k3-in-c",
+      "source": "github"
+    },
+    "e706b9497e72d210": {
+      "date": "2026-11-05",
+      "title": "MichaelCade / 90DaysOfDevOps",
+      "source": "github"
+    },
+    "2a4f190b580ce22d": {
+      "date": "2026-11-05",
+      "title": "Thysrael / Horizon",
+      "source": "github"
+    },
+    "8dc07f40eb29d0bc": {
+      "date": "2026-11-05",
+      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
+      "source": "devto"
+    },
+    "972f26ddb9b47ba5": {
+      "date": "2026-11-05",
+      "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
+      "source": "devto"
+    },
+    "9202f262d9085a37": {
+      "date": "2026-11-05",
+      "title": "Meet Necoz! 😸 Small. Simple. Useful.",
+      "source": "devto"
+    },
+    "181b9e4ce1412a0e": {
+      "date": "2026-11-05",
+      "title": "Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actual",
+      "source": "devto"
+    },
+    "f959883233d3618a": {
+      "date": "2026-11-05",
+      "title": "\"Mandatory user verification\" on DEV is a scam. Here's how to spot it in 30 seconds.",
+      "source": "devto"
+    },
+    "ae34cdcd54f104c2": {
+      "date": "2026-11-05",
+      "title": "How Hackers Weaponized DEV.to's Mention System to Spread a Phishing Scam",
+      "source": "devto"
+    },
+    "48b41d13c8d50f2f": {
+      "date": "2026-11-05",
+      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outs",
+      "source": "devto"
+    },
+    "35dd257d908a9b80": {
+      "date": "2026-11-05",
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Scr",
+      "source": "devto"
+    },
+    "ebe4e3c037db2e9f": {
+      "date": "2026-11-05",
+      "title": "After 5 years, Wasp 1.0 is coming: a 6-month plan for our full-stack JS framework",
+      "source": "devto"
+    },
+    "ed5271f8b3ff6bdc": {
+      "date": "2026-11-05",
+      "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, ",
+      "source": "devto"
     }
   }
 }
