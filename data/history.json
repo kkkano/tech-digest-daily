@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-05T02:58:23.192796",
+  "last_updated": "2026-11-06T03:01:26.230780",
   "sent_items": {
-    "9f3e1d26192750b8": {
-      "date": "2026-10-06",
-      "title": "Beam: Reflection's 501B open-weight model",
-      "source": "hackernews"
-    },
-    "75f743a5bcd58da3": {
-      "date": "2026-10-06",
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "source": "hackernews"
-    },
-    "bd2bae26a9249b07": {
-      "date": "2026-10-06",
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "source": "hackernews"
-    },
-    "a29aaa9485d73af0": {
-      "date": "2026-10-06",
-      "title": "Find the flattest route between any two points in SF",
-      "source": "hackernews"
-    },
-    "7441b8b2c437542d": {
-      "date": "2026-10-06",
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "source": "hackernews"
-    },
-    "b08684a851cadf43": {
-      "date": "2026-10-06",
-      "title": "Example.com Just Launched the Biggest Redesign in Decades",
-      "source": "hackernews"
-    },
-    "07c38153f985be38": {
-      "date": "2026-10-06",
-      "title": "Friendship ended with Deno, now Node is my best friend",
-      "source": "hackernews"
-    },
-    "948f5f870057e1bc": {
-      "date": "2026-10-06",
-      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "source": "hackernews"
-    },
-    "f0e9d1329483b52e": {
-      "date": "2026-10-06",
-      "title": "An Algorithmic Failure Beneath the Secret Ballot",
-      "source": "hackernews"
-    },
-    "081860ef63147337": {
-      "date": "2026-10-06",
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "source": "hackernews"
-    },
-    "3ec6316bf12c8794": {
-      "date": "2026-10-06",
-      "title": "Reactive Resume v6",
-      "source": "producthunt"
-    },
-    "d54f5e6adba5ff64": {
-      "date": "2026-10-06",
-      "title": "HyperFrames Studio (Desktop)",
-      "source": "producthunt"
-    },
-    "34814085328f441d": {
-      "date": "2026-10-06",
-      "title": "DailyHelm",
-      "source": "producthunt"
-    },
-    "19abbaa021e66f65": {
-      "date": "2026-10-06",
-      "title": "Xtracticle",
-      "source": "producthunt"
-    },
-    "2e8f5cb3bb3f9e7f": {
-      "date": "2026-10-06",
-      "title": "crosswalk",
-      "source": "producthunt"
-    },
-    "6b1f9db002dce57f": {
-      "date": "2026-10-06",
-      "title": "Reviu",
-      "source": "producthunt"
-    },
-    "e0d4738e03cbed40": {
-      "date": "2026-10-06",
-      "title": "Unscary AI",
-      "source": "producthunt"
-    },
-    "c4156bd92075a26b": {
-      "date": "2026-10-06",
-      "title": "SpeechShield",
-      "source": "producthunt"
-    },
-    "2543190e106004cd": {
-      "date": "2026-10-06",
-      "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
-      "source": "devto"
-    },
-    "0fdbb1b21f66a751": {
-      "date": "2026-10-06",
-      "title": "The Parts of a Job Search We Don't See",
-      "source": "devto"
-    },
-    "6f0c3de7ba910272": {
-      "date": "2026-10-06",
-      "title": "Meme Monday",
-      "source": "devto"
-    },
-    "544290bac961af2b": {
-      "date": "2026-10-06",
-      "title": "Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾",
-      "source": "devto"
-    },
-    "deeb8e00fbcb7409": {
-      "date": "2026-10-06",
-      "title": "⚡ Dad Complains About Electric Bill, So I Built Him an Energy Dashboard and Found the Panels Lied ⚡",
-      "source": "devto"
-    },
-    "a1f2a1b9f051c054": {
-      "date": "2026-10-06",
-      "title": "I Built an AI That Reads Eviction Notices and Refuses to Lie to You",
-      "source": "devto"
-    },
-    "8b13cf0caae2a34b": {
-      "date": "2026-10-06",
-      "title": "Publishing Markdown to Substack from an Agent Skill",
-      "source": "devto"
-    },
-    "e74512ead29b4273": {
-      "date": "2026-10-06",
-      "title": "I Built My Friend a Mock Interviewer That Read His Rust Code",
-      "source": "devto"
-    },
-    "751e14d6df16a127": {
-      "date": "2026-10-06",
-      "title": "What \"best practice\" did you quietly stop following?",
-      "source": "devto"
-    },
-    "9560fff1b61722ee": {
-      "date": "2026-10-06",
-      "title": "I forked a live AI agent three ways, and every copy came up with its web server already running",
-      "source": "devto"
-    },
-    "1de8441fc5bce948": {
-      "date": "2026-10-06",
-      "title": "boykopovar / AnyPS5",
-      "source": "github"
-    },
-    "5f14baa5319dcdc4": {
-      "date": "2026-10-06",
-      "title": "DuarteSantos8 / openGym",
-      "source": "github"
-    },
-    "dac0f50fad3f86f4": {
-      "date": "2026-10-06",
-      "title": "Stremio / stremio-web",
-      "source": "github"
-    },
-    "5dfe15d5980db3b9": {
-      "date": "2026-10-06",
-      "title": "msitarzewski / agency-agents",
-      "source": "github"
-    },
-    "937aa28f2aab79f5": {
-      "date": "2026-10-06",
-      "title": "M-Abozaid / esp32-c3-adblock",
-      "source": "github"
-    },
     "28ee28cc295a9a74": {
       "date": "2026-10-07",
       "title": "Mistral Large 4",
@@ -4921,6 +4756,176 @@
       "date": "2026-11-05",
       "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, ",
       "source": "devto"
+    },
+    "de4a86af4af11b2c": {
+      "date": "2026-11-06",
+      "title": "sshole",
+      "source": "hackernews"
+    },
+    "a36b75d6368ee8f6": {
+      "date": "2026-11-06",
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "source": "hackernews"
+    },
+    "6efc00abc1aa13bf": {
+      "date": "2026-11-06",
+      "title": "Claude Code sends your email address to websites",
+      "source": "hackernews"
+    },
+    "cb94b5b998f7844a": {
+      "date": "2026-11-06",
+      "title": "Search for everyone",
+      "source": "hackernews"
+    },
+    "513ae11503c4d5a5": {
+      "date": "2026-11-06",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "source": "hackernews"
+    },
+    "445d1f8a4a77e2d6": {
+      "date": "2026-11-06",
+      "title": "Window Sweaters",
+      "source": "hackernews"
+    },
+    "502687729cd2f976": {
+      "date": "2026-11-06",
+      "title": "The Hackintosh Reborn",
+      "source": "hackernews"
+    },
+    "277aff7b44d339c1": {
+      "date": "2026-11-06",
+      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "source": "hackernews"
+    },
+    "63d91c874eeca1b4": {
+      "date": "2026-11-06",
+      "title": "Inkling 2 Small",
+      "source": "hackernews"
+    },
+    "d7f94fb6efa34d65": {
+      "date": "2026-11-06",
+      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+      "source": "hackernews"
+    },
+    "94d12dc43f38ac46": {
+      "date": "2026-11-06",
+      "title": "Maritime",
+      "source": "producthunt"
+    },
+    "96d82d046ec6d7b0": {
+      "date": "2026-11-06",
+      "title": "Glasshand",
+      "source": "producthunt"
+    },
+    "25a5a665d7431513": {
+      "date": "2026-11-06",
+      "title": "Paws",
+      "source": "producthunt"
+    },
+    "6aaaef2ce5fc15d2": {
+      "date": "2026-11-06",
+      "title": "Stitch.ai",
+      "source": "producthunt"
+    },
+    "f55369884d619cbd": {
+      "date": "2026-11-06",
+      "title": "Tao Browser",
+      "source": "producthunt"
+    },
+    "0318700fc043f0b6": {
+      "date": "2026-11-06",
+      "title": "Pushary for Teams",
+      "source": "producthunt"
+    },
+    "1f0486c69f82e34f": {
+      "date": "2026-11-06",
+      "title": "Living Brain",
+      "source": "producthunt"
+    },
+    "835ef976e2f5ec56": {
+      "date": "2026-11-06",
+      "title": "AI Employees by Easy-Peasy.AI",
+      "source": "producthunt"
+    },
+    "3af311e17e3f8d55": {
+      "date": "2026-11-06",
+      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
+      "source": "devto"
+    },
+    "c0b2b7f09f05b9e6": {
+      "date": "2026-11-06",
+      "title": "Don't Write Markdown Files for Your Coding Agent. Write Scripts.",
+      "source": "devto"
+    },
+    "6c96ce1049cb7936": {
+      "date": "2026-11-06",
+      "title": "Plan Stamping, for Software",
+      "source": "devto"
+    },
+    "4207e8422637ecc5": {
+      "date": "2026-11-06",
+      "title": "A Maintainer's Advice on Contributing to Open Source in 2026",
+      "source": "devto"
+    },
+    "4ca7892c81c62e8a": {
+      "date": "2026-11-06",
+      "title": "WebMCP Attack Lab: Can an E-Shop Hijack Your AI Agent?",
+      "source": "devto"
+    },
+    "875c681b38496fc1": {
+      "date": "2026-11-06",
+      "title": "Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a",
+      "source": "devto"
+    },
+    "0301efb1b53fd32a": {
+      "date": "2026-11-06",
+      "title": "An AI Testing Presentation Became the Final Push for Organizational Change at My Company",
+      "source": "devto"
+    },
+    "cefaccb89ec69433": {
+      "date": "2026-11-06",
+      "title": "Trocar de provedor não deveria ser uma dor de cabeça",
+      "source": "devto"
+    },
+    "93e289fb642b855f": {
+      "date": "2026-11-06",
+      "title": "From Google Drive to Syncthing over Tailscale",
+      "source": "devto"
+    },
+    "6bbb3d4ece3d27d9": {
+      "date": "2026-11-06",
+      "title": "The Fibonacci Spiral Is Secretly a Straight Line",
+      "source": "devto"
+    },
+    "8ed11f9c07a08ee3": {
+      "date": "2026-11-06",
+      "title": "garrytan / gstack",
+      "source": "github"
+    },
+    "69c7eb76fe0b1fcc": {
+      "date": "2026-11-06",
+      "title": "google / skills",
+      "source": "github"
+    },
+    "c34811c59d2df7cc": {
+      "date": "2026-11-06",
+      "title": "vercel-labs / agent-browser",
+      "source": "github"
+    },
+    "1b3010101444e047": {
+      "date": "2026-11-06",
+      "title": "scenario-labs / skills",
+      "source": "github"
+    },
+    "30408734ead09cf2": {
+      "date": "2026-11-06",
+      "title": "ConardLi / garden-skills",
+      "source": "github"
+    },
+    "104b57e9a4316877": {
+      "date": "2026-11-06",
+      "title": "microsoft / VibeVoice",
+      "source": "github"
     }
   }
 }
