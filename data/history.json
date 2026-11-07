@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-06T03:01:26.230780",
+  "last_updated": "2026-11-07T02:33:51.435738",
   "sent_items": {
-    "28ee28cc295a9a74": {
-      "date": "2026-10-07",
-      "title": "Mistral Large 4",
-      "source": "hackernews"
-    },
-    "97d1ddb511708196": {
-      "date": "2026-10-07",
-      "title": "Sharing AI progress in mathematics",
-      "source": "hackernews"
-    },
-    "ac70e0181fb601b8": {
-      "date": "2026-10-07",
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "source": "hackernews"
-    },
-    "2b394de14f674391": {
-      "date": "2026-10-07",
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "source": "hackernews"
-    },
-    "329dc33bb7e8d5ff": {
-      "date": "2026-10-07",
-      "title": "Decisions API is in public beta",
-      "source": "hackernews"
-    },
-    "a46520c0821d8ae1": {
-      "date": "2026-10-07",
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "source": "hackernews"
-    },
-    "b4ea01193c26016d": {
-      "date": "2026-10-07",
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "source": "hackernews"
-    },
-    "466802ea2ebe0f96": {
-      "date": "2026-10-07",
-      "title": "State of Devs 2026 survey results: developers are exhausted",
-      "source": "hackernews"
-    },
-    "460e87c53d1406bd": {
-      "date": "2026-10-07",
-      "title": "Integer multiplication below n log n",
-      "source": "hackernews"
-    },
-    "2b200959c25eb87a": {
-      "date": "2026-10-07",
-      "title": "Fuse AI",
-      "source": "producthunt"
-    },
-    "539162db76de40ad": {
-      "date": "2026-10-07",
-      "title": "Customer Service AI for Etsy",
-      "source": "producthunt"
-    },
-    "96a82f0389ecd5e1": {
-      "date": "2026-10-07",
-      "title": "Chunk",
-      "source": "producthunt"
-    },
-    "21eda12b40489cc8": {
-      "date": "2026-10-07",
-      "title": "Rill Browser",
-      "source": "producthunt"
-    },
-    "b6083762a9364ab0": {
-      "date": "2026-10-07",
-      "title": "Brnch",
-      "source": "producthunt"
-    },
-    "29ba26e0adb53992": {
-      "date": "2026-10-07",
-      "title": "Cosmic AI Support Agent",
-      "source": "producthunt"
-    },
-    "6ab851d5d93f27fe": {
-      "date": "2026-10-07",
-      "title": "ruOS",
-      "source": "producthunt"
-    },
-    "8ed42408b18af15c": {
-      "date": "2026-10-07",
-      "title": "Scumble",
-      "source": "producthunt"
-    },
-    "1ae169fb23a902a7": {
-      "date": "2026-10-07",
-      "title": "mattpocock / skills",
-      "source": "github"
-    },
-    "0135e142dae80432": {
-      "date": "2026-10-07",
-      "title": "morluto / rea",
-      "source": "github"
-    },
-    "30d8214c97f5f5b2": {
-      "date": "2026-10-07",
-      "title": "deepseek-ai / DeepGEMM",
-      "source": "github"
-    },
-    "f0faec98f86e4fde": {
-      "date": "2026-10-07",
-      "title": "cathrynlavery / diagram-design",
-      "source": "github"
-    },
-    "4825aec882fff4b8": {
-      "date": "2026-10-07",
-      "title": "Your GitHub README Isn't a Profile. It's a Storefront. (Here Are the 5 Rules I Used",
-      "source": "devto"
-    },
-    "6cd7d52e161c8a76": {
-      "date": "2026-10-07",
-      "title": "Why Your TypeScript Code Still Crashes in Production",
-      "source": "devto"
-    },
-    "d1141fe291eba5f2": {
-      "date": "2026-10-07",
-      "title": "🌿 AI Nature Quest: I Built an AI That Wants You to Stop Using It",
-      "source": "devto"
-    },
-    "c66eff1dc2df4d21": {
-      "date": "2026-10-07",
-      "title": "Your AI Agent Will Do Something Terrible. Here's How to Survive It.",
-      "source": "devto"
-    },
-    "d1e94bc3618cd419": {
-      "date": "2026-10-07",
-      "title": "Redis vs Dragonfly: A Hands-On Comparison",
-      "source": "devto"
-    },
-    "b6e041909b29865a": {
-      "date": "2026-10-07",
-      "title": "Bun 1.4's bun test --parallel cuts a 4-second suite to about 1 second",
-      "source": "devto"
-    },
-    "eaaf1e3e94f3680d": {
-      "date": "2026-10-07",
-      "title": "Ontological Shock at Altitude",
-      "source": "devto"
-    },
-    "67b453024a33cdaf": {
-      "date": "2026-10-07",
-      "title": "Aborting a Fetch Doesn't Stop Your Node.js Server. Here's What Does.",
-      "source": "devto"
-    },
-    "9c3421f357861b3d": {
-      "date": "2026-10-07",
-      "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
-      "source": "devto"
-    },
-    "f5df0f638ba19755": {
-      "date": "2026-10-07",
-      "title": "My OSS Projects: Netpack",
-      "source": "devto"
-    },
     "3903ecbd93718f7d": {
       "date": "2026-10-08",
       "title": "Unprompt",
@@ -4925,6 +4770,201 @@
     "104b57e9a4316877": {
       "date": "2026-11-06",
       "title": "microsoft / VibeVoice",
+      "source": "github"
+    },
+    "e896324e5e8b7801": {
+      "date": "2026-11-07",
+      "title": "Tesla to wind down Cybertruck production",
+      "source": "hackernews"
+    },
+    "73de156b3c59e8ca": {
+      "date": "2026-11-07",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "source": "hackernews"
+    },
+    "64649f0cfd14dbf5": {
+      "date": "2026-11-07",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "source": "hackernews"
+    },
+    "fbc1c235706b5216": {
+      "date": "2026-11-07",
+      "title": "Libghostty 1.0",
+      "source": "hackernews"
+    },
+    "7574b93a4909fb0d": {
+      "date": "2026-11-07",
+      "title": "AI is dramatically accelerating AI research",
+      "source": "hackernews"
+    },
+    "8dac27b5d3632217": {
+      "date": "2026-11-07",
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "source": "hackernews"
+    },
+    "55654de4911be37a": {
+      "date": "2026-11-07",
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "source": "hackernews"
+    },
+    "5f08810afc7027ee": {
+      "date": "2026-11-07",
+      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+      "source": "hackernews"
+    },
+    "13d1347ec1d18c84": {
+      "date": "2026-11-07",
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "source": "hackernews"
+    },
+    "be12da89bf57652c": {
+      "date": "2026-11-07",
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "source": "hackernews"
+    },
+    "ff0269830e55a111": {
+      "date": "2026-11-07",
+      "title": "PostMyPace",
+      "source": "producthunt"
+    },
+    "606e6cc01e90c80f": {
+      "date": "2026-11-07",
+      "title": "Alysis Code",
+      "source": "producthunt"
+    },
+    "ed359bfc19a73a92": {
+      "date": "2026-11-07",
+      "title": "Rankfender v3.0",
+      "source": "producthunt"
+    },
+    "ab26ff8418f0b539": {
+      "date": "2026-11-07",
+      "title": "Plainmail",
+      "source": "producthunt"
+    },
+    "ee7d5d99158d5427": {
+      "date": "2026-11-07",
+      "title": "Datastripes Data Stories",
+      "source": "producthunt"
+    },
+    "9bbce3f92186556c": {
+      "date": "2026-11-07",
+      "title": "EdgeBar",
+      "source": "producthunt"
+    },
+    "d6c94695cd3674b3": {
+      "date": "2026-11-07",
+      "title": "Any Video to Text",
+      "source": "producthunt"
+    },
+    "0326bf1e3ac226bc": {
+      "date": "2026-11-07",
+      "title": "Wisp",
+      "source": "producthunt"
+    },
+    "939d924bd585d3ef": {
+      "date": "2026-11-07",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "9d82f56bda21d186": {
+      "date": "2026-11-07",
+      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
+      "source": "devto"
+    },
+    "08807ae610467972": {
+      "date": "2026-11-07",
+      "title": "One Word, Two GPUs: Why Gemma 4 Answers the Same Question Differently on a Laptop and a Tesla T4",
+      "source": "devto"
+    },
+    "b181e4e329e6e014": {
+      "date": "2026-11-07",
+      "title": "Fine-Tuning with a Handful of Examples",
+      "source": "devto"
+    },
+    "cc852b0b448f8b44": {
+      "date": "2026-11-07",
+      "title": "Ad Pulse Lab",
+      "source": "devto"
+    },
+    "b039e548ba425c8d": {
+      "date": "2026-11-07",
+      "title": "Every keyboard is a mechanical keyboard with Klicky",
+      "source": "devto"
+    },
+    "4489f34b3f98b81c": {
+      "date": "2026-11-07",
+      "title": "Retro Techno Generator: Your Pulse Plays 90s Acid Techno, Your Dancing Plays the Filters",
+      "source": "devto"
+    },
+    "972a4785d9e846e1": {
+      "date": "2026-11-07",
+      "title": "Prisma ORM 7's Rust-free query engine speeds up queries and slows down cold starts",
+      "source": "devto"
+    },
+    "a27f72bae76ee486": {
+      "date": "2026-11-07",
+      "title": "Retro :: Spider-Paint",
+      "source": "devto"
+    },
+    "17ce120695ca3883": {
+      "date": "2026-11-07",
+      "title": "The central challenge of working with AI",
+      "source": "devto"
+    },
+    "b492ec56ce07d876": {
+      "date": "2026-11-07",
+      "title": "zed-industries / zed",
+      "source": "github"
+    },
+    "c1697eee13b5b771": {
+      "date": "2026-11-07",
+      "title": "rails / rails",
+      "source": "github"
+    },
+    "ffd8d54208ace1f9": {
+      "date": "2026-11-07",
+      "title": "mpv-player / mpv",
+      "source": "github"
+    },
+    "7d96f7c53b45a7ca": {
+      "date": "2026-11-07",
+      "title": "react / react",
+      "source": "github"
+    },
+    "eea0e619ec07671d": {
+      "date": "2026-11-07",
+      "title": "angular / angular",
+      "source": "github"
+    },
+    "c720012084830783": {
+      "date": "2026-11-07",
+      "title": "symfony / symfony",
+      "source": "github"
+    },
+    "95404ed3901c6532": {
+      "date": "2026-11-07",
+      "title": "prometheus / prometheus",
+      "source": "github"
+    },
+    "429ceefb7bccd659": {
+      "date": "2026-11-07",
+      "title": "microsoft / vscode",
+      "source": "github"
+    },
+    "42200afb38663f77": {
+      "date": "2026-11-07",
+      "title": "nushell / nushell",
+      "source": "github"
+    },
+    "903ceae4648ba855": {
+      "date": "2026-11-07",
+      "title": "etcd-io / etcd",
+      "source": "github"
+    },
+    "9f9847c5cf87fbb5": {
+      "date": "2026-11-07",
+      "title": "openssl / openssl",
       "source": "github"
     }
   }
