@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-08T02:00:34.648476",
+  "last_updated": "2026-11-09T02:10:10.354362",
   "sent_items": {
-    "a1f51c8dbdf89fde": {
-      "date": "2026-10-09",
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "source": "hackernews"
-    },
-    "3628e06215300f62": {
-      "date": "2026-10-09",
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "source": "hackernews"
-    },
-    "4887d04a396239a0": {
-      "date": "2026-10-09",
-      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "source": "hackernews"
-    },
-    "169a2bb9187f29ab": {
-      "date": "2026-10-09",
-      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-      "source": "hackernews"
-    },
-    "efcafabf934524d1": {
-      "date": "2026-10-09",
-      "title": "Theranos.world",
-      "source": "hackernews"
-    },
-    "62967c66e8e87dfc": {
-      "date": "2026-10-09",
-      "title": "Yes, and",
-      "source": "hackernews"
-    },
-    "93af1446ea23bbfa": {
-      "date": "2026-10-09",
-      "title": "The value of not getting to the point (2015)",
-      "source": "hackernews"
-    },
-    "fa0444d05101d5b2": {
-      "date": "2026-10-09",
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "source": "hackernews"
-    },
-    "3e9ddaecb35fdc23": {
-      "date": "2026-10-09",
-      "title": "Bevy 0.20",
-      "source": "hackernews"
-    },
-    "fd8c1faa9c6e825e": {
-      "date": "2026-10-09",
-      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
-      "source": "hackernews"
-    },
-    "73efbcaf8053d558": {
-      "date": "2026-10-09",
-      "title": "judged.systems",
-      "source": "producthunt"
-    },
-    "e6ec555a83edbf80": {
-      "date": "2026-10-09",
-      "title": "Side",
-      "source": "producthunt"
-    },
-    "70fab5c0c5fe9709": {
-      "date": "2026-10-09",
-      "title": "Mailwell",
-      "source": "producthunt"
-    },
-    "9b69b3f2a8144ee2": {
-      "date": "2026-10-09",
-      "title": "ClawCall",
-      "source": "producthunt"
-    },
-    "3c2ffb1c4719d3ef": {
-      "date": "2026-10-09",
-      "title": "Clippo",
-      "source": "producthunt"
-    },
-    "4f01ab27cb546a79": {
-      "date": "2026-10-09",
-      "title": "offstage",
-      "source": "producthunt"
-    },
-    "5037dddcb73f8165": {
-      "date": "2026-10-09",
-      "title": "Hark",
-      "source": "producthunt"
-    },
-    "3de4bfc6c755edc6": {
-      "date": "2026-10-09",
-      "title": "BotBus",
-      "source": "producthunt"
-    },
-    "b686f62ff4dcc460": {
-      "date": "2026-10-09",
-      "title": "Every Software Developer Has Blamed…",
-      "source": "devto"
-    },
-    "0397ea6e7d17a318": {
-      "date": "2026-10-09",
-      "title": "How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)",
-      "source": "devto"
-    },
-    "51b253f690f4f8f3": {
-      "date": "2026-10-09",
-      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
-      "source": "devto"
-    },
-    "307ee9eb88027674": {
-      "date": "2026-10-09",
-      "title": "To Retry or Not to Retry? That Is the Question.",
-      "source": "devto"
-    },
-    "72219e093582a69b": {
-      "date": "2026-10-09",
-      "title": "The September cut took 17% of my Claude Code week. Subagents were taking 48%.",
-      "source": "devto"
-    },
-    "c7a0a88ff14e7d32": {
-      "date": "2026-10-09",
-      "title": "My Problem With Omarchy Is What I Like About Arch",
-      "source": "devto"
-    },
-    "915bd8c576aa4bda": {
-      "date": "2026-10-09",
-      "title": "How to resolve merge conflicts in Git without guessing: markers, --ours/--theirs and the rebase flip",
-      "source": "devto"
-    },
-    "b1b37fd56989d77b": {
-      "date": "2026-10-09",
-      "title": "How Our Engineering Team Uses AI, Part II: Meat Proxies",
-      "source": "devto"
-    },
-    "6578beb168fad955": {
-      "date": "2026-10-09",
-      "title": "ParadeDB's pg_search 0.26 cuts a ten-term BM25 search from 129ms to 29ms",
-      "source": "devto"
-    },
-    "f98c4933584ae7a8": {
-      "date": "2026-10-09",
-      "title": "Polars 2.0: why joins no longer keep their row order",
-      "source": "devto"
-    },
-    "215181bb65bbddf0": {
-      "date": "2026-10-09",
-      "title": "storytold / artcraft",
-      "source": "github"
-    },
     "e6b9cee054ea4394": {
       "date": "2026-10-10",
       "title": "Playground by Google Labs",
@@ -4986,6 +4841,156 @@
       "date": "2026-11-08",
       "title": "dsx-ai-factory / nvke",
       "source": "github"
+    },
+    "a5f23dd24d671fe3": {
+      "date": "2026-11-09",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "source": "hackernews"
+    },
+    "685e075f61d87ba6": {
+      "date": "2026-11-09",
+      "title": "Declarative Dragging",
+      "source": "hackernews"
+    },
+    "5f7f7d5b4dd0c406": {
+      "date": "2026-11-09",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "source": "hackernews"
+    },
+    "acf17ff459493ae7": {
+      "date": "2026-11-09",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "source": "hackernews"
+    },
+    "a550c998d7507431": {
+      "date": "2026-11-09",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "source": "hackernews"
+    },
+    "f8e7521f9ff0d429": {
+      "date": "2026-11-09",
+      "title": "Chimera Vocal Synth",
+      "source": "hackernews"
+    },
+    "2725c84973fe20d6": {
+      "date": "2026-11-09",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "source": "hackernews"
+    },
+    "963accd6dd998d8b": {
+      "date": "2026-11-09",
+      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+      "source": "hackernews"
+    },
+    "1472017d26fb9efa": {
+      "date": "2026-11-09",
+      "title": "Unlocking any car from X brand in most of the world",
+      "source": "hackernews"
+    },
+    "5ecdcbb45c2205c3": {
+      "date": "2026-11-09",
+      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+      "source": "hackernews"
+    },
+    "b94ceb6bc3333533": {
+      "date": "2026-11-09",
+      "title": "NotchIsland",
+      "source": "producthunt"
+    },
+    "b3eb8aa33167cef7": {
+      "date": "2026-11-09",
+      "title": "Sage2 by Levanto Labs",
+      "source": "producthunt"
+    },
+    "02213e80548b5253": {
+      "date": "2026-11-09",
+      "title": "Deduplication",
+      "source": "producthunt"
+    },
+    "4d38d614739886c4": {
+      "date": "2026-11-09",
+      "title": "Keypause",
+      "source": "producthunt"
+    },
+    "b8ecec6568829ffe": {
+      "date": "2026-11-09",
+      "title": "Textly",
+      "source": "producthunt"
+    },
+    "1f5d5db013e707db": {
+      "date": "2026-11-09",
+      "title": "Zigzag Browser",
+      "source": "producthunt"
+    },
+    "295519286459c624": {
+      "date": "2026-11-09",
+      "title": "Inkling 2 Small",
+      "source": "producthunt"
+    },
+    "ab33b3ca0150128b": {
+      "date": "2026-11-09",
+      "title": "Agent Clan",
+      "source": "producthunt"
+    },
+    "13df77a00c234c33": {
+      "date": "2026-11-09",
+      "title": "anthropics / claude-quickstarts",
+      "source": "github"
+    },
+    "685c56ef2ba74370": {
+      "date": "2026-11-09",
+      "title": "google-deepmind / mujoco",
+      "source": "github"
+    },
+    "bbcb19269f944482": {
+      "date": "2026-11-09",
+      "title": "Necoz Has a New Home on DEV! 🐈🎉",
+      "source": "devto"
+    },
+    "f8e337bcddf75d9c": {
+      "date": "2026-11-09",
+      "title": "A Builder in CDMX: Flu Edition",
+      "source": "devto"
+    },
+    "ec2c5ab0e1e44b7f": {
+      "date": "2026-11-09",
+      "title": "🐾 DEV Pet Corner #5: Show Us Your Pets!",
+      "source": "devto"
+    },
+    "0087a93d9f73b19d": {
+      "date": "2026-11-09",
+      "title": "Engine Off: My 2026 Hackathon Run Is Over",
+      "source": "devto"
+    },
+    "e3c66afe2dbf9f04": {
+      "date": "2026-11-09",
+      "title": "Mobile Data on Android 17 and a 4.9 Kernel: Google Fi on the Pixel 3a",
+      "source": "devto"
+    },
+    "12b592fa90d43ae4": {
+      "date": "2026-11-09",
+      "title": "Don't Write More Prompts. Install These 10 Trending 'Skills' Instead",
+      "source": "devto"
+    },
+    "3e9ce8b86dc76a76": {
+      "date": "2026-11-09",
+      "title": "Six Serving Engines, One 8 GB GPU: Gemma 4 E2B on an RTX 3050",
+      "source": "devto"
+    },
+    "c3a599cdceec4dd7": {
+      "date": "2026-11-09",
+      "title": "How much does it cost to run a text game with LLMs",
+      "source": "devto"
+    },
+    "ff32b7e989fd02bd": {
+      "date": "2026-11-09",
+      "title": "Measuring Gemma & On-Device Latency on 16GB Apple Silicon for Agent Workflows",
+      "source": "devto"
+    },
+    "8f86ebc149b36761": {
+      "date": "2026-11-09",
+      "title": "I'd stopped reviewing the basics, so I built a small site to practice them",
+      "source": "devto"
     }
   }
 }
