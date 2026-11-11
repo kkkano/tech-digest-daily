@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-10T04:31:47.388119",
+  "last_updated": "2026-11-11T02:26:31.558749",
   "sent_items": {
-    "30a6b8254c2a5ea9": {
-      "date": "2026-10-11",
-      "title": "2D Vehicles",
-      "source": "hackernews"
-    },
-    "909be21571ffcd2d": {
-      "date": "2026-10-11",
-      "title": "The Lightbulb Computer",
-      "source": "hackernews"
-    },
-    "216c7fb388fd3f19": {
-      "date": "2026-10-11",
-      "title": "A city-building game in which the city would prefer you didn't",
-      "source": "hackernews"
-    },
-    "3b26b6cce38601a9": {
-      "date": "2026-10-11",
-      "title": "Knuth reward check",
-      "source": "hackernews"
-    },
-    "bd73a22601d1879b": {
-      "date": "2026-10-11",
-      "title": "Why DuckDB 2.0 is faster",
-      "source": "hackernews"
-    },
-    "b0895abf46a0ac8d": {
-      "date": "2026-10-11",
-      "title": "Nix wrote half of my debugger",
-      "source": "hackernews"
-    },
-    "e0c967eeba62fb7c": {
-      "date": "2026-10-11",
-      "title": "Build your own decision model",
-      "source": "hackernews"
-    },
-    "b30d78a6482074dc": {
-      "date": "2026-10-11",
-      "title": "Five months treating bugs like patients and coding agents like a medical team",
-      "source": "hackernews"
-    },
-    "f64ff60ec791bd3a": {
-      "date": "2026-10-11",
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "source": "hackernews"
-    },
-    "f1a870706806d890": {
-      "date": "2026-10-11",
-      "title": "A minimal Rust TUI for managing GitHub repos and branches",
-      "source": "hackernews"
-    },
-    "e1e2a7a18b10f1e6": {
-      "date": "2026-10-11",
-      "title": "PixRater",
-      "source": "producthunt"
-    },
-    "fa9dbe49c645f2ca": {
-      "date": "2026-10-11",
-      "title": "Maildun for Mac",
-      "source": "producthunt"
-    },
-    "e650073096f63987": {
-      "date": "2026-10-11",
-      "title": "Cue",
-      "source": "producthunt"
-    },
-    "c082b788136b5674": {
-      "date": "2026-10-11",
-      "title": "Claude Dashboards & Motion",
-      "source": "producthunt"
-    },
-    "852cb5ee2fc68bbe": {
-      "date": "2026-10-11",
-      "title": "Notchzy",
-      "source": "producthunt"
-    },
-    "af3c4286502b5902": {
-      "date": "2026-10-11",
-      "title": "Isly",
-      "source": "producthunt"
-    },
-    "fdd4c5c5bd843fc2": {
-      "date": "2026-10-11",
-      "title": "Rank Kiwi",
-      "source": "producthunt"
-    },
-    "8534212efd30fdba": {
-      "date": "2026-10-11",
-      "title": "Underplane",
-      "source": "producthunt"
-    },
-    "1bcf0237559db521": {
-      "date": "2026-10-11",
-      "title": "mksglu / context-mode",
-      "source": "github"
-    },
-    "b68be267c74ad855": {
-      "date": "2026-10-11",
-      "title": "flutter / flutter",
-      "source": "github"
-    },
-    "26454b4b1f40da47": {
-      "date": "2026-10-11",
-      "title": "hugohe3 / ppt-master",
-      "source": "github"
-    },
-    "2d9028ec7d2d740c": {
-      "date": "2026-10-11",
-      "title": "pytorch / pytorch",
-      "source": "github"
-    },
-    "39ec5846ae4b9617": {
-      "date": "2026-10-11",
-      "title": "multica-ai / andrej-karpathy-skills",
-      "source": "github"
-    },
-    "e391b09c49b414d9": {
-      "date": "2026-10-11",
-      "title": "What Do You Drink While You Work?",
-      "source": "devto"
-    },
-    "f495225317772d1a": {
-      "date": "2026-10-11",
-      "title": "How Do We Extract the “Why” from a PR into a CHANGELOG with Jev? 🤔",
-      "source": "devto"
-    },
-    "94a01bfe792ef57c": {
-      "date": "2026-10-11",
-      "title": "Git Isn't a Diff Tracker: How Blobs, Trees, DAG Commits, and the Index Actually Work Under the Hood",
-      "source": "devto"
-    },
-    "fd9a621ecea23675": {
-      "date": "2026-10-11",
-      "title": "WildProof: Go Outside With a Question, Come Back With Evidence",
-      "source": "devto"
-    },
-    "0aca00bb404741c3": {
-      "date": "2026-10-11",
-      "title": "AI agent benchmark: I gave 9 models a destroy button and a job that needed it",
-      "source": "devto"
-    },
-    "2f7dba4e3d49e02b": {
-      "date": "2026-10-11",
-      "title": "Node.js 26's default Temporal API fixes a one-hour DST drift that Date still has",
-      "source": "devto"
-    },
-    "343726c43d426d59": {
-      "date": "2026-10-11",
-      "title": "Surviving the 200k-Token Lobotomy: How Unix init.d and 'Memento' Made My AI Coding Agent Immune to C",
-      "source": "devto"
-    },
-    "5b0c1a1ee6c1d2e5": {
-      "date": "2026-10-11",
-      "title": "I Distilled a 397B Model Into a 4B One for $1.60. It Now Catches 28 of 33 Park Alerts That Should St",
-      "source": "devto"
-    },
-    "fd12fc5b5cc9b037": {
-      "date": "2026-10-11",
-      "title": "RevSofia, a Car Meetup app that people will love to use",
-      "source": "devto"
-    },
-    "314ae6c36380b2fa": {
-      "date": "2026-10-11",
-      "title": "I Built an AI Game That Wants You to Go Outside",
-      "source": "devto"
-    },
     "ac2cf4c31cbf2496": {
       "date": "2026-10-12",
       "title": "Total Annihilation, rebuilt for modern computers",
@@ -4991,6 +4826,161 @@
       "date": "2026-11-10",
       "title": "homeassistant-ai / ha-mcp",
       "source": "github"
+    },
+    "02c06849379ad938": {
+      "date": "2026-11-11",
+      "title": "Smart home devices should work without the internet",
+      "source": "hackernews"
+    },
+    "edc7b2c806a1214b": {
+      "date": "2026-11-11",
+      "title": ".name Grandfathered",
+      "source": "hackernews"
+    },
+    "dd875e3abb805b46": {
+      "date": "2026-11-11",
+      "title": "AlphaProof Code",
+      "source": "hackernews"
+    },
+    "78206a9a7a64268f": {
+      "date": "2026-11-11",
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "source": "hackernews"
+    },
+    "b632914608ed5e92": {
+      "date": "2026-11-11",
+      "title": "Val Town is winding down",
+      "source": "hackernews"
+    },
+    "d22fb940c34b1bcc": {
+      "date": "2026-11-11",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "source": "hackernews"
+    },
+    "5332af4a4cfe811e": {
+      "date": "2026-11-11",
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "source": "hackernews"
+    },
+    "7df201cb77a1f9a9": {
+      "date": "2026-11-11",
+      "title": "Starlink Mini 2",
+      "source": "hackernews"
+    },
+    "8975816963d86db8": {
+      "date": "2026-11-11",
+      "title": "Six Math Essentials by Terence Tao",
+      "source": "hackernews"
+    },
+    "251317833f39a2e2": {
+      "date": "2026-11-11",
+      "title": "Hacking the meta ray-ban smartglasses",
+      "source": "hackernews"
+    },
+    "e650a6f50f6aa8a4": {
+      "date": "2026-11-11",
+      "title": "Opal Reader",
+      "source": "producthunt"
+    },
+    "4b1881608dab193a": {
+      "date": "2026-11-11",
+      "title": "TK by Medium",
+      "source": "producthunt"
+    },
+    "db0e76466dc21fce": {
+      "date": "2026-11-11",
+      "title": "MuJoCo 4",
+      "source": "producthunt"
+    },
+    "9e1bffd8d1f80a7b": {
+      "date": "2026-11-11",
+      "title": "OpenVibe",
+      "source": "producthunt"
+    },
+    "a73f8d45977aeb76": {
+      "date": "2026-11-11",
+      "title": "Inspo by Context.dev",
+      "source": "producthunt"
+    },
+    "f4a6d80d0e0b25d6": {
+      "date": "2026-11-11",
+      "title": "Nadhif",
+      "source": "producthunt"
+    },
+    "22237f7ba1b669c4": {
+      "date": "2026-11-11",
+      "title": "Clive",
+      "source": "producthunt"
+    },
+    "d70401a7d1b543ee": {
+      "date": "2026-11-11",
+      "title": "Kata Send",
+      "source": "producthunt"
+    },
+    "0d1bd25a3199bf22": {
+      "date": "2026-11-11",
+      "title": "addyosmani / agent-skills",
+      "source": "github"
+    },
+    "8ca276b505c32f2e": {
+      "date": "2026-11-11",
+      "title": "we-promise / sure",
+      "source": "github"
+    },
+    "76bd5c2a949748d0": {
+      "date": "2026-11-11",
+      "title": "tokio-rs / topcoat",
+      "source": "github"
+    },
+    "bb6c023edaa5ff10": {
+      "date": "2026-11-11",
+      "title": "Detecting Flaky Tests and Finding Their Root Causes with Strands Agents and Gemini",
+      "source": "devto"
+    },
+    "96d13651f0bb9161": {
+      "date": "2026-11-11",
+      "title": "Stop Trusting npm Scans: Run Untrusted Packages in an Isolated AWS Sandbox",
+      "source": "devto"
+    },
+    "93e07a617c4e2a9d": {
+      "date": "2026-11-11",
+      "title": "Google AI Classroom Part 4: Defeating Proxy Attendance & Lab Keyloggers with WebAuthn Passkeys, Rota",
+      "source": "devto"
+    },
+    "cefb5c8630c4bea8": {
+      "date": "2026-11-11",
+      "title": "From Attention to 3-Bit Caches: How LLMs Learned to Remember Less (MHA, GQA, MLA, MoE, Quantisation ",
+      "source": "devto"
+    },
+    "60af5f9dcc22f680": {
+      "date": "2026-11-11",
+      "title": "Does Human Involvement Actually Make Agent Code Worse?",
+      "source": "devto"
+    },
+    "58398610e4df31b1": {
+      "date": "2026-11-11",
+      "title": "Blazor Native: HTML and CSS Without a Browser",
+      "source": "devto"
+    },
+    "36d452c40d386547": {
+      "date": "2026-11-11",
+      "title": "Dev Log # 28 A Quiet Week on the OSS Front",
+      "source": "devto"
+    },
+    "277b349ca5f48c79": {
+      "date": "2026-11-11",
+      "title": "I built a macOS app that makes your screen feel like paper!",
+      "source": "devto"
+    },
+    "31fb634e80bac100": {
+      "date": "2026-11-11",
+      "title": "Behind the scenes, two months later: How we ship Google Agent Skills like products",
+      "source": "devto"
+    },
+    "ae61fda675d866c1": {
+      "date": "2026-11-11",
+      "title": "I Used gp-grid to Build a React Food Festival App with Advanced Data Grid Features",
+      "source": "devto"
     }
   }
 }
