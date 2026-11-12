@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-11T02:26:31.558749",
+  "last_updated": "2026-11-12T03:32:43.102280",
   "sent_items": {
-    "ac2cf4c31cbf2496": {
-      "date": "2026-10-12",
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "source": "hackernews"
-    },
-    "555a2b729c079321": {
-      "date": "2026-10-12",
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "source": "hackernews"
-    },
-    "0f71ae5c055fa6db": {
-      "date": "2026-10-12",
-      "title": "Cartographers of North Korea (2019)",
-      "source": "hackernews"
-    },
-    "1dc1c072cf577b20": {
-      "date": "2026-10-12",
-      "title": "Fingerprints Are the New Cookies",
-      "source": "hackernews"
-    },
-    "16fa3e4adedb54b9": {
-      "date": "2026-10-12",
-      "title": "Whatever became of holography? (2011)",
-      "source": "hackernews"
-    },
-    "f5e0e4d5ca89f7ce": {
-      "date": "2026-10-12",
-      "title": "Recursive self-improvement through collective intelligence",
-      "source": "hackernews"
-    },
-    "58b259bc55ffe3f6": {
-      "date": "2026-10-12",
-      "title": "Governments are mishandling the affordability crisis",
-      "source": "hackernews"
-    },
-    "2399797bbc11e8ef": {
-      "date": "2026-10-12",
-      "title": "Illustration Beyond Proof",
-      "source": "hackernews"
-    },
-    "20b11b630b78f2db": {
-      "date": "2026-10-12",
-      "title": "HashiCorp archives the Boundary open source repo",
-      "source": "hackernews"
-    },
-    "3ca765caa3dbd13f": {
-      "date": "2026-10-12",
-      "title": "Local Indexing to reduce tool calling and token usage",
-      "source": "hackernews"
-    },
-    "f8de65f4d73430ac": {
-      "date": "2026-10-12",
-      "title": "Farol",
-      "source": "producthunt"
-    },
-    "18c784621c96fb5f": {
-      "date": "2026-10-12",
-      "title": "EdgeVolume",
-      "source": "producthunt"
-    },
-    "f94c11f2e175a5ca": {
-      "date": "2026-10-12",
-      "title": "NewMinecraftServers",
-      "source": "producthunt"
-    },
-    "7e1a6c02e65de506": {
-      "date": "2026-10-12",
-      "title": "kōdlo",
-      "source": "producthunt"
-    },
-    "a32ec275d0e7ac9e": {
-      "date": "2026-10-12",
-      "title": "Unboom",
-      "source": "producthunt"
-    },
-    "7b2d4042b845bfe7": {
-      "date": "2026-10-12",
-      "title": "Kooler",
-      "source": "producthunt"
-    },
-    "225794644f35473f": {
-      "date": "2026-10-12",
-      "title": "SimpleSpread",
-      "source": "producthunt"
-    },
-    "5778ee93909f505a": {
-      "date": "2026-10-12",
-      "title": "shippedit.me",
-      "source": "producthunt"
-    },
-    "c0fb14db86dd87eb": {
-      "date": "2026-10-12",
-      "title": "bilawalsidhu / gods-eye-view",
-      "source": "github"
-    },
-    "cef11b5e74b825ba": {
-      "date": "2026-10-12",
-      "title": "lyogavin / airllm",
-      "source": "github"
-    },
-    "44fef4354ab3fc2f": {
-      "date": "2026-10-12",
-      "title": "chrislgarry / Apollo-11",
-      "source": "github"
-    },
-    "0c8935aabf51c028": {
-      "date": "2026-10-12",
-      "title": "🐾 DEV Pet Corner #1: Show Us Your Pets!",
-      "source": "devto"
-    },
-    "6b3f70f7cdefaa56": {
-      "date": "2026-10-12",
-      "title": "💅 Keyboard Makeover",
-      "source": "devto"
-    },
-    "c17d333d9928312e": {
-      "date": "2026-10-12",
-      "title": "Georgian Language Benchmark: Two Biggest AI Labs Clash in a Language That Doesn't Play by Anyone's R",
-      "source": "devto"
-    },
-    "8a06beb54b023231": {
-      "date": "2026-10-12",
-      "title": "I Built an AI Gardening App That Tells Me to Put the Laptop Down",
-      "source": "devto"
-    },
-    "b53d9b5660163fa2": {
-      "date": "2026-10-12",
-      "title": "ShutterHunt : A Photographic Quest That Gets You Outside",
-      "source": "devto"
-    },
-    "ce15172ea0b679b7": {
-      "date": "2026-10-12",
-      "title": "Cold Kills Batteries, Screen Glare Destroys Night Vision: I Built HushHike with Render, ElevenLabs &",
-      "source": "devto"
-    },
-    "5606a0eda36a7066": {
-      "date": "2026-10-12",
-      "title": "FarbeDex: a colour picker that only works outside (and never needs the internet)",
-      "source": "devto"
-    },
-    "245b27aace5d7f16": {
-      "date": "2026-10-12",
-      "title": "My Commit Your Code'26 Experience",
-      "source": "devto"
-    },
-    "b65ed78aa2206fa2": {
-      "date": "2026-10-12",
-      "title": "TrailSafe: How Open-Source AI Rescues Solo Hikers When Cell Signal Dies 🏔️",
-      "source": "devto"
-    },
-    "b62e28171eb2d0d7": {
-      "date": "2026-10-12",
-      "title": "Touch Hardware: Turning Pixel Art into a Gateway to Hands-On Tech",
-      "source": "devto"
-    },
     "e6b665da4145ac96": {
       "date": "2026-10-13",
       "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
@@ -4980,6 +4825,156 @@
     "ae61fda675d866c1": {
       "date": "2026-11-11",
       "title": "I Used gp-grid to Build a React Food Festival App with Advanced Data Grid Features",
+      "source": "devto"
+    },
+    "d2326d2e7198d941": {
+      "date": "2026-11-12",
+      "title": "Tim Peters has died",
+      "source": "hackernews"
+    },
+    "73a4a1dba762aa0d": {
+      "date": "2026-11-12",
+      "title": "AWS emulator",
+      "source": "hackernews"
+    },
+    "8f3a64125abad0ac": {
+      "date": "2026-11-12",
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "source": "hackernews"
+    },
+    "8eb77d04e7d3c0b9": {
+      "date": "2026-11-12",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "source": "hackernews"
+    },
+    "026c2471f320e298": {
+      "date": "2026-11-12",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "source": "hackernews"
+    },
+    "3586fd5cc361f204": {
+      "date": "2026-11-12",
+      "title": "Gemini Decisions API",
+      "source": "hackernews"
+    },
+    "adca83eb64ecdccd": {
+      "date": "2026-11-12",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "source": "hackernews"
+    },
+    "01e7ae3781a6b77a": {
+      "date": "2026-11-12",
+      "title": "Lock Your GitHub Actions",
+      "source": "hackernews"
+    },
+    "ffd320c81ef72ada": {
+      "date": "2026-11-12",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "source": "hackernews"
+    },
+    "4851bac55798b6fc": {
+      "date": "2026-11-12",
+      "title": "Did Life Begin in an RNA World?",
+      "source": "hackernews"
+    },
+    "4f859d952168b72e": {
+      "date": "2026-11-12",
+      "title": "Kippy AI",
+      "source": "producthunt"
+    },
+    "1792d327dc2a6472": {
+      "date": "2026-11-12",
+      "title": "Scribe v3 by ElevenLabs",
+      "source": "producthunt"
+    },
+    "41eb2f6fda1d49b1": {
+      "date": "2026-11-12",
+      "title": "StableBar",
+      "source": "producthunt"
+    },
+    "cacad0167667ff3e": {
+      "date": "2026-11-12",
+      "title": "Nod by n8n",
+      "source": "producthunt"
+    },
+    "6114dd28a1649d06": {
+      "date": "2026-11-12",
+      "title": "Mister Blocks",
+      "source": "producthunt"
+    },
+    "1d2b6a02bef7d9ed": {
+      "date": "2026-11-12",
+      "title": "nizima ACTION!!",
+      "source": "producthunt"
+    },
+    "6985e00d3276b360": {
+      "date": "2026-11-12",
+      "title": "GoogleChrome / modern-web-guidance-src",
+      "source": "github"
+    },
+    "dd14c325a18e7150": {
+      "date": "2026-11-12",
+      "title": "shadcn / improve",
+      "source": "github"
+    },
+    "2a9bb2bf7afb0f86": {
+      "date": "2026-11-12",
+      "title": "openai / codex-security",
+      "source": "github"
+    },
+    "3b3554ed972a0563": {
+      "date": "2026-11-12",
+      "title": "TheAlgorithms / Java",
+      "source": "github"
+    },
+    "86ef9e374174dbee": {
+      "date": "2026-11-12",
+      "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
+      "source": "devto"
+    },
+    "b62fb656243cef1c": {
+      "date": "2026-11-12",
+      "title": "One Year on DEV.to, 109 Articles Later",
+      "source": "devto"
+    },
+    "83c272dace29d6ee": {
+      "date": "2026-11-12",
+      "title": "Meet type-tune! 🦀 Give Your TypeScript Types a Better Home! 😸",
+      "source": "devto"
+    },
+    "351bb6b4d59f07c2": {
+      "date": "2026-11-12",
+      "title": "AI can write code, but the magic of a first project is unmatched! 🗽",
+      "source": "devto"
+    },
+    "c383ac5a53dd4642": {
+      "date": "2026-11-12",
+      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exa",
+      "source": "devto"
+    },
+    "226ce815165874e7": {
+      "date": "2026-11-12",
+      "title": "Part 5: The Control That Protected an Empty Bucket",
+      "source": "devto"
+    },
+    "c84043592d731176": {
+      "date": "2026-11-12",
+      "title": "Your Agent Needs a Schema, Not a Better Prompt",
+      "source": "devto"
+    },
+    "4257fabca14cc8de": {
+      "date": "2026-11-12",
+      "title": "8 a.m. Thoughts: Word Press, Security, and Legacy 💭🤔",
+      "source": "devto"
+    },
+    "76512829fb7b0008": {
+      "date": "2026-11-12",
+      "title": "AI Code Is Unmaintainable? So Is Ours.",
+      "source": "devto"
+    },
+    "d16fde6b277b46ea": {
+      "date": "2026-11-12",
+      "title": "AI Agent Sessions Are a Data Store Nobody Designed",
       "source": "devto"
     }
   }
