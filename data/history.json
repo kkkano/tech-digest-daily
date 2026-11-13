@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-12T03:32:43.102280",
+  "last_updated": "2026-11-13T03:07:00.929088",
   "sent_items": {
-    "e6b665da4145ac96": {
-      "date": "2026-10-13",
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "source": "hackernews"
-    },
-    "63841978d9b21d9d": {
-      "date": "2026-10-13",
-      "title": "GLM-Legal",
-      "source": "hackernews"
-    },
-    "d50867c6acb5ca63": {
-      "date": "2026-10-13",
-      "title": "A Modern Web App in C",
-      "source": "hackernews"
-    },
-    "5e842789981d329c": {
-      "date": "2026-10-13",
-      "title": "Who is vfmaddrnd231pd?",
-      "source": "hackernews"
-    },
-    "2325bc8df3a54929": {
-      "date": "2026-10-13",
-      "title": "Making big downloads resumable in Firefox",
-      "source": "hackernews"
-    },
-    "e8881de420a0eb8f": {
-      "date": "2026-10-13",
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "source": "hackernews"
-    },
-    "a64d4c794baec9aa": {
-      "date": "2026-10-13",
-      "title": "The baffling intelligence of a single cell (2024)",
-      "source": "hackernews"
-    },
-    "938820eba5541831": {
-      "date": "2026-10-13",
-      "title": "Leaving Tech",
-      "source": "hackernews"
-    },
-    "2285f424d71b147b": {
-      "date": "2026-10-13",
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "source": "hackernews"
-    },
-    "cc23b9af386a2f63": {
-      "date": "2026-10-13",
-      "title": "Auto Research: Integer multiplication below n log n",
-      "source": "hackernews"
-    },
-    "a11e79331eb91946": {
-      "date": "2026-10-13",
-      "title": "Google EmbeddingGemma 2",
-      "source": "producthunt"
-    },
-    "52b4c6efd716fce2": {
-      "date": "2026-10-13",
-      "title": "Manifold MCP",
-      "source": "producthunt"
-    },
-    "50b5acd3cc70e471": {
-      "date": "2026-10-13",
-      "title": "Cube Forms",
-      "source": "producthunt"
-    },
-    "beccda73984e13b3": {
-      "date": "2026-10-13",
-      "title": "SquadRoom",
-      "source": "producthunt"
-    },
-    "b3a827fce1e16b25": {
-      "date": "2026-10-13",
-      "title": "guilds.run",
-      "source": "producthunt"
-    },
-    "8024eb89fa0b152b": {
-      "date": "2026-10-13",
-      "title": "ExcaliClaw",
-      "source": "producthunt"
-    },
-    "026b3c9a7c1bd188": {
-      "date": "2026-10-13",
-      "title": "\"Light don go\": when Nigeria''s power cuts out, my laptop sends me outside",
-      "source": "devto"
-    },
-    "81b5c7766923da2a": {
-      "date": "2026-10-13",
-      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
-      "source": "devto"
-    },
-    "c93804168e0f5fb2": {
-      "date": "2026-10-13",
-      "title": "Step Away From the Terminal: I Built BreakPoint with Entire to Disconnect Burned-Out Developers in 1",
-      "source": "devto"
-    },
-    "13fa23e7343b2dde": {
-      "date": "2026-10-13",
-      "title": "You’re a Real Python Developer Only If...",
-      "source": "devto"
-    },
-    "b04358cb44f18795": {
-      "date": "2026-10-13",
-      "title": "Solodesk-Ai",
-      "source": "devto"
-    },
-    "5a8b8c1b107a3992": {
-      "date": "2026-10-13",
-      "title": "I was chasing the job market. One comment on DEV.to made me rethink everything",
-      "source": "devto"
-    },
-    "a35f10eb248400e0": {
-      "date": "2026-10-13",
-      "title": "One Glue Job, Zero Orchestrators — My First Spark Declarative Pipeline on AWS Glue",
-      "source": "devto"
-    },
-    "b9461715fd2fd4b7": {
-      "date": "2026-10-13",
-      "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
-      "source": "devto"
-    },
-    "fb75b02bb887894d": {
-      "date": "2026-10-13",
-      "title": "We Built a Blender Render Farm Out of Four Laptops",
-      "source": "devto"
-    },
-    "4c751bf17db4157b": {
-      "date": "2026-10-13",
-      "title": "A single console.log was costing us $40,000 a year. I found it by accident.",
-      "source": "devto"
-    },
-    "5c33f43b602ec1d6": {
-      "date": "2026-10-13",
-      "title": "open-webui / open-webui",
-      "source": "github"
-    },
-    "33b0d84c745e52f3": {
-      "date": "2026-10-13",
-      "title": "microsoft / BitNet",
-      "source": "github"
-    },
-    "8e0001db8f8344fb": {
-      "date": "2026-10-13",
-      "title": "Alishahryar1 / free-claude-code",
-      "source": "github"
-    },
     "a615b4c8f9b3f966": {
       "date": "2026-10-14",
       "title": "Gemini 4 Argon",
@@ -4976,6 +4831,166 @@
       "date": "2026-11-12",
       "title": "AI Agent Sessions Are a Data Store Nobody Designed",
       "source": "devto"
+    },
+    "935fdc5cbcc4fa6d": {
+      "date": "2026-11-13",
+      "title": "Jensen Huang resigns",
+      "source": "hackernews"
+    },
+    "e7252408c0eec17b": {
+      "date": "2026-11-13",
+      "title": "Service degradation on Microsoft 365",
+      "source": "hackernews"
+    },
+    "9cf8bbc5fcb0bceb": {
+      "date": "2026-11-13",
+      "title": "Rust 1.100",
+      "source": "hackernews"
+    },
+    "52716148917ed7a1": {
+      "date": "2026-11-13",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "source": "hackernews"
+    },
+    "250664fb650f3738": {
+      "date": "2026-11-13",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "source": "hackernews"
+    },
+    "e4f4d929d413bc3d": {
+      "date": "2026-11-13",
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "source": "hackernews"
+    },
+    "bacd584038ac0dc2": {
+      "date": "2026-11-13",
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "source": "hackernews"
+    },
+    "76021858357497fb": {
+      "date": "2026-11-13",
+      "title": "Foundation Models framework",
+      "source": "hackernews"
+    },
+    "1e7a3aca4115992a": {
+      "date": "2026-11-13",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "source": "hackernews"
+    },
+    "7ae47ed9b89e4794": {
+      "date": "2026-11-13",
+      "title": "Africa's solar revolution is vast and speedy",
+      "source": "hackernews"
+    },
+    "642bcfe448989dfc": {
+      "date": "2026-11-13",
+      "title": "Hoy for Mac",
+      "source": "producthunt"
+    },
+    "f2423242f80a9480": {
+      "date": "2026-11-13",
+      "title": "Spacefast by Automattic",
+      "source": "producthunt"
+    },
+    "6a6924303f83d375": {
+      "date": "2026-11-13",
+      "title": "YouArt Desktop App",
+      "source": "producthunt"
+    },
+    "328395811f9c6b3c": {
+      "date": "2026-11-13",
+      "title": "Yogurt",
+      "source": "producthunt"
+    },
+    "2f8bc01d76209a20": {
+      "date": "2026-11-13",
+      "title": "three.dev",
+      "source": "producthunt"
+    },
+    "caba14862fd51703": {
+      "date": "2026-11-13",
+      "title": "Infinite Drive",
+      "source": "producthunt"
+    },
+    "c13138237e311466": {
+      "date": "2026-11-13",
+      "title": "Marqly 7.0",
+      "source": "producthunt"
+    },
+    "eca0f10005136bd5": {
+      "date": "2026-11-13",
+      "title": "Crossfade",
+      "source": "producthunt"
+    },
+    "1851ef2912e3f420": {
+      "date": "2026-11-13",
+      "title": "Long Live Rails",
+      "source": "devto"
+    },
+    "559ebf7cb15f1438": {
+      "date": "2026-11-13",
+      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
+      "source": "devto"
+    },
+    "ea62311c2d509cb3": {
+      "date": "2026-11-13",
+      "title": "A 10 years old developer who has become a DEV.to Trusted Member! 😱",
+      "source": "devto"
+    },
+    "725943933fd29c9a": {
+      "date": "2026-11-13",
+      "title": "Ultimate AI Roast! 😂😹",
+      "source": "devto"
+    },
+    "c5cf108497f2f203": {
+      "date": "2026-11-13",
+      "title": "Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents",
+      "source": "devto"
+    },
+    "f23c8167666bd70d": {
+      "date": "2026-11-13",
+      "title": "AI is getting better. Here is my plan to stay ahead.",
+      "source": "devto"
+    },
+    "c1908c364f1dfd96": {
+      "date": "2026-11-13",
+      "title": "ClickHouse 26.10's string filter during scan cuts a selective LIKE query's memory 25-fold",
+      "source": "devto"
+    },
+    "eec55bb855f8a4b7": {
+      "date": "2026-11-13",
+      "title": "What Changes With the A2UI 1.0 Release",
+      "source": "devto"
+    },
+    "91c5d67439ce2d83": {
+      "date": "2026-11-13",
+      "title": "Monuments of India, Part 2: Domes, Arches, Realistic Stone and Finer Details in three.js",
+      "source": "devto"
+    },
+    "0bd017e1298640c6": {
+      "date": "2026-11-13",
+      "title": "Enterprise SSO for B2B SaaS: How to Prepare Before Your First Big Customer Asks",
+      "source": "devto"
+    },
+    "292c08b62b8b2aac": {
+      "date": "2026-11-13",
+      "title": "pookjw / HermesEnabler",
+      "source": "github"
+    },
+    "5a31de5224f44403": {
+      "date": "2026-11-13",
+      "title": "QwenLM / qwen-code",
+      "source": "github"
+    },
+    "1974e4a3544a332f": {
+      "date": "2026-11-13",
+      "title": "ashhart / TensorFold",
+      "source": "github"
+    },
+    "087dae28b6e341d1": {
+      "date": "2026-11-13",
+      "title": "ggml-org / llama.cpp",
+      "source": "github"
     }
   }
 }
