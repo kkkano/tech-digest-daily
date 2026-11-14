@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-13T03:07:00.929088",
+  "last_updated": "2026-11-14T02:54:08.680813",
   "sent_items": {
-    "a615b4c8f9b3f966": {
-      "date": "2026-10-14",
-      "title": "Gemini 4 Argon",
-      "source": "hackernews"
-    },
-    "23d9079a8f65da12": {
-      "date": "2026-10-14",
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "source": "hackernews"
-    },
-    "a9d27224dd64fa08": {
-      "date": "2026-10-14",
-      "title": "Apple HomeView",
-      "source": "hackernews"
-    },
-    "11989993b638c28f": {
-      "date": "2026-10-14",
-      "title": "Firefox Enterprise",
-      "source": "hackernews"
-    },
-    "8625f276e36e636a": {
-      "date": "2026-10-14",
-      "title": "Redesigning source control at Anthropic",
-      "source": "hackernews"
-    },
-    "b4750a3afa44acfb": {
-      "date": "2026-10-14",
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "source": "hackernews"
-    },
-    "baba71261f5757b6": {
-      "date": "2026-10-14",
-      "title": "Thunderbird for iOS",
-      "source": "hackernews"
-    },
-    "d9c5a4462f98dc61": {
-      "date": "2026-10-14",
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "source": "hackernews"
-    },
-    "39b5f2e42888e46d": {
-      "date": "2026-10-14",
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "source": "hackernews"
-    },
-    "a199b9690fc974ab": {
-      "date": "2026-10-14",
-      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "source": "hackernews"
-    },
-    "5e57606b6d7ab565": {
-      "date": "2026-10-14",
-      "title": "Muse Wonder",
-      "source": "producthunt"
-    },
-    "7c5a90fc8fee4c66": {
-      "date": "2026-10-14",
-      "title": "Takes for Mac",
-      "source": "producthunt"
-    },
-    "34a07e4db9be6161": {
-      "date": "2026-10-14",
-      "title": "Xiryn",
-      "source": "producthunt"
-    },
-    "99b09d88fd4b294b": {
-      "date": "2026-10-14",
-      "title": "OpenFlowKit 2",
-      "source": "producthunt"
-    },
-    "fddc71b6617df3a0": {
-      "date": "2026-10-14",
-      "title": "CLI Manager",
-      "source": "producthunt"
-    },
-    "2d72c32d1bfb0581": {
-      "date": "2026-10-14",
-      "title": "OpenCode 2.0",
-      "source": "producthunt"
-    },
-    "67e27b55e5633db6": {
-      "date": "2026-10-14",
-      "title": "Toby",
-      "source": "producthunt"
-    },
-    "b23915d90d1ecaf8": {
-      "date": "2026-10-14",
-      "title": "PostNitro for Agents",
-      "source": "producthunt"
-    },
-    "9660013ea25c5cd2": {
-      "date": "2026-10-14",
-      "title": "debpalash / VoiceStudio",
-      "source": "github"
-    },
-    "7634ab012b3dcc8f": {
-      "date": "2026-10-14",
-      "title": "vercel-labs / skills",
-      "source": "github"
-    },
-    "07395ccee5b58710": {
-      "date": "2026-10-14",
-      "title": "xtool-org / xtool",
-      "source": "github"
-    },
-    "c22962561e6a8456": {
-      "date": "2026-10-14",
-      "title": "AI Fatigue? Yea I know.",
-      "source": "devto"
-    },
-    "93273250144f7b8d": {
-      "date": "2026-10-14",
-      "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
-      "source": "devto"
-    },
-    "c5a0601e5f574b46": {
-      "date": "2026-10-14",
-      "title": "GitHub Isn't Just a Remote Git Server: How Spoke Clusters, Fork Alternates, and Actions Runner Sandb",
-      "source": "devto"
-    },
-    "a4bc913bef89ae24": {
-      "date": "2026-10-14",
-      "title": "Someone hacked the freezers at 400 French supermarkets",
-      "source": "devto"
-    },
-    "ee8c93f342dd33c6": {
-      "date": "2026-10-14",
-      "title": "Don't Try This at Home: What Happened When I Sent Kiro to Work and Went Gardening",
-      "source": "devto"
-    },
-    "a919b7780028938b": {
-      "date": "2026-10-14",
-      "title": "Integrating SEO Components into Discord",
-      "source": "devto"
-    },
-    "1689ce3ed9275bd1": {
-      "date": "2026-10-14",
-      "title": "People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?",
-      "source": "devto"
-    },
-    "0025dce8a504fa10": {
-      "date": "2026-10-14",
-      "title": "Do You Actually Need an LLM?",
-      "source": "devto"
-    },
-    "0fdf6c5971d4e6ac": {
-      "date": "2026-10-14",
-      "title": "You blank in technical interviews even when you know the answer. Let's fix that.",
-      "source": "devto"
-    },
-    "83d09ad8fc672512": {
-      "date": "2026-10-14",
-      "title": "'Localhost' is a Lie: Everything Uni Missed About Real-World Tech",
-      "source": "devto"
-    },
     "63656400f4807a94": {
       "date": "2026-10-15",
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
@@ -4990,6 +4835,181 @@
     "087dae28b6e341d1": {
       "date": "2026-11-13",
       "title": "ggml-org / llama.cpp",
+      "source": "github"
+    },
+    "b53a788fcad67ff3": {
+      "date": "2026-11-14",
+      "title": "Burnstate",
+      "source": "producthunt"
+    },
+    "b005e6d0aaf9ddfa": {
+      "date": "2026-11-14",
+      "title": "Aven App Agent",
+      "source": "producthunt"
+    },
+    "c79dd6ee06bc3aef": {
+      "date": "2026-11-14",
+      "title": "Kairos",
+      "source": "producthunt"
+    },
+    "2bc3d62bc425db35": {
+      "date": "2026-11-14",
+      "title": "WHOOP Humans",
+      "source": "producthunt"
+    },
+    "3ca273bfd7012c51": {
+      "date": "2026-11-14",
+      "title": "Replicate",
+      "source": "producthunt"
+    },
+    "c61b275b43390a61": {
+      "date": "2026-11-14",
+      "title": "Pocket Studio for Supabase",
+      "source": "producthunt"
+    },
+    "ade35c998d0e89b4": {
+      "date": "2026-11-14",
+      "title": "Paxper",
+      "source": "producthunt"
+    },
+    "21d53362d1a0b92f": {
+      "date": "2026-11-14",
+      "title": "FAA issues national ground stop",
+      "source": "hackernews"
+    },
+    "875c3a504f3c2e82": {
+      "date": "2026-11-14",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "source": "hackernews"
+    },
+    "0fbb90957a5ec551": {
+      "date": "2026-11-14",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "source": "hackernews"
+    },
+    "f1770de1aac3af39": {
+      "date": "2026-11-14",
+      "title": "FM-1 Workbench",
+      "source": "hackernews"
+    },
+    "d8d8787fecdb52bb": {
+      "date": "2026-11-14",
+      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+      "source": "hackernews"
+    },
+    "e3a3b5514ad2b04d": {
+      "date": "2026-11-14",
+      "title": "FAA lifted National Ground Stop at 0119Z",
+      "source": "hackernews"
+    },
+    "233c10793860b909": {
+      "date": "2026-11-14",
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "source": "hackernews"
+    },
+    "67687f2be27bb5a8": {
+      "date": "2026-11-14",
+      "title": "Terminal borders that don't cost a cell",
+      "source": "hackernews"
+    },
+    "e1e9010157248757": {
+      "date": "2026-11-14",
+      "title": "What Happened to 3Com?",
+      "source": "hackernews"
+    },
+    "3aaef76e60d5726b": {
+      "date": "2026-11-14",
+      "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "source": "hackernews"
+    },
+    "2fb4daae9eba005b": {
+      "date": "2026-11-14",
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
+      "source": "devto"
+    },
+    "d06a3c8256502598": {
+      "date": "2026-11-14",
+      "title": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
+      "source": "devto"
+    },
+    "eaac91f96bd0f0e7": {
+      "date": "2026-11-14",
+      "title": "Six Serving Engines on Four Accelerators: Gemma 4 E2B on an RTX 3050, a T4, an L4 and a TPU v5e",
+      "source": "devto"
+    },
+    "a246f33bae1f695c": {
+      "date": "2026-11-14",
+      "title": "🛸 Necoz: The UFO Kingdom Python Loops 🐱",
+      "source": "devto"
+    },
+    "98c840e373b37738": {
+      "date": "2026-11-14",
+      "title": "remove.bg Is Shutting Down — Here's a Free, No-Upload Alternative",
+      "source": "devto"
+    },
+    "9fa2fa955efde2e7": {
+      "date": "2026-11-14",
+      "title": "Scope WebMCP Tools to the Open React Workflow",
+      "source": "devto"
+    },
+    "b55576c0c084c7c4": {
+      "date": "2026-11-14",
+      "title": "Git 2.56's history drop command replays commits 40 to 77 times faster than rebase",
+      "source": "devto"
+    },
+    "4f9518dae0be401d": {
+      "date": "2026-11-14",
+      "title": "Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent",
+      "source": "devto"
+    },
+    "907b9e97e75c2d1f": {
+      "date": "2026-11-14",
+      "title": "Benchmarking the Gemini Decisions API",
+      "source": "devto"
+    },
+    "7b028ccaef45ac5a": {
+      "date": "2026-11-14",
+      "title": "How Open-Source LLMs Differ: Comparing 130+ Model Architectures",
+      "source": "devto"
+    },
+    "9cd514d03f14c102": {
+      "date": "2026-11-14",
+      "title": "alibaba / open-code-review",
+      "source": "github"
+    },
+    "bf0815b5d73d4343": {
+      "date": "2026-11-14",
+      "title": "backnotprop / plannotator",
+      "source": "github"
+    },
+    "3bed7958e9a9206d": {
+      "date": "2026-11-14",
+      "title": "louislam / uptime-kuma",
+      "source": "github"
+    },
+    "f8fd1424e453d1b4": {
+      "date": "2026-11-14",
+      "title": "block / buzz",
+      "source": "github"
+    },
+    "51dd484e22ce94fe": {
+      "date": "2026-11-14",
+      "title": "tradermonty / claude-trading-skills",
+      "source": "github"
+    },
+    "2e99c10b71a947d8": {
+      "date": "2026-11-14",
+      "title": "tailscale / tailcat",
+      "source": "github"
+    },
+    "a74e6f8ad10e0fc9": {
+      "date": "2026-11-14",
+      "title": "Likely7 / Veyra-NRVideo",
+      "source": "github"
+    },
+    "b4212d4b4d442e7e": {
+      "date": "2026-11-14",
+      "title": "ChromeDevTools / chrome-devtools-mcp",
       "source": "github"
     }
   }
