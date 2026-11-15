@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-14T02:54:08.680813",
+  "last_updated": "2026-11-15T02:19:46.734485",
   "sent_items": {
-    "63656400f4807a94": {
-      "date": "2026-10-15",
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "source": "hackernews"
-    },
-    "d34b8045fd0bb694": {
-      "date": "2026-10-15",
-      "title": "Things to know when you get cancer – 2026 Edition",
-      "source": "hackernews"
-    },
-    "9038ab3e5055f4ba": {
-      "date": "2026-10-15",
-      "title": "Passkeys are not a trap",
-      "source": "hackernews"
-    },
-    "89964f014a5fa9e7": {
-      "date": "2026-10-15",
-      "title": "Do dentists know what they're doing?",
-      "source": "hackernews"
-    },
-    "e736448d1bbbe681": {
-      "date": "2026-10-15",
-      "title": "OpenCode 2.0",
-      "source": "hackernews"
-    },
-    "8f4f9a3e82b7a24c": {
-      "date": "2026-10-15",
-      "title": "Better HTTP/1 connection reuse in Go 1.27",
-      "source": "hackernews"
-    },
-    "d95daa121dd60661": {
-      "date": "2026-10-15",
-      "title": "Americans' social activity has steeply declined in the past 30 years",
-      "source": "hackernews"
-    },
-    "2c786777bb57e78e": {
-      "date": "2026-10-15",
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "source": "hackernews"
-    },
-    "ca685681a5434a4a": {
-      "date": "2026-10-15",
-      "title": "Tiny Little Office",
-      "source": "hackernews"
-    },
-    "83d869ed218b7887": {
-      "date": "2026-10-15",
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "source": "hackernews"
-    },
-    "8e19a777197fe75a": {
-      "date": "2026-10-15",
-      "title": "Confidence by Spotify",
-      "source": "producthunt"
-    },
-    "e6eb1d7a6bf49db9": {
-      "date": "2026-10-15",
-      "title": "AURORA Lifeline",
-      "source": "producthunt"
-    },
-    "8720be1788260b7d": {
-      "date": "2026-10-15",
-      "title": "AdAnt 2.0",
-      "source": "producthunt"
-    },
-    "423d583c22dd4736": {
-      "date": "2026-10-15",
-      "title": "PixLate",
-      "source": "producthunt"
-    },
-    "e2b8dbd2c6d38bf4": {
-      "date": "2026-10-15",
-      "title": "Hindsight 1.0 + Memlake",
-      "source": "producthunt"
-    },
-    "f15bd52740eba501": {
-      "date": "2026-10-15",
-      "title": "RoleFit",
-      "source": "producthunt"
-    },
-    "ad59b791d288b2ea": {
-      "date": "2026-10-15",
-      "title": "WriterzRoom",
-      "source": "producthunt"
-    },
-    "f1a87c2ebaac16ca": {
-      "date": "2026-10-15",
-      "title": "EditUI",
-      "source": "producthunt"
-    },
-    "e2e3cda3fa2e6709": {
-      "date": "2026-10-15",
-      "title": "nvm-sh / nvm",
-      "source": "github"
-    },
-    "bf559441b24d3589": {
-      "date": "2026-10-15",
-      "title": "K-Dense-AI / scientific-agent-skills",
-      "source": "github"
-    },
-    "637c4b19860f8e9e": {
-      "date": "2026-10-15",
-      "title": "ifixai-ai / iFixAi",
-      "source": "github"
-    },
-    "1b489a90529a898e": {
-      "date": "2026-10-15",
-      "title": "rust-lang / rust",
-      "source": "github"
-    },
-    "234827182dce38dd": {
-      "date": "2026-10-15",
-      "title": "ntdevlabs / tiny11builder",
-      "source": "github"
-    },
-    "388733e392d2ca27": {
-      "date": "2026-10-15",
-      "title": "NationalSecurityAgency / ghidra",
-      "source": "github"
-    },
-    "41f41bf856cb8258": {
-      "date": "2026-10-15",
-      "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-      "source": "devto"
-    },
-    "78771cb3f72730e5": {
-      "date": "2026-10-15",
-      "title": "The minimum you need to know about GitHub Actions",
-      "source": "devto"
-    },
-    "4bedf20b8190b2e9": {
-      "date": "2026-10-15",
-      "title": "Building Better Agents through End-to-End Evals",
-      "source": "devto"
-    },
-    "09ae7b6f3e6d2917": {
-      "date": "2026-10-15",
-      "title": "Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes",
-      "source": "devto"
-    },
-    "0746e7de7c93bc4a": {
-      "date": "2026-10-15",
-      "title": "Design for Churn",
-      "source": "devto"
-    },
-    "8c24ed05416b46c0": {
-      "date": "2026-10-15",
-      "title": "AI Avatar v25 (Avatar Run, Voxel Avatar, Muscle Brain)💪",
-      "source": "devto"
-    },
-    "a0e8d9b81f2f4a4c": {
-      "date": "2026-10-15",
-      "title": "The Model Is the Easy Part",
-      "source": "devto"
-    },
-    "76a8b13335eff405": {
-      "date": "2026-10-15",
-      "title": "How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️",
-      "source": "devto"
-    },
-    "81dd277be17d5856": {
-      "date": "2026-10-15",
-      "title": "Local speech with llamadart: giving Llama Village a voice",
-      "source": "devto"
-    },
-    "594f9449879acd53": {
-      "date": "2026-10-15",
-      "title": "An Agent’s Plan Isn’t Permission",
-      "source": "devto"
-    },
     "3b44f1f13adced97": {
       "date": "2026-10-16",
       "title": "Muse Spark Open",
@@ -5010,6 +4840,166 @@
     "b4212d4b4d442e7e": {
       "date": "2026-11-14",
       "title": "ChromeDevTools / chrome-devtools-mcp",
+      "source": "github"
+    },
+    "50646efac2a9f716": {
+      "date": "2026-11-15",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "source": "hackernews"
+    },
+    "2db116e6dbdc7f56": {
+      "date": "2026-11-15",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "source": "hackernews"
+    },
+    "5d822cad88e1096e": {
+      "date": "2026-11-15",
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "source": "hackernews"
+    },
+    "f06f8a80681ae027": {
+      "date": "2026-11-15",
+      "title": "KDE: The documentary [video]",
+      "source": "hackernews"
+    },
+    "8a041f21c4bbb88f": {
+      "date": "2026-11-15",
+      "title": "A family tree of software job titles",
+      "source": "hackernews"
+    },
+    "db971d89fb188eac": {
+      "date": "2026-11-15",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "source": "hackernews"
+    },
+    "d7dfeb76655ba2fc": {
+      "date": "2026-11-15",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "source": "hackernews"
+    },
+    "f2599aa7e16cf805": {
+      "date": "2026-11-15",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "source": "hackernews"
+    },
+    "d6b5416f3d957568": {
+      "date": "2026-11-15",
+      "title": "Oxford Molecular Motors",
+      "source": "hackernews"
+    },
+    "c1321f2602e7b855": {
+      "date": "2026-11-15",
+      "title": "500 Lines or Less A 3D Modeller",
+      "source": "hackernews"
+    },
+    "e6b9cee054ea4394": {
+      "date": "2026-11-15",
+      "title": "Tabletop by Google Labs",
+      "source": "producthunt"
+    },
+    "33c408c31730a5ff": {
+      "date": "2026-11-15",
+      "title": "Dynamic Edge",
+      "source": "producthunt"
+    },
+    "a639aaacd4f2d3f3": {
+      "date": "2026-11-15",
+      "title": "CodeMesh",
+      "source": "producthunt"
+    },
+    "9ffe877a610d4f3e": {
+      "date": "2026-11-15",
+      "title": "Restoration Scope",
+      "source": "producthunt"
+    },
+    "accbd392d1a7b732": {
+      "date": "2026-11-15",
+      "title": "Gemini Robotics 2.5",
+      "source": "producthunt"
+    },
+    "7a9ab5ffc491a344": {
+      "date": "2026-11-15",
+      "title": "Uber Parking",
+      "source": "producthunt"
+    },
+    "666883e2dd6cf8b4": {
+      "date": "2026-11-15",
+      "title": "inread.app",
+      "source": "producthunt"
+    },
+    "b4d4d6bf484d06bf": {
+      "date": "2026-11-15",
+      "title": "Avengers: Doomsday is 5 weeks away, so I built hexagon README badges. What are you building?",
+      "source": "devto"
+    },
+    "cd93feb4aab0e5f6": {
+      "date": "2026-11-15",
+      "title": "Devcon 8 Mumbai: Four Days at Ethereum's Biggest Builder Gathering",
+      "source": "devto"
+    },
+    "7392c665ffa35fa8": {
+      "date": "2026-11-15",
+      "title": "nginx 1.31's json_set directive rejects a bad webhook payload about 13 times faster than forwarding ",
+      "source": "devto"
+    },
+    "ab6d6367f44a2bf7": {
+      "date": "2026-11-15",
+      "title": "Swizzle Runtime v0.1.0: How We Reached 209 tok/s and 43ms TTFT on a 4GB Laptop GPU in Pure Rust",
+      "source": "devto"
+    },
+    "478d1e86d00d088a": {
+      "date": "2026-11-15",
+      "title": "One Tool Call Instead of Four Pages: Adding WebMCP to My Site",
+      "source": "devto"
+    },
+    "787789f6196f715b": {
+      "date": "2026-11-15",
+      "title": "Dash: An Endless Runner That Races Through Your City",
+      "source": "devto"
+    },
+    "1c08946e8c0ca565": {
+      "date": "2026-11-15",
+      "title": "Granny Is Watching: A Reactive Horror Experience Using SmartPectra",
+      "source": "devto"
+    },
+    "dfe73f09a874f000": {
+      "date": "2026-11-15",
+      "title": "I Replaced $3,000 Eye-Trackers with a Laptop Webcam: Building a Hands-Free Spatial Communicator with",
+      "source": "devto"
+    },
+    "5968966a8359345d": {
+      "date": "2026-11-15",
+      "title": "Snapshotting a DigitalOcean Droplet while it's running",
+      "source": "devto"
+    },
+    "cdd57b89bdae0f5a": {
+      "date": "2026-11-15",
+      "title": "I built a workspace that reads my body, then asked it to leave me alone",
+      "source": "devto"
+    },
+    "dd3f7c0b511db930": {
+      "date": "2026-11-15",
+      "title": "dream-num / univer",
+      "source": "github"
+    },
+    "dc6cbbda1a8ce8ca": {
+      "date": "2026-11-15",
+      "title": "ag-ui-protocol / ag-ui",
+      "source": "github"
+    },
+    "021dcfb5e16a50cf": {
+      "date": "2026-11-15",
+      "title": "JuliusBrussee / caveman",
+      "source": "github"
+    },
+    "26dd9a85c7cf6168": {
+      "date": "2026-11-15",
+      "title": "Tencent / LoopForge",
+      "source": "github"
+    },
+    "71190164274a067e": {
+      "date": "2026-11-15",
+      "title": "martin-olivier / airgorah",
       "source": "github"
     }
   }
