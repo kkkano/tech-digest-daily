@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-15T02:19:46.734485",
+  "last_updated": "2026-11-16T02:36:16.079819",
   "sent_items": {
-    "3b44f1f13adced97": {
-      "date": "2026-10-16",
-      "title": "Muse Spark Open",
-      "source": "hackernews"
-    },
-    "2ab933282e15536f": {
-      "date": "2026-10-16",
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "source": "hackernews"
-    },
-    "e26a2cb703ec922a": {
-      "date": "2026-10-16",
-      "title": "Neural networks are clean",
-      "source": "hackernews"
-    },
-    "cf6bd167f6a0bae0": {
-      "date": "2026-10-16",
-      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-      "source": "hackernews"
-    },
-    "c00873806ba538f3": {
-      "date": "2026-10-16",
-      "title": "Jev meets the Trolley Problem",
-      "source": "hackernews"
-    },
-    "b19c223d938eb361": {
-      "date": "2026-10-16",
-      "title": "What I Self-Host",
-      "source": "hackernews"
-    },
-    "2956a0f7bf93296a": {
-      "date": "2026-10-16",
-      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-      "source": "hackernews"
-    },
-    "67f47845dab5e863": {
-      "date": "2026-10-16",
-      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-      "source": "hackernews"
-    },
-    "e4bedf1cc00786f5": {
-      "date": "2026-10-16",
-      "title": "Major ICQ security hole (1998)",
-      "source": "hackernews"
-    },
-    "a909f9c6f9113345": {
-      "date": "2026-10-16",
-      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-      "source": "hackernews"
-    },
-    "bc727c3bfe4e6e22": {
-      "date": "2026-10-16",
-      "title": "GLM-Legal",
-      "source": "producthunt"
-    },
-    "e0365e2ebd864078": {
-      "date": "2026-10-16",
-      "title": "Lleverage",
-      "source": "producthunt"
-    },
-    "0fc38ce18a6f173f": {
-      "date": "2026-10-16",
-      "title": "Atticus",
-      "source": "producthunt"
-    },
-    "3e11feb1257f4fce": {
-      "date": "2026-10-16",
-      "title": "SuperLocalMemory",
-      "source": "producthunt"
-    },
-    "b1efb8cd96e84522": {
-      "date": "2026-10-16",
-      "title": "Nostaliga",
-      "source": "producthunt"
-    },
-    "8240412364b4b48a": {
-      "date": "2026-10-16",
-      "title": "Audimate",
-      "source": "producthunt"
-    },
-    "91e2cf038875d8d0": {
-      "date": "2026-10-16",
-      "title": "Rushilo",
-      "source": "producthunt"
-    },
-    "270e8475e9989b1b": {
-      "date": "2026-10-16",
-      "title": "CmdRound",
-      "source": "producthunt"
-    },
-    "c3257d531a3c4d89": {
-      "date": "2026-10-16",
-      "title": "obra / superpowers",
-      "source": "github"
-    },
-    "9a16f8b0667e86a0": {
-      "date": "2026-10-16",
-      "title": "ruvnet / ruflo",
-      "source": "github"
-    },
-    "8f1aa947f6cd9708": {
-      "date": "2026-10-16",
-      "title": "lightseekorg / tokenspeed",
-      "source": "github"
-    },
-    "928acd6469ac661a": {
-      "date": "2026-10-16",
-      "title": "xerj-org / xerj",
-      "source": "github"
-    },
-    "4c89680f64ff88ff": {
-      "date": "2026-10-16",
-      "title": "I Vibe-Coded My Way Out of Angular Upgrades",
-      "source": "devto"
-    },
-    "bb1690e34e5b2564": {
-      "date": "2026-10-16",
-      "title": "I built a lie detector for AI coding agents. Then I read the rules.",
-      "source": "devto"
-    },
-    "7eba09fe252dee92": {
-      "date": "2026-10-16",
-      "title": "Gemma 4 on a Used 8 GB RTX 3050: 116 Tokens/s for One User, 618 for 64",
-      "source": "devto"
-    },
-    "e5e8a240970beb30": {
-      "date": "2026-10-16",
-      "title": "I Built an Open-Weight AI That Prices Etsy Shops, On Your Laptop",
-      "source": "devto"
-    },
-    "8782fa734ad0b585": {
-      "date": "2026-10-16",
-      "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically T",
-      "source": "devto"
-    },
-    "b0c936c6d1280534": {
-      "date": "2026-10-16",
-      "title": "It caught \"partner\" \"pareja\" in an IRS rule and missed \"return\" \"devolución\": an offline MT checker ",
-      "source": "devto"
-    },
-    "8c9d572baab66ce9": {
-      "date": "2026-10-16",
-      "title": "Don't Order Fish on Monday. Don't Release on Friday",
-      "source": "devto"
-    },
-    "1b95ad101f7449cb": {
-      "date": "2026-10-16",
-      "title": "RevCheck, compare the cars you want before you buy your next daily driver",
-      "source": "devto"
-    },
-    "868fda8630dddc6a": {
-      "date": "2026-10-16",
-      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
-      "source": "devto"
-    },
-    "0e06347d6b95e75b": {
-      "date": "2026-10-16",
-      "title": "How Docker Works Under the Hood: Watch Namespaces Isolate a Container and cgroups Stop a Fork Bomb",
-      "source": "devto"
-    },
     "b2f13e264e62240b": {
       "date": "2026-10-17",
       "title": "Palomino",
@@ -5001,6 +4841,161 @@
       "date": "2026-11-15",
       "title": "martin-olivier / airgorah",
       "source": "github"
+    },
+    "9cf5892b358d2fe3": {
+      "date": "2026-11-16",
+      "title": "Pixel Office",
+      "source": "producthunt"
+    },
+    "d80acc9cff4a0a21": {
+      "date": "2026-11-16",
+      "title": "Frevana Multiplayer",
+      "source": "producthunt"
+    },
+    "0f1fa4ccd8fb853c": {
+      "date": "2026-11-16",
+      "title": "Rakazo",
+      "source": "producthunt"
+    },
+    "d5529e00b9c73e9d": {
+      "date": "2026-11-16",
+      "title": "Talyn",
+      "source": "producthunt"
+    },
+    "b8e20632178c64c9": {
+      "date": "2026-11-16",
+      "title": "Privacyboard",
+      "source": "producthunt"
+    },
+    "543852d1bdb65275": {
+      "date": "2026-11-16",
+      "title": "Emayler",
+      "source": "producthunt"
+    },
+    "bb3f1ac410a20450": {
+      "date": "2026-11-16",
+      "title": "HuntMonitor",
+      "source": "producthunt"
+    },
+    "7ead853d39e0cb8d": {
+      "date": "2026-11-16",
+      "title": "The MacBook Pro's OLED PWM problem",
+      "source": "hackernews"
+    },
+    "e1a7492298b8988a": {
+      "date": "2026-11-16",
+      "title": "A short explainer on how El Niño works [video]",
+      "source": "hackernews"
+    },
+    "a33482db3f253ac2": {
+      "date": "2026-11-16",
+      "title": "Old Bitly links are being hijacked",
+      "source": "hackernews"
+    },
+    "58a867f57f03ee00": {
+      "date": "2026-11-16",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "source": "hackernews"
+    },
+    "2f381630686734f8": {
+      "date": "2026-11-16",
+      "title": "Handwriting, as a Font",
+      "source": "hackernews"
+    },
+    "4df7d9f64469cbe2": {
+      "date": "2026-11-16",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "source": "hackernews"
+    },
+    "3023924dc6a90cc8": {
+      "date": "2026-11-16",
+      "title": "Preserving 30 years of Salon journalism",
+      "source": "hackernews"
+    },
+    "87f7053ab1c57d56": {
+      "date": "2026-11-16",
+      "title": "Mini.nvim Is Now on Tangled",
+      "source": "hackernews"
+    },
+    "1c5753a50253a37d": {
+      "date": "2026-11-16",
+      "title": "Coles hit by a cybersecurity incident",
+      "source": "hackernews"
+    },
+    "f33fd9c9238bbcf7": {
+      "date": "2026-11-16",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "source": "hackernews"
+    },
+    "f73b7c861bcc0e09": {
+      "date": "2026-11-16",
+      "title": "google-labs-code / stitch-skills",
+      "source": "github"
+    },
+    "4c6e2b5d342dc532": {
+      "date": "2026-11-16",
+      "title": "ggml-org / ggml",
+      "source": "github"
+    },
+    "5e38703f2df37de8": {
+      "date": "2026-11-16",
+      "title": "elementalsouls / Claude-BugHunter",
+      "source": "github"
+    },
+    "882ce923c486c28e": {
+      "date": "2026-11-16",
+      "title": "NVIDIA / SkillEvaluator",
+      "source": "github"
+    },
+    "1690037ba33916ef": {
+      "date": "2026-11-16",
+      "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
+      "source": "devto"
+    },
+    "0406119503da67b0": {
+      "date": "2026-11-16",
+      "title": "Cat Mutilation Successful!! 🛸 Welcome New Members!! 🐈🎉",
+      "source": "devto"
+    },
+    "cdd60111564623b6": {
+      "date": "2026-11-16",
+      "title": "🐱 The Great Cat Party on necoz Planet! 🚀Python variable",
+      "source": "devto"
+    },
+    "1a8c49466513963c": {
+      "date": "2026-11-16",
+      "title": "🐾 DEV Pet Corner #6: Show Us Your Pets!",
+      "source": "devto"
+    },
+    "b705701ffd72c62c": {
+      "date": "2026-11-16",
+      "title": "Day 83: Two Files and Four Parts",
+      "source": "devto"
+    },
+    "1890280e956b09d0": {
+      "date": "2026-11-16",
+      "title": ".NET 11 Unpacked: Why I'm Recommending STS This Time",
+      "source": "devto"
+    },
+    "18288a221f730c35": {
+      "date": "2026-11-16",
+      "title": "Jira said Done. It wasn't, and the bug showed up later. So I made Jira check first.",
+      "source": "devto"
+    },
+    "59d87a376b7eeb09": {
+      "date": "2026-11-16",
+      "title": "Zombie Sweep: A Daily Serverless Hunt for Unused AWS Resources",
+      "source": "devto"
+    },
+    "3e7adbcf1ede6c4e": {
+      "date": "2026-11-16",
+      "title": "SHENRON's durability numbers didn't survive review. Here's what did.",
+      "source": "devto"
+    },
+    "1f2772da9efee4dd": {
+      "date": "2026-11-16",
+      "title": "How I Built an 8-Skill Research Engineering Plugin, Studio MCP Server & Vector Comic Studio for Goog",
+      "source": "devto"
     }
   }
 }
