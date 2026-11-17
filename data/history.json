@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-16T02:36:16.079819",
+  "last_updated": "2026-11-17T04:59:28.329212",
   "sent_items": {
-    "b2f13e264e62240b": {
-      "date": "2026-10-17",
-      "title": "Palomino",
-      "source": "producthunt"
-    },
-    "14c7bec74a2e2033": {
-      "date": "2026-10-17",
-      "title": "Parallax",
-      "source": "producthunt"
-    },
-    "c5c4a35b16896dfc": {
-      "date": "2026-10-17",
-      "title": "DOYT",
-      "source": "producthunt"
-    },
-    "d70fe09b06e0461a": {
-      "date": "2026-10-17",
-      "title": "Nemotron 3.5 Super VL",
-      "source": "producthunt"
-    },
-    "2efbd17cbb96702c": {
-      "date": "2026-10-17",
-      "title": "Lovable Growth Tools",
-      "source": "producthunt"
-    },
-    "f4d52b3964bdd388": {
-      "date": "2026-10-17",
-      "title": "Memory Chess",
-      "source": "producthunt"
-    },
-    "6df5fdb5e3e71eae": {
-      "date": "2026-10-17",
-      "title": "Firefox Enterprise",
-      "source": "producthunt"
-    },
-    "3476a23f6bcba574": {
-      "date": "2026-10-17",
-      "title": "Fish Audio Drama 3",
-      "source": "producthunt"
-    },
-    "d600f4c050edf12a": {
-      "date": "2026-10-17",
-      "title": "Tesla Roadster",
-      "source": "hackernews"
-    },
-    "9b62eabe5d6e6d7f": {
-      "date": "2026-10-17",
-      "title": "Claude reveals ECDSA curve origins",
-      "source": "hackernews"
-    },
-    "de003deb04bc6428": {
-      "date": "2026-10-17",
-      "title": "Waymo in Toronto",
-      "source": "hackernews"
-    },
-    "1e3b72cbd03ab2cd": {
-      "date": "2026-10-17",
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "source": "hackernews"
-    },
-    "d82f8f1350751de6": {
-      "date": "2026-10-17",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "source": "hackernews"
-    },
-    "48793da86373c7e9": {
-      "date": "2026-10-17",
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "source": "hackernews"
-    },
-    "535f3eb25ab69e84": {
-      "date": "2026-10-17",
-      "title": "You could have invented transformers from memory",
-      "source": "hackernews"
-    },
-    "6014810f280b3f73": {
-      "date": "2026-10-17",
-      "title": "FLUX 3 Image Klein",
-      "source": "hackernews"
-    },
-    "f3b8063716141f9c": {
-      "date": "2026-10-17",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "source": "hackernews"
-    },
-    "9306d6ab54feba7b": {
-      "date": "2026-10-17",
-      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
-      "source": "hackernews"
-    },
-    "696c30ddaf3e76ca": {
-      "date": "2026-10-17",
-      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Re",
-      "source": "devto"
-    },
-    "a75566ab030b7e51": {
-      "date": "2026-10-17",
-      "title": "What Are Your Chances of Surviving Resident Evil Based on Your Tech Job?",
-      "source": "devto"
-    },
-    "d75ba540498d714f": {
-      "date": "2026-10-17",
-      "title": "What was your win this week?!",
-      "source": "devto"
-    },
-    "e0e62b92a362eeed": {
-      "date": "2026-10-17",
-      "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
-      "source": "devto"
-    },
-    "10808fc4b58be88b": {
-      "date": "2026-10-17",
-      "title": "Singularity News :: 0010",
-      "source": "devto"
-    },
-    "6ac4c80449acb35d": {
-      "date": "2026-10-17",
-      "title": "Best Tools for Managing Parallel AI Coding Agents in 2026",
-      "source": "devto"
-    },
-    "40fbd37d0219ec30": {
-      "date": "2026-10-17",
-      "title": "Doorman: my apps' contact form got 23 messages in six weeks, and all 23 were pitches",
-      "source": "devto"
-    },
-    "34b66507b1f14bb5": {
-      "date": "2026-10-17",
-      "title": "🌑 Blue October",
-      "source": "devto"
-    },
-    "df6c7c2ff8fd5da3": {
-      "date": "2026-10-17",
-      "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
-      "source": "devto"
-    },
-    "e315bebad49f0af0": {
-      "date": "2026-10-17",
-      "title": "PostgreSQL 19 beta's parallel autovacuum launches workers but leaves vacuum time unchanged",
-      "source": "devto"
-    },
-    "02391d3d47d128ab": {
-      "date": "2026-10-17",
-      "title": "android / skills",
-      "source": "github"
-    },
-    "ce3a785ea3a972f5": {
-      "date": "2026-10-17",
-      "title": "MadsLorentzen / ai-job-search",
-      "source": "github"
-    },
-    "387929deae942053": {
-      "date": "2026-10-17",
-      "title": "hmjz100 / LinkSwift",
-      "source": "github"
-    },
     "f3132748f6fdc29c": {
       "date": "2026-10-18",
       "title": "DeepSeek-v4.1-Flash-1017",
@@ -4996,6 +4841,176 @@
       "date": "2026-11-16",
       "title": "How I Built an 8-Skill Research Engineering Plugin, Studio MCP Server & Vector Comic Studio for Goog",
       "source": "devto"
+    },
+    "2de8db6929761565": {
+      "date": "2026-11-17",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "source": "hackernews"
+    },
+    "70584b675a4e9930": {
+      "date": "2026-11-17",
+      "title": "BugMeNot has closed",
+      "source": "hackernews"
+    },
+    "afa4638690c8842e": {
+      "date": "2026-11-17",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "source": "hackernews"
+    },
+    "58dec51a0fe37d9e": {
+      "date": "2026-11-17",
+      "title": "Frame – 31.5\" color ePaper display",
+      "source": "hackernews"
+    },
+    "50390f4cd796c196": {
+      "date": "2026-11-17",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "source": "hackernews"
+    },
+    "a1a30f2ebcb48aae": {
+      "date": "2026-11-17",
+      "title": "OpenCode Browse",
+      "source": "hackernews"
+    },
+    "8cfcd078d1aaa63e": {
+      "date": "2026-11-17",
+      "title": "Chemistry is Actually Geometry",
+      "source": "hackernews"
+    },
+    "89684a7ca708b6bc": {
+      "date": "2026-11-17",
+      "title": "Running coding agents without handing them my credentials",
+      "source": "hackernews"
+    },
+    "757898b2b12cb488": {
+      "date": "2026-11-17",
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "source": "hackernews"
+    },
+    "5c382cbcc1cad635": {
+      "date": "2026-11-17",
+      "title": "Mem Is Shutting Down",
+      "source": "hackernews"
+    },
+    "1ce59db1b9253d6d": {
+      "date": "2026-11-17",
+      "title": "Pharen Hub",
+      "source": "producthunt"
+    },
+    "bc0a04f99d674ba3": {
+      "date": "2026-11-17",
+      "title": "Blomma for Organizations",
+      "source": "producthunt"
+    },
+    "1fbada9b87eaa0d8": {
+      "date": "2026-11-17",
+      "title": "Laurence",
+      "source": "producthunt"
+    },
+    "eb5bd0e0159a1fb2": {
+      "date": "2026-11-17",
+      "title": "Glifa",
+      "source": "producthunt"
+    },
+    "9ad79645834f0e74": {
+      "date": "2026-11-17",
+      "title": "Intelligent Eyewear",
+      "source": "producthunt"
+    },
+    "1d40c9f18b9cf26e": {
+      "date": "2026-11-17",
+      "title": "Degla AI",
+      "source": "producthunt"
+    },
+    "b8fc5d798f09d897": {
+      "date": "2026-11-17",
+      "title": "Kafkador",
+      "source": "producthunt"
+    },
+    "f610b0f98f04dfa7": {
+      "date": "2026-11-17",
+      "title": "Pine Drama Studio",
+      "source": "producthunt"
+    },
+    "f638a484930de068": {
+      "date": "2026-11-17",
+      "title": "What does DEV stand for?",
+      "source": "devto"
+    },
+    "4861450825f4da70": {
+      "date": "2026-11-17",
+      "title": "10 Things Every Coder Has Blamed at Least Once (at Least I Have)",
+      "source": "devto"
+    },
+    "3e3f85e51915a06d": {
+      "date": "2026-11-17",
+      "title": "Your 100% Lighthouse A11y Score Is a Lie: The Visual Architecture Guide to the Browser Accessibility",
+      "source": "devto"
+    },
+    "92c69359b962a220": {
+      "date": "2026-11-17",
+      "title": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
+      "source": "devto"
+    },
+    "eba624d12839392c": {
+      "date": "2026-11-17",
+      "title": "What are your goals for the week? #205",
+      "source": "devto"
+    },
+    "8f902d8aca285735": {
+      "date": "2026-11-17",
+      "title": "PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)",
+      "source": "devto"
+    },
+    "506ab20e280d2f9d": {
+      "date": "2026-11-17",
+      "title": "PostgreSQL 19's pg_plan_advice turned a 28ms query into 264ms under load",
+      "source": "devto"
+    },
+    "320fa03c0838a335": {
+      "date": "2026-11-17",
+      "title": "Introducing Sawala Mono: An Ergonomic Coding Font Built for Code Reviews and Terminal Workflows",
+      "source": "devto"
+    },
+    "720bf83d462b840e": {
+      "date": "2026-11-17",
+      "title": "An MCP Tool Call Can Resolve and Still Fail",
+      "source": "devto"
+    },
+    "bc22ad0ba64b77dc": {
+      "date": "2026-11-17",
+      "title": "The Agentic Loop Explained: Step Through the Plan, Build, Judge and Repeat Loop Behind AI Coding Age",
+      "source": "devto"
+    },
+    "8cf8cdd6642699ab": {
+      "date": "2026-11-17",
+      "title": "getarcaneapp / arcane",
+      "source": "github"
+    },
+    "8b235f88e20fd260": {
+      "date": "2026-11-17",
+      "title": "DeanChensj / jiangshan-map",
+      "source": "github"
+    },
+    "cb3eddfe11b539d1": {
+      "date": "2026-11-17",
+      "title": "mvanhorn / last30days-skill",
+      "source": "github"
+    },
+    "486c77414293b921": {
+      "date": "2026-11-17",
+      "title": "google-research / paper-orchestra",
+      "source": "github"
+    },
+    "f43dc28dacfdd0a3": {
+      "date": "2026-11-17",
+      "title": "sveltejs / svelte",
+      "source": "github"
+    },
+    "a4f2eba28135a7fc": {
+      "date": "2026-11-17",
+      "title": "kajisho5 / ffmpeg-skill",
+      "source": "github"
     }
   }
 }
