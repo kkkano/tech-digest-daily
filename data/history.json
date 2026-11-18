@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-17T04:59:28.329212",
+  "last_updated": "2026-11-18T04:04:33.762654",
   "sent_items": {
-    "f3132748f6fdc29c": {
-      "date": "2026-10-18",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "source": "hackernews"
-    },
-    "24202781dde27009": {
-      "date": "2026-10-18",
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "source": "hackernews"
-    },
-    "7f3fa759af886e5e": {
-      "date": "2026-10-18",
-      "title": "Making chicken transparent using Dorito dust",
-      "source": "hackernews"
-    },
-    "c1c0ae3ded6aad69": {
-      "date": "2026-10-18",
-      "title": "Furifont, a Japanese font that shows furigana",
-      "source": "hackernews"
-    },
-    "ae805af35ad1d581": {
-      "date": "2026-10-18",
-      "title": "Gold is now the top U.S. export",
-      "source": "hackernews"
-    },
-    "86dae906ff97339f": {
-      "date": "2026-10-18",
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "source": "hackernews"
-    },
-    "9ce7854b5dd8daaa": {
-      "date": "2026-10-18",
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "source": "hackernews"
-    },
-    "063aa2475a5f44d3": {
-      "date": "2026-10-18",
-      "title": "Source code of the Estonian online voting system",
-      "source": "hackernews"
-    },
-    "220dc6d0c958a245": {
-      "date": "2026-10-18",
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "source": "hackernews"
-    },
-    "a777916ca6867492": {
-      "date": "2026-10-18",
-      "title": "Types of types: Haskell's Kind system",
-      "source": "hackernews"
-    },
-    "ce8620f2b3648316": {
-      "date": "2026-10-18",
-      "title": "Notion: Context for your agents",
-      "source": "producthunt"
-    },
-    "db09b1a76c5cbab5": {
-      "date": "2026-10-18",
-      "title": "Caldera",
-      "source": "producthunt"
-    },
-    "762084f829ad5fba": {
-      "date": "2026-10-18",
-      "title": "Ultracite v8",
-      "source": "producthunt"
-    },
-    "33393f514b1d78c1": {
-      "date": "2026-10-18",
-      "title": "Craft Agents",
-      "source": "producthunt"
-    },
-    "32a0a721c3d99d3c": {
-      "date": "2026-10-18",
-      "title": "Emochi",
-      "source": "producthunt"
-    },
-    "1a5debe0c84210c8": {
-      "date": "2026-10-18",
-      "title": "Train with Pasta",
-      "source": "producthunt"
-    },
-    "b81eb6cf9eaff323": {
-      "date": "2026-10-18",
-      "title": "LooGo",
-      "source": "producthunt"
-    },
-    "d492e3bc0790872b": {
-      "date": "2026-10-18",
-      "title": "Spiralens",
-      "source": "producthunt"
-    },
-    "3acda76cab6f6996": {
-      "date": "2026-10-18",
-      "title": "10 Prompting Techniques My Deep Learning Exam Taught Me (That I Actually Use Now)",
-      "source": "devto"
-    },
-    "7a61366a0c1553b5": {
-      "date": "2026-10-18",
-      "title": "Déjà vu, but billable",
-      "source": "devto"
-    },
-    "715a11412f7f8cca": {
-      "date": "2026-10-18",
-      "title": "AI Made Your Easy Work Free. That Made You More Valuable.",
-      "source": "devto"
-    },
-    "ef50c08d403838b4": {
-      "date": "2026-10-18",
-      "title": "Docker Compose 5.6's jobs type only starts through docker compose run",
-      "source": "devto"
-    },
-    "c6da63d212c2f73d": {
-      "date": "2026-10-18",
-      "title": "AI Took Me to Three Stages. I Still Don't Like Public Speaking.",
-      "source": "devto"
-    },
-    "9b2ad5c62ac3b6a0": {
-      "date": "2026-10-18",
-      "title": "The Agentic Manifesto: What Should the Agile Manifesto Look Like in the Age of AI?",
-      "source": "devto"
-    },
-    "c707a0c9ab58e844": {
-      "date": "2026-10-18",
-      "title": "EmbodiWeave: my agent read its own failure and repeated it, so I made the graph enforce it (FalkorDB",
-      "source": "devto"
-    },
-    "381b9b2afbfbfb10": {
-      "date": "2026-10-18",
-      "title": "How I built a SaaS in a weekend with Claude + Next.js — the honest breakdown",
-      "source": "devto"
-    },
-    "0e06618835b368f8": {
-      "date": "2026-10-18",
-      "title": "DecisionDebt: a company brain where every edge has a receipt (built on FalkorDB)",
-      "source": "devto"
-    },
-    "9fdb078f921c9307": {
-      "date": "2026-10-18",
-      "title": "Python performance: native loops, NumPy and the vectorize trap",
-      "source": "devto"
-    },
-    "d7dc32f00be2e8f5": {
-      "date": "2026-10-18",
-      "title": "stablyai / orca",
-      "source": "github"
-    },
-    "1e61851c7eb0065b": {
-      "date": "2026-10-18",
-      "title": "anthropics / claude-code",
-      "source": "github"
-    },
-    "9bde5582e8ba9a19": {
-      "date": "2026-10-18",
-      "title": "anomalyco / opencode",
-      "source": "github"
-    },
     "1d3ebabc210fdaa2": {
       "date": "2026-10-19",
       "title": "RepRapMicron",
@@ -5010,6 +4855,166 @@
     "a4f2eba28135a7fc": {
       "date": "2026-11-17",
       "title": "kajisho5 / ffmpeg-skill",
+      "source": "github"
+    },
+    "729ce0c9645be4b3": {
+      "date": "2026-11-18",
+      "title": "BASE Studio",
+      "source": "producthunt"
+    },
+    "4c8c88e1e285dc25": {
+      "date": "2026-11-18",
+      "title": "RankSpot",
+      "source": "producthunt"
+    },
+    "fbdc8389b6aa3fe5": {
+      "date": "2026-11-18",
+      "title": "superlog",
+      "source": "producthunt"
+    },
+    "ce744b8d9996fea5": {
+      "date": "2026-11-18",
+      "title": "Retriever",
+      "source": "producthunt"
+    },
+    "1b3bff35fb1158b4": {
+      "date": "2026-11-18",
+      "title": "WispOS",
+      "source": "producthunt"
+    },
+    "b9edda0a8b45a430": {
+      "date": "2026-11-18",
+      "title": "GatherHQ Agent Research",
+      "source": "producthunt"
+    },
+    "f36d7311459983d1": {
+      "date": "2026-11-18",
+      "title": "Ballet",
+      "source": "producthunt"
+    },
+    "5e7003c5e5848be6": {
+      "date": "2026-11-18",
+      "title": "Liquid d1.2",
+      "source": "producthunt"
+    },
+    "be7d752441c92b3f": {
+      "date": "2026-11-18",
+      "title": "GPT‑6.2 Astra and Sol",
+      "source": "hackernews"
+    },
+    "aa01c0990a6af558": {
+      "date": "2026-11-18",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "source": "hackernews"
+    },
+    "93caa7bed2ca9afc": {
+      "date": "2026-11-18",
+      "title": "Highly classified US national security communications network goes down",
+      "source": "hackernews"
+    },
+    "e92349862a31b50e": {
+      "date": "2026-11-18",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "source": "hackernews"
+    },
+    "c8f9cd8e0d1b9ed0": {
+      "date": "2026-11-18",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "source": "hackernews"
+    },
+    "a13d8edb602c7abd": {
+      "date": "2026-11-18",
+      "title": "jQuery 4.1.0",
+      "source": "hackernews"
+    },
+    "1a716f9fd71e6901": {
+      "date": "2026-11-18",
+      "title": "ID.me terms required for IRS sign-in",
+      "source": "hackernews"
+    },
+    "90f64c9a0e96180e": {
+      "date": "2026-11-18",
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "source": "hackernews"
+    },
+    "a2fa147ff3730e58": {
+      "date": "2026-11-18",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "source": "hackernews"
+    },
+    "c1df371f068dd846": {
+      "date": "2026-11-18",
+      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+      "source": "hackernews"
+    },
+    "b07a413132798f4c": {
+      "date": "2026-11-18",
+      "title": "DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar 🚀",
+      "source": "devto"
+    },
+    "fe567f53f66f6f16": {
+      "date": "2026-11-18",
+      "title": "Could I Still Do This From Scratch?",
+      "source": "devto"
+    },
+    "987817ca490bd8da": {
+      "date": "2026-11-18",
+      "title": "Five Palaces, One Model: Testing Google’s Gemini 4 Hydrogen in AI Studio",
+      "source": "devto"
+    },
+    "a0c06193d4771884": {
+      "date": "2026-11-18",
+      "title": "AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.",
+      "source": "devto"
+    },
+    "5c3421bad95b445b": {
+      "date": "2026-11-18",
+      "title": "The Arrogance of Having Outgrown Arrogance",
+      "source": "devto"
+    },
+    "cccafde4808c7a07": {
+      "date": "2026-11-18",
+      "title": "Day 85: A Task That Always Changes and Two Halves",
+      "source": "devto"
+    },
+    "259da6f1acd8464c": {
+      "date": "2026-11-18",
+      "title": "Thinking On or Off? Gemma 4 E2B on an 8 GB RTX 3050",
+      "source": "devto"
+    },
+    "56accd4deaa9a6cd": {
+      "date": "2026-11-18",
+      "title": "The Hidden Cost of PostgreSQL JSONB Columns Under High Write Load",
+      "source": "devto"
+    },
+    "7f4ad1c42ef7f215": {
+      "date": "2026-11-18",
+      "title": "A reader found a hole in our AI inbox. Postgres closes it now",
+      "source": "devto"
+    },
+    "91f5656b2814c10d": {
+      "date": "2026-11-18",
+      "title": "Beyond the Words: Exploring the Experience of Stuttering with AI and SmartSpectra",
+      "source": "devto"
+    },
+    "21302fb12d0b2e2d": {
+      "date": "2026-11-18",
+      "title": "cursor / plugins",
+      "source": "github"
+    },
+    "c3257d531a3c4d89": {
+      "date": "2026-11-18",
+      "title": "obra / superpowers",
+      "source": "github"
+    },
+    "a90d342e2181a927": {
+      "date": "2026-11-18",
+      "title": "affaan-m / ECC",
+      "source": "github"
+    },
+    "73c10ecbf681fc5a": {
+      "date": "2026-11-18",
+      "title": "jingyaogong / minimind",
       "source": "github"
     }
   }
