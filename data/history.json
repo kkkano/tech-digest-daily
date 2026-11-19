@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-18T04:04:33.762654",
+  "last_updated": "2026-11-19T04:02:55.586917",
   "sent_items": {
-    "1d3ebabc210fdaa2": {
-      "date": "2026-10-19",
-      "title": "RepRapMicron",
-      "source": "hackernews"
-    },
-    "f81328e6b7ec63ca": {
-      "date": "2026-10-19",
-      "title": "Someone behind the software",
-      "source": "hackernews"
-    },
-    "3e9ec10a9d27e0ee": {
-      "date": "2026-10-19",
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "source": "hackernews"
-    },
-    "4aa6c39860b2d3c7": {
-      "date": "2026-10-19",
-      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-      "source": "hackernews"
-    },
-    "d443aa06ff664371": {
-      "date": "2026-10-19",
-      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-      "source": "hackernews"
-    },
-    "5d83bd341c670142": {
-      "date": "2026-10-19",
-      "title": "Free Pascal compiler now supports dynamic packages",
-      "source": "hackernews"
-    },
-    "ad7ffcacc2d8663f": {
-      "date": "2026-10-19",
-      "title": "PalmOS Lemmings",
-      "source": "hackernews"
-    },
-    "2a00123ae8ddb9ba": {
-      "date": "2026-10-19",
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "source": "hackernews"
-    },
-    "632ec40be268eba6": {
-      "date": "2026-10-19",
-      "title": "\"Traditional, but Puzzling\"",
-      "source": "hackernews"
-    },
-    "0c2e84c7fd5774ed": {
-      "date": "2026-10-19",
-      "title": "William Gibson and the Trademarking of Cyberspace",
-      "source": "hackernews"
-    },
-    "0d5d854fcaa7f9a8": {
-      "date": "2026-10-19",
-      "title": "Krea 3",
-      "source": "producthunt"
-    },
-    "16a7922c24e9b319": {
-      "date": "2026-10-19",
-      "title": "Bee Frontier and Bee Eclipse",
-      "source": "producthunt"
-    },
-    "123b631966828d67": {
-      "date": "2026-10-19",
-      "title": "Vampire Crawlers™",
-      "source": "producthunt"
-    },
-    "f0f27101f20de66b": {
-      "date": "2026-10-19",
-      "title": "SpeechFast",
-      "source": "producthunt"
-    },
-    "175011844bb7fa50": {
-      "date": "2026-10-19",
-      "title": "MyLens",
-      "source": "producthunt"
-    },
-    "3121b0c952f1fcbb": {
-      "date": "2026-10-19",
-      "title": "3AM Super Intelligence",
-      "source": "producthunt"
-    },
-    "13bb00bbd0acce7e": {
-      "date": "2026-10-19",
-      "title": "Tomo for ChatGPT",
-      "source": "producthunt"
-    },
-    "60ea8c2d10b0fd78": {
-      "date": "2026-10-19",
-      "title": "Openbroca",
-      "source": "producthunt"
-    },
-    "be6a0cf36fdb1560": {
-      "date": "2026-10-19",
-      "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
-      "source": "devto"
-    },
-    "088fce3ebd36c512": {
-      "date": "2026-10-19",
-      "title": "🐾 DEV Pet Corner #2: Show Us Your Pets!",
-      "source": "devto"
-    },
-    "3253c8d670fe9f42": {
-      "date": "2026-10-19",
-      "title": "Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget",
-      "source": "devto"
-    },
-    "6db345804ed81761": {
-      "date": "2026-10-19",
-      "title": "The Garden I Wait for Every Winter",
-      "source": "devto"
-    },
-    "35732e3bdc0ccd99": {
-      "date": "2026-10-19",
-      "title": "I Built a New Tab Extension for DEV",
-      "source": "devto"
-    },
-    "06de063e34636fde": {
-      "date": "2026-10-19",
-      "title": "My Agent Turned \"I Haven't Decided\" Into \"Not Yet.\" Now the Model Isn't Allowed to Write Its Own Mem",
-      "source": "devto"
-    },
-    "86fbc5cb01824029": {
-      "date": "2026-10-19",
-      "title": "SQLite 3.54's diskused command needs a build flag sqlite3_analyzer never required",
-      "source": "devto"
-    },
-    "b0c05a6425319598": {
-      "date": "2026-10-19",
-      "title": "LeetCode Made Coding Fun Again",
-      "source": "devto"
-    },
-    "ce7693336aa8edc4": {
-      "date": "2026-10-19",
-      "title": "How I finally understood what idempotency is",
-      "source": "devto"
-    },
-    "223208710a171b3e": {
-      "date": "2026-10-19",
-      "title": "Munshi: a WhatsApp front desk for small hotels. A 4B model reads, Python decides, Temporal holds the",
-      "source": "devto"
-    },
-    "dc69b86c13a87148": {
-      "date": "2026-10-19",
-      "title": "mlabonne / llm-course",
-      "source": "github"
-    },
-    "11d8c470fc9306fe": {
-      "date": "2026-10-19",
-      "title": "Kruk2 / jasna",
-      "source": "github"
-    },
-    "cfd080a015af43f1": {
-      "date": "2026-10-19",
-      "title": "Comfy-Org / ComfyUI",
-      "source": "github"
-    },
     "19a3c0683bcc03fe": {
       "date": "2026-10-20",
       "title": "Wine ported to OpenBSD",
@@ -5015,6 +4860,171 @@
     "73c10ecbf681fc5a": {
       "date": "2026-11-18",
       "title": "jingyaogong / minimind",
+      "source": "github"
+    },
+    "4d78af90339242a1": {
+      "date": "2026-11-19",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "source": "hackernews"
+    },
+    "c96d4505f31331f9": {
+      "date": "2026-11-19",
+      "title": "DNS resolvers are the wrong place to fight piracy",
+      "source": "hackernews"
+    },
+    "18be8c8c7cf54308": {
+      "date": "2026-11-19",
+      "title": "Inside Deutsche Bank",
+      "source": "hackernews"
+    },
+    "ec4b370b3eb23870": {
+      "date": "2026-11-19",
+      "title": "Gemini 4 Neon",
+      "source": "hackernews"
+    },
+    "59f76ddea9f3bdb4": {
+      "date": "2026-11-19",
+      "title": "Seven new models at scalable price-performance",
+      "source": "hackernews"
+    },
+    "8e52d0e780400d01": {
+      "date": "2026-11-19",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "source": "hackernews"
+    },
+    "6208e159c930d43e": {
+      "date": "2026-11-19",
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "source": "hackernews"
+    },
+    "794d68382658e6e5": {
+      "date": "2026-11-19",
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "source": "hackernews"
+    },
+    "6c855ff656c8ddf4": {
+      "date": "2026-11-19",
+      "title": "LLM assisted reverse engineering",
+      "source": "hackernews"
+    },
+    "307e092b630e1c77": {
+      "date": "2026-11-19",
+      "title": "Unreal Tournament 2004 in the Browser",
+      "source": "hackernews"
+    },
+    "b5c11a57794f601e": {
+      "date": "2026-11-19",
+      "title": "Ody Ai Business Phone",
+      "source": "producthunt"
+    },
+    "d22b1d0c6d6200a7": {
+      "date": "2026-11-19",
+      "title": "AI Canvas",
+      "source": "producthunt"
+    },
+    "15d06dba9c71a50f": {
+      "date": "2026-11-19",
+      "title": "Microsoft IQ",
+      "source": "producthunt"
+    },
+    "3927e39625b62c9e": {
+      "date": "2026-11-19",
+      "title": "dusk bot",
+      "source": "producthunt"
+    },
+    "4c06b85dcfedbed7": {
+      "date": "2026-11-19",
+      "title": "Beacon",
+      "source": "producthunt"
+    },
+    "f41f195afe235f6b": {
+      "date": "2026-11-19",
+      "title": "Orken",
+      "source": "producthunt"
+    },
+    "d3a89b48572ebe58": {
+      "date": "2026-11-19",
+      "title": "Diagramly 2.0",
+      "source": "producthunt"
+    },
+    "e59916ed710bb12f": {
+      "date": "2026-11-19",
+      "title": "The CodeNewbie Podcast is Back for Season 28!",
+      "source": "devto"
+    },
+    "12df9ddcf1f046c3": {
+      "date": "2026-11-19",
+      "title": "Is Coding with AI Actually Faster and Cheaper?",
+      "source": "devto"
+    },
+    "a6fab2943f7b4758": {
+      "date": "2026-11-19",
+      "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar 💙 + AMA",
+      "source": "devto"
+    },
+    "ed6e9fcbf753eba7": {
+      "date": "2026-11-19",
+      "title": "One Year on DEV: The People Made the Platform",
+      "source": "devto"
+    },
+    "fe45d5bac34bc50b": {
+      "date": "2026-11-19",
+      "title": "Why I Rewrote type-tune from TypeScript to Rust 🦀",
+      "source": "devto"
+    },
+    "185d317eb42ac1cc": {
+      "date": "2026-11-19",
+      "title": "I built a VS Code start page for my Git repositories",
+      "source": "devto"
+    },
+    "8255d5e22232cdce": {
+      "date": "2026-11-19",
+      "title": "Kubernetes Under the Hood: What Actually Happens When You Run kubectl apply",
+      "source": "devto"
+    },
+    "8a34e97c1e230e3a": {
+      "date": "2026-11-19",
+      "title": "My Linux Course Put Me to Sleep, So I Built Something That Wouldn’t",
+      "source": "devto"
+    },
+    "e22b88f21e58fed6": {
+      "date": "2026-11-19",
+      "title": "Part 6: The Walkthrough That Only Worked on My Machine",
+      "source": "devto"
+    },
+    "d28381ecc785ff87": {
+      "date": "2026-11-19",
+      "title": "The Colab MCP Endpoint From Claude Code: Set It Up, Test It, Run a Notebook on a TPU",
+      "source": "devto"
+    },
+    "12e9527951797ad0": {
+      "date": "2026-11-19",
+      "title": "HKUDS / CLI-Anything",
+      "source": "github"
+    },
+    "e2e3cda3fa2e6709": {
+      "date": "2026-11-19",
+      "title": "nvm-sh / nvm",
+      "source": "github"
+    },
+    "11604bd2a851951e": {
+      "date": "2026-11-19",
+      "title": "astral-sh / uv",
+      "source": "github"
+    },
+    "1ee198102b89b069": {
+      "date": "2026-11-19",
+      "title": "jquery / jquery",
+      "source": "github"
+    },
+    "84f5bd39e1dea73e": {
+      "date": "2026-11-19",
+      "title": "appwrite / appwrite",
+      "source": "github"
+    },
+    "713e9e5ca9380149": {
+      "date": "2026-11-19",
+      "title": "openvinotoolkit / openvino",
       "source": "github"
     }
   }
