@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-19T04:02:55.586917",
+  "last_updated": "2026-11-20T03:56:30.781307",
   "sent_items": {
-    "19a3c0683bcc03fe": {
-      "date": "2026-10-20",
-      "title": "Wine ported to OpenBSD",
-      "source": "hackernews"
-    },
-    "1af6c2e715d91186": {
-      "date": "2026-10-20",
-      "title": "It's still ok to enjoy programming",
-      "source": "hackernews"
-    },
-    "d8658eaddd74a3e8": {
-      "date": "2026-10-20",
-      "title": "MiniMax M3.1 Flash",
-      "source": "hackernews"
-    },
-    "db5f663b7be3c942": {
-      "date": "2026-10-20",
-      "title": "I built a drone with only one motor [video]",
-      "source": "hackernews"
-    },
-    "a65ef343d83cb156": {
-      "date": "2026-10-20",
-      "title": "Android apps running native on macOS",
-      "source": "hackernews"
-    },
-    "292eae1133616bb3": {
-      "date": "2026-10-20",
-      "title": "RuneScape Bench: MMOs for Agents [video]",
-      "source": "hackernews"
-    },
-    "9459652c95376f6e": {
-      "date": "2026-10-20",
-      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-      "source": "hackernews"
-    },
-    "6d511e322ef51973": {
-      "date": "2026-10-20",
-      "title": "One Hash Bloom Filters",
-      "source": "hackernews"
-    },
-    "1add435d686b07d4": {
-      "date": "2026-10-20",
-      "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
-      "source": "hackernews"
-    },
-    "e51eca98a9e9a706": {
-      "date": "2026-10-20",
-      "title": "Weball: Play Katamari on Websites",
-      "source": "hackernews"
-    },
-    "456eacc2060c10f2": {
-      "date": "2026-10-20",
-      "title": "Lookout (for Slack)",
-      "source": "producthunt"
-    },
-    "1bd9cd0e13ad6c32": {
-      "date": "2026-10-20",
-      "title": "Wally by Willow",
-      "source": "producthunt"
-    },
-    "7b34008d53ca1989": {
-      "date": "2026-10-20",
-      "title": "Beam.win",
-      "source": "producthunt"
-    },
-    "63c4f0dcfdcfeec1": {
-      "date": "2026-10-20",
-      "title": "AutoChart.eu",
-      "source": "producthunt"
-    },
-    "6074338d2306f3c7": {
-      "date": "2026-10-20",
-      "title": "DoOne",
-      "source": "producthunt"
-    },
-    "a732a627bea597c0": {
-      "date": "2026-10-20",
-      "title": "Starkomand",
-      "source": "producthunt"
-    },
-    "568b48516bba0337": {
-      "date": "2026-10-20",
-      "title": "croft",
-      "source": "producthunt"
-    },
-    "2c35a918b02ef306": {
-      "date": "2026-10-20",
-      "title": "Bank alerts to a day-book, with a local Gemma",
-      "source": "devto"
-    },
-    "a784499c9d359521": {
-      "date": "2026-10-20",
-      "title": "\"Rails Magic\" Isn't Magic. How a Request Actually Travels Through Rails.",
-      "source": "devto"
-    },
-    "f8951ffab99f3f67": {
-      "date": "2026-10-20",
-      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
-      "source": "devto"
-    },
-    "f7811833e611c461": {
-      "date": "2026-10-20",
-      "title": "The Terminal Made Me a Better Developer (And Not for the Reasons I Expected)",
-      "source": "devto"
-    },
-    "3473e814f31c95cd": {
-      "date": "2026-10-20",
-      "title": "Writing C for the Web in 2026 Isn't Insane. It Might Be the Future",
-      "source": "devto"
-    },
-    "04d5d19a98dd9edc": {
-      "date": "2026-10-20",
-      "title": "The Verification Trap: Why Generative AI Is Making Senior Engineers Slower (and How to Fix It)",
-      "source": "devto"
-    },
-    "54fe5063732751c7": {
-      "date": "2026-10-20",
-      "title": "I built an AWS agent that scores any GitHub repo before you clone it",
-      "source": "devto"
-    },
-    "2a3adb7a85eeae71": {
-      "date": "2026-10-20",
-      "title": "Persistent Agent Teams: Recreating the Grok Bot Experience with Herdr, Claude Code and Pi",
-      "source": "devto"
-    },
-    "589f58b5a1ebad99": {
-      "date": "2026-10-20",
-      "title": "The Browser Already Has a Priority System. Your debounce(300) Does Not.",
-      "source": "devto"
-    },
-    "15306d9627d26e75": {
-      "date": "2026-10-20",
-      "title": "Your agent's retry bug isn't an AI problem. It's a distributed-systems problem with an LLM on top.",
-      "source": "devto"
-    },
-    "fa9f0509ee9eaa8b": {
-      "date": "2026-10-20",
-      "title": "headroomlabs-ai / headroom",
-      "source": "github"
-    },
-    "fb26d76e5a0fe664": {
-      "date": "2026-10-20",
-      "title": "withmarbleapp / os-taxonomy",
-      "source": "github"
-    },
-    "c175a33fc9954c9b": {
-      "date": "2026-10-20",
-      "title": "shiyu-coder / Kronos",
-      "source": "github"
-    },
     "e793423216723e8d": {
       "date": "2026-10-21",
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
@@ -5025,6 +4875,181 @@
     "713e9e5ca9380149": {
       "date": "2026-11-19",
       "title": "openvinotoolkit / openvino",
+      "source": "github"
+    },
+    "374b50168ff5f402": {
+      "date": "2026-11-20",
+      "title": "Verse Engine by Ctruh",
+      "source": "producthunt"
+    },
+    "a99f43e88722bf43": {
+      "date": "2026-11-20",
+      "title": "The Calm Creator Mastermind",
+      "source": "producthunt"
+    },
+    "ac1d64fad45c2e05": {
+      "date": "2026-11-20",
+      "title": "Tabstack by Mozilla",
+      "source": "producthunt"
+    },
+    "5481a2fdc18c2482": {
+      "date": "2026-11-20",
+      "title": "Spellar for Chrome",
+      "source": "producthunt"
+    },
+    "a9dde54627c3db20": {
+      "date": "2026-11-20",
+      "title": "Play That Back",
+      "source": "producthunt"
+    },
+    "7cb4ba1124775d0f": {
+      "date": "2026-11-20",
+      "title": "Tecla",
+      "source": "producthunt"
+    },
+    "b8606528654d2e91": {
+      "date": "2026-11-20",
+      "title": "Source",
+      "source": "producthunt"
+    },
+    "e2674157332c28a0": {
+      "date": "2026-11-20",
+      "title": "Fieldwork Code",
+      "source": "producthunt"
+    },
+    "24e3e4aa5a875ba1": {
+      "date": "2026-11-20",
+      "title": "Anthropic’s Nasdaq debut",
+      "source": "hackernews"
+    },
+    "8f2b991230dcf115": {
+      "date": "2026-11-20",
+      "title": "Garage Door Spam",
+      "source": "hackernews"
+    },
+    "524093c34a9e096b": {
+      "date": "2026-11-20",
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "source": "hackernews"
+    },
+    "152a51b24f6c7410": {
+      "date": "2026-11-20",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "source": "hackernews"
+    },
+    "70029e04d8891f01": {
+      "date": "2026-11-20",
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "source": "hackernews"
+    },
+    "1f36af518cf4217c": {
+      "date": "2026-11-20",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "source": "hackernews"
+    },
+    "954f2ca4d6deaa68": {
+      "date": "2026-11-20",
+      "title": "How to CAD Almost Anything",
+      "source": "hackernews"
+    },
+    "083c1eec1622d08c": {
+      "date": "2026-11-20",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "source": "hackernews"
+    },
+    "7cc9e87987cf510e": {
+      "date": "2026-11-20",
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "source": "hackernews"
+    },
+    "f4335a3ee3f148c7": {
+      "date": "2026-11-20",
+      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "source": "hackernews"
+    },
+    "8e67c9bb2ab1aa7d": {
+      "date": "2026-11-20",
+      "title": "Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.",
+      "source": "devto"
+    },
+    "14ae7f68c504073b": {
+      "date": "2026-11-20",
+      "title": "My First GitHub Issue & My First Forem (DEV.to) Issue 🚀",
+      "source": "devto"
+    },
+    "670ec7b809ca039a": {
+      "date": "2026-11-20",
+      "title": "What team-wide AI adoption actually takes",
+      "source": "devto"
+    },
+    "002c28aac8013066": {
+      "date": "2026-11-20",
+      "title": "Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in G",
+      "source": "devto"
+    },
+    "29d573115f479a39": {
+      "date": "2026-11-20",
+      "title": "Maintaining open source projects up to date with Renovate and Antigravity",
+      "source": "devto"
+    },
+    "9d0c5626f7a6d402": {
+      "date": "2026-11-20",
+      "title": "Stop Paying LLM Prices for an if Statement: A Field Guide to Decision Models in Late 2026",
+      "source": "devto"
+    },
+    "6f27ebb19aa8052a": {
+      "date": "2026-11-20",
+      "title": "Can a plain table hijack an AI agent?",
+      "source": "devto"
+    },
+    "c5b07f6e3bd64d27": {
+      "date": "2026-11-20",
+      "title": "Day 87: A Redirected Module and a Renamed Publisher",
+      "source": "devto"
+    },
+    "83ea1adff6677833": {
+      "date": "2026-11-20",
+      "title": "Stop Wrapping Everything in Promise.all: How Unbounded Concurrency Crashes APIs",
+      "source": "devto"
+    },
+    "0395980146e723f3": {
+      "date": "2026-11-20",
+      "title": "Thinking On or Off? Gemma 4 E4B on an 8 GB RTX 3050",
+      "source": "devto"
+    },
+    "49a1c7e387a4e695": {
+      "date": "2026-11-20",
+      "title": "firecrawl / firecrawl",
+      "source": "github"
+    },
+    "604139543fc779f6": {
+      "date": "2026-11-20",
+      "title": "nginx / nginx",
+      "source": "github"
+    },
+    "f0faec98f86e4fde": {
+      "date": "2026-11-20",
+      "title": "cathrynlavery / diagram-design",
+      "source": "github"
+    },
+    "18fa349bfeb048c0": {
+      "date": "2026-11-20",
+      "title": "mjmirza / app-store-compliance",
+      "source": "github"
+    },
+    "aae07142a68b2769": {
+      "date": "2026-11-20",
+      "title": "Tracer-Cloud / opensre",
+      "source": "github"
+    },
+    "4815469146dd988a": {
+      "date": "2026-11-20",
+      "title": "toeverything / AFFiNE",
+      "source": "github"
+    },
+    "444504f4778cdf59": {
+      "date": "2026-11-20",
+      "title": "XiaoYouChR / Ghost-Downloader-3",
       "source": "github"
     }
   }
