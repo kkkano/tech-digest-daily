@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-21T03:39:51.340336",
+  "last_updated": "2026-11-22T02:51:08.253434",
   "sent_items": {
-    "7e66077374df146d": {
-      "date": "2026-10-22",
-      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-      "source": "hackernews"
-    },
-    "7396eac8b2114626": {
-      "date": "2026-10-22",
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "source": "hackernews"
-    },
-    "8d3fb1f14a72fe6a": {
-      "date": "2026-10-22",
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "source": "hackernews"
-    },
-    "8608007811704841": {
-      "date": "2026-10-22",
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "source": "hackernews"
-    },
-    "94310e7629d639b6": {
-      "date": "2026-10-22",
-      "title": "Railway Security Disclosure",
-      "source": "hackernews"
-    },
-    "88440de268c35adc": {
-      "date": "2026-10-22",
-      "title": "GitLab Critical Patch Release",
-      "source": "hackernews"
-    },
-    "e5e6476c84c300c6": {
-      "date": "2026-10-22",
-      "title": "Google's Rust Style Guide",
-      "source": "hackernews"
-    },
-    "39245d78494089d3": {
-      "date": "2026-10-22",
-      "title": "No More Icons in Every Menu by Default",
-      "source": "hackernews"
-    },
-    "8cde49b34ecc9838": {
-      "date": "2026-10-22",
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "source": "hackernews"
-    },
-    "ce3398907488b278": {
-      "date": "2026-10-22",
-      "title": "mitmproxy adds --emudhra option",
-      "source": "hackernews"
-    },
-    "5de04e0be23132bc": {
-      "date": "2026-10-22",
-      "title": "Hotly",
-      "source": "producthunt"
-    },
-    "32013cd84cc40ab5": {
-      "date": "2026-10-22",
-      "title": "Woven Video",
-      "source": "producthunt"
-    },
-    "e880bab494cd6092": {
-      "date": "2026-10-22",
-      "title": "Scout by Fini",
-      "source": "producthunt"
-    },
-    "6f35c09dc84cc8a8": {
-      "date": "2026-10-22",
-      "title": "Koi",
-      "source": "producthunt"
-    },
-    "a9fedf2f86132596": {
-      "date": "2026-10-22",
-      "title": "Lea by LeanAIOS",
-      "source": "producthunt"
-    },
-    "b5537930fd14a64f": {
-      "date": "2026-10-22",
-      "title": "SuperCMO AI",
-      "source": "producthunt"
-    },
-    "c2faeb8266eb868f": {
-      "date": "2026-10-22",
-      "title": "Intelli for ChatGPT & Claude",
-      "source": "producthunt"
-    },
-    "6f329d699b930bc2": {
-      "date": "2026-10-22",
-      "title": "ilha",
-      "source": "producthunt"
-    },
-    "b2e932d6671b53da": {
-      "date": "2026-10-22",
-      "title": "How to Become a Tech Conference Speaker (And Why You Might Regret It)",
-      "source": "devto"
-    },
-    "1a9b7e13368af229": {
-      "date": "2026-10-22",
-      "title": "I Got Tired of Coming into my Lab to Check the Pressure of my Cryocooler so I Built a Tool to do it ",
-      "source": "devto"
-    },
-    "3bae886fd6f3f2e0": {
-      "date": "2026-10-22",
-      "title": "Stuck in the same dev.to topics? An open model fixed it.",
-      "source": "devto"
-    },
-    "37270761910df71f": {
-      "date": "2026-10-22",
-      "title": "is-kit Reached 100 Stars ⭐🎉 Here’s What Changed Since 50",
-      "source": "devto"
-    },
-    "e29038cea67861a5": {
-      "date": "2026-10-22",
-      "title": "In Ruby, Objects Don't Have Methods. How Method Lookup Actually Works.",
-      "source": "devto"
-    },
-    "178d902b28ddf189": {
-      "date": "2026-10-22",
-      "title": "How to publish posts via the dev.to API",
-      "source": "devto"
-    },
-    "508cd4ac2f22b1fa": {
-      "date": "2026-10-22",
-      "title": "I'm a First-Year ECE Student Trying to Figure Out \"The Prestige Path\" vs. Just Building Stuff",
-      "source": "devto"
-    },
-    "5410ac7b8b8c72c4": {
-      "date": "2026-10-22",
-      "title": "I Built slothd: A Local-First, Offline-Capable AI Daemon That Patiently Organizes Your Messy Workspa",
-      "source": "devto"
-    },
-    "6fcc8c89183b952b": {
-      "date": "2026-10-22",
-      "title": "SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a ",
-      "source": "devto"
-    },
-    "75116c8d90462133": {
-      "date": "2026-10-22",
-      "title": "I Fixed WebGPU on Linux. Then Forgot How I Did It.",
-      "source": "devto"
-    },
-    "846afa38c565e32e": {
-      "date": "2026-10-22",
-      "title": "supabase / supabase",
-      "source": "github"
-    },
-    "4e4265489a81fda2": {
-      "date": "2026-10-22",
-      "title": "twentyhq / twenty",
-      "source": "github"
-    },
-    "e29fc86ccac2cb56": {
-      "date": "2026-10-22",
-      "title": "strelov1 / freehire",
-      "source": "github"
-    },
     "89f493fae281e1ca": {
       "date": "2026-10-23",
       "title": "Quad9 (DNS Resolver) to Exit France",
@@ -5020,6 +4865,146 @@
     "0671ec0c303915df": {
       "date": "2026-11-21",
       "title": "Day 88: A Marker in the File and a Disputed Status Code",
+      "source": "devto"
+    },
+    "2df9c52b7c22e96a": {
+      "date": "2026-11-22",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "source": "hackernews"
+    },
+    "22947b19473be0ba": {
+      "date": "2026-11-22",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "source": "hackernews"
+    },
+    "13b40b11332332ff": {
+      "date": "2026-11-22",
+      "title": "Detonating a pile of lead azide",
+      "source": "hackernews"
+    },
+    "e096d5532956818d": {
+      "date": "2026-11-22",
+      "title": "My monitor was cutting my download speed by 75%",
+      "source": "hackernews"
+    },
+    "d4e6dd6b21d36d03": {
+      "date": "2026-11-22",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "source": "hackernews"
+    },
+    "096fc0d5fb4f86c0": {
+      "date": "2026-11-22",
+      "title": "Getting the mind to steer the body to steer you",
+      "source": "hackernews"
+    },
+    "b484e42c41cdead2": {
+      "date": "2026-11-22",
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "source": "hackernews"
+    },
+    "7f062c485c75764b": {
+      "date": "2026-11-22",
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "source": "hackernews"
+    },
+    "bd6d6f827e75f1a1": {
+      "date": "2026-11-22",
+      "title": "Sandwich Simulator",
+      "source": "hackernews"
+    },
+    "58f85c036062fdeb": {
+      "date": "2026-11-22",
+      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+      "source": "hackernews"
+    },
+    "fe385fdbdf46b452": {
+      "date": "2026-11-22",
+      "title": "WaitFeed",
+      "source": "producthunt"
+    },
+    "487f252ec9758bc1": {
+      "date": "2026-11-22",
+      "title": "Stitch Loop",
+      "source": "producthunt"
+    },
+    "a42c96d86f190156": {
+      "date": "2026-11-22",
+      "title": "Publicit",
+      "source": "producthunt"
+    },
+    "41b94431dca62e07": {
+      "date": "2026-11-22",
+      "title": "Shipyard",
+      "source": "producthunt"
+    },
+    "fd09c3129c621a01": {
+      "date": "2026-11-22",
+      "title": "Doddle",
+      "source": "producthunt"
+    },
+    "230e71fbd9c1b915": {
+      "date": "2026-11-22",
+      "title": "gitroots",
+      "source": "producthunt"
+    },
+    "e7bce4a7c8f88cea": {
+      "date": "2026-11-22",
+      "title": "Hollr",
+      "source": "producthunt"
+    },
+    "9aaa0345b7cdbce2": {
+      "date": "2026-11-22",
+      "title": "AlterContacts",
+      "source": "producthunt"
+    },
+    "7b12d98e55a7a06c": {
+      "date": "2026-11-22",
+      "title": "The Chairs Are Back. The Coffee Is On. ☕",
+      "source": "devto"
+    },
+    "cd87776884a68b1e": {
+      "date": "2026-11-22",
+      "title": "🐱 The Function Factory of Necoz! ⚙️ | Learning Python Functions 🚀",
+      "source": "devto"
+    },
+    "dfc912efcddd3144": {
+      "date": "2026-11-22",
+      "title": "Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and M",
+      "source": "devto"
+    },
+    "f0f948d8f6d5970e": {
+      "date": "2026-11-22",
+      "title": "Day 89: A Dead Service and a Private Container That Serves",
+      "source": "devto"
+    },
+    "3a4df75006d55f58": {
+      "date": "2026-11-22",
+      "title": "Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.",
+      "source": "devto"
+    },
+    "f0ceeae6c50df059": {
+      "date": "2026-11-22",
+      "title": "Test the npm Package, Not Just the Monorepo",
+      "source": "devto"
+    },
+    "5e9604e6c646fdd9": {
+      "date": "2026-11-22",
+      "title": "A VS Code extension to turn ANY free chatbot website into an AI agent (kind of)",
+      "source": "devto"
+    },
+    "30d044a98996694e": {
+      "date": "2026-11-22",
+      "title": "What survived when I moved a small Compose app into Swarm mode",
+      "source": "devto"
+    },
+    "de54ce2ad267532f": {
+      "date": "2026-11-22",
+      "title": "AfterBurn Timer🔥 - SmartSpectra SDK Project",
+      "source": "devto"
+    },
+    "2b83c56e190099ee": {
+      "date": "2026-11-22",
+      "title": "I built an app so I stop crashing out at work",
       "source": "devto"
     }
   }
