@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-22T02:51:08.253434",
+  "last_updated": "2026-11-23T03:16:23.284750",
   "sent_items": {
-    "89f493fae281e1ca": {
-      "date": "2026-10-23",
-      "title": "Quad9 (DNS Resolver) to Exit France",
-      "source": "hackernews"
-    },
-    "257b7beb66c6aab6": {
-      "date": "2026-10-23",
-      "title": "Jailbreaking the Switch 2",
-      "source": "hackernews"
-    },
-    "133285e9b3a21fdd": {
-      "date": "2026-10-23",
-      "title": "Woman faces six years in prison over Cash App account she never opened",
-      "source": "hackernews"
-    },
-    "7e8304ad827517ed": {
-      "date": "2026-10-23",
-      "title": "Run full iOS 16.5 firmware on Android Devices",
-      "source": "hackernews"
-    },
-    "69868b70a90fcbf0": {
-      "date": "2026-10-23",
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "source": "hackernews"
-    },
-    "d2caef38414923b4": {
-      "date": "2026-10-23",
-      "title": "Getting ready to operate GNU Taler in Germany",
-      "source": "hackernews"
-    },
-    "4a14aad21fb2f0c1": {
-      "date": "2026-10-23",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "source": "hackernews"
-    },
-    "1f570223bf3041db": {
-      "date": "2026-10-23",
-      "title": "Docker Is Weird",
-      "source": "hackernews"
-    },
-    "41734621812840ad": {
-      "date": "2026-10-23",
-      "title": "Mapping the Northern Sky",
-      "source": "hackernews"
-    },
-    "6415aaf54dadecc5": {
-      "date": "2026-10-23",
-      "title": "Teclo",
-      "source": "producthunt"
-    },
-    "1b630a4528e975fa": {
-      "date": "2026-10-23",
-      "title": "Claude Duet",
-      "source": "producthunt"
-    },
-    "ded635b8cee4acf8": {
-      "date": "2026-10-23",
-      "title": "Agentic CleanSlop",
-      "source": "producthunt"
-    },
-    "d467fe2c3c88d234": {
-      "date": "2026-10-23",
-      "title": "Tetriz Engg Intelligence + Connectors",
-      "source": "producthunt"
-    },
-    "95dedac94eeebecc": {
-      "date": "2026-10-23",
-      "title": "DeepCell",
-      "source": "producthunt"
-    },
-    "1a4d90df6aaa7651": {
-      "date": "2026-10-23",
-      "title": "Notif",
-      "source": "producthunt"
-    },
-    "3c1524aa6a49ee2d": {
-      "date": "2026-10-23",
-      "title": "Sponkly",
-      "source": "producthunt"
-    },
-    "33fa284573f433ad": {
-      "date": "2026-10-23",
-      "title": "Whiteboard",
-      "source": "producthunt"
-    },
-    "7166b39e50075007": {
-      "date": "2026-10-23",
-      "title": "php / php-src",
-      "source": "github"
-    },
-    "01f8d446752c39de": {
-      "date": "2026-10-23",
-      "title": "fastapi / fastapi",
-      "source": "github"
-    },
-    "aaa5c7366cbdcbd7": {
-      "date": "2026-10-23",
-      "title": "luongnv89 / claude-howto",
-      "source": "github"
-    },
-    "56294a584ddd0006": {
-      "date": "2026-10-23",
-      "title": "Meloong-Git / PCL",
-      "source": "github"
-    },
-    "5002a13ca44e0f9d": {
-      "date": "2026-10-23",
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "source": "devto"
-    },
-    "d62bba03661276a6": {
-      "date": "2026-10-23",
-      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and sessi",
-      "source": "devto"
-    },
-    "433464a56298ab75": {
-      "date": "2026-10-23",
-      "title": "Buried Reads #1: Five Good Posts That Deserve More Attention",
-      "source": "devto"
-    },
-    "fffb2f01b8313038": {
-      "date": "2026-10-23",
-      "title": "Nothing Reported It",
-      "source": "devto"
-    },
-    "e8dea69b63a0539c": {
-      "date": "2026-10-23",
-      "title": "Android 16 on a 4.9 Kernel: LineageOS 23.2 on the Pixel 3a",
-      "source": "devto"
-    },
-    "15762c3dfdbf67b3": {
-      "date": "2026-10-23",
-      "title": "Log Aggregation Pipeline Explained: Follow One Log Line and Run the Incident in Your Browser",
-      "source": "devto"
-    },
-    "d140302e694e3719": {
-      "date": "2026-10-23",
-      "title": "Git 2.56's last-modified command is fast on one directory and slow on scattered files",
-      "source": "devto"
-    },
-    "a74f216285320b4f": {
-      "date": "2026-10-23",
-      "title": "Your Retry Policy Is Making Production Outages Worse",
-      "source": "devto"
-    },
-    "1d66ca859f8c63db": {
-      "date": "2026-10-23",
-      "title": "One Dev, Four Specialists: My Agent Team for OpenCode 🧑‍💻",
-      "source": "devto"
-    },
     "2b5f77223268ecaa": {
       "date": "2026-10-24",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
@@ -5005,6 +4855,146 @@
     "2b83c56e190099ee": {
       "date": "2026-11-22",
       "title": "I built an app so I stop crashing out at work",
+      "source": "devto"
+    },
+    "22ec5246ece46e2f": {
+      "date": "2026-11-23",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "source": "hackernews"
+    },
+    "f22fe240c1087c85": {
+      "date": "2026-11-23",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "source": "hackernews"
+    },
+    "11b36f8a9adc216d": {
+      "date": "2026-11-23",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "source": "hackernews"
+    },
+    "10e92aee0ceaa1a0": {
+      "date": "2026-11-23",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "source": "hackernews"
+    },
+    "f5a57ad935f3a3a0": {
+      "date": "2026-11-23",
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "source": "hackernews"
+    },
+    "438ca2090a9b9149": {
+      "date": "2026-11-23",
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "source": "hackernews"
+    },
+    "66cc21b933434080": {
+      "date": "2026-11-23",
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "source": "hackernews"
+    },
+    "2ee025d052cf7761": {
+      "date": "2026-11-23",
+      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+      "source": "hackernews"
+    },
+    "58bd064b240b321f": {
+      "date": "2026-11-23",
+      "title": "Masullo on the Riemann Hypothesis",
+      "source": "hackernews"
+    },
+    "215fe07a7c8dd267": {
+      "date": "2026-11-23",
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "source": "hackernews"
+    },
+    "23d9b163a52c8291": {
+      "date": "2026-11-23",
+      "title": "Creavit Studio 4.0",
+      "source": "producthunt"
+    },
+    "877aabf3e0a50be2": {
+      "date": "2026-11-23",
+      "title": "Omi CLI",
+      "source": "producthunt"
+    },
+    "cd984bb08d0f7504": {
+      "date": "2026-11-23",
+      "title": "MeshLive",
+      "source": "producthunt"
+    },
+    "3c7ecfd488bc9d6c": {
+      "date": "2026-11-23",
+      "title": "Mockreel",
+      "source": "producthunt"
+    },
+    "8b49a56e8e70819f": {
+      "date": "2026-11-23",
+      "title": "oovi",
+      "source": "producthunt"
+    },
+    "cb3e0e6ce4ab6a39": {
+      "date": "2026-11-23",
+      "title": "Leapdeck",
+      "source": "producthunt"
+    },
+    "c945238e3ae4a431": {
+      "date": "2026-11-23",
+      "title": "TeaserKit",
+      "source": "producthunt"
+    },
+    "9cf33750adbfe128": {
+      "date": "2026-11-23",
+      "title": "Resurf",
+      "source": "producthunt"
+    },
+    "f5973b5b64346a1a": {
+      "date": "2026-11-23",
+      "title": "Necoz Is Building a New House!! 🛸 All Cats, Follow Me!! 🐈🚀",
+      "source": "devto"
+    },
+    "f53a38759ad5d84c": {
+      "date": "2026-11-23",
+      "title": "I turned my GitHub contribution graph into a Bloomberg-style trading terminal",
+      "source": "devto"
+    },
+    "2efef58a538ce648": {
+      "date": "2026-11-23",
+      "title": "The Third Cup: Five Elements, One IT Company",
+      "source": "devto"
+    },
+    "f43bf3aa60643f0d": {
+      "date": "2026-11-23",
+      "title": "I Made My RAG Safer. It Got Worse Under Load",
+      "source": "devto"
+    },
+    "0cb47c796acf1943": {
+      "date": "2026-11-23",
+      "title": "Day 90: A Mask in the Way and a Policy Pointing at Nothing",
+      "source": "devto"
+    },
+    "a3c90946e38513ff": {
+      "date": "2026-11-23",
+      "title": "Monuments of India, Part 4: 100 New Monuments, from Harappan Dholavira to the Chenab Rail Bridge",
+      "source": "devto"
+    },
+    "0dced1ea9e520365": {
+      "date": "2026-11-23",
+      "title": "Glint: type and speak with your eyebrows and your breath",
+      "source": "devto"
+    },
+    "ffc2405bd69c8c3a": {
+      "date": "2026-11-23",
+      "title": "Peek: a horror game where your MacBook lid is your eyelids",
+      "source": "devto"
+    },
+    "fafd30ae0f0ad704": {
+      "date": "2026-11-23",
+      "title": "How long it actually takes a GPGME fix to reach Ubuntu",
+      "source": "devto"
+    },
+    "8962fe7be2381edc": {
+      "date": "2026-11-23",
+      "title": "C++ STL: WHERE HAVE YOU BEEN ALL MY LIFE? 😭",
       "source": "devto"
     }
   }
