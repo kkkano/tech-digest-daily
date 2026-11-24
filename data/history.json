@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-23T03:16:23.284750",
+  "last_updated": "2026-11-24T06:34:29.564136",
   "sent_items": {
-    "2b5f77223268ecaa": {
-      "date": "2026-10-24",
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "source": "hackernews"
-    },
-    "dbdbac025e7af74d": {
-      "date": "2026-10-24",
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "source": "hackernews"
-    },
-    "ce1e6b5920db405e": {
-      "date": "2026-10-24",
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "source": "hackernews"
-    },
-    "30d1ed592a0e5ca6": {
-      "date": "2026-10-24",
-      "title": "Apple Music 404 Not Found",
-      "source": "hackernews"
-    },
-    "6f3dfaf25bb8f090": {
-      "date": "2026-10-24",
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "source": "hackernews"
-    },
-    "6e99d07861bfb31c": {
-      "date": "2026-10-24",
-      "title": "The Real Kevin Bacon",
-      "source": "hackernews"
-    },
-    "c2ab07b998dc1bb4": {
-      "date": "2026-10-24",
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "source": "hackernews"
-    },
-    "e3ea6fd30df9f8a4": {
-      "date": "2026-10-24",
-      "title": "CVE Tracker",
-      "source": "hackernews"
-    },
-    "f2753ef5c84b2b09": {
-      "date": "2026-10-24",
-      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-      "source": "hackernews"
-    },
-    "ba7755129d2d9189": {
-      "date": "2026-10-24",
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "source": "hackernews"
-    },
-    "5fe40cb4252a6e2a": {
-      "date": "2026-10-24",
-      "title": "Cloudflare Clairic",
-      "source": "producthunt"
-    },
-    "14790e5994604a85": {
-      "date": "2026-10-24",
-      "title": "Dots",
-      "source": "producthunt"
-    },
-    "f6502cfb0d0a6e2a": {
-      "date": "2026-10-24",
-      "title": "Peras",
-      "source": "producthunt"
-    },
-    "858968678fe1ec6a": {
-      "date": "2026-10-24",
-      "title": "FLUX 3 Max",
-      "source": "producthunt"
-    },
-    "a9eaeedc83bd6615": {
-      "date": "2026-10-24",
-      "title": "DotMD",
-      "source": "producthunt"
-    },
-    "6a39a92e18648662": {
-      "date": "2026-10-24",
-      "title": "Gerty",
-      "source": "producthunt"
-    },
-    "f705f973a5b91eda": {
-      "date": "2026-10-24",
-      "title": "Termi Protocol",
-      "source": "producthunt"
-    },
-    "40823419776e05d9": {
-      "date": "2026-10-24",
-      "title": "Monish",
-      "source": "producthunt"
-    },
-    "3fff46d92e864abf": {
-      "date": "2026-10-24",
-      "title": "Renhuai123 / ziwei-doushu",
-      "source": "github"
-    },
-    "fed9e93b0bd2dda1": {
-      "date": "2026-10-24",
-      "title": "SnailSploit / Claude-Red",
-      "source": "github"
-    },
-    "78ddb48b10aef7ae": {
-      "date": "2026-10-24",
-      "title": "OpenBMB / VoxCPM",
-      "source": "github"
-    },
-    "a2c9c4617f9b3de5": {
-      "date": "2026-10-24",
-      "title": "nodejs / node",
-      "source": "github"
-    },
-    "65e18394d29770c5": {
-      "date": "2026-10-24",
-      "title": "Dev Opportunity Radar #22: $50K Basis Fellowship, Perplexity AI Research Fellowship, and FC Barcelon",
-      "source": "devto"
-    },
-    "e6c50fc1da1c9926": {
-      "date": "2026-10-24",
-      "title": "5 Steps on How to not loose at a hackathon?",
-      "source": "devto"
-    },
-    "b6565d68a0c400c2": {
-      "date": "2026-10-24",
-      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
-      "source": "devto"
-    },
-    "eb56b3622b703322": {
-      "date": "2026-10-24",
-      "title": "AI Is Winning Literary Awards. The Data Says That's Not What's Happening.",
-      "source": "devto"
-    },
-    "c9c53ce6df7ce1b2": {
-      "date": "2026-10-24",
-      "title": "Breach Week Dropped 10 'Patch Now' Posts. A Local Gemma Boiled Them Down to 2 Lines, and Code Checke",
-      "source": "devto"
-    },
-    "562eed3a71da000f": {
-      "date": "2026-10-24",
-      "title": "I Built a Pixel Hero That Nags Me to Drink Water (and Runs 100% on My Laptop)",
-      "source": "devto"
-    },
-    "dc7f213d600228c8": {
-      "date": "2026-10-24",
-      "title": "🔢 The JSON Numbers JavaScript Quietly Corrupts",
-      "source": "devto"
-    },
-    "abbea2c5819fe810": {
-      "date": "2026-10-24",
-      "title": "Hush: I Hid 10 Emergencies in My Own Notifications. An On-Device Gemma OS Found All 10.",
-      "source": "devto"
-    },
-    "be8dc78f99f7bff0": {
-      "date": "2026-10-24",
-      "title": "I let an open model delete 1,242 of my saved articles. On purpose. I feel lighter.",
-      "source": "devto"
-    },
-    "bce6b4e42cf254b8": {
-      "date": "2026-10-24",
-      "title": "Why an 80-Year-Old Math Book Fixed My AI Coding Agent",
-      "source": "devto"
-    },
     "0aa4ee2f25c4fe6a": {
       "date": "2026-10-25",
       "title": "Shedi",
@@ -4995,6 +4835,141 @@
     "8962fe7be2381edc": {
       "date": "2026-11-23",
       "title": "C++ STL: WHERE HAVE YOU BEEN ALL MY LIFE? 😭",
+      "source": "devto"
+    },
+    "e27c29bc7a7b7b74": {
+      "date": "2026-11-24",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "source": "hackernews"
+    },
+    "17de5cdec97671af": {
+      "date": "2026-11-24",
+      "title": "Ladybird is now in alpha",
+      "source": "hackernews"
+    },
+    "a275508edaf787c5": {
+      "date": "2026-11-24",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "source": "hackernews"
+    },
+    "c5535432c4b2ca80": {
+      "date": "2026-11-24",
+      "title": "GPUI is getting its own repository",
+      "source": "hackernews"
+    },
+    "d564c737008a1d15": {
+      "date": "2026-11-24",
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "source": "hackernews"
+    },
+    "01b3b82265502571": {
+      "date": "2026-11-24",
+      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "source": "hackernews"
+    },
+    "e8fbb6082d9f28f6": {
+      "date": "2026-11-24",
+      "title": "Modernizing iperf/iperf3 and introducing fireperf",
+      "source": "hackernews"
+    },
+    "47e46deb8950ef53": {
+      "date": "2026-11-24",
+      "title": "Making a dumb TV just smart enough",
+      "source": "hackernews"
+    },
+    "dbbe741f40867950": {
+      "date": "2026-11-24",
+      "title": "Drone Maps of Salvage Yards",
+      "source": "hackernews"
+    },
+    "f62c177c5f673800": {
+      "date": "2026-11-24",
+      "title": "Lowering Perplexity Without Scaling",
+      "source": "hackernews"
+    },
+    "09901b395d0588ac": {
+      "date": "2026-11-24",
+      "title": "Replit Missions",
+      "source": "producthunt"
+    },
+    "eaf0c7355b5c077c": {
+      "date": "2026-11-24",
+      "title": "Spikely",
+      "source": "producthunt"
+    },
+    "8a42a167a512992f": {
+      "date": "2026-11-24",
+      "title": "Snowly",
+      "source": "producthunt"
+    },
+    "d472ffd6041f8984": {
+      "date": "2026-11-24",
+      "title": "Branchery",
+      "source": "producthunt"
+    },
+    "fc16fd2a1b23d26d": {
+      "date": "2026-11-24",
+      "title": "Jot",
+      "source": "producthunt"
+    },
+    "a4a0c6fbe6231d4e": {
+      "date": "2026-11-24",
+      "title": "Tesla Self-Driving V15",
+      "source": "producthunt"
+    },
+    "6692a6671140681e": {
+      "date": "2026-11-24",
+      "title": "Kopyo",
+      "source": "producthunt"
+    },
+    "2f496bbea3b98d61": {
+      "date": "2026-11-24",
+      "title": "What are you Grateful for this Thanksgiving?",
+      "source": "devto"
+    },
+    "8aece5d2f48bd30f": {
+      "date": "2026-11-24",
+      "title": "The Third Cup: Change Never Sleeps",
+      "source": "devto"
+    },
+    "8a5048748cfde9dc": {
+      "date": "2026-11-24",
+      "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
+      "source": "devto"
+    },
+    "f212d4bba2a4393e": {
+      "date": "2026-11-24",
+      "title": "Netlify Isn't Just a Static CDN: How Atomic Deploys, Edge Isolates, and Content-Addressed Storage Ac",
+      "source": "devto"
+    },
+    "1174545412eba94b": {
+      "date": "2026-11-24",
+      "title": "C# 15 Unpacked: Practical Use Cases for Unions with Real Examples",
+      "source": "devto"
+    },
+    "d22dd35e473d9537": {
+      "date": "2026-11-24",
+      "title": "🎨 NECOZ Art Class: The Day 35 Cats Painted a Portrait of the King 👑 | How Pixels Work",
+      "source": "devto"
+    },
+    "f7937ba16faa1db2": {
+      "date": "2026-11-24",
+      "title": "Why millions of agents don't need millions of VMs on Agent Substrate",
+      "source": "devto"
+    },
+    "1b8548da6315c6d4": {
+      "date": "2026-11-24",
+      "title": "Blobasaur and the 4th Cross way: how Zerodha's ~35-person tech team keeps shipping open source",
+      "source": "devto"
+    },
+    "7f5ec9c02b2216a6": {
+      "date": "2026-11-24",
+      "title": "8 Best MCP Gateways",
+      "source": "devto"
+    },
+    "2befba72cbd5b880": {
+      "date": "2026-11-24",
+      "title": "Rent the Job. Own the Life.",
       "source": "devto"
     }
   }
