@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-24T06:34:29.564136",
+  "last_updated": "2026-11-25T05:14:53.423288",
   "sent_items": {
-    "0aa4ee2f25c4fe6a": {
-      "date": "2026-10-25",
-      "title": "Shedi",
-      "source": "producthunt"
-    },
-    "0fac82fa19f73c11": {
-      "date": "2026-10-25",
-      "title": "Canva Craft",
-      "source": "producthunt"
-    },
-    "825852b3c3668b4a": {
-      "date": "2026-10-25",
-      "title": "AgentValley",
-      "source": "producthunt"
-    },
-    "0febb163e6f78f1e": {
-      "date": "2026-10-25",
-      "title": "1Password for Agents",
-      "source": "producthunt"
-    },
-    "2d864a77b0e385d2": {
-      "date": "2026-10-25",
-      "title": "Byter",
-      "source": "producthunt"
-    },
-    "edd0f2ce2f8a9298": {
-      "date": "2026-10-25",
-      "title": "Basedash Scheduled CSV Exports",
-      "source": "producthunt"
-    },
-    "84090dcba194dd8d": {
-      "date": "2026-10-25",
-      "title": "River Writer",
-      "source": "producthunt"
-    },
-    "8b9fc06e5e9a005e": {
-      "date": "2026-10-25",
-      "title": "Penta",
-      "source": "producthunt"
-    },
-    "72275b9435865ae7": {
-      "date": "2026-10-25",
-      "title": "Show HN: Steal My Bitcoin",
-      "source": "hackernews"
-    },
-    "daf32af9832eba1e": {
-      "date": "2026-10-25",
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "source": "hackernews"
-    },
-    "1edef0168d56cf43": {
-      "date": "2026-10-25",
-      "title": "The Goose Programming Language",
-      "source": "hackernews"
-    },
-    "ceefbe3161ef0fe8": {
-      "date": "2026-10-25",
-      "title": "We should be more ambitious with the software we build",
-      "source": "hackernews"
-    },
-    "48c8368634a0a9b4": {
-      "date": "2026-10-25",
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "source": "hackernews"
-    },
-    "2c6853d0b174d7a9": {
-      "date": "2026-10-25",
-      "title": "SpeedCrunch 1.1",
-      "source": "hackernews"
-    },
-    "3ec29c6eab5f0a34": {
-      "date": "2026-10-25",
-      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-      "source": "hackernews"
-    },
-    "86ae1cb9cfb9f341": {
-      "date": "2026-10-25",
-      "title": "Small Programs and Languages",
-      "source": "hackernews"
-    },
-    "2057dd3a17af0cc1": {
-      "date": "2026-10-25",
-      "title": "I Built a Stereo Vision Board for Hardware Hackers",
-      "source": "hackernews"
-    },
-    "3bb7567fd76675c3": {
-      "date": "2026-10-25",
-      "title": "Why Gopher in 2026?",
-      "source": "hackernews"
-    },
-    "fef947109115f8c0": {
-      "date": "2026-10-25",
-      "title": "aws / agent-toolkit-for-aws",
-      "source": "github"
-    },
-    "c88c01cfd244fd4b": {
-      "date": "2026-10-25",
-      "title": "Nutlope / hallmark",
-      "source": "github"
-    },
-    "eba1101b688a4a08": {
-      "date": "2026-10-25",
-      "title": "pollen-robotics / microduck",
-      "source": "github"
-    },
-    "8d49e667cf2061b4": {
-      "date": "2026-10-25",
-      "title": "google-gemini / gemini-cli",
-      "source": "github"
-    },
-    "735ee53822b9d39a": {
-      "date": "2026-10-25",
-      "title": "jbiaojerry / ebook-treasure-chest",
-      "source": "github"
-    },
-    "19f0bb06fa5242af": {
-      "date": "2026-10-25",
-      "title": "makecindy / cindy",
-      "source": "github"
-    },
-    "62502299f58e88f5": {
-      "date": "2026-10-25",
-      "title": "I'm Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code. (And My First Test ",
-      "source": "devto"
-    },
-    "25aff083604e9f1b": {
-      "date": "2026-10-25",
-      "title": "Hours, Not Weeks: How AI Rewrote the Clock of Software Security",
-      "source": "devto"
-    },
-    "5225c8b813c6d8e6": {
-      "date": "2026-10-25",
-      "title": "Sloth Reads: an open model reads my read-later pile overnight, then reads me the good ones",
-      "source": "devto"
-    },
-    "cee942a9f0fcdda1": {
-      "date": "2026-10-25",
-      "title": "PyTorch on TPU: Hands On With Colab",
-      "source": "devto"
-    },
-    "4ee84113dfafe69e": {
-      "date": "2026-10-25",
-      "title": "I Built Mimu Because Even Taking Notes Is Too Much Work",
-      "source": "devto"
-    },
-    "9abbb17fe732fb61": {
-      "date": "2026-10-25",
-      "title": "From Ancient Epigraphy to 3D Proteins: Building Plugins, Skills & MCP Sidecars in Google Antigravity",
-      "source": "devto"
-    },
-    "69771573e0315fc1": {
-      "date": "2026-10-25",
-      "title": "'Baad mein' means later. Gemma reads the WhatsApp chat you keep with yourself, and tells you what yo",
-      "source": "devto"
-    },
-    "3d14cb1771ccd26d": {
-      "date": "2026-10-25",
-      "title": "👾 Nested Bookmarks Organizer for Chrome w/Custom Ticker",
-      "source": "devto"
-    },
-    "c27674aa87051606": {
-      "date": "2026-10-25",
-      "title": "Caddy 2.11.6 turns a silent config failure on /load into an HTTP 400",
-      "source": "devto"
-    },
-    "4d5bd826701e1d6a": {
-      "date": "2026-10-25",
-      "title": "My AI Coding Workflow, v3",
-      "source": "devto"
-    },
     "1786dbecdb7427e1": {
       "date": "2026-10-26",
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
@@ -4970,6 +4800,146 @@
     "2befba72cbd5b880": {
       "date": "2026-11-24",
       "title": "Rent the Job. Own the Life.",
+      "source": "devto"
+    },
+    "90cede4cba6a9014": {
+      "date": "2026-11-25",
+      "title": "Ternary Bonsai 2.5 27B",
+      "source": "hackernews"
+    },
+    "03061f7a974feac9": {
+      "date": "2026-11-25",
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "source": "hackernews"
+    },
+    "76d1ff43ef752155": {
+      "date": "2026-11-25",
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "source": "hackernews"
+    },
+    "d62fb8a47f8596e8": {
+      "date": "2026-11-25",
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "source": "hackernews"
+    },
+    "e9cbb368eaea8414": {
+      "date": "2026-11-25",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "source": "hackernews"
+    },
+    "170fd8d88b5225b2": {
+      "date": "2026-11-25",
+      "title": "I've been drinking wine in my kitchen",
+      "source": "hackernews"
+    },
+    "9b05556798a99e4c": {
+      "date": "2026-11-25",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "source": "hackernews"
+    },
+    "7dcddf3f7c27b026": {
+      "date": "2026-11-25",
+      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "source": "hackernews"
+    },
+    "6cc4943646224a7b": {
+      "date": "2026-11-25",
+      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+      "source": "hackernews"
+    },
+    "35b728433848a57c": {
+      "date": "2026-11-25",
+      "title": "Show HN: U.S. Interstate Weather",
+      "source": "hackernews"
+    },
+    "81723bde7d02c93b": {
+      "date": "2026-11-25",
+      "title": "Rotara",
+      "source": "producthunt"
+    },
+    "35214eab24330d49": {
+      "date": "2026-11-25",
+      "title": "Granular.Build",
+      "source": "producthunt"
+    },
+    "b414d01febb2a15a": {
+      "date": "2026-11-25",
+      "title": "Tendor",
+      "source": "producthunt"
+    },
+    "7c9ff67d353cce18": {
+      "date": "2026-11-25",
+      "title": "Cullman",
+      "source": "producthunt"
+    },
+    "95aa50f81c4764fe": {
+      "date": "2026-11-25",
+      "title": "Umami Manager",
+      "source": "producthunt"
+    },
+    "a482eff1e980790d": {
+      "date": "2026-11-25",
+      "title": "Finseo",
+      "source": "producthunt"
+    },
+    "21b7eae82bc071a5": {
+      "date": "2026-11-25",
+      "title": "tday.com",
+      "source": "producthunt"
+    },
+    "4b466618618dc889": {
+      "date": "2026-11-25",
+      "title": "Claude Ship",
+      "source": "producthunt"
+    },
+    "dc26a84476095aff": {
+      "date": "2026-11-25",
+      "title": "The Third Cup: After Everything Has a Name",
+      "source": "devto"
+    },
+    "d66ad521ab0caf3e": {
+      "date": "2026-11-25",
+      "title": "Why Your Android App Drops Frames: The Jetpack Compose Architecture Guide That Fixes Recomposition F",
+      "source": "devto"
+    },
+    "6a6d048a03b836c3": {
+      "date": "2026-11-25",
+      "title": "Why Your AI Release Notes Hallucinate: The \"Why vs What\" Problem in Git History",
+      "source": "devto"
+    },
+    "416948b554e80a79": {
+      "date": "2026-11-25",
+      "title": "I Let Claude Code Create My AWS Account",
+      "source": "devto"
+    },
+    "3016519eb10091db": {
+      "date": "2026-11-25",
+      "title": "A Year of Hacking: a Cloudinary Hackathon Retrospective",
+      "source": "devto"
+    },
+    "6fc3825fc6e9c967": {
+      "date": "2026-11-25",
+      "title": "String Type In C",
+      "source": "devto"
+    },
+    "9ec17bd57132d706": {
+      "date": "2026-11-25",
+      "title": "How One Blind Reply on X Took Me to DeepMind's London HQ Twice",
+      "source": "devto"
+    },
+    "1b59ed173395c00a": {
+      "date": "2026-11-25",
+      "title": "The Art of the Canary in the Age of AI",
+      "source": "devto"
+    },
+    "18228b4d61ff50ad": {
+      "date": "2026-11-25",
+      "title": "Lazy Senior Dev Mode Made My App Smaller. Was It Better?",
+      "source": "devto"
+    },
+    "338a61f7908e350c": {
+      "date": "2026-11-25",
+      "title": "Tuesday music",
       "source": "devto"
     }
   }
