@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-25T05:14:53.423288",
+  "last_updated": "2026-11-26T04:34:14.027226",
   "sent_items": {
-    "1786dbecdb7427e1": {
-      "date": "2026-10-26",
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "source": "hackernews"
-    },
-    "089e0e1847918523": {
-      "date": "2026-10-26",
-      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "source": "hackernews"
-    },
-    "76a65ebddf96263e": {
-      "date": "2026-10-26",
-      "title": "Dolly Parton's Imagination Library",
-      "source": "hackernews"
-    },
-    "42a2205694132363": {
-      "date": "2026-10-26",
-      "title": "Overgrown, when plants invade your abandoned tabs",
-      "source": "hackernews"
-    },
-    "5d09509ad2401297": {
-      "date": "2026-10-26",
-      "title": "Why I Am a Programmer",
-      "source": "hackernews"
-    },
-    "c10a2b502fcca58b": {
-      "date": "2026-10-26",
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "source": "hackernews"
-    },
-    "51f97bff524c15d3": {
-      "date": "2026-10-26",
-      "title": "What goes into making an animated film?",
-      "source": "hackernews"
-    },
-    "e816699453b1dc70": {
-      "date": "2026-10-26",
-      "title": "The State of Context Engineering",
-      "source": "hackernews"
-    },
-    "caf9664c10c3c970": {
-      "date": "2026-10-26",
-      "title": "Lula Wins Brazilian Election",
-      "source": "hackernews"
-    },
-    "f2c31f8d0c98583a": {
-      "date": "2026-10-26",
-      "title": "F-Zero X on Nintendo 3DS",
-      "source": "hackernews"
-    },
-    "fc15d672df025261": {
-      "date": "2026-10-26",
-      "title": "Yourcast 2.0",
-      "source": "producthunt"
-    },
-    "52a81c0b1e62b080": {
-      "date": "2026-10-26",
-      "title": "How It Spread",
-      "source": "producthunt"
-    },
-    "4d80ce6517c4794f": {
-      "date": "2026-10-26",
-      "title": "git-flow-next",
-      "source": "producthunt"
-    },
-    "e40c1620025796d4": {
-      "date": "2026-10-26",
-      "title": "MRRaudit",
-      "source": "producthunt"
-    },
-    "e7c1a1a530e2ce17": {
-      "date": "2026-10-26",
-      "title": "Llama Windows",
-      "source": "producthunt"
-    },
-    "ecabf149c43e34c4": {
-      "date": "2026-10-26",
-      "title": "AgentGrid.io",
-      "source": "producthunt"
-    },
-    "29d9f9459fa3fa27": {
-      "date": "2026-10-26",
-      "title": "pawl",
-      "source": "producthunt"
-    },
-    "7eac89648b72e350": {
-      "date": "2026-10-26",
-      "title": "Papermark Data Rooms",
-      "source": "producthunt"
-    },
-    "be8acfaf11180d2a": {
-      "date": "2026-10-26",
-      "title": "pbakaus / impeccable",
-      "source": "github"
-    },
-    "afdace39e7492d8a": {
-      "date": "2026-10-26",
-      "title": "TauricResearch / TradingAgents",
-      "source": "github"
-    },
-    "9fe0ab02c3e767b0": {
-      "date": "2026-10-26",
-      "title": "JetBrains / thinkrail",
-      "source": "github"
-    },
-    "60c9aca0bcd18bd4": {
-      "date": "2026-10-26",
-      "title": "coollabsio / coolify",
-      "source": "github"
-    },
-    "3f6716548eed6108": {
-      "date": "2026-10-26",
-      "title": "AgriciDaniel / claude-seo",
-      "source": "github"
-    },
-    "29f6e48853f9c077": {
-      "date": "2026-10-26",
-      "title": "I Earned a Seat at GitHub Universe. It'll Stay Empty, and That's Not Fair",
-      "source": "devto"
-    },
-    "35ebe912c075d17b": {
-      "date": "2026-10-26",
-      "title": "Three Times My Test Failed and the LLM Was Right",
-      "source": "devto"
-    },
-    "192989e22339574a": {
-      "date": "2026-10-26",
-      "title": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
-      "source": "devto"
-    },
-    "6cc758e32be2b523": {
-      "date": "2026-10-26",
-      "title": "A small, not-so-smart model went from 10% to 99.6% at reading property deeds for $1.15, and it says ",
-      "source": "devto"
-    },
-    "082e7c500ee46e12": {
-      "date": "2026-10-26",
-      "title": "👻 The $249 Ghost Sale",
-      "source": "devto"
-    },
-    "01ec57b5b68e1a13": {
-      "date": "2026-10-26",
-      "title": "Slowth Money: a local AI agent for your financial goals",
-      "source": "devto"
-    },
-    "7b749617f4479300": {
-      "date": "2026-10-26",
-      "title": "Postmortem: The Tuesday Our AI Bill Had No Owner",
-      "source": "devto"
-    },
-    "4c7c7dd8a4dbd32e": {
-      "date": "2026-10-26",
-      "title": "Valkey 9.2's new rdbcompression lz4 setting cuts a 1M-row RDB from 178MB to 35MB",
-      "source": "devto"
-    },
-    "08703a375ead270f": {
-      "date": "2026-10-26",
-      "title": "Google DevFest Central Valley: Community First, Buildathon Second.",
-      "source": "devto"
-    },
-    "ab96d882466eacae": {
-      "date": "2026-10-26",
-      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
-      "source": "devto"
-    },
     "e68297856eabe218": {
       "date": "2026-10-27",
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
@@ -4940,6 +4775,146 @@
     "338a61f7908e350c": {
       "date": "2026-11-25",
       "title": "Tuesday music",
+      "source": "devto"
+    },
+    "659c73568a907ee4": {
+      "date": "2026-11-26",
+      "title": "1Password Security Incident",
+      "source": "hackernews"
+    },
+    "27287bd1c8edd41a": {
+      "date": "2026-11-26",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "source": "hackernews"
+    },
+    "d05f6ca2a539758b": {
+      "date": "2026-11-26",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "source": "hackernews"
+    },
+    "4fd97aa767eacfa9": {
+      "date": "2026-11-26",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "source": "hackernews"
+    },
+    "e2554fc8f011a6b5": {
+      "date": "2026-11-26",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "source": "hackernews"
+    },
+    "75eb28b2757365e3": {
+      "date": "2026-11-26",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "source": "hackernews"
+    },
+    "02687b8975cd20f6": {
+      "date": "2026-11-26",
+      "title": "Slow Ubuntu security response times",
+      "source": "hackernews"
+    },
+    "fb20c07619222933": {
+      "date": "2026-11-26",
+      "title": "How did pinwheel calculators work?",
+      "source": "hackernews"
+    },
+    "87300706756b6aec": {
+      "date": "2026-11-26",
+      "title": "What VP ≠ VNP Means (In 3 Minutes)",
+      "source": "hackernews"
+    },
+    "e2b84e4e5fb106f2": {
+      "date": "2026-11-26",
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "source": "hackernews"
+    },
+    "9e466fd24497dac8": {
+      "date": "2026-11-26",
+      "title": "3way.Social MCP",
+      "source": "producthunt"
+    },
+    "24cc0593a591cee2": {
+      "date": "2026-11-26",
+      "title": "MAGI-2",
+      "source": "producthunt"
+    },
+    "5576a05469a2eee8": {
+      "date": "2026-11-26",
+      "title": "Hai",
+      "source": "producthunt"
+    },
+    "7c27accc674e9e9a": {
+      "date": "2026-11-26",
+      "title": "Koed",
+      "source": "producthunt"
+    },
+    "4be274e09733e8e0": {
+      "date": "2026-11-26",
+      "title": "Airbot",
+      "source": "producthunt"
+    },
+    "a6bcfeb9e3facea4": {
+      "date": "2026-11-26",
+      "title": "Falcon by Vybe",
+      "source": "producthunt"
+    },
+    "180ea39ac21c0538": {
+      "date": "2026-11-26",
+      "title": "Hiring Right Now",
+      "source": "producthunt"
+    },
+    "20b5ee88fdc78f10": {
+      "date": "2026-11-26",
+      "title": "Qube",
+      "source": "producthunt"
+    },
+    "0b515058d605e009": {
+      "date": "2026-11-26",
+      "title": "The Price You Pay for Passion",
+      "source": "devto"
+    },
+    "1b5776753de18d9a": {
+      "date": "2026-11-26",
+      "title": "The mental toll of working in tech",
+      "source": "devto"
+    },
+    "75a21991382f4238": {
+      "date": "2026-11-26",
+      "title": "I Built My First Multi-Agent System on AWS, and It Was Easier Than I Expected",
+      "source": "devto"
+    },
+    "afa40b1b91020f46": {
+      "date": "2026-11-26",
+      "title": "The Third Cup: You Don't Have to Fly That High",
+      "source": "devto"
+    },
+    "436ab753fb372375": {
+      "date": "2026-11-26",
+      "title": "Home Office Nightmare",
+      "source": "devto"
+    },
+    "84881f85c0041a1f": {
+      "date": "2026-11-26",
+      "title": "Which OpenAPI Codegen Should You Choose in 2026? 🤔 openapi-typescript vs Hey API vs Orval vs Kubb v5",
+      "source": "devto"
+    },
+    "fb61bcff4d660925": {
+      "date": "2026-11-26",
+      "title": "Stop AI Agents Acting on Bluffs? A Strands Decider 2B Tool Gate Test",
+      "source": "devto"
+    },
+    "e1fcd412dbb8bab5": {
+      "date": "2026-11-26",
+      "title": "I Know It's You, But I Can't Prove It",
+      "source": "devto"
+    },
+    "6237954673ae50a0": {
+      "date": "2026-11-26",
+      "title": "Are Blogs Still Worth Writing When Agents Do the Reading?",
+      "source": "devto"
+    },
+    "74dd372feabb02ff": {
+      "date": "2026-11-26",
+      "title": "Part 7: What Reading the Code Could Never Find",
       "source": "devto"
     }
   }
