@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-11-27T04:43:45.915624",
+  "last_updated": "2026-11-28T04:25:41.943357",
   "sent_items": {
-    "6808aa957d92f6bc": {
-      "date": "2026-10-28",
-      "title": "Ghostty 1.4",
-      "source": "hackernews"
-    },
-    "39155253f5851c22": {
-      "date": "2026-10-28",
-      "title": "Genie 4",
-      "source": "hackernews"
-    },
-    "2b4d3bdc1b00e30d": {
-      "date": "2026-10-28",
-      "title": "New 14‑inch MacBook Pro with M6",
-      "source": "hackernews"
-    },
-    "fb3ff1b53a57e297": {
-      "date": "2026-10-28",
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "source": "hackernews"
-    },
-    "4fe0e5b4771f4667": {
-      "date": "2026-10-28",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "source": "hackernews"
-    },
-    "9e22205eaa34a4bc": {
-      "date": "2026-10-28",
-      "title": "Early progress on accelerating drug development with Claude",
-      "source": "hackernews"
-    },
-    "c6a0f6898e5f3651": {
-      "date": "2026-10-28",
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "source": "hackernews"
-    },
-    "32bd721b92a4c5d2": {
-      "date": "2026-10-28",
-      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-      "source": "hackernews"
-    },
-    "86753bacdfc19aaf": {
-      "date": "2026-10-28",
-      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-      "source": "hackernews"
-    },
-    "48e715cb199fc7d6": {
-      "date": "2026-10-28",
-      "title": "81 Jokes for the ZX81",
-      "source": "hackernews"
-    },
-    "6ba7d52cd0044d40": {
-      "date": "2026-10-28",
-      "title": "GPT-6.1 Terra",
-      "source": "producthunt"
-    },
-    "43af10998393834c": {
-      "date": "2026-10-28",
-      "title": "OpenRadView",
-      "source": "producthunt"
-    },
-    "7a68255c78571728": {
-      "date": "2026-10-28",
-      "title": "NuPlay",
-      "source": "producthunt"
-    },
-    "c46710a4933ddcec": {
-      "date": "2026-10-28",
-      "title": "Off Grid AI",
-      "source": "producthunt"
-    },
-    "7345394f172eb5ca": {
-      "date": "2026-10-28",
-      "title": "PulseDev",
-      "source": "producthunt"
-    },
-    "2cb15a7d2c8361e5": {
-      "date": "2026-10-28",
-      "title": "Paddock",
-      "source": "producthunt"
-    },
-    "9d6c48eae08abbc4": {
-      "date": "2026-10-28",
-      "title": "fswitcher",
-      "source": "producthunt"
-    },
-    "6af12bb508599fa0": {
-      "date": "2026-10-28",
-      "title": "Spacesheep",
-      "source": "producthunt"
-    },
-    "06fe3ce050dde466": {
-      "date": "2026-10-28",
-      "title": "elayadesign / ai-design-skills",
-      "source": "github"
-    },
-    "bca7775ac9caec94": {
-      "date": "2026-10-28",
-      "title": "HKUDS / DeepTutor",
-      "source": "github"
-    },
-    "4f44d6baf2c704ad": {
-      "date": "2026-10-28",
-      "title": "togg53192-cmd / jailbreaks",
-      "source": "github"
-    },
-    "8bce5aa0626c5c8c": {
-      "date": "2026-10-28",
-      "title": "Your DEV posts have a beautiful new share card ✨",
-      "source": "devto"
-    },
-    "dbee8dbaae5ef409": {
-      "date": "2026-10-28",
-      "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.",
-      "source": "devto"
-    },
-    "e8f5f9f85467f858": {
-      "date": "2026-10-28",
-      "title": "The Most Embarrassing Private Key in Web PKI History",
-      "source": "devto"
-    },
-    "92e523df16b16e43": {
-      "date": "2026-10-28",
-      "title": "I deleted the mail server from my VPS and got 1.2 GB of RAM back",
-      "source": "devto"
-    },
-    "b414bb571659d2c1": {
-      "date": "2026-10-28",
-      "title": "The Rootkit Exorcist: Summoning Local AI to Investigate Suspicious Scripts 👻",
-      "source": "devto"
-    },
-    "7ad4a2ae221c6d4f": {
-      "date": "2026-10-28",
-      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
-      "source": "devto"
-    },
-    "4dad0091139d118f": {
-      "date": "2026-10-28",
-      "title": "Dev log #27 Deep in the review queue: Hardening libp2p across Python and .NET",
-      "source": "devto"
-    },
-    "de6137877ca69fe5": {
-      "date": "2026-10-28",
-      "title": "How long it takes to move an IP address between two servers",
-      "source": "devto"
-    },
-    "cf2d585ecd097ad4": {
-      "date": "2026-10-28",
-      "title": "My AI was in the cloud. I brought it home.",
-      "source": "devto"
-    },
-    "fc7752f6bc90e28d": {
-      "date": "2026-10-28",
-      "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
-      "source": "devto"
-    },
     "8d6b6a0f50091c73": {
       "date": "2026-10-29",
       "title": "Why is this fingerprinting script creating bioweapons?",
@@ -4890,6 +4735,146 @@
     "fd816766be799971": {
       "date": "2026-11-27",
       "title": "[Kalamos Devlog] After Open-Sourcing: v0.2 to v0.7 Feature Evolution and Using Multi-Agents to Revie",
+      "source": "devto"
+    },
+    "53fe902a8ac92f1f": {
+      "date": "2026-11-28",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "source": "hackernews"
+    },
+    "ad63488950df2db9": {
+      "date": "2026-11-28",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "source": "hackernews"
+    },
+    "277f65ff2789828f": {
+      "date": "2026-11-28",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "source": "hackernews"
+    },
+    "4260980a42a07640": {
+      "date": "2026-11-28",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "source": "hackernews"
+    },
+    "e3645970c8ef3efe": {
+      "date": "2026-11-28",
+      "title": "Citroën Hydraulic System",
+      "source": "hackernews"
+    },
+    "1fbd0c597f682fec": {
+      "date": "2026-11-28",
+      "title": "The Balatro Timeline",
+      "source": "hackernews"
+    },
+    "a82635468b5d64f4": {
+      "date": "2026-11-28",
+      "title": "Atari Homebrew Awards Cancelled",
+      "source": "hackernews"
+    },
+    "f534775ea8486ab8": {
+      "date": "2026-11-28",
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "source": "hackernews"
+    },
+    "6eaa9ee99079e3af": {
+      "date": "2026-11-28",
+      "title": "Cyberpunk Television Shows",
+      "source": "hackernews"
+    },
+    "20e0bc09d36dd6c6": {
+      "date": "2026-11-28",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "source": "hackernews"
+    },
+    "6c9ffd3597ce81aa": {
+      "date": "2026-11-28",
+      "title": "RightFont 2026",
+      "source": "producthunt"
+    },
+    "8e9301117455a25e": {
+      "date": "2026-11-28",
+      "title": "Onset",
+      "source": "producthunt"
+    },
+    "6081070e7715c727": {
+      "date": "2026-11-28",
+      "title": "Ploid",
+      "source": "producthunt"
+    },
+    "bdc0330a83f36616": {
+      "date": "2026-11-28",
+      "title": "Depost AI",
+      "source": "producthunt"
+    },
+    "e92137e8f6c7e12c": {
+      "date": "2026-11-28",
+      "title": "Form Action Store",
+      "source": "producthunt"
+    },
+    "6696d03e6fb90aa1": {
+      "date": "2026-11-28",
+      "title": "Wizstar R1",
+      "source": "producthunt"
+    },
+    "16902de19cb26645": {
+      "date": "2026-11-28",
+      "title": "Espresso 27",
+      "source": "producthunt"
+    },
+    "5b30578e4e9512df": {
+      "date": "2026-11-28",
+      "title": "Remove Silence",
+      "source": "producthunt"
+    },
+    "2acf69edfeccf12e": {
+      "date": "2026-11-28",
+      "title": "What was your win this week!?",
+      "source": "devto"
+    },
+    "46f88ea32c2906f7": {
+      "date": "2026-11-28",
+      "title": "How I built my own OS",
+      "source": "devto"
+    },
+    "2c1272353ae3dabb": {
+      "date": "2026-11-28",
+      "title": "Writing Is Really Fun, But My Luck Had Other Plans 🐿",
+      "source": "devto"
+    },
+    "ec6ed36cf2f8e74a": {
+      "date": "2026-11-28",
+      "title": "Thinking on Constrained Deployments: Gemma E4B on 4GB 1650",
+      "source": "devto"
+    },
+    "4c9e974af5f3ecb5": {
+      "date": "2026-11-28",
+      "title": "Zero Repeat Regressions: The Golden Metric & The Future of Agentic Trust",
+      "source": "devto"
+    },
+    "1714ab92815cef78": {
+      "date": "2026-11-28",
+      "title": "The Best Café in Town Turns People Away. Your System Should Too",
+      "source": "devto"
+    },
+    "21dfc4d5206b2484": {
+      "date": "2026-11-28",
+      "title": "Porting an ADK Research and Judge Loop to Strands on Bedrock AgentCore, With A2A 1.x",
+      "source": "devto"
+    },
+    "7df969fc7a652b5d": {
+      "date": "2026-11-28",
+      "title": "Introducing a Website That Absolutely Nobody Asked For",
+      "source": "devto"
+    },
+    "fc7da58c6bf823b7": {
+      "date": "2026-11-28",
+      "title": "Chasing down why Ansible stalled on a fresh Ubuntu 26.04 box",
+      "source": "devto"
+    },
+    "f44fded8b37c9417": {
+      "date": "2026-11-28",
+      "title": "How to Add Crash Reporting and Session Replay to a React Native App",
       "source": "devto"
     }
   }
